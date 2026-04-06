@@ -12,8 +12,18 @@ import { createChatCompletion, createChatCompletionStream } from "../services/op
 import { buildMessages, getPresetParameters } from "../prompt_engine/builder.js";
 import { getRewriteFromCache, setRewriteInCache } from "../cache/rewriteCache.js";
 import { validateAndEnhance, cleanSlop } from "./qualityValidator.js";
-import { getPlatformForPreset, getBonusCardData } from "../viral/store.js";
-import { matchEvidence } from "../viral/evidenceMatcher.js";
+// Safe viral imports
+let getPlatformForPreset2 = () => null;
+let getBonusCardData = () => null;
+let matchEvidence2 = () => ({ evidence: [], trend_summary: null });
+try {
+  const store = await import("../viral/store.js");
+  const matcher = await import("../viral/evidenceMatcher.js");
+  getPlatformForPreset2 = store.getPlatformForPreset;
+  getBonusCardData = store.getBonusCardData;
+  matchEvidence2 = matcher.matchEvidence;
+} catch(e) { console.warn("Viral imports not available:", e.message); }
+
 
 // ============================================================
 // POST /api/rewrite/batch
@@ -83,14 +93,14 @@ export async function batchRewrite(req, res, next) {
     const duration = Date.now() - start;
 
     // 7) Build viral bonus cards + evidence if platform preset
-    const platform = getPlatformForPreset(presetId);
+    const platform = getPlatformForPreset2(presetId);
     let bonus = null;
     let evidence = [];
     let trend_summary = null;
 
     if (platform) {
       bonus = getBonusCardData(platform);
-      const matched = matchEvidence(platform, finalOutput, text, 3);
+      const matched = matchEvidence2(platform, finalOutput, text, 3);
       evidence = matched.evidence;
       trend_summary = matched.trend_summary;
     }
