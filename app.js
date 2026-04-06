@@ -15,7 +15,8 @@ import dailyRoutes from "./routes/daily.js";
 import viralRoutes from "./routes/viral.js";
 
 // Import text transformation controller
-import { transformText, translateText, getActions } from "./controllers/textTransformationController.js";
+import textTransformationController from "./controllers/textTransformationController.js";
+const { transformText, translateText, getActions } = textTransformationController;
 
 import { AppError, globalErrorHandler } from "./utils/errors.js";
 
