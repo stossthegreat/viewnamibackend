@@ -500,4 +500,4 @@ export default {
   cleanSlop,
   QUALITY_RULES,
   PRESET_CATEGORY_MAP,
-}add them so i can see . 2- bro on outcome
+};
