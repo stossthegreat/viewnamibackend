@@ -25,7 +25,7 @@ const __dirname = path.dirname(__filename);
 const DATA_DIR = path.join(__dirname, "data");
 
 const APIFY_BASE = "https://api.apify.com/v2";
-const POSTS_PER_SCRAPE = 100;
+const POSTS_PER_SCRAPE = 50;
 
 // ============================================================
 // THE MASTER PLAN — every niche, every platform, exact hashtags
