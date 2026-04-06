@@ -5,9 +5,9 @@ import cors from "cors";
 import compression from "compression";
 import helmet from "helmet";
 import rateLimit from "express-rate-limit";
-import { createRequire } from "module";
 
-const require = createRequire(import.meta.url);
+
+
 
 import rewriteRoutes from "./routes/rewrite.js";
 import transcribeRoutes from "./routes/transcribe.js";
@@ -17,8 +17,8 @@ import chatRoutes from "./routes/chat.js";
 import dailyRoutes from "./routes/daily.js";
 import viralRoutes from "./routes/viral.js";
 
-// CJS module — use require
-const { transformText, translateText, getActions } = require("./controllers/textTransformationController.js");
+
+
 
 import { AppError, globalErrorHandler } from "./utils/errors.js";
 
@@ -60,9 +60,18 @@ app.use("/api/chat", chatRoutes);
 app.use("/api/daily", dailyRoutes);
 app.use("/api/viral", viralRoutes);
 
-app.post("/api/transform-text", transformText);
-app.post("/api/translate-text", translateText);
-app.get("/api/ai-actions", getActions);
+// Text transform routes (dynamic import for CJS compat)
+try {
+  const ttc = await import("./controllers/textTransformationController.js");
+  app.post("/api/transform-text", ttc.transformText);
+  app.post("/api/translate-text", ttc.translateText);
+  app.get("/api/ai-actions", ttc.getActions);
+  console.log("✅ Text transform routes loaded");
+} catch (err) {
+  console.warn("⚠️ Text transform routes not available:", err.message);
+}
+
+
 
 if (extractRoutes) {
   app.use("/api/extract", extractRoutes);
