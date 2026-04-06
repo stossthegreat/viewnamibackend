@@ -5,15 +5,27 @@ import Redis from "ioredis";
 let redisClient = null;
 
 export async function initRedis() {
-  try {
-    redisClient = new Redis(process.env.REDIS_URL);
+  // Skip Redis if no URL configured — app works fine without caching
+  if (!process.env.REDIS_URL) {
+    console.log("⚠️ No REDIS_URL set — running without cache (this is fine)");
+    return;
+  }
 
-    redisClient.on("connect", () => console.log("🔗 Redis connected"));
+  try {
+    redisClient = new Redis(process.env.REDIS_URL, {
+      maxRetriesPerRequest: 1,
+      connectTimeout: 5000,
+      lazyConnect: true,
+    });
+
+    await redisClient.connect();
+    console.log("🔗 Redis connected");
+
     redisClient.on("error", (err) =>
       console.error("❌ Redis error:", err.message)
     );
   } catch (err) {
-    console.error("Redis init failed:", err);
+    console.error("Redis init failed (continuing without cache):", err.message);
     redisClient = null;
   }
 }
