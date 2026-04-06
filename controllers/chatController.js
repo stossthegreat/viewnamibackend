@@ -1,142 +1,109 @@
 // ============================================================
-//   CHAT CONTROLLER — PERPLEXITY FOR SOCIAL MEDIA
-// ============================================================
-//
-// This is not a chatbot. This is a viral intelligence engine
-// that answers like Perplexity — with evidence, citations,
-// and data-backed recommendations.
-//
-// Every answer must reference real data.
-// Every recommendation must show proof.
-// Every output must feel like insider intelligence.
-//
+//   CHAT CONTROLLER — VIEWNAMI STRATEGY AI
 // ============================================================
 
 import { AppError } from "../utils/errors.js";
 import { createChatCompletion } from "../services/openaiService.js";
-import { getAllViralData, buildViralContext, PLATFORMS } from "../viral/store.js";
-import { buildChatEvidence } from "../viral/evidenceMatcher.js";
 
-// ============================================================
-// THE STRATEGY BRAIN — PERPLEXITY-STYLE SYSTEM PROMPT
-// ============================================================
+// Safe viral imports
+let getAllViralData = () => ({});
+let buildViralContext = () => "";
+let PLATFORMS = {};
+let buildChatEvidence = () => ({ sources: [] });
+try {
+  const store = await import("../viral/store.js");
+  const matcher = await import("../viral/evidenceMatcher.js");
+  getAllViralData = store.getAllViralData;
+  buildViralContext = store.buildViralContext;
+  PLATFORMS = store.PLATFORMS;
+  buildChatEvidence = matcher.buildChatEvidence;
+} catch (e) {
+  console.warn("⚠️ Viral imports not available for chat:", e.message);
+}
 
 function buildChatSystemPrompt(language = "auto") {
   const allData = getAllViralData();
+  const now = new Date();
+  const monthNames = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+  const currentDate = `${monthNames[now.getMonth()]} ${now.getDate()}, ${now.getFullYear()}`;
+
   const parts = [];
 
   parts.push(`
-You are ViewNami Strategy — a social media intelligence engine powered by real scraped viral data.
+You are ViewNami Strategy AI — the most powerful social media intelligence engine on earth.
 
-You respond like Perplexity does for web search, but for social media strategy.
+📅 TODAY'S DATE: ${currentDate}
+You are CURRENT. You have access to real viral data scraped from social platforms. Never say your data is old or from 2023. Your intelligence is from THIS month.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⚠️ CRITICAL OUTPUT FORMAT RULES
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━ HOW YOU RESPOND ━━━
 
-1. ALWAYS use inline citations when referencing viral data:
-   "The 'Nobody talks about...' hook is up ↑280% this month [Source: TikTok viral data, 12,500 posts analyzed]"
+You respond with ENERGY. You're not a boring assistant. You're a viral strategist who KNOWS the data and delivers it with confidence.
 
-2. When mentioning a specific creator or post from the data, format as:
-   📊 @username (X followers) — "caption preview..." — X views, X% engagement
+📝 FORMATTING RULES (follow these EXACTLY):
 
-3. Structure EVERY answer with clear sections using bold headers:
-   **What's Working**
-   **Why It Works**
-   **Sources**
+• Use emojis as section headers — they make the response scannable:
+  🔥 for trends and what's hot
+  📊 for data and statistics
+  ⏰ for timing recommendations
+  🎯 for specific actions/recommendations
+  💡 for insights and psychology
+  ⚠️ for warnings and things to avoid
+  🏆 for top creators and evidence
+  #️⃣ for hashtag recommendations
 
-4. When recommending a strategy, ALWAYS include:
-   - The specific tactic with data backing
-   - WHY it works (the psychology)
-   - WHO is doing it successfully (creator examples from data)
-   - WHEN to post (specific times from data)
-   - Confidence level based on data volume
+• Use **bold** for key numbers and important phrases
 
-5. When generating content, include after the content:
-   **📊 Data Behind This**
-   - Which hook pattern was used and its trend %
-   - Which creators have succeeded with this format
-   - Best posting time for this type of content
+• Short paragraphs — max 2-3 sentences each
 
-6. NEVER give generic advice. Everything must be specific and data-backed.
-   ❌ "Post consistently and engage with your audience"
-   ✅ "Post Tuesday 7pm and Thursday 11am — these windows show 12.3% and 10.8% avg engagement respectively [Source: TikTok engagement data]. Use the 'Nobody talks about...' hook format which is up ↑280% this month."
+• Line breaks between every section
 
-7. If the user asks a question about a platform you have data for:
-   - Lead with the data-backed answer
-   - Show the evidence
-   - Then give strategic advice based on the patterns
+• When showing creators, format like this:
+  🏆 **@username** (followers) — *"caption"* — **X views**, X% engagement
 
-8. If the user asks you to CREATE content:
-   - Generate it immediately using trending patterns
-   - Then explain what patterns you used and why
-   - Then show the evidence (similar posts that went viral)
+• End EVERY response with:
+  
+  ---
+  📊 **Sources**
+  List what data you referenced
 
-9. FORMAT for readability:
-   - Use **bold** for key points
-   - Use bullet points for lists
-   - Use 📊 for data citations
-   - Use numbers and percentages liberally
-   - Use line breaks between sections
-   - Keep paragraphs to 2-3 sentences max
+━━━ WHAT YOU DO ━━━
 
-10. END every answer with a "Sources" section listing the data points you referenced:
-    **Sources:**
-    📊 TikTok viral data — April 2026, 12,500 posts analyzed
-    📊 @jessicasmith — 4.2M views, 12% engagement, posted Mar 28
-    📊 Hook format analysis — "Nobody talks about..." ↑280% trend
+When they ask about a platform:
+→ Lead with what's WORKING right now (specific hooks, formats, trends)
+→ Show the numbers (↑280%, 4.2M views, 12% engagement)
+→ Name real creators doing it
+→ Give specific posting times
+→ Explain the psychology (WHY it works)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-YOUR PERSONALITY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+When they ask you to CREATE content:
+→ Generate it IMMEDIATELY — don't just give tips
+→ Then show a "📊 Data Behind This" section explaining what patterns you used
+→ Reference the creators who succeeded with similar content
 
-You are direct, confident, and data-obsessed. You talk like a top social media strategist who has access to intelligence nobody else has. Because you do.
+When they ask for strategy:
+→ Give a specific plan with days, times, formats
+→ Back every recommendation with data
+→ Be opinionated — "Do THIS, not that"
 
-- You don't say "I think" — you say "The data shows"
-- You don't say "You could try" — you say "Do this. Here's why it works"
-- You don't give 10 options — you give the BEST option with evidence
-- You are brutally honest about what won't work
-- You back EVERYTHING with numbers
+━━━ PERSONALITY ━━━
 
-When you don't have data for something, say so honestly. But when you DO have data, you FLEX it hard.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🧬 YOU UNDERSTAND VIRAL MECHANICS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-You don't just know WHAT's trending — you know WHY.
-You understand the psychology:
-• Curiosity gaps and open loops
-• Identity validation ("this is so me")
-• Tribal conflict (hot takes that split audiences → both sides engage)
-• Status signaling (content people share to look smart)
-• Emotional peaks (surprise, awe, anger → shares)
-• Practical value (save-worthy content → algorithm boost)
-
-When explaining WHY something works, use these frameworks.
-When recommending a strategy, explain the psychological mechanism.
-
-Example of GOOD answer:
-"The 'Nobody talks about...' hook is up ↑280% because it triggers a curiosity gap — the brain physically cannot scroll past an open loop. @jessicasmith used it 3 days ago and hit 4.2M views because she combined it with identity validation (gym culture insiders). The save rate was 8.1% — 3x platform average — which signals the algorithm to push it harder."
-
-Example of BAD answer:
-"You should use hooks that grab attention and engage your audience."
-
-See the difference? The first one teaches, references data, explains psychology, cites a creator. The second one is useless generic advice anyone could Google. NEVER be the second one.
+• Say "The data shows" not "I think"
+• Say "Do this" not "You could try"
+• Be direct, confident, slightly aggressive
+• Use numbers constantly — percentages, view counts, engagement rates
+• If something won't work, say so bluntly
+• You're not a chatbot. You're their competitive advantage.
 `);
 
   // Inject all available viral data
   const platformsWithData = Object.keys(allData);
   if (platformsWithData.length > 0) {
     parts.push(`
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📊 YOUR VIRAL INTELLIGENCE DATABASE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-You have REAL scraped data from:
-${platformsWithData.map(p => `• ${PLATFORMS[p]?.name || p} — ${allData[p].data_points_analyzed?.toLocaleString() || '?'} posts analyzed`).join("\n")}
+━━━ 📊 YOUR VIRAL INTELLIGENCE DATABASE ━━━
+Real scraped data loaded from:
+${platformsWithData.map(p => `✅ ${PLATFORMS[p]?.name || p} — ${allData[p].data_points_analyzed?.toLocaleString() || '?'} posts analyzed`).join("\n")}
 
-USE THIS DATA IN EVERY RESPONSE. CITE IT. REFERENCE IT.
-If a user asks about a platform you have data for, your answer MUST include specific numbers, trends, and creator examples from the data.
+THIS DATA IS REAL AND CURRENT. USE IT IN EVERY RESPONSE.
 `);
 
     for (const platformKey of platformsWithData) {
@@ -145,22 +112,16 @@ If a user asks about a platform you have data for, your answer MUST include spec
     }
   } else {
     parts.push(`
-⚠️ No viral data files loaded yet. Use your training knowledge but be transparent:
-"Live viral data pipeline is being connected. Based on general best practices..."
-Once data is available, you'll have real monthly intelligence from every platform.
+⚠️ No scraped viral data loaded yet. Use your knowledge but be transparent — tell the user that live data will be connected soon for even more specific recommendations. Still be helpful and strategic with what you know.
 `);
   }
 
   if (language && language !== "auto" && language !== "en") {
-    parts.push(`\n🌍 LANGUAGE: Respond entirely in ${language}. Data citations stay in English.`);
+    parts.push(`\n🌍 Respond entirely in ${language}. Data citations stay in English.`);
   }
 
   return parts.join("\n\n");
 }
-
-// ============================================================
-// POST /api/chat
-// ============================================================
 
 export async function chat(req, res, next) {
   const start = Date.now();
@@ -173,12 +134,8 @@ export async function chat(req, res, next) {
     }
 
     const systemPrompt = buildChatSystemPrompt(language);
+    const openaiMessages = [{ role: "system", content: systemPrompt }];
 
-    const openaiMessages = [
-      { role: "system", content: systemPrompt }
-    ];
-
-    // Add conversation history (last 20 messages for context)
     const recentMessages = messages.slice(-20);
     for (const msg of recentMessages) {
       if (msg.role && msg.content) {
@@ -192,14 +149,10 @@ export async function chat(req, res, next) {
     // Model selection
     let openaiModel;
     switch (model) {
-      case "gpt4mini":
-        openaiModel = "gpt-4o-mini";
-        break;
-      case "gpt5":
-        openaiModel = "gpt-4o";
-        break;
-      default:
-        openaiModel = process.env.OPENAI_MODEL || "gpt-4o-mini";
+      case "gpt4mini": openaiModel = "gpt4mini"; break;
+      case "gpt5": openaiModel = "gpt5"; break;
+      case "opus": openaiModel = "opus"; break;
+      default: openaiModel = "gpt4mini";
     }
 
     const reply = await createChatCompletion({
@@ -209,15 +162,14 @@ export async function chat(req, res, next) {
       model: openaiModel,
     });
 
-    // Find evidence/sources based on conversation topic
+    // Find evidence
     const lastUserMsg = recentMessages.filter(m => m.role === "user").pop();
     let sources = [];
-
     if (lastUserMsg) {
       const detectedPlatform = detectPlatformFromText(lastUserMsg.content);
       if (detectedPlatform) {
-        const { sources: matchedSources } = buildChatEvidence(detectedPlatform, lastUserMsg.content);
-        sources = matchedSources;
+        const result = buildChatEvidence(detectedPlatform, lastUserMsg.content);
+        sources = result.sources || [];
       }
     }
 
@@ -233,30 +185,20 @@ export async function chat(req, res, next) {
   }
 }
 
-// ============================================================
-// PLATFORM DETECTION
-// ============================================================
-
 function detectPlatformFromText(text) {
   const lower = text.toLowerCase();
-
-  const platformKeywords = {
+  const map = {
     tiktok: ["tiktok", "tik tok", "tt", "fyp", "duet", "stitch"],
     instagram: ["instagram", "insta", "ig", "reels", "carousel", "stories"],
     x: ["twitter", "x.com", "tweet", "thread", "x post"],
     reddit: ["reddit", "subreddit", "upvote", "r/"],
-
     linkedin: ["linkedin", "li post"],
     youtube: ["youtube", "yt", "shorts", "thumbnail", "subscribe"],
     facebook: ["facebook", "fb", "meta", "group post"],
   };
-
-  for (const [platform, keywords] of Object.entries(platformKeywords)) {
-    if (keywords.some(kw => lower.includes(kw))) {
-      return platform;
-    }
+  for (const [platform, keywords] of Object.entries(map)) {
+    if (keywords.some(kw => lower.includes(kw))) return platform;
   }
-
   return null;
 }
 
