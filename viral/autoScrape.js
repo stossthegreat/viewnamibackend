@@ -21,22 +21,22 @@ const SCRAPE_PLAN = [
   // FITNESS
   { niche: "fitness", platform: "tiktok", actor: "clockworks/tiktok-scraper", input: { hashtags: ["gymtok"], resultsPerPage: MAX_POSTS, shouldDownloadVideos: false, shouldDownloadCovers: false } },
   { niche: "fitness", platform: "instagram", actor: "apify/instagram-hashtag-scraper", input: { hashtags: ["fitness"], resultsLimit: MAX_POSTS } },
-  { niche: "fitness", platform: "youtube", actor: "bernardo/youtube-scraper", input: { searchKeywords: ["fitness shorts"], maxResults: MAX_POSTS } },
+  { niche: "fitness", platform: "youtube", actor: "streamers/youtube-scraper", input: { searchKeywords: ["fitness shorts"], maxResults: MAX_POSTS } },
 
   // BUSINESS
   { niche: "business", platform: "tiktok", actor: "clockworks/tiktok-scraper", input: { hashtags: ["entrepreneur"], resultsPerPage: MAX_POSTS, shouldDownloadVideos: false, shouldDownloadCovers: false } },
   { niche: "business", platform: "x", actor: "apidojo/tweet-scraper", input: { searchTerms: ['"entrepreneur" min_faves:500'], maxTweets: MAX_POSTS, sort: "Top" } },
-  { niche: "business", platform: "linkedin", actor: "supreme_coder/linkedin-post", input: { searchTerms: ["startup lesson"], maxResults: MAX_POSTS } },
+  { niche: "business", platform: "linkedin", actor: "harvestapi/linkedin-post-search", input: { searchTerms: ["startup lesson"], maxResults: MAX_POSTS } },
 
   // FOOD
   { niche: "food", platform: "tiktok", actor: "clockworks/tiktok-scraper", input: { hashtags: ["foodtok"], resultsPerPage: MAX_POSTS, shouldDownloadVideos: false, shouldDownloadCovers: false } },
   { niche: "food", platform: "instagram", actor: "apify/instagram-hashtag-scraper", input: { hashtags: ["recipe"], resultsLimit: MAX_POSTS } },
-  { niche: "food", platform: "youtube", actor: "bernardo/youtube-scraper", input: { searchKeywords: ["cooking recipe shorts"], maxResults: MAX_POSTS } },
+  { niche: "food", platform: "youtube", actor: "streamers/youtube-scraper", input: { searchKeywords: ["cooking recipe shorts"], maxResults: MAX_POSTS } },
 
   // BEAUTY
   { niche: "beauty", platform: "tiktok", actor: "clockworks/tiktok-scraper", input: { hashtags: ["beautytok"], resultsPerPage: MAX_POSTS, shouldDownloadVideos: false, shouldDownloadCovers: false } },
   { niche: "beauty", platform: "instagram", actor: "apify/instagram-hashtag-scraper", input: { hashtags: ["skincare"], resultsLimit: MAX_POSTS } },
-  { niche: "beauty", platform: "youtube", actor: "bernardo/youtube-scraper", input: { searchKeywords: ["skincare routine shorts"], maxResults: MAX_POSTS } },
+  { niche: "beauty", platform: "youtube", actor: "streamers/youtube-scraper", input: { searchKeywords: ["skincare routine shorts"], maxResults: MAX_POSTS } },
 
   // TECH
   { niche: "tech", platform: "tiktok", actor: "clockworks/tiktok-scraper", input: { hashtags: ["techtok"], resultsPerPage: MAX_POSTS, shouldDownloadVideos: false, shouldDownloadCovers: false } },
@@ -51,22 +51,22 @@ const SCRAPE_PLAN = [
   // COMEDY
   { niche: "comedy", platform: "tiktok", actor: "clockworks/tiktok-scraper", input: { hashtags: ["comedy"], resultsPerPage: MAX_POSTS, shouldDownloadVideos: false, shouldDownloadCovers: false } },
   { niche: "comedy", platform: "instagram", actor: "apify/instagram-hashtag-scraper", input: { hashtags: ["funny"], resultsLimit: MAX_POSTS } },
-  { niche: "comedy", platform: "youtube", actor: "bernardo/youtube-scraper", input: { searchKeywords: ["funny viral shorts"], maxResults: MAX_POSTS } },
+  { niche: "comedy", platform: "youtube", actor: "streamers/youtube-scraper", input: { searchKeywords: ["funny viral shorts"], maxResults: MAX_POSTS } },
 
   // MOTIVATION
   { niche: "motivation", platform: "tiktok", actor: "clockworks/tiktok-scraper", input: { hashtags: ["motivation"], resultsPerPage: MAX_POSTS, shouldDownloadVideos: false, shouldDownloadCovers: false } },
   { niche: "motivation", platform: "instagram", actor: "apify/instagram-hashtag-scraper", input: { hashtags: ["selfimprovement"], resultsLimit: MAX_POSTS } },
-  { niche: "motivation", platform: "linkedin", actor: "supreme_coder/linkedin-post", input: { searchTerms: ["mindset productivity"], maxResults: MAX_POSTS } },
+  { niche: "motivation", platform: "linkedin", actor: "harvestapi/linkedin-post-search", input: { searchTerms: ["mindset productivity"], maxResults: MAX_POSTS } },
 
   // FASHION
   { niche: "fashion", platform: "tiktok", actor: "clockworks/tiktok-scraper", input: { hashtags: ["fashion"], resultsPerPage: MAX_POSTS, shouldDownloadVideos: false, shouldDownloadCovers: false } },
   { niche: "fashion", platform: "instagram", actor: "apify/instagram-hashtag-scraper", input: { hashtags: ["ootd"], resultsLimit: MAX_POSTS } },
-  { niche: "fashion", platform: "youtube", actor: "bernardo/youtube-scraper", input: { searchKeywords: ["fashion haul shorts"], maxResults: MAX_POSTS } },
+  { niche: "fashion", platform: "youtube", actor: "streamers/youtube-scraper", input: { searchKeywords: ["fashion haul shorts"], maxResults: MAX_POSTS } },
 
   // TRAVEL
   { niche: "travel", platform: "tiktok", actor: "clockworks/tiktok-scraper", input: { hashtags: ["traveltok"], resultsPerPage: MAX_POSTS, shouldDownloadVideos: false, shouldDownloadCovers: false } },
   { niche: "travel", platform: "instagram", actor: "apify/instagram-hashtag-scraper", input: { hashtags: ["travel"], resultsLimit: MAX_POSTS } },
-  { niche: "travel", platform: "youtube", actor: "bernardo/youtube-scraper", input: { searchKeywords: ["travel vlog shorts"], maxResults: MAX_POSTS } },
+  { niche: "travel", platform: "youtube", actor: "streamers/youtube-scraper", input: { searchKeywords: ["travel vlog shorts"], maxResults: MAX_POSTS } },
 ];
 
 // Universal normalizer
