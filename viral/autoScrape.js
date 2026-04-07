@@ -238,7 +238,7 @@ async function runActor(actorId, input, token) {
     console.log(`   🚀 ${actorId}...`);
 
     const runResponse = await axios.post(
-      `${APIFY_BASE}/acts/${actorId}/runs`,
+      `${APIFY_BASE}/acts/${actorId.replace('/', '~')}/runs`,
       input,
       {
         headers: { Authorization: `Bearer ${token}` },
@@ -258,7 +258,7 @@ async function runActor(actorId, input, token) {
       for (let i = 0; i < 30; i++) {
         await new Promise(r => setTimeout(r, 10000));
         const check = await axios.get(
-          `${APIFY_BASE}/acts/${actorId}/runs/${run.id}`,
+          `${APIFY_BASE}/acts/${actorId.replace('/', '~')}/runs/${run.id}`,
           { headers: { Authorization: `Bearer ${token}` } }
         );
         status = check.data?.data?.status;
