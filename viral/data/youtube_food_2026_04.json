@@ -4,124 +4,75 @@
   "month": "April",
   "year": 2026,
   "niche": "food",
-  "generated_at": "2026-04-07T03:22:35.480859",
-  "data_points_analyzed": 60,
-  "viral_posts_found": 60,
+  "generated_at": "2026-04-07T03:51:58.719926",
+  "data_points_analyzed": 30,
+  "viral_posts_found": 30,
   "hooks": [],
   "best_times": [
     {
       "day": "Friday",
       "time": "Peak",
-      "engagement_avg": 2.5,
-      "sample_size": 12
-    },
-    {
-      "day": "Monday",
-      "time": "Peak",
-      "engagement_avg": 2.3,
-      "sample_size": 9
-    },
-    {
-      "day": "Wednesday",
-      "time": "Peak",
-      "engagement_avg": 2.3,
+      "engagement_avg": 3.1,
       "sample_size": 6
-    },
-    {
-      "day": "Thursday",
-      "time": "Peak",
-      "engagement_avg": 2.1,
-      "sample_size": 10
     },
     {
       "day": "Sunday",
       "time": "Peak",
-      "engagement_avg": 2.1,
+      "engagement_avg": 2.7,
+      "sample_size": 4
+    },
+    {
+      "day": "Thursday",
+      "time": "Peak",
+      "engagement_avg": 2.6,
       "sample_size": 8
+    },
+    {
+      "day": "Wednesday",
+      "time": "Peak",
+      "engagement_avg": 2.2,
+      "sample_size": 3
     },
     {
       "day": "Saturday",
       "time": "Peak",
-      "engagement_avg": 1.5,
-      "sample_size": 9
+      "engagement_avg": 1.3,
+      "sample_size": 3
     },
     {
       "day": "Tuesday",
       "time": "Peak",
-      "engagement_avg": 0.8,
-      "sample_size": 6
+      "engagement_avg": 1.1,
+      "sample_size": 4
     }
   ],
   "hashtags": [
     {
       "tag": "#shorts",
       "usage_count": 5,
-      "avg_views": 40386274,
-      "growth_pct": 83
-    },
-    {
-      "tag": "#elevenlabs",
-      "usage_count": 2,
-      "avg_views": 2194970,
-      "growth_pct": 33
-    },
-    {
-      "tag": "#leonardoai",
-      "usage_count": 2,
-      "avg_views": 2194970,
-      "growth_pct": 33
-    },
-    {
-      "tag": "#passiveincome",
-      "usage_count": 2,
-      "avg_views": 2194970,
-      "growth_pct": 33
+      "avg_views": 40386274
     }
   ],
   "formats": [
     {
       "name": "Educational / tips",
-      "trend_pct": 250,
-      "avg_engagement": 2.3,
-      "post_count": 12
-    },
-    {
-      "name": "Challenge / trend",
-      "trend_pct": 100,
-      "avg_engagement": 0.2,
-      "post_count": 3
+      "avg_engagement": 1.3,
+      "post_count": 4
     },
     {
       "name": "Question / engagement",
-      "trend_pct": 66,
       "avg_engagement": 0.0,
       "post_count": 1
+    },
+    {
+      "name": "Challenge / trend",
+      "avg_engagement": 0.0,
+      "post_count": 2
     }
   ],
   "trending_sounds": [],
-  "insights": "Educational / tips content leads with 2.3% avg engagement across 12 posts. Average engagement: 2.0%. Top performer: 8.32%. Total viral posts analyzed: 60.",
+  "insights": "Educational / tips content leads with 1.3% avg engagement. Avg engagement: 2.4%. Top: 5.96%. 30 posts analyzed.",
   "top_posts": [
-    {
-      "author": "@Anik Singal",
-      "followers": 0,
-      "caption": "FREE Courses from LURN == https://www.Lurn.com/getfreecourses\n============================================\n\nHow To Use AI To Make Faceless Videos In Less Than 5 Minutes\n\n==============================",
-      "views": 1184368,
-      "likes": 98000,
-      "comments": 545,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 8.32,
-      "hashtags": [
-        "#AnikSingal",
-        "#Lurn",
-        "#LurnNation"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2023-03-13",
-      "url": "https://www.youtube.com/shorts/O43etudFDBc",
-      "hook_format": "other"
-    },
     {
       "author": "@Cooking with Kian",
       "followers": 0,
@@ -136,8 +87,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2023-06-08",
-      "url": "https://www.youtube.com/shorts/iuxERgFH_H8",
-      "hook_format": "other"
+      "url": "https://www.youtube.com/shorts/iuxERgFH_H8"
     },
     {
       "author": "@Taste & Trade",
@@ -153,8 +103,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2024-06-26",
-      "url": "https://www.youtube.com/shorts/B7KMM09c8Ow",
-      "hook_format": "other"
+      "url": "https://www.youtube.com/shorts/B7KMM09c8Ow"
     },
     {
       "author": "@Zach Choi",
@@ -170,8 +119,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2023-01-20",
-      "url": "https://www.youtube.com/shorts/wLL8H_h_nvs",
-      "hook_format": "other"
+      "url": "https://www.youtube.com/shorts/wLL8H_h_nvs"
     },
     {
       "author": "@Zach Choi",
@@ -187,8 +135,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2023-10-30",
-      "url": "https://www.youtube.com/shorts/zPxQjuFoUBc",
-      "hook_format": "other"
+      "url": "https://www.youtube.com/shorts/zPxQjuFoUBc"
     },
     {
       "author": "@KarissaEats",
@@ -204,8 +151,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2023-11-03",
-      "url": "https://www.youtube.com/shorts/VoaXkzJVtIo",
-      "hook_format": "other"
+      "url": "https://www.youtube.com/shorts/VoaXkzJVtIo"
     },
     {
       "author": "@albert_cancook",
@@ -221,8 +167,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2023-12-21",
-      "url": "https://www.youtube.com/shorts/1l7QG5IZtgY",
-      "hook_format": "other"
+      "url": "https://www.youtube.com/shorts/1l7QG5IZtgY"
     },
     {
       "author": "@Crispy Hut",
@@ -238,8 +183,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2025-01-12",
-      "url": "https://www.youtube.com/shorts/qgwHxIXuyvQ",
-      "hook_format": "other"
+      "url": "https://www.youtube.com/shorts/qgwHxIXuyvQ"
     },
     {
       "author": "@albert_cancook",
@@ -255,8 +199,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2024-10-31",
-      "url": "https://www.youtube.com/shorts/lj1o8gqCKmQ",
-      "hook_format": "other"
+      "url": "https://www.youtube.com/shorts/lj1o8gqCKmQ"
     },
     {
       "author": "@Two Plaid Aprons",
@@ -276,63 +219,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2023-08-17",
-      "url": "https://www.youtube.com/shorts/otO593Iyelo",
-      "hook_format": "other"
-    },
-    {
-      "author": "@Charlie Barber",
-      "followers": 0,
-      "caption": "How to automate posting YouTube shorts and Instagram reels using Canva & ChatGPT for free.\n\nIf you found it valuable please like and subscribe\ud83e\udd42",
-      "views": 283334,
-      "likes": 11000,
-      "comments": 97,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 3.92,
-      "hashtags": [],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2024-07-05",
-      "url": "https://www.youtube.com/shorts/D_6JGPSDjoU",
-      "hook_format": "other"
-    },
-    {
-      "author": "@GREAT WITH AI",
-      "followers": 0,
-      "caption": "Learn how to create MONETIZABLE faceless YouTube story shorts using these powerful AI tools:\n\n- ChatGPT: Revolutionary text-to-speech technology\n- Leonardo AI: Stunning AI-generated visuals\n- ElevenLa",
-      "views": 2571744,
-      "likes": 96000,
-      "comments": 1765,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 3.8,
-      "hashtags": [
-        "#ElevenLabs",
-        "#LeonardoAI",
-        "#PassiveIncome"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2024-09-23",
-      "url": "https://www.youtube.com/shorts/wLg8fkQ0wGg",
-      "hook_format": "other"
-    },
-    {
-      "author": "@Alberta Tech",
-      "followers": 0,
-      "caption": "You're already watching AI influencers",
-      "views": 1284706,
-      "likes": 46000,
-      "comments": 659,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 3.63,
-      "hashtags": [],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2025-07-25",
-      "url": "https://www.youtube.com/shorts/mFcnxm8P0iM",
-      "hook_format": "other"
+      "url": "https://www.youtube.com/shorts/otO593Iyelo"
     },
     {
       "author": "@butterhand",
@@ -348,8 +235,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2024-02-25",
-      "url": "https://www.youtube.com/shorts/LV3mChwupF8",
-      "hook_format": "other"
+      "url": "https://www.youtube.com/shorts/LV3mChwupF8"
     },
     {
       "author": "@Meatlicious",
@@ -365,8 +251,75 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2025-06-20",
-      "url": "https://www.youtube.com/shorts/DBmq18buMIo",
-      "hook_format": "other"
+      "url": "https://www.youtube.com/shorts/DBmq18buMIo"
+    },
+    {
+      "author": "@Natural Life TV",
+      "followers": 0,
+      "caption": "Pork crispy with orang cook recipe #shortvideo #shorts #cooking #food #recipe",
+      "views": 33691585,
+      "likes": 1000000,
+      "comments": 7073,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.99,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2024-09-23",
+      "url": "https://www.youtube.com/shorts/0g8BcjZdW78"
+    },
+    {
+      "author": "@Trendy Chef",
+      "followers": 0,
+      "caption": "The Last 10 Seconds Of a Cooking Show! First Ever Alfredo Chicken & Waffles \ud83d\ude2d #shorts #viral #fyp",
+      "views": 27779140,
+      "likes": 708000,
+      "comments": 1324,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.55,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2025-06-20",
+      "url": "https://www.youtube.com/shorts/7NYTUbNzKek"
+    },
+    {
+      "author": "@The Everyday Recipe",
+      "followers": 0,
+      "caption": "How to crispy potatoes recipe #shorts #shortvideo #cooking #food #recipe",
+      "views": 4059618,
+      "likes": 91000,
+      "comments": 705,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.26,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2025-08-07",
+      "url": "https://www.youtube.com/shorts/W4_pKugq8dM"
+    },
+    {
+      "author": "@Nick DiGiovanni",
+      "followers": 0,
+      "caption": "#food #vietnam #shorts",
+      "views": 80543384,
+      "likes": 1600000,
+      "comments": 11371,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.0,
+      "hashtags": [
+        "#vietnam",
+        "#shorts",
+        "#food"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2025-07-27",
+      "url": "https://www.youtube.com/shorts/5oI-qMCZ5dM"
     }
   ]
 }

@@ -4,286 +4,263 @@
   "month": "April",
   "year": 2026,
   "niche": "beauty",
-  "generated_at": "2026-04-07T03:22:24.522865",
-  "data_points_analyzed": 500,
-  "viral_posts_found": 498,
+  "generated_at": "2026-04-07T03:51:43.312794",
+  "data_points_analyzed": 750,
+  "viral_posts_found": 746,
   "hooks": [
     {
-      "pattern": "This is your sign to...",
+      "pattern": "POV: you just...",
       "example_count": 1,
-      "trend_pct": 54,
-      "example": "this is your sign to do your makeup based on your name \ud83d\udc40 + this might be the best I\u2019ve EVER looked \ud83d\ude29"
+      "trend_pct": 52,
+      "example": "pov: you\u2019re a girl who really uses her makeup \ud83d\udc85\ud83c\udffc #girlythings #beautytok #makeup #makeupfavorites #girlygirl"
     }
   ],
   "best_times": [
     {
       "day": "Monday",
       "time": "Peak",
-      "engagement_avg": 13.5,
-      "sample_size": 150
-    },
-    {
-      "day": "Tuesday",
-      "time": "Peak",
-      "engagement_avg": 11.7,
-      "sample_size": 51
+      "engagement_avg": 13.3,
+      "sample_size": 223
     },
     {
       "day": "Saturday",
       "time": "Peak",
-      "engagement_avg": 11.7,
-      "sample_size": 62
+      "engagement_avg": 12.0,
+      "sample_size": 99
     },
     {
       "day": "Thursday",
       "time": "Peak",
-      "engagement_avg": 11.7,
-      "sample_size": 47
+      "engagement_avg": 12.0,
+      "sample_size": 69
+    },
+    {
+      "day": "Tuesday",
+      "time": "Peak",
+      "engagement_avg": 11.8,
+      "sample_size": 74
     },
     {
       "day": "Friday",
       "time": "Peak",
-      "engagement_avg": 11.4,
-      "sample_size": 58
+      "engagement_avg": 11.3,
+      "sample_size": 91
     },
     {
       "day": "Sunday",
       "time": "Peak",
-      "engagement_avg": 11.4,
-      "sample_size": 82
+      "engagement_avg": 11.3,
+      "sample_size": 118
     },
     {
       "day": "Wednesday",
       "time": "Peak",
-      "engagement_avg": 9.6,
-      "sample_size": 48
+      "engagement_avg": 10.2,
+      "sample_size": 72
     }
   ],
   "hashtags": [
     {
       "tag": "#fyp",
-      "usage_count": 113,
-      "avg_views": 2550585,
-      "growth_pct": 226
+      "usage_count": 173,
+      "avg_views": 2092120
     },
     {
       "tag": "#grwm",
-      "usage_count": 101,
-      "avg_views": 3838378,
-      "growth_pct": 202
+      "usage_count": 154,
+      "avg_views": 3306130
     },
     {
       "tag": "#makeup",
-      "usage_count": 95,
-      "avg_views": 3231274,
-      "growth_pct": 190
-    },
-    {
-      "tag": "#beautytok",
-      "usage_count": 69,
-      "avg_views": 1914456,
-      "growth_pct": 138
+      "usage_count": 144,
+      "avg_views": 2675518
     },
     {
       "tag": "#beauty",
-      "usage_count": 69,
-      "avg_views": 4565919,
-      "growth_pct": 138
+      "usage_count": 110,
+      "avg_views": 3671343
+    },
+    {
+      "tag": "#beautytok",
+      "usage_count": 108,
+      "avg_views": 1490852
     },
     {
       "tag": "#skincare",
-      "usage_count": 59,
-      "avg_views": 4505015,
-      "growth_pct": 118
+      "usage_count": 93,
+      "avg_views": 5019471
     },
     {
       "tag": "#makeuptutorial",
-      "usage_count": 44,
-      "avg_views": 3202356,
-      "growth_pct": 88
+      "usage_count": 73,
+      "avg_views": 3070254
     },
     {
       "tag": "#koreanskincare",
-      "usage_count": 43,
-      "avg_views": 6119358,
-      "growth_pct": 86
+      "usage_count": 65,
+      "avg_views": 6290698
     },
     {
       "tag": "#skincareroutine",
-      "usage_count": 36,
-      "avg_views": 3471037,
-      "growth_pct": 72
+      "usage_count": 51,
+      "avg_views": 4248836
     },
     {
       "tag": "#foryou",
-      "usage_count": 27,
-      "avg_views": 5211363,
-      "growth_pct": 54
+      "usage_count": 36,
+      "avg_views": 4264361
     },
     {
       "tag": "#kbeauty",
-      "usage_count": 25,
-      "avg_views": 1659856,
-      "growth_pct": 50
-    },
-    {
-      "tag": "#viral",
-      "usage_count": 19,
-      "avg_views": 3229595,
-      "growth_pct": 38
-    },
-    {
-      "tag": "#girl",
-      "usage_count": 16,
-      "avg_views": 1046374,
-      "growth_pct": 32
-    },
-    {
-      "tag": "#glassskin",
-      "usage_count": 16,
-      "avg_views": 4659813,
-      "growth_pct": 32
-    },
-    {
-      "tag": "#beautyhacks",
-      "usage_count": 16,
-      "avg_views": 6138937,
-      "growth_pct": 32
+      "usage_count": 32,
+      "avg_views": 1782185
     },
     {
       "tag": "#fyp\u30b7",
-      "usage_count": 16,
-      "avg_views": 4496356,
-      "growth_pct": 32
+      "usage_count": 26,
+      "avg_views": 3940753
+    },
+    {
+      "tag": "#viral",
+      "usage_count": 25,
+      "avg_views": 2786815
+    },
+    {
+      "tag": "#girl",
+      "usage_count": 24,
+      "avg_views": 944513
+    },
+    {
+      "tag": "#glassskin",
+      "usage_count": 23,
+      "avg_views": 5668909
     },
     {
       "tag": "#beautiful",
-      "usage_count": 13,
-      "avg_views": 216011,
-      "growth_pct": 26
-    },
-    {
-      "tag": "#grwmroutine",
-      "usage_count": 13,
-      "avg_views": 11534169,
-      "growth_pct": 26
+      "usage_count": 20,
+      "avg_views": 207159
     },
     {
       "tag": "#foryoupage",
-      "usage_count": 12,
-      "avg_views": 1577622,
-      "growth_pct": 24
+      "usage_count": 20,
+      "avg_views": 1133838
     },
     {
-      "tag": "#pretty",
-      "usage_count": 12,
-      "avg_views": 1050486,
-      "growth_pct": 24
+      "tag": "#beautyhacks",
+      "usage_count": 20,
+      "avg_views": 5282585
     },
     {
       "tag": "#minimalbeauty",
-      "usage_count": 11,
-      "avg_views": 66740,
-      "growth_pct": 22
+      "usage_count": 17,
+      "avg_views": 64847
     },
     {
       "tag": "#naturalglow",
-      "usage_count": 11,
-      "avg_views": 66740,
-      "growth_pct": 22
+      "usage_count": 17,
+      "avg_views": 64847
     },
     {
       "tag": "#cleanaesthetic",
-      "usage_count": 11,
-      "avg_views": 66740,
-      "growth_pct": 22
+      "usage_count": 17,
+      "avg_views": 64847
     },
     {
       "tag": "#effortlessbeauty",
-      "usage_count": 11,
-      "avg_views": 66740,
-      "growth_pct": 22
+      "usage_count": 17,
+      "avg_views": 64847
+    },
+    {
+      "tag": "#pretty",
+      "usage_count": 17,
+      "avg_views": 1089139
+    },
+    {
+      "tag": "#grwmroutine",
+      "usage_count": 16,
+      "avg_views": 9828083
     },
     {
       "tag": "#makeuproutine",
-      "usage_count": 11,
-      "avg_views": 1241091,
-      "growth_pct": 22
+      "usage_count": 16,
+      "avg_views": 1185738
     }
   ],
   "formats": [
     {
       "name": "Challenge / trend",
-      "trend_pct": 72,
-      "avg_engagement": 16.6,
-      "post_count": 11
-    },
-    {
-      "name": "Before/after",
-      "trend_pct": 74,
-      "avg_engagement": 13.8,
-      "post_count": 12
-    },
-    {
-      "name": "Story time / narrative",
-      "trend_pct": 56,
-      "avg_engagement": 13.8,
-      "post_count": 3
-    },
-    {
-      "name": "Educational / tips",
-      "trend_pct": 282,
-      "avg_engagement": 11.8,
-      "post_count": 116
-    },
-    {
-      "name": "Behind the scenes",
-      "trend_pct": 220,
-      "avg_engagement": 11.6,
-      "post_count": 85
+      "avg_engagement": 15.6,
+      "post_count": 23
     },
     {
       "name": "Question / engagement",
-      "trend_pct": 56,
-      "avg_engagement": 11.4,
-      "post_count": 3
+      "avg_engagement": 15.0,
+      "post_count": 6
+    },
+    {
+      "name": "Before/after",
+      "avg_engagement": 12.9,
+      "post_count": 13
+    },
+    {
+      "name": "Educational / tips",
+      "avg_engagement": 12.3,
+      "post_count": 174
+    },
+    {
+      "name": "Story / narrative",
+      "avg_engagement": 12.1,
+      "post_count": 12
+    },
+    {
+      "name": "Review / recommendation",
+      "avg_engagement": 11.7,
+      "post_count": 18
     }
   ],
   "trending_sounds": [
     {
       "name": "original sound",
-      "usage_count": 227
+      "usage_count": 334
     },
     {
       "name": "Originalton",
-      "usage_count": 9
+      "usage_count": 11
     },
     {
       "name": "Bossa Nova jazz that seems to fit in a cafe(1433079)",
-      "usage_count": 6
+      "usage_count": 10
     },
     {
       "name": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0432\u0443\u043a",
-      "usage_count": 6
+      "usage_count": 8
     },
     {
       "name": "som original",
-      "usage_count": 6
+      "usage_count": 8
     },
     {
       "name": "original sound - Kate Longoria",
+      "usage_count": 8
+    },
+    {
+      "name": "son original",
+      "usage_count": 7
+    },
+    {
+      "name": "\u2661 \u1dab\u1d52\u1d5b\u1d49\u1d67\u2092\u1d64 \u2661",
+      "usage_count": 6
+    },
+    {
+      "name": "sonido original",
       "usage_count": 6
     },
     {
       "name": "Hip Hop Background(814204)",
-      "usage_count": 5
-    },
-    {
-      "name": "son original",
-      "usage_count": 4
+      "usage_count": 6
     }
   ],
-  "insights": "Challenge / trend content leads with 16.6% avg engagement across 11 posts. The \"This is your sign to...\" hook appears in 1 viral posts. Average engagement: 11.9%. Top performer: 88.89%. Total viral posts analyzed: 498.",
+  "insights": "Challenge / trend content leads with 15.6% avg engagement. \"POV: you just...\" hook appears in 1 viral posts. Avg engagement: 12.0%. Top: 88.89%. 746 posts analyzed.",
   "top_posts": [
     {
       "author": "@nehamainali3",
@@ -305,8 +282,7 @@
       "sound": "Sweet",
       "duration": 59,
       "posted_date": "2026-04-07",
-      "url": "https://www.tiktok.com/@nehamainali3/video/7625806449456712974",
-      "hook_format": "other"
+      "url": "https://www.tiktok.com/@nehamainali3/video/7625806449456712974"
     },
     {
       "author": "@steffyrayne",
@@ -329,8 +305,7 @@
       "sound": "Hey, look at this! Look!",
       "duration": 15,
       "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@steffyrayne/video/7625796048123858207",
-      "hook_format": "other"
+      "url": "https://www.tiktok.com/@steffyrayne/video/7625796048123858207"
     },
     {
       "author": "@lilian.aiv",
@@ -352,8 +327,29 @@
       "sound": "\u539f\u58f0 - Lilian",
       "duration": 10,
       "posted_date": "2026-04-04",
-      "url": "https://www.tiktok.com/@lilian.aiv/video/7620441986092338433",
-      "hook_format": "other"
+      "url": "https://www.tiktok.com/@lilian.aiv/video/7620441986092338433"
+    },
+    {
+      "author": "@lilian.aiv",
+      "followers": 6895,
+      "caption": "#beauty #beautiful #hotgirl #prettygirl #girl",
+      "views": 285,
+      "likes": 75,
+      "comments": 1,
+      "shares": 0,
+      "saves": 58,
+      "engagement_rate": 47.02,
+      "hashtags": [
+        "#beauty",
+        "#beautiful",
+        "#hotgirl",
+        "#prettygirl",
+        "#girl"
+      ],
+      "sound": "\u539f\u58f0 - Lilian",
+      "duration": 10,
+      "posted_date": "2026-04-04",
+      "url": "https://www.tiktok.com/@lilian.aiv/video/7620441986092338433"
     },
     {
       "author": "@lilian.aiv",
@@ -375,8 +371,7 @@
       "sound": "\u539f\u58f0 - Lilian",
       "duration": 10,
       "posted_date": "2026-04-04",
-      "url": "https://www.tiktok.com/@lilian.aiv/video/7620441986092338433",
-      "hook_format": "other"
+      "url": "https://www.tiktok.com/@lilian.aiv/video/7620441986092338433"
     },
     {
       "author": "@insane67676767",
@@ -398,8 +393,7 @@
       "sound": "original sound",
       "duration": 11,
       "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@insane67676767/video/7625485548928453902",
-      "hook_format": "other"
+      "url": "https://www.tiktok.com/@insane67676767/video/7625485548928453902"
     },
     {
       "author": "@insane67676767",
@@ -421,8 +415,7 @@
       "sound": "original sound",
       "duration": 11,
       "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@insane67676767/video/7625485548928453902",
-      "hook_format": "other"
+      "url": "https://www.tiktok.com/@insane67676767/video/7625485548928453902"
     },
     {
       "author": "@blessed_enny",
@@ -444,8 +437,7 @@
       "sound": "candy by doja cat",
       "duration": 6,
       "posted_date": "2026-04-03",
-      "url": "https://www.tiktok.com/@blessed_enny/video/7624361335521840415",
-      "hook_format": "other"
+      "url": "https://www.tiktok.com/@blessed_enny/video/7624361335521840415"
     },
     {
       "author": "@mallorycooperr",
@@ -467,8 +459,7 @@
       "sound": "idk that bitch (feat. G Herbo)",
       "duration": 12,
       "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@mallorycooperr/video/7625455391052156191",
-      "hook_format": "other"
+      "url": "https://www.tiktok.com/@mallorycooperr/video/7625455391052156191"
     },
     {
       "author": "@steffyrayne",
@@ -491,8 +482,32 @@
       "sound": "Hey, look at this! Look!",
       "duration": 15,
       "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@steffyrayne/video/7625796048123858207",
-      "hook_format": "other"
+      "url": "https://www.tiktok.com/@steffyrayne/video/7625796048123858207"
+    },
+    {
+      "author": "@skylebee",
+      "followers": 139100,
+      "caption": "Date night makeup\ud83d\udc9d                                        @Charlotte Tilbury @Makeup By Mario @milkmakeup @Kosas @NARS Cosmetics @YSL Beauty @Too Faced @Painted @Morphe Cosmetics @Diorbeauty ",
+      "views": 10900,
+      "likes": 2369,
+      "comments": 39,
+      "shares": 115,
+      "saves": 790,
+      "engagement_rate": 30.39,
+      "hashtags": [
+        "#",
+        "#",
+        "#",
+        "#",
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "sound": "original sound",
+      "duration": 404,
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@skylebee/video/7625746450923736333"
     },
     {
       "author": "@skylebee",
@@ -517,8 +532,7 @@
       "sound": "original sound",
       "duration": 404,
       "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@skylebee/video/7625746450923736333",
-      "hook_format": "other"
+      "url": "https://www.tiktok.com/@skylebee/video/7625746450923736333"
     },
     {
       "author": "@skylebee",
@@ -543,8 +557,7 @@
       "sound": "original sound",
       "duration": 404,
       "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@skylebee/video/7625746450923736333",
-      "hook_format": "other"
+      "url": "https://www.tiktok.com/@skylebee/video/7625746450923736333"
     },
     {
       "author": "@mamaa.martinez",
@@ -567,8 +580,7 @@
       "sound": "nanana x cola",
       "duration": 19,
       "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@mamaa.martinez/video/7625791466706717983",
-      "hook_format": "other"
+      "url": "https://www.tiktok.com/@mamaa.martinez/video/7625791466706717983"
     },
     {
       "author": "@madellabeauty",
@@ -591,55 +603,7 @@
       "sound": "Chilling smooth Jazz music at Jazz lounge, jazz club or nice cafe(1379705)",
       "duration": 68,
       "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@madellabeauty/video/7625733682225089806",
-      "hook_format": "other"
-    },
-    {
-      "author": "@.iiamkaylin",
-      "followers": 211700,
-      "caption": "Happy Resurrection Day! \ud83d\udc23\ud83d\ude4c\ud83c\udffd #jesuslovesyou\u2764\ufe0f\ud83d\ude4f\u271d\ufe0f\ud83d\ude07 #grwmroutine #viralvideo #sundayreset #foryoupage ",
-      "views": 13500,
-      "likes": 3565,
-      "comments": 18,
-      "shares": 71,
-      "saves": 246,
-      "engagement_rate": 28.89,
-      "hashtags": [
-        "#jesuslovesyou\u2764\ufe0f\ud83d\ude4f\u271d\ufe0f\ud83d\ude07",
-        "#grwmroutine",
-        "#viralvideo",
-        "#sundayreset",
-        "#foryoupage"
-      ],
-      "sound": "original sound",
-      "duration": 136,
-      "posted_date": "2026-04-05",
-      "url": "https://www.tiktok.com/@.iiamkaylin/video/7625366448411528462",
-      "hook_format": "other"
-    },
-    {
-      "author": "@madellabeauty",
-      "followers": 5736,
-      "caption": "#makeuptutorial #aoramakeup #nycmua #makeup #beautytok @Aora Makeup US ",
-      "views": 33,
-      "likes": 4,
-      "comments": 3,
-      "shares": 1,
-      "saves": 1,
-      "engagement_rate": 27.27,
-      "hashtags": [
-        "#makeuptutorial",
-        "#aoramakeup",
-        "#nycmua",
-        "#makeup",
-        "#beautytok",
-        "#"
-      ],
-      "sound": "Chilling smooth Jazz music at Jazz lounge, jazz club or nice cafe(1379705)",
-      "duration": 68,
-      "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@madellabeauty/video/7625733682225089806",
-      "hook_format": "other"
+      "url": "https://www.tiktok.com/@madellabeauty/video/7625733682225089806"
     }
   ]
 }

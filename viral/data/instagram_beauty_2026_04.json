@@ -4,14 +4,14 @@
   "month": "April",
   "year": 2026,
   "niche": "beauty",
-  "generated_at": "2026-04-07T03:22:23.328592",
-  "data_points_analyzed": 500,
-  "viral_posts_found": 500,
+  "generated_at": "2026-04-07T03:51:41.290054",
+  "data_points_analyzed": 750,
+  "viral_posts_found": 747,
   "hooks": [
     {
       "pattern": "Day X of...",
-      "example_count": 2,
-      "trend_pct": 58,
+      "example_count": 4,
+      "trend_pct": 60,
       "example": "Day 1 of dumps ."
     }
   ],
@@ -20,237 +20,195 @@
       "day": "Sunday",
       "time": "Peak",
       "engagement_avg": 180.6,
-      "sample_size": 4
+      "sample_size": 6
     },
     {
       "day": "Saturday",
       "time": "Peak",
       "engagement_avg": 175.0,
-      "sample_size": 4
+      "sample_size": 6
     },
     {
       "day": "Wednesday",
       "time": "Peak",
-      "engagement_avg": 151.5,
-      "sample_size": 3
+      "engagement_avg": 151.8,
+      "sample_size": 5
     },
     {
       "day": "Thursday",
       "time": "Peak",
       "engagement_avg": 125.0,
-      "sample_size": 4
+      "sample_size": 6
     },
     {
       "day": "Monday",
       "time": "Peak",
-      "engagement_avg": 57.9,
-      "sample_size": 139
+      "engagement_avg": 53.7,
+      "sample_size": 230
     },
     {
       "day": "Tuesday",
       "time": "Peak",
-      "engagement_avg": 33.5,
-      "sample_size": 345
+      "engagement_avg": 33.7,
+      "sample_size": 493
     }
   ],
   "hashtags": [
     {
       "tag": "#skincare",
-      "usage_count": 109,
-      "avg_views": 1,
-      "growth_pct": 218
+      "usage_count": 164,
+      "avg_views": 1
     },
     {
       "tag": "#makeup",
-      "usage_count": 109,
-      "avg_views": 1,
-      "growth_pct": 218
+      "usage_count": 164,
+      "avg_views": 1
     },
     {
       "tag": "#selfcare",
-      "usage_count": 104,
-      "avg_views": 30,
-      "growth_pct": 208
+      "usage_count": 157,
+      "avg_views": 29
     },
     {
       "tag": "#beauty",
-      "usage_count": 93,
-      "avg_views": 1,
-      "growth_pct": 186
+      "usage_count": 140,
+      "avg_views": 1
     },
     {
       "tag": "#beautytips",
-      "usage_count": 74,
-      "avg_views": 2,
-      "growth_pct": 148
+      "usage_count": 111,
+      "avg_views": 2
     },
     {
       "tag": "#makeupartist",
-      "usage_count": 26,
-      "avg_views": 1,
-      "growth_pct": 52
+      "usage_count": 39,
+      "avg_views": 1
     },
     {
       "tag": "#maquillaje",
-      "usage_count": 23,
-      "avg_views": 0,
-      "growth_pct": 46
+      "usage_count": 35,
+      "avg_views": 0
     },
     {
       "tag": "#glowup",
-      "usage_count": 20,
-      "avg_views": 2,
-      "growth_pct": 40
-    },
-    {
-      "tag": "#cuidadodelapiel",
-      "usage_count": 12,
-      "avg_views": 0,
-      "growth_pct": 24
+      "usage_count": 30,
+      "avg_views": 2
     },
     {
       "tag": "#skincareroutine",
-      "usage_count": 11,
-      "avg_views": 1,
-      "growth_pct": 22
+      "usage_count": 18,
+      "avg_views": 1
+    },
+    {
+      "tag": "#cuidadodelapiel",
+      "usage_count": 17,
+      "avg_views": 0
     },
     {
       "tag": "#wellness",
-      "usage_count": 10,
-      "avg_views": 0,
-      "growth_pct": 20
+      "usage_count": 15,
+      "avg_views": 0
     },
     {
       "tag": "#lash",
-      "usage_count": 10,
-      "avg_views": 1,
-      "growth_pct": 20
+      "usage_count": 15,
+      "avg_views": 1
     },
     {
       "tag": "#hair",
-      "usage_count": 10,
-      "avg_views": 2,
-      "growth_pct": 20
-    },
-    {
-      "tag": "#explorepage",
-      "usage_count": 10,
-      "avg_views": 2,
-      "growth_pct": 20
-    },
-    {
-      "tag": "#fyp",
-      "usage_count": 9,
-      "avg_views": 1,
-      "growth_pct": 18
+      "usage_count": 15,
+      "avg_views": 2
     },
     {
       "tag": "#massagetherapy",
-      "usage_count": 9,
-      "avg_views": 2,
-      "growth_pct": 18
+      "usage_count": 14,
+      "avg_views": 2
     },
     {
       "tag": "#skin",
-      "usage_count": 9,
-      "avg_views": 0,
-      "growth_pct": 18
+      "usage_count": 14,
+      "avg_views": 0
+    },
+    {
+      "tag": "#explorepage",
+      "usage_count": 14,
+      "avg_views": 2
     },
     {
       "tag": "#glowingskin",
-      "usage_count": 8,
-      "avg_views": 1,
-      "growth_pct": 16
+      "usage_count": 13,
+      "avg_views": 2
     },
     {
-      "tag": "#selflove",
-      "usage_count": 8,
-      "avg_views": 0,
-      "growth_pct": 16
+      "tag": "#fyp",
+      "usage_count": 13,
+      "avg_views": 1
     },
     {
       "tag": "#pielsaludable",
-      "usage_count": 8,
-      "avg_views": 3,
-      "growth_pct": 16
+      "usage_count": 13,
+      "avg_views": 3
+    },
+    {
+      "tag": "#selflove",
+      "usage_count": 12,
+      "avg_views": 0
     },
     {
       "tag": "#love",
-      "usage_count": 8,
-      "avg_views": 16,
-      "growth_pct": 16
+      "usage_count": 12,
+      "avg_views": 16
     },
     {
       "tag": "#maquillajeprofesional",
-      "usage_count": 8,
-      "avg_views": 1,
-      "growth_pct": 16
+      "usage_count": 12,
+      "avg_views": 1
     },
     {
       "tag": "#nailcare",
-      "usage_count": 8,
-      "avg_views": 0,
-      "growth_pct": 16
+      "usage_count": 12,
+      "avg_views": 0
     },
     {
       "tag": "#healthyskin",
-      "usage_count": 7,
-      "avg_views": 0,
-      "growth_pct": 14
+      "usage_count": 11,
+      "avg_views": 0
     },
     {
       "tag": "#organic",
-      "usage_count": 7,
-      "avg_views": 0,
-      "growth_pct": 14
+      "usage_count": 10,
+      "avg_views": 0
     }
   ],
   "formats": [
     {
       "name": "Educational / tips",
-      "trend_pct": 102,
-      "avg_engagement": 99.9,
-      "post_count": 26
+      "avg_engagement": 97.4,
+      "post_count": 40
     },
     {
       "name": "Before/after",
-      "trend_pct": 72,
-      "avg_engagement": 90.3,
-      "post_count": 11
+      "avg_engagement": 87.6,
+      "post_count": 17
     },
     {
-      "name": "Story time / narrative",
-      "trend_pct": 58,
+      "name": "Story / narrative",
       "avg_engagement": 64.7,
-      "post_count": 4
-    },
-    {
-      "name": "Challenge / trend",
-      "trend_pct": 72,
-      "avg_engagement": 45.5,
-      "post_count": 11
-    },
-    {
-      "name": "Question / engagement",
-      "trend_pct": 62,
-      "avg_engagement": 16.7,
       "post_count": 6
     },
     {
-      "name": "Behind the scenes",
-      "trend_pct": 68,
-      "avg_engagement": 0.0,
-      "post_count": 9
+      "name": "Challenge / trend",
+      "avg_engagement": 47.1,
+      "post_count": 17
     },
     {
-      "name": "Comparison / vs",
-      "trend_pct": 58,
-      "avg_engagement": 0.0,
-      "post_count": 4
+      "name": "Question / engagement",
+      "avg_engagement": 20.0,
+      "post_count": 10
     }
   ],
   "trending_sounds": [],
-  "insights": "Educational / tips content leads with 99.9% avg engagement across 26 posts. The \"Day X of...\" hook appears in 2 viral posts. Average engagement: 44.2%. Top performer: 275.0%. Total viral posts analyzed: 500.",
+  "insights": "Educational / tips content leads with 97.4% avg engagement. \"Day X of...\" hook appears in 4 viral posts. Avg engagement: 43.8%. Top: 275.0%. 747 posts analyzed.",
   "top_posts": [
     {
       "author": "@stephanie_theinnerworkco",
@@ -272,8 +230,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz0a2LgbKl/",
-      "hook_format": "other"
+      "url": "https://www.instagram.com/p/DWz0a2LgbKl/"
     },
     {
       "author": "@stephanie_theinnerworkco",
@@ -295,8 +252,29 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz0a2LgbKl/",
-      "hook_format": "other"
+      "url": "https://www.instagram.com/p/DWz0a2LgbKl/"
+    },
+    {
+      "author": "@stephanie_theinnerworkco",
+      "followers": 0,
+      "caption": "We\u2019ve been taught to think mental health revolves around a diagnosis.\n\nAnxiety. Depression. Burnout.\n\nBut mental health is so much more subtle than that.\n\nIt\u2019s in the way you talk to yourself when you",
+      "views": 0,
+      "likes": 4,
+      "comments": 7,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 275.0,
+      "hashtags": [
+        "#mentalhealth",
+        "#mentalhealthawareness",
+        "#mentalhealthishealth",
+        "#mumlife",
+        "#personaldevelopment"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DWz0a2LgbKl/"
     },
     {
       "author": "@_mama_magic_",
@@ -318,8 +296,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWw9XWkFmiu/",
-      "hook_format": "other"
+      "url": "https://www.instagram.com/p/DWw9XWkFmiu/"
     },
     {
       "author": "@_mama_magic_",
@@ -341,8 +318,29 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWw9XWkFmiu/",
-      "hook_format": "other"
+      "url": "https://www.instagram.com/p/DWw9XWkFmiu/"
+    },
+    {
+      "author": "@_mama_magic_",
+      "followers": 0,
+      "caption": "\ud83d\udc93get yourself in check\ud83d\udc93\n\nSpring is here, so are new starts, and good health is to be found with @primalqueenera get yourself in check ladies \ud83e\udd19\ud83c\udffd better mood & better hormones! \n\n\u2705 gluten free \n\u2705 100% g",
+      "views": 0,
+      "likes": 49,
+      "comments": 79,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 261.22,
+      "hashtags": [
+        "#primalqueen",
+        "#mamablogger",
+        "#lifestyle",
+        "#canadianmama",
+        "#blogger"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWw9XWkFmiu/"
     },
     {
       "author": "@germany.tjkosmetika",
@@ -358,8 +356,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-04",
-      "url": "https://www.instagram.com/p/DWuJpe8gPyZ/",
-      "hook_format": "other"
+      "url": "https://www.instagram.com/p/DWuJpe8gPyZ/"
     },
     {
       "author": "@hafsaak44",
@@ -384,8 +381,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzhDgNALn3/",
-      "hook_format": "other"
+      "url": "https://www.instagram.com/p/DWzhDgNALn3/"
     },
     {
       "author": "@germany.tjkosmetika",
@@ -401,8 +397,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-04",
-      "url": "https://www.instagram.com/p/DWuJpe8gPyZ/",
-      "hook_format": "other"
+      "url": "https://www.instagram.com/p/DWuJpe8gPyZ/"
     },
     {
       "author": "@hafsaak44",
@@ -427,8 +422,48 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzhDgNALn3/",
-      "hook_format": "other"
+      "url": "https://www.instagram.com/p/DWzhDgNALn3/"
+    },
+    {
+      "author": "@germany.tjkosmetika",
+      "followers": 0,
+      "caption": "\u044d\u0442\u043e \u0431\u043e\u0434\u0438\u2011\u0441\u043f\u0440\u0435\u0439 \u0441 \u0430\u0440\u043e\u043c\u0430\u0442\u043e\u043c \u0434\u043b\u044f \u0442\u0435\u043b\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0434\u043e\u0431\u0430\u0432\u043b\u044f\u0435\u0442 \u0441\u0432\u0435\u0436\u0438\u0439 \u0437\u0430\u043f\u0430\u0445 \u0438 \u043e\u0449\u0443\u0449\u0435\u043d\u0438\u0435 \u043b\u0451\u0433\u043a\u043e\u0441\u0442\u0438 \u043a\u043e\u0436\u0438.\n\u0426\u0435\u043d\u0430 120",
+      "views": 0,
+      "likes": 2,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 250.0,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-04",
+      "url": "https://www.instagram.com/p/DWuJpe8gPyZ/"
+    },
+    {
+      "author": "@hafsaak44",
+      "followers": 0,
+      "caption": "Glow that speaks before you do \u2728\nHydration, shine, and softness \u2014 all in one swipe \ud83d\udc84\n\nGet that mirror-like gloss and elevate your everyday look with Lume\u2019skin \ud83d\udc95\nBecause your lips deserve luxury. #lips",
+      "views": 0,
+      "likes": 2,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 250.0,
+      "hashtags": [
+        "#lips",
+        "#lipgloss",
+        "#beauty",
+        "#skincare",
+        "#glowingskin",
+        "#lipcare",
+        "#makeuplook",
+        "#beautyproducts"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzhDgNALn3/"
     },
     {
       "author": "@sady_badie",
@@ -450,8 +485,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz1tNQEWiu/",
-      "hook_format": "other"
+      "url": "https://www.instagram.com/p/DWz1tNQEWiu/"
     },
     {
       "author": "@auromaaustralia",
@@ -476,8 +510,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz1Yq5Dbjh/",
-      "hook_format": "other"
+      "url": "https://www.instagram.com/p/DWz1Yq5Dbjh/"
     },
     {
       "author": "@just.jayanne",
@@ -498,101 +531,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz14mymCn2/",
-      "hook_format": "other"
-    },
-    {
-      "author": "@germany.tjkosmetika",
-      "followers": 0,
-      "caption": "\u041a\u0430\u0440\u0430\u043d\u0434\u0430\u0448\u0438 \u0434\u043b\u044f \u0433\u0443\u0431 \u043e\u0442 \u042d\u0441\u0441\u0435\u043d\u0441 \ud83d\udd25 \n\u041e\u0442\u043b\u0438\u0447\u043d\u043e\u0435 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u043e \u0438 \u0443\u0434\u043e\u0431\u043d\u044b\u0439 \u0444\u043e\u0440\u043c\u0430\u0442\n\u0426\u0435\u043d\u0430:50\n \u0412 \u0441\u0430\u043c\u044b\u0445 \u0440\u0430\u0437\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u044b\u0445 \u043e\u0442\u0442\u0435\u043d\u043a\u0430\u0445",
-      "views": 0,
-      "likes": 0,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 200.0,
-      "hashtags": [],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzmfQtjZd-/",
-      "hook_format": "other"
-    },
-    {
-      "author": "@lorr.bos",
-      "followers": 0,
-      "caption": "\ud83e\udd64 Transform Your Health with Simple Daily Smoothies\n\ud83d\udc49 [Learn More] \nhttps://go.smoothiediet.com/?&shield=a8c97lf1j2zq5kbnuj0kmzqd5z\n\nAre you looking for a simple, effective way to lose weight, boost e",
-      "views": 0,
-      "likes": 1,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 200.0,
-      "hashtags": [
-        "#WeightLoss",
-        "#HealthyLifestyle",
-        "#SmoothieDiet",
-        "#Nutrition",
-        "#FatLoss",
-        "#Wellness",
-        "#HealthyEating",
-        "#FitnessJourney"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz1J_xlvnz/",
-      "hook_format": "other"
-    },
-    {
-      "author": "@miracleswithin.tx",
-      "followers": 0,
-      "caption": "\ud83e\uddd8\u200d\u2640\ufe0f Hybrid Slow Flow Vinyasa & Restorative Yoga with Lindsey on Tuesday, April 7th!\n\n\u2728 A grounding practice to balance movement and deep relaxation\n\ud83d\udcc5 Every Other Tuesday (Upcoming Class Dates: April ",
-      "views": 0,
-      "likes": 2,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 200.0,
-      "hashtags": [
-        "#yoga",
-        "#spirituality",
-        "#meditation",
-        "#yogapractice",
-        "#yogalife",
-        "#yogainspiration",
-        "#yogachallenge",
-        "#yogapose"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz07f1lR1z/",
-      "hook_format": "other"
-    },
-    {
-      "author": "@topwellnesssupplies",
-      "followers": 0,
-      "caption": "The day is winding down, and it\u2019s a good time to take a breath.\n\nNot everything has to be finished today. \nSometimes it\u2019s enough to know you made a little progress, even if it didn\u2019t feel like much at",
-      "views": 0,
-      "likes": 1,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 200.0,
-      "hashtags": [
-        "#wellness",
-        "#selfcare",
-        "#relax",
-        "#eveningvibes",
-        "#mindandbody",
-        "#wellbeing"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz06vlDVFd/",
-      "hook_format": "other"
+      "url": "https://www.instagram.com/p/DWz14mymCn2/"
     }
   ]
 }

@@ -4,275 +4,367 @@
   "month": "April",
   "year": 2026,
   "niche": "food",
-  "generated_at": "2026-04-07T03:22:25.754062",
-  "data_points_analyzed": 250,
-  "viral_posts_found": 250,
+  "generated_at": "2026-04-07T03:51:44.696708",
+  "data_points_analyzed": 750,
+  "viral_posts_found": 750,
   "hooks": [
     {
       "pattern": "POV: you just...",
       "example_count": 1,
-      "trend_pct": 58,
-      "example": "POV: your favorite Taco Bell item never actually left\u2026you just didn\u2019t know how to make it at home ye"
+      "trend_pct": 52,
+      "example": "POV: your favorite Taco Bell item never actually left\u2026you just didn\u2019t know how to make it at home yet \ud83d\udc40\ud83c\udf2f"
     }
   ],
   "best_times": [
     {
-      "day": "Saturday",
-      "time": "Peak",
-      "engagement_avg": 11.4,
-      "sample_size": 34
-    },
-    {
       "day": "Friday",
       "time": "Peak",
       "engagement_avg": 10.6,
-      "sample_size": 33
+      "sample_size": 77
     },
     {
-      "day": "Tuesday",
+      "day": "Saturday",
       "time": "Peak",
       "engagement_avg": 10.0,
-      "sample_size": 39
+      "sample_size": 110
     },
     {
-      "day": "Wednesday",
+      "day": "Thursday",
       "time": "Peak",
-      "engagement_avg": 9.5,
-      "sample_size": 34
+      "engagement_avg": 9.7,
+      "sample_size": 108
     },
     {
       "day": "Sunday",
       "time": "Peak",
-      "engagement_avg": 9.3,
-      "sample_size": 32
+      "engagement_avg": 9.4,
+      "sample_size": 95
     },
     {
       "day": "Monday",
       "time": "Peak",
       "engagement_avg": 9.3,
-      "sample_size": 43
+      "sample_size": 146
     },
     {
-      "day": "Thursday",
+      "day": "Tuesday",
       "time": "Peak",
-      "engagement_avg": 8.7,
-      "sample_size": 35
+      "engagement_avg": 9.3,
+      "sample_size": 113
+    },
+    {
+      "day": "Wednesday",
+      "time": "Peak",
+      "engagement_avg": 8.8,
+      "sample_size": 101
     }
   ],
   "hashtags": [
     {
       "tag": "#foodtok",
-      "usage_count": 67,
-      "avg_views": 9059533,
-      "growth_pct": 268
-    },
-    {
-      "tag": "#foodie",
-      "usage_count": 61,
-      "avg_views": 9504419,
-      "growth_pct": 244
+      "usage_count": 202,
+      "avg_views": 8463960
     },
     {
       "tag": "#cooking",
-      "usage_count": 57,
-      "avg_views": 7237198,
-      "growth_pct": 228
+      "usage_count": 193,
+      "avg_views": 6352035
+    },
+    {
+      "tag": "#foodie",
+      "usage_count": 179,
+      "avg_views": 9545698
     },
     {
       "tag": "#recipe",
-      "usage_count": 51,
-      "avg_views": 10241588,
-      "growth_pct": 204
+      "usage_count": 160,
+      "avg_views": 8232138
     },
     {
       "tag": "#fyp",
-      "usage_count": 48,
-      "avg_views": 8386085,
-      "growth_pct": 192
+      "usage_count": 147,
+      "avg_views": 8094362
     },
     {
       "tag": "#easyrecipe",
-      "usage_count": 37,
-      "avg_views": 6735714,
-      "growth_pct": 148
-    },
-    {
-      "tag": "#recipes",
-      "usage_count": 36,
-      "avg_views": 13254352,
-      "growth_pct": 144
+      "usage_count": 112,
+      "avg_views": 7627801
     },
     {
       "tag": "#food",
-      "usage_count": 31,
-      "avg_views": 12591663,
-      "growth_pct": 124
+      "usage_count": 102,
+      "avg_views": 11864058
     },
     {
-      "tag": "#dinnerideas",
-      "usage_count": 27,
-      "avg_views": 5983186,
-      "growth_pct": 108
-    },
-    {
-      "tag": "#foodtiktok",
-      "usage_count": 23,
-      "avg_views": 16315913,
-      "growth_pct": 92
+      "tag": "#recipes",
+      "usage_count": 96,
+      "avg_views": 11425057
     },
     {
       "tag": "#easyrecipes",
-      "usage_count": 22,
-      "avg_views": 5339606,
-      "growth_pct": 88
+      "usage_count": 72,
+      "avg_views": 5624584
+    },
+    {
+      "tag": "#dinnerideas",
+      "usage_count": 70,
+      "avg_views": 8311933
+    },
+    {
+      "tag": "#foodtiktok",
+      "usage_count": 68,
+      "avg_views": 16704520
     },
     {
       "tag": "#viral",
-      "usage_count": 18,
-      "avg_views": 8903260,
-      "growth_pct": 72
+      "usage_count": 62,
+      "avg_views": 7233745
     },
     {
       "tag": "#dinner",
-      "usage_count": 18,
-      "avg_views": 4258222,
-      "growth_pct": 72
+      "usage_count": 51,
+      "avg_views": 5391560
     },
     {
       "tag": "#homecooking",
-      "usage_count": 18,
-      "avg_views": 3991027,
-      "growth_pct": 72
-    },
-    {
-      "tag": "#cookwithme",
-      "usage_count": 14,
-      "avg_views": 5533378,
-      "growth_pct": 56
-    },
-    {
-      "tag": "#chicken",
-      "usage_count": 13,
-      "avg_views": 7701546,
-      "growth_pct": 52
-    },
-    {
-      "tag": "#eating",
-      "usage_count": 13,
-      "avg_views": 3015384,
-      "growth_pct": 52
+      "usage_count": 50,
+      "avg_views": 3287936
     },
     {
       "tag": "#mukbang",
-      "usage_count": 12,
-      "avg_views": 10013575,
-      "growth_pct": 48
+      "usage_count": 45,
+      "avg_views": 7759957
+    },
+    {
+      "tag": "#chicken",
+      "usage_count": 36,
+      "avg_views": 6945063
     },
     {
       "tag": "#comfortfood",
-      "usage_count": 12,
-      "avg_views": 3608283,
-      "growth_pct": 48
-    },
-    {
-      "tag": "#mukbangeatingshow",
-      "usage_count": 9,
-      "avg_views": 7824955,
-      "growth_pct": 36
+      "usage_count": 34,
+      "avg_views": 3245741
     },
     {
       "tag": "#asmr",
-      "usage_count": 9,
-      "avg_views": 11895044,
-      "growth_pct": 36
-    },
-    {
-      "tag": "#yummyfood",
-      "usage_count": 9,
-      "avg_views": 9503631,
-      "growth_pct": 36
-    },
-    {
-      "tag": "#dinnermadeeasy",
-      "usage_count": 9,
-      "avg_views": 9503631,
-      "growth_pct": 36
+      "usage_count": 34,
+      "avg_views": 11523252
     },
     {
       "tag": "#fyp\u30b7",
-      "usage_count": 8,
-      "avg_views": 4975000,
-      "growth_pct": 32
+      "usage_count": 29,
+      "avg_views": 5014734
     },
     {
-      "tag": "#mealprep",
-      "usage_count": 8,
-      "avg_views": 6268272,
-      "growth_pct": 32
+      "tag": "#cookwithme",
+      "usage_count": 27,
+      "avg_views": 5093077
+    },
+    {
+      "tag": "#mukbangeatingshow",
+      "usage_count": 27,
+      "avg_views": 5332585
+    },
+    {
+      "tag": "#eating",
+      "usage_count": 26,
+      "avg_views": 3145911
+    },
+    {
+      "tag": "#yummyfood",
+      "usage_count": 25,
+      "avg_views": 9698512
+    },
+    {
+      "tag": "#dinnermadeeasy",
+      "usage_count": 25,
+      "avg_views": 9698512
+    },
+    {
+      "tag": "#cooktok",
+      "usage_count": 24,
+      "avg_views": 2994919
     }
   ],
   "formats": [
     {
-      "name": "Story time / narrative",
-      "trend_pct": 62,
-      "avg_engagement": 12.9,
-      "post_count": 3
+      "name": "Story / narrative",
+      "avg_engagement": 12.2,
+      "post_count": 8
     },
     {
-      "name": "Question / engagement",
-      "trend_pct": 78,
-      "avg_engagement": 9.8,
-      "post_count": 7
+      "name": "Review / recommendation",
+      "avg_engagement": 10.7,
+      "post_count": 15
     },
     {
       "name": "Educational / tips",
-      "trend_pct": 150,
-      "avg_engagement": 8.5,
-      "post_count": 25
+      "avg_engagement": 9.3,
+      "post_count": 63
+    },
+    {
+      "name": "Question / engagement",
+      "avg_engagement": 8.6,
+      "post_count": 22
     },
     {
       "name": "Challenge / trend",
-      "trend_pct": 102,
-      "avg_engagement": 5.9,
-      "post_count": 13
+      "avg_engagement": 6.0,
+      "post_count": 46
     }
   ],
   "trending_sounds": [
     {
       "name": "original sound",
-      "usage_count": 114
-    },
-    {
-      "name": "Funky Lo-fi Vides (P-funk Jazz)",
-      "usage_count": 5
-    },
-    {
-      "name": "Monkeys Spinning Monkeys",
-      "usage_count": 4
+      "usage_count": 336
     },
     {
       "name": "Love You So",
-      "usage_count": 4
+      "usage_count": 12
+    },
+    {
+      "name": "Funky Lo-fi Vides (P-funk Jazz)",
+      "usage_count": 10
     },
     {
       "name": "I only have eyes for you",
-      "usage_count": 3
+      "usage_count": 9
+    },
+    {
+      "name": "Monkeys Spinning Monkeys",
+      "usage_count": 6
+    },
+    {
+      "name": "Deeper Than the Holler",
+      "usage_count": 6
     },
     {
       "name": "Ghibli-style nostalgic waltz",
-      "usage_count": 3
+      "usage_count": 5
     },
     {
-      "name": "Salsa Party 1",
-      "usage_count": 2
+      "name": "sonido original",
+      "usage_count": 5
     },
     {
       "name": "Happy, summer, ukulele(852618)",
-      "usage_count": 2
+      "usage_count": 5
+    },
+    {
+      "name": "Dracula (JENNIE Remix)",
+      "usage_count": 5
     }
   ],
-  "insights": "Story time / narrative content leads with 12.9% avg engagement across 3 posts. The \"POV: you just...\" hook appears in 1 viral posts. Average engagement: 9.8%. Top performer: 24.02%. Total viral posts analyzed: 250.",
+  "insights": "Story / narrative content leads with 12.2% avg engagement. \"POV: you just...\" hook appears in 1 viral posts. Avg engagement: 9.5%. Top: 33.6%. 750 posts analyzed.",
   "top_posts": [
+    {
+      "author": "@kokashiwagz",
+      "followers": 12000,
+      "caption": "I put a spell on you\n#steak #cookwithme #mencooking #datenight #healthylifestyle ",
+      "views": 135100,
+      "likes": 34100,
+      "comments": 142,
+      "shares": 7409,
+      "saves": 3741,
+      "engagement_rate": 33.6,
+      "hashtags": [
+        "#steak",
+        "#cookwithme",
+        "#mencooking",
+        "#datenight",
+        "#healthylifestyle"
+      ],
+      "sound": "You Put a Spell on Me",
+      "duration": 57,
+      "posted_date": "2026-04-02",
+      "url": "https://www.tiktok.com/@kokashiwagz/video/7624039600071232789"
+    },
+    {
+      "author": "@s0phssparkles",
+      "followers": 259,
+      "caption": "i love cheese #cheese #relatable #foodtok #cheeseychips #iloveitiloveitiloveit ",
+      "views": 2100000,
+      "likes": 480200,
+      "comments": 1201,
+      "shares": 93500,
+      "saves": 18242,
+      "engagement_rate": 28.24,
+      "hashtags": [
+        "#cheese",
+        "#relatable",
+        "#foodtok",
+        "#cheeseychips",
+        "#iloveitiloveitiloveit"
+      ],
+      "sound": "iloveitiloveitiloveit",
+      "duration": 14,
+      "posted_date": "2026-04-02",
+      "url": "https://www.tiktok.com/@s0phssparkles/video/7624160916476595478"
+    },
+    {
+      "author": "@s0phssparkles",
+      "followers": 258,
+      "caption": "i love cheese #cheese #relatable #foodtok #cheeseychips #iloveitiloveitiloveit ",
+      "views": 2100000,
+      "likes": 480000,
+      "comments": 1198,
+      "shares": 93400,
+      "saves": 18232,
+      "engagement_rate": 28.23,
+      "hashtags": [
+        "#cheese",
+        "#relatable",
+        "#foodtok",
+        "#cheeseychips",
+        "#iloveitiloveitiloveit"
+      ],
+      "sound": "iloveitiloveitiloveit",
+      "duration": 14,
+      "posted_date": "2026-04-02",
+      "url": "https://www.tiktok.com/@s0phssparkles/video/7624160916476595478"
+    },
+    {
+      "author": "@itszkai__",
+      "followers": 1642,
+      "caption": "Quick tiktok kinda forgot to record it all\ud83d\ude02\ud83d\ude02#CapCut #fyp #foru #easter #foodtok ",
+      "views": 306,
+      "likes": 71,
+      "comments": 4,
+      "shares": 3,
+      "saves": 2,
+      "engagement_rate": 26.14,
+      "hashtags": [
+        "#capcut",
+        "#fyp",
+        "#foru",
+        "#easter",
+        "#foodtok"
+      ],
+      "sound": "original sound",
+      "duration": 12,
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@itszkai__/video/7625725331382570262"
+    },
+    {
+      "author": "@jose.elcook",
+      "followers": 2500000,
+      "caption": "Nobody taught you how to Cook? EP 1 - Birria tacos\n#tacos #birria #howto \n\nHere\u2019s is the recipe my boi:\n\u20224lbs beef chuck roast, cubed \n\u20226 Cups stock, divided, (3cups poured over the meat, 3Cups poured",
+      "views": 597100,
+      "likes": 106100,
+      "comments": 507,
+      "shares": 8935,
+      "saves": 28089,
+      "engagement_rate": 24.05,
+      "hashtags": [
+        "#tacos",
+        "#birria",
+        "#howto"
+      ],
+      "sound": "Soledad y el Mar (feat. Los Macorinos)",
+      "duration": 64,
+      "posted_date": "2026-03-26",
+      "url": "https://www.tiktok.com/@jose.elcook/video/7621631643387809055"
+    },
     {
       "author": "@codychows",
       "followers": 2200000,
@@ -293,8 +385,51 @@
       "sound": "original sound",
       "duration": 145,
       "posted_date": "2026-01-10",
-      "url": "https://www.tiktok.com/@codychows/video/7593519852652858654",
-      "hook_format": "other"
+      "url": "https://www.tiktok.com/@codychows/video/7593519852652858654"
+    },
+    {
+      "author": "@codychows",
+      "followers": 2200000,
+      "caption": "A spread for the AGES \ud83d\ude0d\ud83d\udd25 #burger #mukbangeatingshow #Foodie #fyp\u30b7 #viral ",
+      "views": 2400000,
+      "likes": 426700,
+      "comments": 1255,
+      "shares": 102100,
+      "saves": 46321,
+      "engagement_rate": 24.02,
+      "hashtags": [
+        "#burger",
+        "#mukbangeatingshow",
+        "#foodie",
+        "#fyp\u30b7",
+        "#viral"
+      ],
+      "sound": "original sound",
+      "duration": 145,
+      "posted_date": "2026-01-10",
+      "url": "https://www.tiktok.com/@codychows/video/7593519852652858654"
+    },
+    {
+      "author": "@codychows",
+      "followers": 2200000,
+      "caption": "A spread for the AGES \ud83d\ude0d\ud83d\udd25 #burger #mukbangeatingshow #Foodie #fyp\u30b7 #viral ",
+      "views": 2400000,
+      "likes": 426700,
+      "comments": 1258,
+      "shares": 102100,
+      "saves": 46319,
+      "engagement_rate": 24.02,
+      "hashtags": [
+        "#burger",
+        "#mukbangeatingshow",
+        "#foodie",
+        "#fyp\u30b7",
+        "#viral"
+      ],
+      "sound": "original sound",
+      "duration": 145,
+      "posted_date": "2026-01-10",
+      "url": "https://www.tiktok.com/@codychows/video/7593519852652858654"
     },
     {
       "author": "@codychows",
@@ -316,8 +451,73 @@
       "sound": "original sound",
       "duration": 134,
       "posted_date": "2026-02-18",
-      "url": "https://www.tiktok.com/@codychows/video/7608308196406512927",
-      "hook_format": "other"
+      "url": "https://www.tiktok.com/@codychows/video/7608308196406512927"
+    },
+    {
+      "author": "@codychows",
+      "followers": 2200000,
+      "caption": "Red Chickz \ud83d\udd25 #chicken #mukbangeatingshow #Foodie #fyp\u30b7 #viral ",
+      "views": 6200000,
+      "likes": 1000000,
+      "comments": 4443,
+      "shares": 382500,
+      "saves": 94653,
+      "engagement_rate": 23.9,
+      "hashtags": [
+        "#chicken",
+        "#mukbangeatingshow",
+        "#foodie",
+        "#fyp\u30b7",
+        "#viral"
+      ],
+      "sound": "original sound",
+      "duration": 134,
+      "posted_date": "2026-02-18",
+      "url": "https://www.tiktok.com/@codychows/video/7608308196406512927"
+    },
+    {
+      "author": "@codychows",
+      "followers": 2200000,
+      "caption": "Red Chickz \ud83d\udd25 #chicken #mukbangeatingshow #Foodie #fyp\u30b7 #viral ",
+      "views": 6200000,
+      "likes": 1000000,
+      "comments": 4441,
+      "shares": 382500,
+      "saves": 94649,
+      "engagement_rate": 23.9,
+      "hashtags": [
+        "#chicken",
+        "#mukbangeatingshow",
+        "#foodie",
+        "#fyp\u30b7",
+        "#viral"
+      ],
+      "sound": "original sound",
+      "duration": 134,
+      "posted_date": "2026-02-18",
+      "url": "https://www.tiktok.com/@codychows/video/7608308196406512927"
+    },
+    {
+      "author": "@user.072146",
+      "followers": 3166,
+      "caption": "#viral #mother #foodtok #prettyfooddd #fypppppppppppppp ",
+      "views": 136200,
+      "likes": 26700,
+      "comments": 295,
+      "shares": 549,
+      "saves": 4859,
+      "engagement_rate": 23.79,
+      "hashtags": [
+        "#viral",
+        "#mother",
+        "#foodtok",
+        "#prettyfooddd",
+        "#fypppppppppppppp"
+      ],
+      "sound": "Not good for you",
+      "duration": 12,
+      "posted_date": "2026-04-03",
+      "url": "https://www.tiktok.com/@user.072146/video/7624492578393656598"
     },
     {
       "author": "@taryneliseee",
@@ -339,8 +539,7 @@
       "sound": "original sound",
       "duration": 527,
       "posted_date": "2025-08-24",
-      "url": "https://www.tiktok.com/@taryneliseee/video/7542259600255503629",
-      "hook_format": "other"
+      "url": "https://www.tiktok.com/@taryneliseee/video/7542259600255503629"
     },
     {
       "author": "@codychows",
@@ -362,256 +561,29 @@
       "sound": "original sound",
       "duration": 154,
       "posted_date": "2026-02-09",
-      "url": "https://www.tiktok.com/@codychows/video/7604970286651297055",
-      "hook_format": "other"
+      "url": "https://www.tiktok.com/@codychows/video/7604970286651297055"
     },
     {
-      "author": "@tinekeyounger",
-      "followers": 12500000,
-      "caption": "Got taken down at 100k+ views and couldn\u2019t post for a week plus because of the  serrated kitchen tool used for bread\ud83d\ude43 but here\u2019s chicken Alfredo!",
-      "views": 13800000,
-      "likes": 2700000,
-      "comments": 9245,
-      "shares": 18500,
-      "saves": 148630,
-      "engagement_rate": 20.84,
-      "hashtags": [],
-      "sound": "Le Festin (From \"Ratatouille\")",
-      "duration": 66,
-      "posted_date": "2021-09-14",
-      "url": "https://www.tiktok.com/@tinekeyounger/video/7007909980263189765",
-      "hook_format": "other"
-    },
-    {
-      "author": "@dollartreedinners",
-      "followers": 3500000,
-      "caption": "POV: your favorite Taco Bell item never actually left\u2026you just didn\u2019t know how to make it at home yet \ud83d\udc40\ud83c\udf2f\n\nI'm a former Taco Bell employee, I\u2019m showing you exactly how to recreate the Quesarito (well, ",
-      "views": 4200000,
-      "likes": 581500,
-      "comments": 2701,
-      "shares": 74800,
-      "saves": 186849,
-      "engagement_rate": 20.14,
+      "author": "@codychows",
+      "followers": 2200000,
+      "caption": "The best bar food in NJ \ud83c\udf54 #burger #mukbangeatingshow #Foodie #fyp\u30b7 #viral ",
+      "views": 7400000,
+      "likes": 1100000,
+      "comments": 4124,
+      "shares": 362400,
+      "saves": 113301,
+      "engagement_rate": 21.35,
       "hashtags": [
-        "#quesarito",
-        "#tacobellathome",
-        "#tacobellrecipes",
-        "#budgetmeals",
-        "#realisticcooking",
-        "#copycatrecipe"
-      ],
-      "sound": "original sound - Dollar Tree Dinners",
-      "duration": 134,
-      "posted_date": "2026-03-23",
-      "url": "https://www.tiktok.com/@dollartreedinners/video/7620522687705697549",
-      "hook_format": "pov:_you_just"
-    },
-    {
-      "author": "@_samjose_",
-      "followers": 575500,
-      "caption": "Creamy garlic steak pasta for wifey \ud83e\udd69\ud83c\udf5d #cooking #food #recipe #sharkweek #fyp ",
-      "views": 489900,
-      "likes": 81000,
-      "comments": 94,
-      "shares": 9639,
-      "saves": 4672,
-      "engagement_rate": 19.47,
-      "hashtags": [
-        "#cooking",
-        "#food",
-        "#recipe",
-        "#sharkweek",
-        "#fyp"
+        "#burger",
+        "#mukbangeatingshow",
+        "#foodie",
+        "#fyp\u30b7",
+        "#viral"
       ],
       "sound": "original sound",
-      "duration": 60,
-      "posted_date": "2026-04-02",
-      "url": "https://www.tiktok.com/@_samjose_/video/7624190868500663566",
-      "hook_format": "other"
-    },
-    {
-      "author": "@fromscratchwithbob",
-      "followers": 1400000,
-      "caption": "Lemon curd recipe \ud83c\udf4b\ud83e\uddc8\ud83d\udc47\n\nIn the grey of winter, making the little things nice for yourself is all the more important, and lemon curd does just that. It just hits the spot every time, in yoghurt, between",
-      "views": 7800000,
-      "likes": 1300000,
-      "comments": 5687,
-      "shares": 60500,
-      "saves": 90287,
-      "engagement_rate": 18.67,
-      "hashtags": [
-        "#cookingfromscratch",
-        "#homecooking",
-        "#lemoncurd",
-        "#marmalade",
-        "#crumpets"
-      ],
-      "sound": "Concerning Hobbits",
-      "duration": 177,
-      "posted_date": "2026-02-06",
-      "url": "https://www.tiktok.com/@fromscratchwithbob/video/7603707928113188118",
-      "hook_format": "other"
-    },
-    {
-      "author": "@kennylsong",
-      "followers": 2500000,
-      "caption": "super simple 2 am meal - scallion oil noodle #asianfood #cooktok",
-      "views": 3000000,
-      "likes": 508000,
-      "comments": 1777,
-      "shares": 11700,
-      "saves": 38143,
-      "engagement_rate": 18.65,
-      "hashtags": [
-        "#asianfood",
-        "#cooktok"
-      ],
-      "sound": "original sound",
-      "duration": 22,
-      "posted_date": "2023-01-27",
-      "url": "https://www.tiktok.com/@kennylsong/video/7193166777583406342",
-      "hook_format": "other"
-    },
-    {
-      "author": "@thesapor",
-      "followers": 512100,
-      "caption": "Cowboy butter steak sliders \u2728\ud83c\udf54\n\nIngredients \nSteak\n- 2 pounds ribeye or sirloin steak, sliced into strips\n- 2 tsp Worcestershire sauce \n- 2 tsp garlic powder \n- 1 tsp soy sauce \n- Salt and pepper to t",
-      "views": 5000000,
-      "likes": 568300,
-      "comments": 971,
-      "shares": 154800,
-      "saves": 180258,
-      "engagement_rate": 18.09,
-      "hashtags": [
-        "#recipes",
-        "#dinnerideas",
-        "#sliders",
-        "#steakrecipe",
-        "#foodideas"
-      ],
-      "sound": "I only have eyes for you",
-      "duration": 61,
-      "posted_date": "2026-03-28",
-      "url": "https://www.tiktok.com/@thesapor/video/7622409192434879757",
-      "hook_format": "other"
-    },
-    {
-      "author": "@thesapor",
-      "followers": 512100,
-      "caption": "Cowboy butter steak sliders \u2728\ud83c\udf54\n\nIngredients \nSteak\n- 2 pounds ribeye or sirloin steak, sliced into strips\n- 2 tsp Worcestershire sauce \n- 2 tsp garlic powder \n- 1 tsp soy sauce \n- Salt and pepper to t",
-      "views": 5000000,
-      "likes": 568300,
-      "comments": 971,
-      "shares": 154800,
-      "saves": 180258,
-      "engagement_rate": 18.09,
-      "hashtags": [
-        "#recipes",
-        "#dinnerideas",
-        "#sliders",
-        "#steakrecipe",
-        "#foodideas"
-      ],
-      "sound": "I only have eyes for you",
-      "duration": 61,
-      "posted_date": "2026-03-28",
-      "url": "https://www.tiktok.com/@thesapor/video/7622409192434879757",
-      "hook_format": "other"
-    },
-    {
-      "author": "@thesapor",
-      "followers": 512100,
-      "caption": "Cowboy butter steak sliders \u2728\ud83c\udf54\n\nIngredients \nSteak\n- 2 pounds ribeye or sirloin steak, sliced into strips\n- 2 tsp Worcestershire sauce \n- 2 tsp garlic powder \n- 1 tsp soy sauce \n- Salt and pepper to t",
-      "views": 5000000,
-      "likes": 568300,
-      "comments": 971,
-      "shares": 154800,
-      "saves": 180258,
-      "engagement_rate": 18.09,
-      "hashtags": [
-        "#recipes",
-        "#dinnerideas",
-        "#sliders",
-        "#steakrecipe",
-        "#foodideas"
-      ],
-      "sound": "I only have eyes for you",
-      "duration": 61,
-      "posted_date": "2026-03-28",
-      "url": "https://www.tiktok.com/@thesapor/video/7622409192434879757",
-      "hook_format": "other"
-    },
-    {
-      "author": "@alexandra_lourdes",
-      "followers": 2700000,
-      "caption": "What if this actually happened \ud83d\ude33\ud83d\ude36 #donut #donutshop #vegas #vegastiktok #food #foodtok #badbunny #smallbusiness #womenowned #baker #guava #pastelito",
-      "views": 4400000,
-      "likes": 763000,
-      "comments": 5170,
-      "shares": 4164,
-      "saves": 15976,
-      "engagement_rate": 17.92,
-      "hashtags": [
-        "#donut",
-        "#donutshop",
-        "#vegas",
-        "#vegastiktok",
-        "#food",
-        "#foodtok",
-        "#badbunny",
-        "#smallbusiness"
-      ],
-      "sound": "Yonaguni",
-      "duration": 45,
-      "posted_date": "2022-03-27",
-      "url": "https://www.tiktok.com/@alexandra_lourdes/video/7079563178769747246",
-      "hook_format": "other"
-    },
-    {
-      "author": "@celinandcenzo",
-      "followers": 636000,
-      "caption": "These are definitely a MUST try #cookwithme #potatoballs #recipe #marriedcouple #foodtiktok ",
-      "views": 5200000,
-      "likes": 770200,
-      "comments": 1177,
-      "shares": 37400,
-      "saves": 113346,
-      "engagement_rate": 17.73,
-      "hashtags": [
-        "#cookwithme",
-        "#potatoballs",
-        "#recipe",
-        "#marriedcouple",
-        "#foodtiktok"
-      ],
-      "sound": "original sound",
-      "duration": 142,
-      "posted_date": "2026-01-19",
-      "url": "https://www.tiktok.com/@celinandcenzo/video/7597205501042019614",
-      "hook_format": "other"
-    },
-    {
-      "author": "@chefzealand",
-      "followers": 3900000,
-      "caption": "One of my all time favorite things to cook, the best labor of love \ud83e\udef6\ud83c\udffb\n\nIngredients:\n\nDumplings:\n\n1 pound ground pork\u00a0\n1 medium carrot\u00a0\n3 scallions\u00a0\n1/4 small head of Napa cabbage\u00a0\n1 cloves garlic\u00a0\n1 i",
-      "views": 60400,
-      "likes": 8872,
-      "comments": 81,
-      "shares": 373,
-      "saves": 1200,
-      "engagement_rate": 17.43,
-      "hashtags": [
-        "#potstickers",
-        "#dumplings",
-        "#porkdumplings",
-        "#chef",
-        "#recipe"
-      ],
-      "sound": "Morning cafe jazz",
-      "duration": 67,
-      "posted_date": "2026-04-04",
-      "url": "https://www.tiktok.com/@chefzealand/video/7625041555803344158",
-      "hook_format": "other"
+      "duration": 154,
+      "posted_date": "2026-02-09",
+      "url": "https://www.tiktok.com/@codychows/video/7604970286651297055"
     }
   ]
 }

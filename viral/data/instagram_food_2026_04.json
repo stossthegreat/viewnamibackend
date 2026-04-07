@@ -4,210 +4,180 @@
   "month": "April",
   "year": 2026,
   "niche": "food",
-  "generated_at": "2026-04-07T03:22:24.314022",
-  "data_points_analyzed": 500,
-  "viral_posts_found": 500,
+  "generated_at": "2026-04-07T03:51:42.745109",
+  "data_points_analyzed": 750,
+  "viral_posts_found": 747,
   "hooks": [],
   "best_times": [
     {
       "day": "Monday",
       "time": "Peak",
-      "engagement_avg": 55.1,
-      "sample_size": 188
+      "engagement_avg": 53.5,
+      "sample_size": 279
     },
     {
       "day": "Tuesday",
       "time": "Peak",
       "engagement_avg": 32.9,
-      "sample_size": 312
+      "sample_size": 468
     }
   ],
   "hashtags": [
     {
       "tag": "#food",
-      "usage_count": 162,
-      "avg_views": 0,
-      "growth_pct": 324
+      "usage_count": 243,
+      "avg_views": 0
     },
     {
       "tag": "#cooking",
-      "usage_count": 116,
-      "avg_views": 0,
-      "growth_pct": 232
+      "usage_count": 174,
+      "avg_views": 0
     },
     {
       "tag": "#homemade",
-      "usage_count": 108,
-      "avg_views": 1,
-      "growth_pct": 216
+      "usage_count": 162,
+      "avg_views": 1
     },
     {
       "tag": "#recipe",
-      "usage_count": 96,
-      "avg_views": 2,
-      "growth_pct": 192
+      "usage_count": 144,
+      "avg_views": 2
     },
     {
       "tag": "#foodporn",
-      "usage_count": 74,
-      "avg_views": 2,
-      "growth_pct": 148
+      "usage_count": 111,
+      "avg_views": 2
     },
     {
       "tag": "#foodie",
-      "usage_count": 40,
-      "avg_views": 0,
-      "growth_pct": 80
+      "usage_count": 60,
+      "avg_views": 0
     },
     {
       "tag": "#dinner",
-      "usage_count": 24,
-      "avg_views": 9,
-      "growth_pct": 48
+      "usage_count": 36,
+      "avg_views": 9
     },
     {
       "tag": "#yummy",
-      "usage_count": 20,
-      "avg_views": 2,
-      "growth_pct": 40
+      "usage_count": 30,
+      "avg_views": 2
     },
     {
       "tag": "#delicious",
-      "usage_count": 20,
-      "avg_views": 1,
-      "growth_pct": 40
+      "usage_count": 30,
+      "avg_views": 1
     },
     {
       "tag": "#instafood",
-      "usage_count": 18,
-      "avg_views": 0,
-      "growth_pct": 36
+      "usage_count": 27,
+      "avg_views": 0
     },
     {
       "tag": "#foodphotography",
-      "usage_count": 18,
-      "avg_views": 0,
-      "growth_pct": 36
+      "usage_count": 27,
+      "avg_views": 0
     },
     {
       "tag": "#viral",
-      "usage_count": 16,
-      "avg_views": 0,
-      "growth_pct": 32
+      "usage_count": 24,
+      "avg_views": 0
     },
     {
       "tag": "#homecooking",
-      "usage_count": 16,
-      "avg_views": 0,
-      "growth_pct": 32
+      "usage_count": 24,
+      "avg_views": 0
     },
     {
       "tag": "#pasta",
-      "usage_count": 14,
-      "avg_views": 1,
-      "growth_pct": 28
+      "usage_count": 21,
+      "avg_views": 1
     },
     {
       "tag": "#cookies",
-      "usage_count": 14,
-      "avg_views": 2,
-      "growth_pct": 28
+      "usage_count": 21,
+      "avg_views": 2
     },
     {
       "tag": "#recipes",
-      "usage_count": 14,
-      "avg_views": 2,
-      "growth_pct": 28
+      "usage_count": 21,
+      "avg_views": 2
     },
     {
       "tag": "#baking",
-      "usage_count": 14,
-      "avg_views": 1,
-      "growth_pct": 28
+      "usage_count": 21,
+      "avg_views": 1
     },
     {
       "tag": "#foodstagram",
-      "usage_count": 14,
-      "avg_views": 0,
-      "growth_pct": 28
+      "usage_count": 21,
+      "avg_views": 0
     },
     {
       "tag": "#\u6599\u7406",
-      "usage_count": 14,
-      "avg_views": 4,
-      "growth_pct": 28
+      "usage_count": 21,
+      "avg_views": 4
     },
     {
       "tag": "#foto",
-      "usage_count": 14,
-      "avg_views": 0,
-      "growth_pct": 28
+      "usage_count": 21,
+      "avg_views": 0
     },
     {
       "tag": "#fyp",
-      "usage_count": 12,
-      "avg_views": 1,
-      "growth_pct": 24
+      "usage_count": 18,
+      "avg_views": 1
     },
     {
       "tag": "#dessert",
-      "usage_count": 12,
-      "avg_views": 0,
-      "growth_pct": 24
+      "usage_count": 18,
+      "avg_views": 0
     },
     {
       "tag": "#\u6599\u7406\u8a18\u9332",
-      "usage_count": 12,
-      "avg_views": 0,
-      "growth_pct": 24
+      "usage_count": 18,
+      "avg_views": 0
     },
     {
       "tag": "#\u81ea\u708a",
-      "usage_count": 12,
-      "avg_views": 0,
-      "growth_pct": 24
+      "usage_count": 18,
+      "avg_views": 0
     },
     {
       "tag": "#eatyourveggies",
-      "usage_count": 10,
-      "avg_views": 0,
-      "growth_pct": 20
+      "usage_count": 15,
+      "avg_views": 0
     }
   ],
   "formats": [
     {
       "name": "Challenge / trend",
-      "trend_pct": 74,
       "avg_engagement": 50.0,
-      "post_count": 12
+      "post_count": 18
+    },
+    {
+      "name": "Review / recommendation",
+      "avg_engagement": 33.3,
+      "post_count": 9
     },
     {
       "name": "Question / engagement",
-      "trend_pct": 62,
       "avg_engagement": 0.0,
-      "post_count": 6
+      "post_count": 9
     },
     {
       "name": "Educational / tips",
-      "trend_pct": 66,
       "avg_engagement": 0.0,
-      "post_count": 8
+      "post_count": 12
     },
     {
-      "name": "Comparison / vs",
-      "trend_pct": 54,
+      "name": "Story / narrative",
       "avg_engagement": 0.0,
-      "post_count": 2
-    },
-    {
-      "name": "Behind the scenes",
-      "trend_pct": 62,
-      "avg_engagement": 0.0,
-      "post_count": 6
+      "post_count": 3
     }
   ],
   "trending_sounds": [],
-  "insights": "Challenge / trend content leads with 50.0% avg engagement across 12 posts. Average engagement: 41.2%. Top performer: 350.0%. Total viral posts analyzed: 500.",
+  "insights": "Challenge / trend content leads with 50.0% avg engagement. Avg engagement: 40.6%. Top: 350.0%. 747 posts analyzed.",
   "top_posts": [
     {
       "author": "@daveamos13",
@@ -228,8 +198,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzx7NTCarP/",
-      "hook_format": "other"
+      "url": "https://www.instagram.com/p/DWzx7NTCarP/"
     },
     {
       "author": "@daveamos13",
@@ -250,8 +219,28 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzx7NTCarP/",
-      "hook_format": "other"
+      "url": "https://www.instagram.com/p/DWzx7NTCarP/"
+    },
+    {
+      "author": "@daveamos13",
+      "followers": 0,
+      "caption": "Rabbit fricassee. #rabbitfricassee #foodporn #pasta #cooking",
+      "views": 0,
+      "likes": 2,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 350.0,
+      "hashtags": [
+        "#rabbitfricassee",
+        "#foodporn",
+        "#pasta",
+        "#cooking"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzx7NTCarP/"
     },
     {
       "author": "@bakedby.michelle",
@@ -273,8 +262,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz0HkakXml/",
-      "hook_format": "other"
+      "url": "https://www.instagram.com/p/DWz0HkakXml/"
     },
     {
       "author": "@waystolxve",
@@ -292,8 +280,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzucyRk042/",
-      "hook_format": "other"
+      "url": "https://www.instagram.com/p/DWzucyRk042/"
     },
     {
       "author": "@swefty.recipes",
@@ -318,8 +305,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzrpvwDrcT/",
-      "hook_format": "other"
+      "url": "https://www.instagram.com/p/DWzrpvwDrcT/"
     },
     {
       "author": "@bakedby.michelle",
@@ -341,8 +327,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz0HkakXml/",
-      "hook_format": "other"
+      "url": "https://www.instagram.com/p/DWz0HkakXml/"
     },
     {
       "author": "@waystolxve",
@@ -360,8 +345,7 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzucyRk042/",
-      "hook_format": "other"
+      "url": "https://www.instagram.com/p/DWzucyRk042/"
     },
     {
       "author": "@swefty.recipes",
@@ -386,156 +370,138 @@
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzrpvwDrcT/",
-      "hook_format": "other"
+      "url": "https://www.instagram.com/p/DWzrpvwDrcT/"
     },
     {
-      "author": "@lacucina_dielvira",
+      "author": "@bakedby.michelle",
       "followers": 0,
-      "caption": "\ud83d\ude0dVI PRESENTO IL MIO CASATIELLO NAPOLETANO\ud83d\ude0d\n\nPROTAGONISTA DELLE NOSTRE TAVOLE PASQUALI \nCROCCANTE FUORI E SOFFICE ALL'INTERNO, RICCO DI SALUMI E FORMAGGI, UNA VERA POESIA!\nSPERO ABBIATE PASSATO UNA SER",
-      "views": 0,
-      "likes": 4,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 225.0,
-      "hashtags": [
-        "#casatiello",
-        "#napolifoodporn",
-        "#homemade",
-        "#food",
-        "#foodporn"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzyk-OCqPU/",
-      "hook_format": "other"
-    },
-    {
-      "author": "@lacucina_dielvira",
-      "followers": 0,
-      "caption": "\ud83d\ude0dVI PRESENTO IL MIO CASATIELLO NAPOLETANO\ud83d\ude0d\n\nPROTAGONISTA DELLE NOSTRE TAVOLE PASQUALI \nCROCCANTE FUORI E SOFFICE ALL'INTERNO, RICCO DI SALUMI E FORMAGGI, UNA VERA POESIA!\nSPERO ABBIATE PASSATO UNA SER",
-      "views": 0,
-      "likes": 4,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 225.0,
-      "hashtags": [
-        "#casatiello",
-        "#napolifoodporn",
-        "#homemade",
-        "#food",
-        "#foodporn"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzyk-OCqPU/",
-      "hook_format": "other"
-    },
-    {
-      "author": "@cookies.by.sk",
-      "followers": 0,
-      "caption": "Visuals by @hemyan.lens \ud83d\udcab\n#cookies #bahrain #fyp #viralvideos #homemade",
-      "views": 0,
-      "likes": 5,
-      "comments": 6,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 220.0,
-      "hashtags": [
-        "#cookies",
-        "#bahrain",
-        "#fyp",
-        "#viralvideos",
-        "#homemade"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz1HUOiNpF/",
-      "hook_format": "other"
-    },
-    {
-      "author": "@cookies.by.sk",
-      "followers": 0,
-      "caption": "Visuals by @hemyan.lens \ud83d\udcab\n#cookies #bahrain #fyp #viralvideos #homemade",
-      "views": 0,
-      "likes": 5,
-      "comments": 6,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 220.0,
-      "hashtags": [
-        "#cookies",
-        "#bahrain",
-        "#fyp",
-        "#viralvideos",
-        "#homemade"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz1HUOiNpF/",
-      "hook_format": "other"
-    },
-    {
-      "author": "@oyster101_official",
-      "followers": 0,
-      "caption": "\uc624\uc774\uc2a4\ud130 \ubc14\uc5d0\uc11c \uac00\uc7a5 \uc0ac\ub791\ubc1b\ub294 \uc8fc\uc778\uacf5 #\uc0bc\ubc30\uccb4\uad74 \ud83e\uddaa\n\uc0b0\ub780\uc744 \ud558\uc9c0 \uc54a\uc544 \uc5ec\ub984\uc5d0\ub3c4 \uc548\uc804\ud558\uace0 \ub9db\uc788\uac8c \uba39\uc744 \uc218 \uc788\uc5b4\uc694\n\n\uc77c\ubc18 \uad74\uc774 \ubc14\ub2e4\uc758 \uc9e0\ub9db\uacfc \uc2dc\uc6d0\ud55c \ub9db\uc774 \uac15\ud558\ub2e4\uba74, \n\uc0bc\ubc30\uccb4\uad74\uc740 \uc870\uae08 \ub354 \ubd80\ub4dc\ub7fd\uace0 \ud06c\ub9ac\ubbf8\ud55c \ub9db\uc774 \ud2b9\uc9d5\uc785\ub2c8\ub2e4\u2728\n\n\uc5ec\ub7ec \uc0bc\ubc30\uccb4\uad74 \uc911\uc5d0\uc11c\ub3c4 #\ud1b5\uc601\uc0bc\ubc30\uccb4\uad74 \uc740\n\uc870\uae08 \ub354 \uc9ed\uc798\ud558\uace0 \ud0f1\uae00\ud568\uc744 \ub290\ub07c\uc2e4 \uc218 \uc788\ub294\ub370\uc694\n\n#\uad74\ucc14\uc774 \ub3c4 \ubc18\ud560 \uc0bc\ubc30\uccb4\uad74\uc758 \ub9e4\ub825\uc744 \ub290\ub07c\uace0 \uc2f6\ub2e4\uba74",
+      "caption": "Beef and chicken sliders done for a birthday party \n\nYes we cater for micro events \n\nHomemade beef and chicken patties on homemade brioche buns \n398-6823 or 303-8957 for inquiries on how you can order",
       "views": 0,
       "likes": 2,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 300.0,
+      "hashtags": [
+        "#sliders\ud83c\udf54",
+        "#homemade",
+        "#briochebuns",
+        "#viral",
+        "#caterers"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DWz0HkakXml/"
+    },
+    {
+      "author": "@waystolxve",
+      "followers": 0,
+      "caption": "\ub450\ubc14\uc774\ucd08\ucf54 \ud504\ub9c1\uae00\uc2a4 \ud83c\udf5f\ud83c\udf6b\n#dubaichocolatepringles\n\uc694\uc998 \uc720\ud589\ud558\ub294 \uac83\ub4e4 \ucf5c\ub77c\ubcf4\ub85c \ub9cc\ub4e4\uae30 \n\n\ud53c\uc2a4\ud0c0\uce58\uc624 \uc2a4\ud504\ub808\ub4dc\ub3c4 \uc788\uae38\ub798 \ub450\ubc14\uc774 \ucd08\ucf54 \ub290\ub08c\uc774 \ub0a0\uae4c? \uc2f6\uc5b4\uc11c \ub9cc\ub4e4\uc5b4 \ubcf8 \n\ub108\ubb34 \ub2ec \uac83 \uac19\uc544\uc11c \ub2e4\ud06c\ub85c \ubc14\uafb8\uace0 \uc591\ub3c4 \uc904\uc774\uace0 \ub300\uc2e0 \uc2a4\ud504\ub808\ub4dc\ub791 \uc11e\uc5b4 \ubd24\uc5b4\uc694 ! \n\uc911\ub2f9 \ucd08\ucf5c\ub9bf 5\uc2a4\ud47c \ub123\uace0 \ud53c\uc2a4\ud0c0\uce58\uc624 \uc2a4\ud504\ub808\ub4dc \uc911\uac04\uc5d0 \ud55c \ubc88 \ub123\uace0 \ubc18\ubcf5 \ud83d\udd01\n\n\uc694\uae30\uc11c \ud0a5\uc740 \ud788\ub9d0\ub77c\uc57c",
+      "views": 0,
+      "likes": 1,
       "comments": 2,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 200.0,
+      "engagement_rate": 300.0,
       "hashtags": [
-        "#\uc0bc\ubc30\uccb4\uad74",
-        "#\ud1b5\uc601\uc0bc\ubc30\uccb4\uad74",
-        "#\uad74\ucc14\uc774",
-        "#\ub178\ub7c9\uc9c4\uc218\uc0b0\uc2dc\uc7a5"
+        "#dubaichocolatepringles"
       ],
       "sound": "",
       "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz0qJME0AW/",
-      "hook_format": "other"
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzucyRk042/"
     },
     {
-      "author": "@yacaeats",
+      "author": "@swefty.recipes",
       "followers": 0,
-      "caption": "COMMANDER\u2019S PALACE\n\n-Bread Pudding Souffl\u00e9 \n\n@commanderspalace",
+      "caption": "\ud83c\udf53\ud83e\udd68 Strawberry Crackle Salad \u2013 The Ultimate Mother\u2019s Day Sweet Crunch Dessert \ud83d\udc96\u2728\n\nIngredients:\n2 cups crushed pretzels\n1 cup chopped pecans\n1 cup brown sugar\n1 cup butter, melted\n4 cups sliced strawber",
       "views": 0,
       "likes": 1,
-      "comments": 1,
+      "comments": 2,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 200.0,
-      "hashtags": [],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz0eRFjfYd/",
-      "hook_format": "other"
-    },
-    {
-      "author": "@obeji.christian",
-      "followers": 0,
-      "caption": "\ud83e\udd56",
-      "views": 0,
-      "likes": 1,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 200.0,
-      "hashtags": [],
+      "engagement_rate": 300.0,
+      "hashtags": [
+        "#MothersDay",
+        "#StrawberryDessert",
+        "#PretzelDessert",
+        "#viral",
+        "#vira\u0142post",
+        "#trend",
+        "#food",
+        "#recipe"
+      ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzzsUTD1pP/",
-      "hook_format": "other"
+      "url": "https://www.instagram.com/p/DWzrpvwDrcT/"
+    },
+    {
+      "author": "@lacucina_dielvira",
+      "followers": 0,
+      "caption": "\ud83d\ude0dVI PRESENTO IL MIO CASATIELLO NAPOLETANO\ud83d\ude0d\n\nPROTAGONISTA DELLE NOSTRE TAVOLE PASQUALI \nCROCCANTE FUORI E SOFFICE ALL'INTERNO, RICCO DI SALUMI E FORMAGGI, UNA VERA POESIA!\nSPERO ABBIATE PASSATO UNA SER",
+      "views": 0,
+      "likes": 4,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 225.0,
+      "hashtags": [
+        "#casatiello",
+        "#napolifoodporn",
+        "#homemade",
+        "#food",
+        "#foodporn"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzyk-OCqPU/"
+    },
+    {
+      "author": "@lacucina_dielvira",
+      "followers": 0,
+      "caption": "\ud83d\ude0dVI PRESENTO IL MIO CASATIELLO NAPOLETANO\ud83d\ude0d\n\nPROTAGONISTA DELLE NOSTRE TAVOLE PASQUALI \nCROCCANTE FUORI E SOFFICE ALL'INTERNO, RICCO DI SALUMI E FORMAGGI, UNA VERA POESIA!\nSPERO ABBIATE PASSATO UNA SER",
+      "views": 0,
+      "likes": 4,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 225.0,
+      "hashtags": [
+        "#casatiello",
+        "#napolifoodporn",
+        "#homemade",
+        "#food",
+        "#foodporn"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzyk-OCqPU/"
+    },
+    {
+      "author": "@lacucina_dielvira",
+      "followers": 0,
+      "caption": "\ud83d\ude0dVI PRESENTO IL MIO CASATIELLO NAPOLETANO\ud83d\ude0d\n\nPROTAGONISTA DELLE NOSTRE TAVOLE PASQUALI \nCROCCANTE FUORI E SOFFICE ALL'INTERNO, RICCO DI SALUMI E FORMAGGI, UNA VERA POESIA!\nSPERO ABBIATE PASSATO UNA SER",
+      "views": 0,
+      "likes": 4,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 225.0,
+      "hashtags": [
+        "#casatiello",
+        "#napolifoodporn",
+        "#homemade",
+        "#food",
+        "#foodporn"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzyk-OCqPU/"
     }
   ]
 }

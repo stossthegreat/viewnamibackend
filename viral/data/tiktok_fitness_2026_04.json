@@ -4,356 +4,272 @@
   "month": "April",
   "year": 2026,
   "niche": "fitness",
-  "generated_at": "2026-04-07T03:22:25.605014",
-  "data_points_analyzed": 1800,
-  "viral_posts_found": 1796,
-  "hooks": [
-    {
-      "pattern": "This is your sign to...",
-      "example_count": 4,
-      "trend_pct": 54,
-      "example": "This is your sign #fyp\u30b7 #calisthenics #calisthenicsbeginner #anime #fitness #gymtok"
-    },
-    {
-      "pattern": "You need to see this...",
-      "example_count": 4,
-      "trend_pct": 54,
-      "example": "Entrepreneurs, This Is What You Need to Hear"
-    },
-    {
-      "pattern": "Wait for it...",
-      "example_count": 3,
-      "trend_pct": 53,
-      "example": "wait for it\u2026\ud83e\udd72 #gym #gymtok #gymhumor #viral #relatable #love #fyp"
-    },
-    {
-      "pattern": "Day X of...",
-      "example_count": 2,
-      "trend_pct": 52,
-      "example": "Day 3 of building the next BeReal with @karam_aboulhosn"
-    },
-    {
-      "pattern": "The truth about...",
-      "example_count": 2,
-      "trend_pct": 52,
-      "example": "The truth is\u2026 the best way to GROW your money isn\u2019t as fun or instant as you want it to be \ud83d\udcb8"
-    },
-    {
-      "pattern": "POV: you just...",
-      "example_count": 1,
-      "trend_pct": 51,
-      "example": "pov: you\u2019re a girl who really uses her makeup \ud83d\udc85\ud83c\udffc #girlythings #beautytok #makeup #makeupfavorites #g"
-    }
-  ],
+  "generated_at": "2026-04-07T03:51:44.261262",
+  "data_points_analyzed": 1050,
+  "viral_posts_found": 1045,
+  "hooks": [],
   "best_times": [
     {
       "day": "Monday",
       "time": "Peak",
-      "engagement_avg": 10.9,
-      "sample_size": 372
+      "engagement_avg": 12.0,
+      "sample_size": 185
     },
     {
       "day": "Tuesday",
       "time": "Peak",
-      "engagement_avg": 10.8,
-      "sample_size": 257
-    },
-    {
-      "day": "Friday",
-      "time": "Peak",
-      "engagement_avg": 10.6,
-      "sample_size": 214
+      "engagement_avg": 11.5,
+      "sample_size": 150
     },
     {
       "day": "Sunday",
       "time": "Peak",
-      "engagement_avg": 10.5,
-      "sample_size": 234
+      "engagement_avg": 10.8,
+      "sample_size": 151
     },
     {
       "day": "Saturday",
       "time": "Peak",
-      "engagement_avg": 10.1,
-      "sample_size": 231
+      "engagement_avg": 10.4,
+      "sample_size": 127
+    },
+    {
+      "day": "Friday",
+      "time": "Peak",
+      "engagement_avg": 10.3,
+      "sample_size": 134
     },
     {
       "day": "Thursday",
       "time": "Peak",
-      "engagement_avg": 10.0,
-      "sample_size": 249
+      "engagement_avg": 10.1,
+      "sample_size": 139
     },
     {
       "day": "Wednesday",
       "time": "Peak",
-      "engagement_avg": 9.5,
-      "sample_size": 239
+      "engagement_avg": 9.9,
+      "sample_size": 159
     }
   ],
   "hashtags": [
     {
-      "tag": "#fyp",
-      "usage_count": 396,
-      "avg_views": 4989520,
-      "growth_pct": 220
-    },
-    {
       "tag": "#gymtok",
-      "usage_count": 206,
-      "avg_views": 5473788,
-      "growth_pct": 114
-    },
-    {
-      "tag": "#fitness",
-      "usage_count": 170,
-      "avg_views": 7202451,
-      "growth_pct": 94
+      "usage_count": 595,
+      "avg_views": 3759287
     },
     {
       "tag": "#gym",
-      "usage_count": 141,
-      "avg_views": 8055622,
-      "growth_pct": 78
+      "usage_count": 386,
+      "avg_views": 4532536
     },
     {
-      "tag": "#workout",
-      "usage_count": 139,
-      "avg_views": 5262756,
-      "growth_pct": 77
+      "tag": "#fyp",
+      "usage_count": 332,
+      "avg_views": 4534552
     },
     {
-      "tag": "#cooking",
-      "usage_count": 136,
-      "avg_views": 5981048,
-      "growth_pct": 75
-    },
-    {
-      "tag": "#foodtok",
-      "usage_count": 135,
-      "avg_views": 8168380,
-      "growth_pct": 75
-    },
-    {
-      "tag": "#smallbusiness",
-      "usage_count": 118,
-      "avg_views": 2559653,
-      "growth_pct": 65
-    },
-    {
-      "tag": "#foodie",
-      "usage_count": 118,
-      "avg_views": 9567037,
-      "growth_pct": 65
-    },
-    {
-      "tag": "#recipe",
-      "usage_count": 109,
-      "avg_views": 7291936,
-      "growth_pct": 60
-    },
-    {
-      "tag": "#entrepreneur",
-      "usage_count": 108,
-      "avg_views": 3285512,
-      "growth_pct": 60
-    },
-    {
-      "tag": "#startup",
-      "usage_count": 91,
-      "avg_views": 9055576,
-      "growth_pct": 50
-    },
-    {
-      "tag": "#viral",
-      "usage_count": 85,
-      "avg_views": 5712400,
-      "growth_pct": 47
-    },
-    {
-      "tag": "#foryou",
-      "usage_count": 78,
-      "avg_views": 6670267,
-      "growth_pct": 43
-    },
-    {
-      "tag": "#sidehustle",
-      "usage_count": 77,
-      "avg_views": 683689,
-      "growth_pct": 42
-    },
-    {
-      "tag": "#easyrecipe",
-      "usage_count": 75,
-      "avg_views": 8067897,
-      "growth_pct": 41
-    },
-    {
-      "tag": "#food",
-      "usage_count": 71,
-      "avg_views": 11546371,
-      "growth_pct": 39
-    },
-    {
-      "tag": "#recipes",
-      "usage_count": 60,
-      "avg_views": 10327480,
-      "growth_pct": 33
-    },
-    {
-      "tag": "#fyp\u30b7",
-      "usage_count": 56,
-      "avg_views": 4744269,
-      "growth_pct": 31
-    },
-    {
-      "tag": "#motivation",
-      "usage_count": 55,
-      "avg_views": 5203184,
-      "growth_pct": 30
-    },
-    {
-      "tag": "#grwm",
-      "usage_count": 55,
-      "avg_views": 2212946,
-      "growth_pct": 30
-    },
-    {
-      "tag": "#business",
-      "usage_count": 55,
-      "avg_views": 2637131,
-      "growth_pct": 30
+      "tag": "#fitness",
+      "usage_count": 247,
+      "avg_views": 5530225
     },
     {
       "tag": "#gymmotivation",
-      "usage_count": 52,
-      "avg_views": 6143978,
-      "growth_pct": 28
+      "usage_count": 163,
+      "avg_views": 4625722
     },
     {
-      "tag": "#easyrecipes",
-      "usage_count": 50,
-      "avg_views": 5749974,
-      "growth_pct": 27
+      "tag": "#workout",
+      "usage_count": 155,
+      "avg_views": 5110873
     },
     {
-      "tag": "#makeup",
-      "usage_count": 49,
-      "avg_views": 1598033,
-      "growth_pct": 27
+      "tag": "#gymgirl",
+      "usage_count": 75,
+      "avg_views": 1713158
+    },
+    {
+      "tag": "#motivation",
+      "usage_count": 69,
+      "avg_views": 4446813
+    },
+    {
+      "tag": "#bodybuilding",
+      "usage_count": 67,
+      "avg_views": 4707798
+    },
+    {
+      "tag": "#foryou",
+      "usage_count": 62,
+      "avg_views": 3890965
+    },
+    {
+      "tag": "#fittok",
+      "usage_count": 59,
+      "avg_views": 4277408
+    },
+    {
+      "tag": "#fitnesstiktok",
+      "usage_count": 48,
+      "avg_views": 903820
+    },
+    {
+      "tag": "#viral",
+      "usage_count": 47,
+      "avg_views": 4219949
+    },
+    {
+      "tag": "#gymlife",
+      "usage_count": 43,
+      "avg_views": 3743500
+    },
+    {
+      "tag": "#foryoupage",
+      "usage_count": 41,
+      "avg_views": 5709304
+    },
+    {
+      "tag": "#gymhumor",
+      "usage_count": 40,
+      "avg_views": 2233110
+    },
+    {
+      "tag": "#fitnesstips",
+      "usage_count": 40,
+      "avg_views": 7446928
+    },
+    {
+      "tag": "#abs",
+      "usage_count": 38,
+      "avg_views": 12238265
+    },
+    {
+      "tag": "#fyp\u30b7",
+      "usage_count": 34,
+      "avg_views": 5435739
+    },
+    {
+      "tag": "#homeworkout",
+      "usage_count": 32,
+      "avg_views": 8277064
+    },
+    {
+      "tag": "#fitnessmotivation",
+      "usage_count": 30,
+      "avg_views": 2612780
+    },
+    {
+      "tag": "#gymtips",
+      "usage_count": 25,
+      "avg_views": 3091309
+    },
+    {
+      "tag": "#trending",
+      "usage_count": 23,
+      "avg_views": 4230043
+    },
+    {
+      "tag": "#girlswholift",
+      "usage_count": 22,
+      "avg_views": 11512146
+    },
+    {
+      "tag": "#relatable",
+      "usage_count": 21,
+      "avg_views": 3248916
     }
   ],
   "formats": [
     {
-      "name": "Hot take / opinion",
-      "trend_pct": 53,
-      "avg_engagement": 13.3,
-      "post_count": 7
+      "name": "Story / narrative",
+      "avg_engagement": 11.2,
+      "post_count": 17
     },
     {
       "name": "Before/after",
-      "trend_pct": 66,
-      "avg_engagement": 11.5,
-      "post_count": 30
-    },
-    {
-      "name": "Story time / narrative",
-      "trend_pct": 62,
       "avg_engagement": 11.2,
-      "post_count": 23
-    },
-    {
-      "name": "Educational / tips",
-      "trend_pct": 191,
-      "avg_engagement": 11.1,
-      "post_count": 255
-    },
-    {
-      "name": "Behind the scenes",
-      "trend_pct": 82,
-      "avg_engagement": 10.5,
-      "post_count": 59
+      "post_count": 47
     },
     {
       "name": "Challenge / trend",
-      "trend_pct": 98,
-      "avg_engagement": 9.3,
-      "post_count": 87
+      "avg_engagement": 10.8,
+      "post_count": 51
+    },
+    {
+      "name": "Educational / tips",
+      "avg_engagement": 10.1,
+      "post_count": 108
+    },
+    {
+      "name": "Review / recommendation",
+      "avg_engagement": 9.7,
+      "post_count": 9
     },
     {
       "name": "Question / engagement",
-      "trend_pct": 72,
-      "avg_engagement": 8.4,
-      "post_count": 41
+      "avg_engagement": 8.9,
+      "post_count": 21
+    },
+    {
+      "name": "Hot take / opinion",
+      "avg_engagement": 8.1,
+      "post_count": 4
     }
   ],
   "trending_sounds": [
     {
       "name": "original sound",
-      "usage_count": 822
+      "usage_count": 426
     },
     {
       "name": "sonido original",
-      "usage_count": 26
-    },
-    {
-      "name": "son original",
-      "usage_count": 14
+      "usage_count": 24
     },
     {
       "name": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0432\u0443\u043a",
-      "usage_count": 13
-    },
-    {
-      "name": "Love You So",
-      "usage_count": 9
-    },
-    {
-      "name": "Originalton",
-      "usage_count": 8
-    },
-    {
-      "name": "Bossa Nova jazz that seems to fit in a cafe(1433079)",
-      "usage_count": 7
+      "usage_count": 23
     },
     {
       "name": "som original",
-      "usage_count": 6
-    }
-  ],
-  "insights": "Hot take / opinion content leads with 13.3% avg engagement across 7 posts. The \"This is your sign to...\" hook appears in 4 viral posts. Average engagement: 10.4%. Top performer: 47.02%. Total viral posts analyzed: 1796.",
-  "top_posts": [
-    {
-      "author": "@lilian.aiv",
-      "followers": 6895,
-      "caption": "#beauty #beautiful #hotgirl #prettygirl #girl",
-      "views": 285,
-      "likes": 75,
-      "comments": 1,
-      "shares": 0,
-      "saves": 58,
-      "engagement_rate": 47.02,
-      "hashtags": [
-        "#beauty",
-        "#beautiful",
-        "#hotgirl",
-        "#prettygirl",
-        "#girl"
-      ],
-      "sound": "\u539f\u58f0 - Lilian",
-      "duration": 10,
-      "posted_date": "2026-04-04",
-      "url": "https://www.tiktok.com/@lilian.aiv/video/7620441986092338433",
-      "hook_format": "other"
+      "usage_count": 22
     },
     {
+      "name": "Originalton",
+      "usage_count": 15
+    },
+    {
+      "name": "son original",
+      "usage_count": 12
+    },
+    {
+      "name": "Zombie - Extended Mix",
+      "usage_count": 9
+    },
+    {
+      "name": "AURA",
+      "usage_count": 6
+    },
+    {
+      "name": "suono originale",
+      "usage_count": 5
+    },
+    {
+      "name": "Nothing Can Be Explained",
+      "usage_count": 5
+    }
+  ],
+  "insights": "Story / narrative content leads with 11.2% avg engagement. Avg engagement: 10.8%. Top: 41.2%. 1045 posts analyzed.",
+  "top_posts": [
+    {
       "author": "@tylerlifts66",
-      "followers": 71000,
+      "followers": 70900,
       "caption": "#fyp #gymtok #abs #natty #20 ",
-      "views": 70400,
-      "likes": 16300,
-      "comments": 36,
-      "shares": 12300,
-      "saves": 1434,
-      "engagement_rate": 42.71,
+      "views": 48100,
+      "likes": 10600,
+      "comments": 29,
+      "shares": 8229,
+      "saves": 960,
+      "engagement_rate": 41.2,
       "hashtags": [
         "#fyp",
         "#gymtok",
@@ -364,99 +280,134 @@
       "sound": "Cool for the summer hoodtrap by Kryd",
       "duration": 5,
       "posted_date": "2026-04-05",
-      "url": "https://www.tiktok.com/@tylerlifts66/video/7625139148780866846",
-      "hook_format": "other"
+      "url": "https://www.tiktok.com/@tylerlifts66/video/7625139148780866846"
     },
     {
-      "author": "@kokashiwagz",
-      "followers": 12000,
-      "caption": "I put a spell on you\n#steak #cookwithme #mencooking #datenight #healthylifestyle ",
-      "views": 135100,
-      "likes": 34100,
-      "comments": 142,
-      "shares": 7409,
-      "saves": 3741,
-      "engagement_rate": 33.6,
+      "author": "@xen.grace",
+      "followers": 3668,
+      "caption": "#TikTokCreatorSearchInsightsIncentive #GymTok #FitnessMotivation #GymGirl #fyp ",
+      "views": 602300,
+      "likes": 235500,
+      "comments": 51,
+      "shares": 530,
+      "saves": 4123,
+      "engagement_rate": 39.88,
       "hashtags": [
-        "#steak",
-        "#cookwithme",
-        "#mencooking",
-        "#datenight",
-        "#healthylifestyle"
+        "#tiktokcreatorsearchinsightsincentive",
+        "#gymtok",
+        "#fitnessmotivation",
+        "#gymgirl",
+        "#fyp"
       ],
-      "sound": "You Put a Spell on Me",
-      "duration": 57,
-      "posted_date": "2026-04-02",
-      "url": "https://www.tiktok.com/@kokashiwagz/video/7624039600071232789",
-      "hook_format": "other"
-    },
-    {
-      "author": "@skylebee",
-      "followers": 139100,
-      "caption": "Date night makeup\ud83d\udc9d                                        @Charlotte Tilbury @Makeup By Mario @milkmakeup @Kosas @NARS Cosmetics @YSL Beauty @Too Faced @Painted @Morphe Cosmetics @Diorbeauty ",
-      "views": 10900,
-      "likes": 2369,
-      "comments": 39,
-      "shares": 115,
-      "saves": 790,
-      "engagement_rate": 30.39,
-      "hashtags": [
-        "#",
-        "#",
-        "#",
-        "#",
-        "#",
-        "#",
-        "#",
-        "#"
-      ],
-      "sound": "original sound",
-      "duration": 404,
-      "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@skylebee/video/7625746450923736333",
-      "hook_format": "other"
-    },
-    {
-      "author": "@sarahadekolaspeaks",
-      "followers": 83500,
-      "caption": "Start thinking about the psychology of selling to the rich.\nApply the five principles I covered in this video.\n\nIf you want content on getting better at business, improving your finances, and actually",
-      "views": 223500,
-      "likes": 41500,
-      "comments": 878,
-      "shares": 6065,
-      "saves": 19190,
-      "engagement_rate": 30.26,
-      "hashtags": [
-        "#sarahadekola",
-        "#habits"
-      ],
-      "sound": "original sound",
-      "duration": 370,
+      "sound": "Lovely",
+      "duration": 26,
       "posted_date": "2026-01-19",
-      "url": "https://www.tiktok.com/@sarahadekolaspeaks/video/7597137469133327638",
-      "hook_format": "other"
+      "url": "https://www.tiktok.com/@xen.grace/video/7597125418415590670"
     },
     {
-      "author": "@we.gettin_fitty",
-      "followers": 74800,
-      "caption": "I was a lil bit too motivated #notwhatwefinnado #fypage #workout #WorldPrincessWeek ",
-      "views": 650200,
-      "likes": 183600,
-      "comments": 819,
-      "shares": 1452,
-      "saves": 8046,
-      "engagement_rate": 29.82,
+      "author": "@stapha2",
+      "followers": 486,
+      "caption": "Yes I wrote my name on my gallon #GymTok #viral #gym #physique\n#fyp",
+      "views": 1100000,
+      "likes": 323100,
+      "comments": 2142,
+      "shares": 29800,
+      "saves": 11000,
+      "engagement_rate": 33.28,
       "hashtags": [
-        "#notwhatwefinnado",
-        "#fypage",
-        "#workout",
-        "#worldprincessweek"
+        "#gymtok",
+        "#viral",
+        "#gym",
+        "#physique",
+        "#fyp"
+      ],
+      "sound": "TRIP QueMIX Jacquees",
+      "duration": 20,
+      "posted_date": "2026-01-05",
+      "url": "https://www.tiktok.com/@stapha2/video/7592000271018937655"
+    },
+    {
+      "author": "@iisaiahnana",
+      "followers": 208300,
+      "caption": "this is your last chance. the time is now or never. LOCK IN! \ud83e\uddcf\ud83c\udffe\u200d\u2642\ufe0f #fyp\u30b7 #gymtok ",
+      "views": 84500,
+      "likes": 21700,
+      "comments": 1070,
+      "shares": 3251,
+      "saves": 1722,
+      "engagement_rate": 32.83,
+      "hashtags": [
+        "#fyp\u30b7",
+        "#gymtok"
       ],
       "sound": "original sound",
-      "duration": 6,
-      "posted_date": "2022-08-22",
-      "url": "https://www.tiktok.com/@we.gettin_fitty/video/7134766812666940715",
-      "hook_format": "other"
+      "duration": 71,
+      "posted_date": "2026-03-02",
+      "url": "https://www.tiktok.com/@iisaiahnana/video/7612732055197207839"
+    },
+    {
+      "author": "@healthyfit50s",
+      "followers": 54100,
+      "caption": "#5am #gymtime #gymtok #gymtiktok #letsgo",
+      "views": 273,
+      "likes": 60,
+      "comments": 17,
+      "shares": 5,
+      "saves": 7,
+      "engagement_rate": 32.6,
+      "hashtags": [
+        "#5am",
+        "#gymtime",
+        "#gymtok",
+        "#gymtiktok",
+        "#letsgo"
+      ],
+      "sound": "High Cherry",
+      "duration": 17,
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@healthyfit50s/video/7625617337189747982"
+    },
+    {
+      "author": "@small_baki",
+      "followers": 13800,
+      "caption": "At this point I\u2019ll just do everything frl \n||\n#gym #fyp #gymtok #aesthetic #discipline ",
+      "views": 13900,
+      "likes": 2970,
+      "comments": 32,
+      "shares": 850,
+      "saves": 579,
+      "engagement_rate": 31.88,
+      "hashtags": [
+        "#gym",
+        "#fyp",
+        "#gymtok",
+        "#aesthetic",
+        "#discipline"
+      ],
+      "sound": "original sound",
+      "duration": 9,
+      "posted_date": "2026-03-11",
+      "url": "https://www.tiktok.com/@small_baki/video/7615853043598396690"
+    },
+    {
+      "author": "@forgedwill",
+      "followers": 82000,
+      "caption": "Gym audios. Part 367. playlist in bio. #ForgedWill #Gymaudio #GymTok ",
+      "views": 11700,
+      "likes": 2873,
+      "comments": 13,
+      "shares": 164,
+      "saves": 531,
+      "engagement_rate": 30.61,
+      "hashtags": [
+        "#forgedwill",
+        "#gymaudio",
+        "#gymtok"
+      ],
+      "sound": "original sound",
+      "duration": 46,
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@forgedwill/video/7625560249772133654"
     },
     {
       "author": "@we.gettin_fitty",
@@ -477,96 +428,51 @@
       "sound": "original sound",
       "duration": 6,
       "posted_date": "2022-08-22",
-      "url": "https://www.tiktok.com/@we.gettin_fitty/video/7134766812666940715",
-      "hook_format": "other"
+      "url": "https://www.tiktok.com/@we.gettin_fitty/video/7134766812666940715"
     },
     {
-      "author": "@bianca.buysbusiness",
-      "followers": 29100,
-      "caption": "send this to someone who says they\u2019re gonna start a business but hasn\u2019t! \n\n#entrepreneur #resell #businesstips #sales #fyp ",
-      "views": 219400,
-      "likes": 39100,
-      "comments": 123,
-      "shares": 4278,
-      "saves": 20696,
-      "engagement_rate": 29.26,
+      "author": "@we.gettin_fitty",
+      "followers": 74800,
+      "caption": "I was a lil bit too motivated #notwhatwefinnado #fypage #workout #WorldPrincessWeek ",
+      "views": 650200,
+      "likes": 183600,
+      "comments": 815,
+      "shares": 1452,
+      "saves": 8046,
+      "engagement_rate": 29.82,
       "hashtags": [
-        "#entrepreneur",
-        "#resell",
-        "#businesstips",
-        "#sales",
-        "#fyp"
+        "#notwhatwefinnado",
+        "#fypage",
+        "#workout",
+        "#worldprincessweek"
       ],
       "sound": "original sound",
-      "duration": 68,
-      "posted_date": "2026-02-12",
-      "url": "https://www.tiktok.com/@bianca.buysbusiness/video/7605838265077255444",
-      "hook_format": "other"
+      "duration": 6,
+      "posted_date": "2022-08-22",
+      "url": "https://www.tiktok.com/@we.gettin_fitty/video/7134766812666940715"
     },
     {
-      "author": "@tysonsmithrei",
-      "followers": 127800,
-      "caption": "The quixkest way to make $20,000 a month WITH your best friend #makemoney #realestate #foryou ",
-      "views": 1700000,
-      "likes": 257400,
-      "comments": 3524,
-      "shares": 77800,
-      "saves": 158282,
-      "engagement_rate": 29.24,
-      "hashtags": [
-        "#makemoney",
-        "#realestate",
-        "#foryou"
-      ],
-      "sound": "original sound",
-      "duration": 218,
-      "posted_date": "2024-06-25",
-      "url": "https://www.tiktok.com/@tysonsmithrei/video/7384468346189663530",
-      "hook_format": "other"
-    },
-    {
-      "author": "@tysonsmithrei",
-      "followers": 127800,
-      "caption": "The quixkest way to make $20,000 a month WITH your best friend #makemoney #realestate #foryou ",
-      "views": 1700000,
-      "likes": 257500,
-      "comments": 3531,
-      "shares": 77800,
-      "saves": 158291,
-      "engagement_rate": 29.24,
-      "hashtags": [
-        "#makemoney",
-        "#realestate",
-        "#foryou"
-      ],
-      "sound": "original sound",
-      "duration": 218,
-      "posted_date": "2024-06-25",
-      "url": "https://www.tiktok.com/@tysonsmithrei/video/7384468346189663530",
-      "hook_format": "other"
-    },
-    {
-      "author": "@saraiyyah",
-      "followers": 6393,
-      "caption": "26 degrees outside but I dragged myself out of bed and went to the gym #gym #weightlossprogress #weightlossjouney #gymtok #losingweight ",
-      "views": 1800000,
-      "likes": 452500,
-      "comments": 1026,
-      "shares": 20600,
-      "saves": 46930,
-      "engagement_rate": 28.95,
+      "author": "@cody.lifts07",
+      "followers": 115500,
+      "caption": "10/10 pump #gym #gymmotivation #gymtok #muscles #biceps #17 ",
+      "views": 209000,
+      "likes": 43100,
+      "comments": 219,
+      "shares": 14000,
+      "saves": 4375,
+      "engagement_rate": 29.52,
       "hashtags": [
         "#gym",
-        "#weightlossprogress",
-        "#weightlossjouney",
+        "#gymmotivation",
         "#gymtok",
-        "#losingweight"
+        "#muscles",
+        "#biceps",
+        "#17"
       ],
       "sound": "original sound",
-      "duration": 17,
-      "posted_date": "2025-01-13",
-      "url": "https://www.tiktok.com/@saraiyyah/video/7459222867775933742",
-      "hook_format": "other"
+      "duration": 16,
+      "posted_date": "2025-06-22",
+      "url": "https://www.tiktok.com/@cody.lifts07/video/7518898932915653919"
     },
     {
       "author": "@saraiyyah",
@@ -588,78 +494,91 @@
       "sound": "original sound",
       "duration": 17,
       "posted_date": "2025-01-13",
-      "url": "https://www.tiktok.com/@saraiyyah/video/7459222867775933742",
-      "hook_format": "other"
+      "url": "https://www.tiktok.com/@saraiyyah/video/7459222867775933742"
     },
     {
-      "author": "@s0phssparkles",
-      "followers": 259,
-      "caption": "i love cheese #cheese #relatable #foodtok #cheeseychips #iloveitiloveitiloveit ",
-      "views": 2100000,
-      "likes": 480200,
-      "comments": 1201,
-      "shares": 93500,
-      "saves": 18242,
-      "engagement_rate": 28.24,
+      "author": "@saraiyyah",
+      "followers": 6393,
+      "caption": "26 degrees outside but I dragged myself out of bed and went to the gym #gym #weightlossprogress #weightlossjouney #gymtok #losingweight ",
+      "views": 1800000,
+      "likes": 452500,
+      "comments": 1020,
+      "shares": 20600,
+      "saves": 46930,
+      "engagement_rate": 28.95,
       "hashtags": [
-        "#cheese",
-        "#relatable",
-        "#foodtok",
-        "#cheeseychips",
-        "#iloveitiloveitiloveit"
+        "#gym",
+        "#weightlossprogress",
+        "#weightlossjouney",
+        "#gymtok",
+        "#losingweight"
       ],
-      "sound": "iloveitiloveitiloveit",
-      "duration": 14,
-      "posted_date": "2026-04-02",
-      "url": "https://www.tiktok.com/@s0phssparkles/video/7624160916476595478",
-      "hook_format": "other"
+      "sound": "original sound",
+      "duration": 17,
+      "posted_date": "2025-01-13",
+      "url": "https://www.tiktok.com/@saraiyyah/video/7459222867775933742"
     },
     {
-      "author": "@s0phssparkles",
-      "followers": 258,
-      "caption": "i love cheese #cheese #relatable #foodtok #cheeseychips #iloveitiloveitiloveit ",
-      "views": 2100000,
-      "likes": 480000,
-      "comments": 1198,
-      "shares": 93400,
-      "saves": 18232,
-      "engagement_rate": 28.23,
+      "author": "@saraiyyah",
+      "followers": 6392,
+      "caption": "26 degrees outside but I dragged myself out of bed and went to the gym #gym #weightlossprogress #weightlossjouney #gymtok #losingweight ",
+      "views": 1800000,
+      "likes": 452400,
+      "comments": 1020,
+      "shares": 20600,
+      "saves": 46927,
+      "engagement_rate": 28.94,
       "hashtags": [
-        "#cheese",
-        "#relatable",
-        "#foodtok",
-        "#cheeseychips",
-        "#iloveitiloveitiloveit"
+        "#gym",
+        "#weightlossprogress",
+        "#weightlossjouney",
+        "#gymtok",
+        "#losingweight"
       ],
-      "sound": "iloveitiloveitiloveit",
-      "duration": 14,
-      "posted_date": "2026-04-02",
-      "url": "https://www.tiktok.com/@s0phssparkles/video/7624160916476595478",
-      "hook_format": "other"
+      "sound": "original sound",
+      "duration": 17,
+      "posted_date": "2025-01-13",
+      "url": "https://www.tiktok.com/@saraiyyah/video/7459222867775933742"
     },
     {
-      "author": "@madellabeauty",
-      "followers": 5736,
-      "caption": "#makeuptutorial #aoramakeup #nycmua #makeup #beautytok @Aora Makeup US ",
-      "views": 32,
-      "likes": 4,
-      "comments": 3,
-      "shares": 1,
-      "saves": 1,
-      "engagement_rate": 28.12,
+      "author": "@yangto1406",
+      "followers": 57500,
+      "caption": "#gym #fpy #gymtok ",
+      "views": 3500000,
+      "likes": 709300,
+      "comments": 7794,
+      "shares": 171700,
+      "saves": 87288,
+      "engagement_rate": 27.89,
       "hashtags": [
-        "#makeuptutorial",
-        "#aoramakeup",
-        "#nycmua",
-        "#makeup",
-        "#beautytok",
-        "#"
+        "#gym",
+        "#fpy",
+        "#gymtok"
       ],
-      "sound": "Chilling smooth Jazz music at Jazz lounge, jazz club or nice cafe(1379705)",
-      "duration": 68,
-      "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@madellabeauty/video/7625733682225089806",
-      "hook_format": "other"
+      "sound": "suara asli - Nadyaa'woorld\ud83d\udc9e",
+      "duration": 9,
+      "posted_date": "2026-03-12",
+      "url": "https://www.tiktok.com/@yangto1406/video/7616339881425489173"
+    },
+    {
+      "author": "@ysaberla",
+      "followers": 90100,
+      "caption": "Your reminder to not skip the gym \ud83e\udd2d #fitnessjourney #legdayworkout #fyp ",
+      "views": 225200,
+      "likes": 54600,
+      "comments": 202,
+      "shares": 3211,
+      "saves": 4735,
+      "engagement_rate": 27.86,
+      "hashtags": [
+        "#fitnessjourney",
+        "#legdayworkout",
+        "#fyp"
+      ],
+      "sound": "VAMO L\u00c1 (SLOWED + REVERB)",
+      "duration": 13,
+      "posted_date": "2026-03-16",
+      "url": "https://www.tiktok.com/@ysaberla/video/7617947051451534605"
     }
   ]
 }
