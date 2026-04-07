@@ -1,0 +1,554 @@
+{
+  "platform": "TikTok",
+  "platform_key": "tiktok",
+  "month": "April",
+  "year": 2026,
+  "niche": "lifestyle",
+  "generated_at": "2026-04-07T21:19:04.870888",
+  "data_points_analyzed": 100,
+  "viral_posts_found": 99,
+  "hooks": [],
+  "best_times": [
+    {
+      "day": "Sunday",
+      "time": "Peak",
+      "engagement_avg": 20.2,
+      "sample_size": 18
+    },
+    {
+      "day": "Wednesday",
+      "time": "Peak",
+      "engagement_avg": 19.9,
+      "sample_size": 5
+    },
+    {
+      "day": "Saturday",
+      "time": "Peak",
+      "engagement_avg": 19.3,
+      "sample_size": 11
+    },
+    {
+      "day": "Monday",
+      "time": "Peak",
+      "engagement_avg": 18.8,
+      "sample_size": 32
+    },
+    {
+      "day": "Tuesday",
+      "time": "Peak",
+      "engagement_avg": 18.1,
+      "sample_size": 20
+    },
+    {
+      "day": "Thursday",
+      "time": "Peak",
+      "engagement_avg": 15.8,
+      "sample_size": 5
+    },
+    {
+      "day": "Friday",
+      "time": "Peak",
+      "engagement_avg": 12.4,
+      "sample_size": 8
+    }
+  ],
+  "hashtags": [
+    {
+      "tag": "#relatable",
+      "usage_count": 78,
+      "avg_views": 1388652
+    },
+    {
+      "tag": "#fyp",
+      "usage_count": 58,
+      "avg_views": 1384523
+    },
+    {
+      "tag": "#viral",
+      "usage_count": 29,
+      "avg_views": 578972
+    },
+    {
+      "tag": "#real",
+      "usage_count": 15,
+      "avg_views": 1905062
+    },
+    {
+      "tag": "#funny",
+      "usage_count": 15,
+      "avg_views": 652281
+    },
+    {
+      "tag": "#sad",
+      "usage_count": 12,
+      "avg_views": 225483
+    },
+    {
+      "tag": "#foryoupage",
+      "usage_count": 11,
+      "avg_views": 1031645
+    },
+    {
+      "tag": "#xyzbca",
+      "usage_count": 10,
+      "avg_views": 2703383
+    },
+    {
+      "tag": "#repost",
+      "usage_count": 10,
+      "avg_views": 1771283
+    },
+    {
+      "tag": "#fyp\u30b7",
+      "usage_count": 8,
+      "avg_views": 467650
+    },
+    {
+      "tag": "#relateable",
+      "usage_count": 8,
+      "avg_views": 245769
+    },
+    {
+      "tag": "#relatablevideos",
+      "usage_count": 6,
+      "avg_views": 10095
+    },
+    {
+      "tag": "#trending",
+      "usage_count": 6,
+      "avg_views": 341654
+    },
+    {
+      "tag": "#targetaudience",
+      "usage_count": 4,
+      "avg_views": 1413016
+    },
+    {
+      "tag": "#meme",
+      "usage_count": 3,
+      "avg_views": 580634
+    },
+    {
+      "tag": "#pov",
+      "usage_count": 3,
+      "avg_views": 64829
+    },
+    {
+      "tag": "#relatablecontent",
+      "usage_count": 3,
+      "avg_views": 499100
+    },
+    {
+      "tag": "#relatablememes",
+      "usage_count": 3,
+      "avg_views": 1940466
+    },
+    {
+      "tag": "#secretaccount",
+      "usage_count": 3,
+      "avg_views": 37728
+    },
+    {
+      "tag": "#wockst\u2605rz",
+      "usage_count": 3,
+      "avg_views": 24997
+    },
+    {
+      "tag": "#fyppppppppppppppppppppppp",
+      "usage_count": 3,
+      "avg_views": 294300
+    },
+    {
+      "tag": "#fyp\u30b7\u309aviral",
+      "usage_count": 3,
+      "avg_views": 831066
+    },
+    {
+      "tag": "#foryoupag\u0435",
+      "usage_count": 3,
+      "avg_views": 124033
+    },
+    {
+      "tag": "#foryou",
+      "usage_count": 3,
+      "avg_views": 375982
+    },
+    {
+      "tag": "#girls",
+      "usage_count": 3,
+      "avg_views": 631
+    }
+  ],
+  "formats": [
+    {
+      "name": "Story / narrative",
+      "avg_engagement": 17.1,
+      "post_count": 1
+    },
+    {
+      "name": "Question / engagement",
+      "avg_engagement": 14.4,
+      "post_count": 2
+    },
+    {
+      "name": "Challenge / trend",
+      "avg_engagement": 12.9,
+      "post_count": 9
+    }
+  ],
+  "trending_sounds": [
+    {
+      "name": "original sound",
+      "usage_count": 48
+    },
+    {
+      "name": "Pain that Never goes Away",
+      "usage_count": 2
+    },
+    {
+      "name": "Hate Yourself",
+      "usage_count": 2
+    },
+    {
+      "name": "Bell Sound/Temple/Gone/About 10 minutes(846892)",
+      "usage_count": 1
+    },
+    {
+      "name": "Satie \"Gymnopedie\" felt piano(1379072)",
+      "usage_count": 1
+    },
+    {
+      "name": "Waiting For You - Bonus Track",
+      "usage_count": 1
+    },
+    {
+      "name": "Wanna see a magic trick",
+      "usage_count": 1
+    },
+    {
+      "name": "Rags2Riches 2 (feat. Lil Baby)",
+      "usage_count": 1
+    },
+    {
+      "name": "one day i'll change",
+      "usage_count": 1
+    },
+    {
+      "name": "maybe i should kill myself",
+      "usage_count": 1
+    }
+  ],
+  "insights": "Story / narrative content leads with 17.1% avg engagement. Avg engagement: 18.4%. 99 posts analyzed.",
+  "top_posts": [
+    {
+      "author": "@bambi_o7",
+      "followers": 13600,
+      "caption": "#fyp\u30b7 #shamar #relatable #goviral #meme",
+      "views": 999300,
+      "likes": 257500,
+      "comments": 953,
+      "shares": 71500,
+      "saves": 26529,
+      "engagement_rate": 35.67,
+      "hashtags": [
+        "#fyp\u30b7",
+        "#shamar",
+        "#relatable",
+        "#goviral",
+        "#meme"
+      ],
+      "sound": "Bell Sound/Temple/Gone/About 10 minutes(846892)",
+      "duration": 5,
+      "posted_date": "2026-04-05",
+      "url": "https://www.tiktok.com/@bambi_o7/video/7625423486604905759"
+    },
+    {
+      "author": "@skylerrsterling",
+      "followers": 199700,
+      "caption": "#fyp #relatablevideos #real #wya #funny ",
+      "views": 8447,
+      "likes": 2222,
+      "comments": 7,
+      "shares": 320,
+      "saves": 105,
+      "engagement_rate": 31.42,
+      "hashtags": [
+        "#fyp",
+        "#relatablevideos",
+        "#real",
+        "#wya",
+        "#funny"
+      ],
+      "sound": "original sound",
+      "duration": 5,
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@skylerrsterling/video/7626056684942658830"
+    },
+    {
+      "author": "@not.daylen",
+      "followers": 182700,
+      "caption": "\ud83d\ude2d #fyp #viral #relatable #parents ",
+      "views": 207600,
+      "likes": 49600,
+      "comments": 396,
+      "shares": 6367,
+      "saves": 8022,
+      "engagement_rate": 31.01,
+      "hashtags": [
+        "#fyp",
+        "#viral",
+        "#relatable",
+        "#parents"
+      ],
+      "sound": "Satie \"Gymnopedie\" felt piano(1379072)",
+      "duration": 68,
+      "posted_date": "2026-04-04",
+      "url": "https://www.tiktok.com/@not.daylen/video/7624971168495308046"
+    },
+    {
+      "author": "@skylerrsterling",
+      "followers": 199700,
+      "caption": "#fyp #relatablevideos #hg #twin #pov ",
+      "views": 888,
+      "likes": 121,
+      "comments": 3,
+      "shares": 130,
+      "saves": 16,
+      "engagement_rate": 30.41,
+      "hashtags": [
+        "#fyp",
+        "#relatablevideos",
+        "#hg",
+        "#twin",
+        "#pov"
+      ],
+      "sound": "original sound",
+      "duration": 11,
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@skylerrsterling/video/7626018257014738190"
+    },
+    {
+      "author": "@user528398374",
+      "followers": 20800,
+      "caption": "#relatable #fyp ",
+      "views": 230500,
+      "likes": 59700,
+      "comments": 17,
+      "shares": 3444,
+      "saves": 6739,
+      "engagement_rate": 30.33,
+      "hashtags": [
+        "#relatable",
+        "#fyp"
+      ],
+      "sound": "Waiting For You - Bonus Track",
+      "duration": 7,
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@user528398374/video/7625764892196228372"
+    },
+    {
+      "author": "@user3140693849393",
+      "followers": 401,
+      "caption": "And they eat cuz they the birthday #fyp #viral #xyzbca #funny #relatable ",
+      "views": 107100,
+      "likes": 24400,
+      "comments": 175,
+      "shares": 3246,
+      "saves": 3722,
+      "engagement_rate": 29.45,
+      "hashtags": [
+        "#fyp",
+        "#viral",
+        "#xyzbca",
+        "#funny",
+        "#relatable"
+      ],
+      "sound": "Wanna see a magic trick",
+      "duration": 8,
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@user3140693849393/video/7625490025781775646"
+    },
+    {
+      "author": "@_notlikekenny",
+      "followers": 20300,
+      "caption": "#fyp #funny ",
+      "views": 11500,
+      "likes": 2989,
+      "comments": 20,
+      "shares": 195,
+      "saves": 170,
+      "engagement_rate": 29.34,
+      "hashtags": [
+        "#fyp",
+        "#funny"
+      ],
+      "sound": "original sound",
+      "duration": 6,
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@_notlikekenny/video/7625806646677179662"
+    },
+    {
+      "author": "@secretuserr4167",
+      "followers": 358,
+      "caption": "#bodydysphormia #struggle #mentalhealth #relatable #bodypositivity ",
+      "views": 32800,
+      "likes": 8543,
+      "comments": 3,
+      "shares": 159,
+      "saves": 734,
+      "engagement_rate": 28.78,
+      "hashtags": [
+        "#bodydysphormia",
+        "#struggle",
+        "#mentalhealth",
+        "#relatable",
+        "#bodypositivity"
+      ],
+      "sound": "Pain that Never goes Away",
+      "duration": 6,
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@secretuserr4167/video/7625489293250727198"
+    },
+    {
+      "author": "@skylerrsterling",
+      "followers": 199700,
+      "caption": "#fyp #relatablevideos #remember #funny #real ",
+      "views": 3706,
+      "likes": 840,
+      "comments": 13,
+      "shares": 128,
+      "saves": 65,
+      "engagement_rate": 28.22,
+      "hashtags": [
+        "#fyp",
+        "#relatablevideos",
+        "#remember",
+        "#funny",
+        "#real"
+      ],
+      "sound": "Hi",
+      "duration": 6,
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@skylerrsterling/video/7626085323415850254"
+    },
+    {
+      "author": "@jasminelovellll",
+      "followers": 197700,
+      "caption": "My typa girls\ud83e\udd0f\ud83c\udffd\ud83c\udf80 \n#relatable #wellness ",
+      "views": 1200000,
+      "likes": 311400,
+      "comments": 341,
+      "shares": 11900,
+      "saves": 14464,
+      "engagement_rate": 28.18,
+      "hashtags": [
+        "#relatable",
+        "#wellness"
+      ],
+      "sound": "original sound",
+      "duration": 6,
+      "posted_date": "2026-04-04",
+      "url": "https://www.tiktok.com/@jasminelovellll/video/7624990078326017302"
+    },
+    {
+      "author": "@mxxrty1",
+      "followers": 1006,
+      "caption": "ROD WAVE IS TOP 5 #memes #relatable #rodwave #nonchalant #fypviral ",
+      "views": 61000,
+      "likes": 12700,
+      "comments": 72,
+      "shares": 2154,
+      "saves": 1725,
+      "engagement_rate": 27.3,
+      "hashtags": [
+        "#memes",
+        "#relatable",
+        "#rodwave",
+        "#nonchalant",
+        "#fypviral"
+      ],
+      "sound": "Rags2Riches 2 (feat. Lil Baby)",
+      "duration": 8,
+      "posted_date": "2026-04-04",
+      "url": "https://www.tiktok.com/@mxxrty1/video/7625040955778927885"
+    },
+    {
+      "author": "@not.cookieee",
+      "followers": 1100000,
+      "caption": "#fyp #relatable ",
+      "views": 11500000,
+      "likes": 2400000,
+      "comments": 5998,
+      "shares": 414000,
+      "saves": 174131,
+      "engagement_rate": 26.04,
+      "hashtags": [
+        "#fyp",
+        "#relatable"
+      ],
+      "sound": "original sound",
+      "duration": 5,
+      "posted_date": "2026-04-02",
+      "url": "https://www.tiktok.com/@not.cookieee/video/7624314003430444301"
+    },
+    {
+      "author": "@youhurtmedidntyou",
+      "followers": 168,
+      "caption": "#relatable #targetaudience ",
+      "views": 49000,
+      "likes": 11500,
+      "comments": 23,
+      "shares": 192,
+      "saves": 888,
+      "engagement_rate": 25.72,
+      "hashtags": [
+        "#relatable",
+        "#targetaudience"
+      ],
+      "sound": "original sound",
+      "duration": 12,
+      "posted_date": "2026-04-05",
+      "url": "https://www.tiktok.com/@youhurtmedidntyou/video/7625370464797412622"
+    },
+    {
+      "author": "@yared_966",
+      "followers": 2949,
+      "caption": "#fyp #relatable #yared_ ",
+      "views": 153300,
+      "likes": 32200,
+      "comments": 30,
+      "shares": 1610,
+      "saves": 5252,
+      "engagement_rate": 25.5,
+      "hashtags": [
+        "#fyp",
+        "#relatable",
+        "#yared_"
+      ],
+      "sound": "one day i'll change",
+      "duration": 6,
+      "posted_date": "2026-04-01",
+      "url": "https://www.tiktok.com/@yared_966/video/7623631056654191902"
+    },
+    {
+      "author": "@u.dont.know.v",
+      "followers": 17600,
+      "caption": "#fyp #relatable #goviral ",
+      "views": 225300,
+      "likes": 49400,
+      "comments": 9,
+      "shares": 1771,
+      "saves": 4778,
+      "engagement_rate": 24.84,
+      "hashtags": [
+        "#fyp",
+        "#relatable",
+        "#goviral"
+      ],
+      "sound": "original sound",
+      "duration": 5,
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@u.dont.know.v/video/7625638124093328672"
+    }
+  ]
+}

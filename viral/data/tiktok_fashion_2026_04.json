@@ -1,0 +1,584 @@
+{
+  "platform": "TikTok",
+  "platform_key": "tiktok",
+  "month": "April",
+  "year": 2026,
+  "niche": "fashion",
+  "generated_at": "2026-04-07T21:19:04.870888",
+  "data_points_analyzed": 100,
+  "viral_posts_found": 97,
+  "hooks": [],
+  "best_times": [
+    {
+      "day": "Tuesday",
+      "time": "Peak",
+      "engagement_avg": 16.3,
+      "sample_size": 18
+    },
+    {
+      "day": "Thursday",
+      "time": "Peak",
+      "engagement_avg": 11.8,
+      "sample_size": 13
+    },
+    {
+      "day": "Friday",
+      "time": "Peak",
+      "engagement_avg": 11.1,
+      "sample_size": 16
+    },
+    {
+      "day": "Saturday",
+      "time": "Peak",
+      "engagement_avg": 10.6,
+      "sample_size": 14
+    },
+    {
+      "day": "Wednesday",
+      "time": "Peak",
+      "engagement_avg": 10.5,
+      "sample_size": 10
+    },
+    {
+      "day": "Monday",
+      "time": "Peak",
+      "engagement_avg": 9.8,
+      "sample_size": 12
+    },
+    {
+      "day": "Sunday",
+      "time": "Peak",
+      "engagement_avg": 8.0,
+      "sample_size": 14
+    }
+  ],
+  "hashtags": [
+    {
+      "tag": "#ootd",
+      "usage_count": 83,
+      "avg_views": 2332962
+    },
+    {
+      "tag": "#fyp",
+      "usage_count": 40,
+      "avg_views": 1475982
+    },
+    {
+      "tag": "#outfitinspo",
+      "usage_count": 23,
+      "avg_views": 4185625
+    },
+    {
+      "tag": "#viral",
+      "usage_count": 13,
+      "avg_views": 427274
+    },
+    {
+      "tag": "#outfit",
+      "usage_count": 13,
+      "avg_views": 1684071
+    },
+    {
+      "tag": "#foryoupage",
+      "usage_count": 11,
+      "avg_views": 570901
+    },
+    {
+      "tag": "#fyp\u30b7",
+      "usage_count": 9,
+      "avg_views": 1085844
+    },
+    {
+      "tag": "#outfitideas",
+      "usage_count": 8,
+      "avg_views": 4263162
+    },
+    {
+      "tag": "#foryou",
+      "usage_count": 7,
+      "avg_views": 3199659
+    },
+    {
+      "tag": "#fitcheck",
+      "usage_count": 7,
+      "avg_views": 1711514
+    },
+    {
+      "tag": "#fashiontiktok",
+      "usage_count": 7,
+      "avg_views": 3786978
+    },
+    {
+      "tag": "#grwm",
+      "usage_count": 6,
+      "avg_views": 9167700
+    },
+    {
+      "tag": "#fashion",
+      "usage_count": 4,
+      "avg_views": 2632087
+    },
+    {
+      "tag": "#trending",
+      "usage_count": 3,
+      "avg_views": 424200
+    },
+    {
+      "tag": "#outfitcheck",
+      "usage_count": 3,
+      "avg_views": 185601
+    },
+    {
+      "tag": "#fashioninspo",
+      "usage_count": 3,
+      "avg_views": 446566
+    },
+    {
+      "tag": "#streetwear",
+      "usage_count": 3,
+      "avg_views": 6735800
+    },
+    {
+      "tag": "#xyzbca",
+      "usage_count": 3,
+      "avg_views": 2045200
+    },
+    {
+      "tag": "#trend",
+      "usage_count": 3,
+      "avg_views": 406266
+    },
+    {
+      "tag": "#nyc",
+      "usage_count": 3,
+      "avg_views": 148700
+    },
+    {
+      "tag": "#styleinspo",
+      "usage_count": 2,
+      "avg_views": 550265
+    },
+    {
+      "tag": "#schooloutfit",
+      "usage_count": 2,
+      "avg_views": 2577900
+    },
+    {
+      "tag": "#dance",
+      "usage_count": 2,
+      "avg_views": 238550
+    },
+    {
+      "tag": "#fyp\u30b7\u309aviral",
+      "usage_count": 2,
+      "avg_views": 636300
+    },
+    {
+      "tag": "#outfitinspiration",
+      "usage_count": 2,
+      "avg_views": 12733
+    }
+  ],
+  "formats": [
+    {
+      "name": "Before/after",
+      "avg_engagement": 19.2,
+      "post_count": 2
+    },
+    {
+      "name": "Challenge / trend",
+      "avg_engagement": 12.9,
+      "post_count": 9
+    },
+    {
+      "name": "Educational / tips",
+      "avg_engagement": 7.6,
+      "post_count": 3
+    },
+    {
+      "name": "Question / engagement",
+      "avg_engagement": 6.2,
+      "post_count": 1
+    }
+  ],
+  "trending_sounds": [
+    {
+      "name": "original sound",
+      "usage_count": 45
+    },
+    {
+      "name": "sonido original",
+      "usage_count": 4
+    },
+    {
+      "name": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0432\u0443\u043a",
+      "usage_count": 3
+    },
+    {
+      "name": "BIZCOCHITO",
+      "usage_count": 2
+    },
+    {
+      "name": "Fuck & Get High",
+      "usage_count": 1
+    },
+    {
+      "name": "Otsukare Summer",
+      "usage_count": 1
+    },
+    {
+      "name": "Planet Drool",
+      "usage_count": 1
+    },
+    {
+      "name": "TIT FOR TAT",
+      "usage_count": 1
+    },
+    {
+      "name": "Missed Call",
+      "usage_count": 1
+    },
+    {
+      "name": "Toe Tag",
+      "usage_count": 1
+    }
+  ],
+  "insights": "Before/after content leads with 19.2% avg engagement. Avg engagement: 11.4%. 97 posts analyzed.",
+  "top_posts": [
+    {
+      "author": "@ramiiiiii67",
+      "followers": 15100,
+      "caption": "Pocket kitten\n\n#ramiii #styleinspo #outfitinspo #ootd #fyp\u30b7 ",
+      "views": 1100000,
+      "likes": 355900,
+      "comments": 232,
+      "shares": 60300,
+      "saves": 17113,
+      "engagement_rate": 39.41,
+      "hashtags": [
+        "#ramiii",
+        "#styleinspo",
+        "#outfitinspo",
+        "#ootd",
+        "#fyp\u30b7"
+      ],
+      "sound": "Fuck & Get High",
+      "duration": 9,
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@ramiiiiii67/video/7625815477926857998"
+    },
+    {
+      "author": "@iknownat",
+      "followers": 50000,
+      "caption": "comfy school outfit #schooloutfit #ootd #comfyfit #schoolfits #dance ",
+      "views": 155800,
+      "likes": 40600,
+      "comments": 91,
+      "shares": 932,
+      "saves": 3735,
+      "engagement_rate": 29.11,
+      "hashtags": [
+        "#schooloutfit",
+        "#ootd",
+        "#comfyfit",
+        "#schoolfits",
+        "#dance"
+      ],
+      "sound": "Otsukare Summer",
+      "duration": 9,
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@iknownat/video/7625835446244855053"
+    },
+    {
+      "author": "@iknownat",
+      "followers": 50000,
+      "caption": "the glasses the song the fit #swagcheck #ootd #outfitinspo #pinterest #fyp\u30b7\u309aviral ",
+      "views": 1000000,
+      "likes": 250200,
+      "comments": 448,
+      "shares": 7458,
+      "saves": 27559,
+      "engagement_rate": 28.57,
+      "hashtags": [
+        "#swagcheck",
+        "#ootd",
+        "#outfitinspo",
+        "#pinterest",
+        "#fyp\u30b7\u309aviral"
+      ],
+      "sound": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0432\u0443\u043a",
+      "duration": 15,
+      "posted_date": "2026-04-02",
+      "url": "https://www.tiktok.com/@iknownat/video/7624014275081784590"
+    },
+    {
+      "author": "@pain_in_muh_clihhh",
+      "followers": 22600,
+      "caption": "Thought id try this trend cause why not #ootd #dance #viral #pretty #trendy ",
+      "views": 321300,
+      "likes": 66500,
+      "comments": 222,
+      "shares": 8051,
+      "saves": 12980,
+      "engagement_rate": 27.31,
+      "hashtags": [
+        "#ootd",
+        "#dance",
+        "#viral",
+        "#pretty",
+        "#trendy"
+      ],
+      "sound": "original sound",
+      "duration": 6,
+      "posted_date": "2026-03-28",
+      "url": "https://www.tiktok.com/@pain_in_muh_clihhh/video/7622390061560040734"
+    },
+    {
+      "author": "@tatatelii",
+      "followers": 566000,
+      "caption": "I didn\u2019t realize the girls were peeking through \ud83d\udc80 #ootd #plussize #selflove #bodyconfidence #putiton #plussizefashion #transformation #bodypositivity ",
+      "views": 979200,
+      "likes": 246100,
+      "comments": 1327,
+      "shares": 352,
+      "saves": 8142,
+      "engagement_rate": 26.14,
+      "hashtags": [
+        "#ootd",
+        "#plussize",
+        "#selflove",
+        "#bodyconfidence",
+        "#putiton",
+        "#plussizefashion",
+        "#transformation",
+        "#bodypositivity"
+      ],
+      "sound": "BIZCOCHITO",
+      "duration": 53,
+      "posted_date": "2022-09-03",
+      "url": "https://www.tiktok.com/@tatatelii/video/7138964947920309550"
+    },
+    {
+      "author": "@ohshithtsza",
+      "followers": 3340,
+      "caption": "OOTD \ud83d\udc40\ud83d\udc40\n#fyp #fyp\u30b7 #viral #ootd #trending ",
+      "views": 682800,
+      "likes": 132600,
+      "comments": 534,
+      "shares": 11200,
+      "saves": 25196,
+      "engagement_rate": 24.83,
+      "hashtags": [
+        "#fyp",
+        "#fyp\u30b7",
+        "#viral",
+        "#ootd",
+        "#trending"
+      ],
+      "sound": "Planet Drool",
+      "duration": 14,
+      "posted_date": "2026-03-30",
+      "url": "https://www.tiktok.com/@ohshithtsza/video/7622932871057034527"
+    },
+    {
+      "author": "@matildemmcaetano",
+      "followers": 3787,
+      "caption": "Outfit of the day\ud83e\udde1\n#outfitinspo #outfit #outfitinspiration #outfitoftheday #outfitcheck ",
+      "views": 767,
+      "likes": 137,
+      "comments": 44,
+      "shares": 0,
+      "saves": 5,
+      "engagement_rate": 24.25,
+      "hashtags": [
+        "#outfitinspo",
+        "#outfit",
+        "#outfitinspiration",
+        "#outfitoftheday",
+        "#outfitcheck"
+      ],
+      "sound": "TIT FOR TAT",
+      "duration": 7,
+      "posted_date": "2025-11-14",
+      "url": "https://www.tiktok.com/@matildemmcaetano/video/7572721020948237601"
+    },
+    {
+      "author": "@fridamttz",
+      "followers": 2420,
+      "caption": "\ud83c\udf38.                                                                     #ootd                                                     #girls                    @Anubiis ",
+      "views": 1366,
+      "likes": 297,
+      "comments": 8,
+      "shares": 3,
+      "saves": 23,
+      "engagement_rate": 24.23,
+      "hashtags": [
+        "#ootd",
+        "#girls",
+        "#"
+      ],
+      "sound": "sonido original",
+      "duration": 7,
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@fridamttz/video/7625877884745370888"
+    },
+    {
+      "author": "@aphexity",
+      "followers": 7822,
+      "caption": "today\u2019s ootd what do we think \ud83d\ude1b\ud83d\ude1b\ud83d\ude1b #fashioninspo #ootd #outfitideas #outfitinspo #streetwear ",
+      "views": 254500,
+      "likes": 50300,
+      "comments": 148,
+      "shares": 829,
+      "saves": 7042,
+      "engagement_rate": 22.92,
+      "hashtags": [
+        "#fashioninspo",
+        "#ootd",
+        "#outfitideas",
+        "#outfitinspo",
+        "#streetwear"
+      ],
+      "sound": "original sound",
+      "duration": 15,
+      "posted_date": "2026-03-31",
+      "url": "https://www.tiktok.com/@aphexity/video/7623341884240448790"
+    },
+    {
+      "author": "@laurennmadi",
+      "followers": 9561,
+      "caption": "#OOTD #xyzbca #outfitinspo #fit #fyp\u30b7 ",
+      "views": 594100,
+      "likes": 111400,
+      "comments": 120,
+      "shares": 1572,
+      "saves": 9665,
+      "engagement_rate": 20.66,
+      "hashtags": [
+        "#ootd",
+        "#xyzbca",
+        "#outfitinspo",
+        "#fit",
+        "#fyp\u30b7"
+      ],
+      "sound": "original sound",
+      "duration": 10,
+      "posted_date": "2026-03-20",
+      "url": "https://www.tiktok.com/@laurennmadi/video/7619376675595324702"
+    },
+    {
+      "author": "@enxviie",
+      "followers": 72000,
+      "caption": "<3 winter #ootdfashion #outfit #winter #winterfit #alternative #alt #fyp #xyzbca ",
+      "views": 5400000,
+      "likes": 920700,
+      "comments": 2682,
+      "shares": 30000,
+      "saves": 128378,
+      "engagement_rate": 20.03,
+      "hashtags": [
+        "#ootdfashion",
+        "#outfit",
+        "#winter",
+        "#winterfit",
+        "#alternative",
+        "#alt",
+        "#fyp",
+        "#xyzbca"
+      ],
+      "sound": "original sound",
+      "duration": 13,
+      "posted_date": "2025-11-19",
+      "url": "https://www.tiktok.com/@enxviie/video/7574226095185104141"
+    },
+    {
+      "author": "@uluvaves",
+      "followers": 40500,
+      "caption": "super cute lil ootd fully fitted in brandy \ud83c\udf53\ud83d\udc8c\ud83c\udf75 so excited to finally be seeing my beauty room come to life! Vanity is otw \ud83d\udce6\u2b50\ufe0f\n\n#ootd #fitchecks #brandy #brandymelville #ootdinspo ",
+      "views": 626,
+      "likes": 110,
+      "comments": 2,
+      "shares": 5,
+      "saves": 2,
+      "engagement_rate": 19.01,
+      "hashtags": [
+        "#ootd",
+        "#fitchecks",
+        "#brandy",
+        "#brandymelville",
+        "#ootdinspo"
+      ],
+      "sound": "original sound",
+      "duration": 9,
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@uluvaves/video/7625808761004821791"
+    },
+    {
+      "author": "@jbae._.spam",
+      "followers": 4469,
+      "caption": "#ootd #youngho#stunnagirl",
+      "views": 660800,
+      "likes": 102700,
+      "comments": 595,
+      "shares": 3157,
+      "saves": 12996,
+      "engagement_rate": 18.08,
+      "hashtags": [
+        "#ootd",
+        "#youngho",
+        "#stunnagirl"
+      ],
+      "sound": "original sound",
+      "duration": 6,
+      "posted_date": "2026-03-23",
+      "url": "https://www.tiktok.com/@jbae._.spam/video/7620430630169382157"
+    },
+    {
+      "author": "@oliviaa.curtisss",
+      "followers": 87600,
+      "caption": "treaty oak I love you \ud83d\ude17                   #OOTD #foryou #fyp #fypviral\u30b7 #foryoupage #westernstyle #ariat #foryoupage #fyp\u30b7 #foryoupageofficiall #treatyoakrevival ",
+      "views": 1200000,
+      "likes": 196300,
+      "comments": 513,
+      "shares": 3180,
+      "saves": 16356,
+      "engagement_rate": 18.03,
+      "hashtags": [
+        "#ootd",
+        "#foryou",
+        "#fyp",
+        "#fypviral\u30b7",
+        "#foryoupage",
+        "#westernstyle",
+        "#ariat",
+        "#foryoupage"
+      ],
+      "sound": "Missed Call",
+      "duration": 14,
+      "posted_date": "2025-05-15",
+      "url": "https://www.tiktok.com/@oliviaa.curtisss/video/7504766472380534059"
+    },
+    {
+      "author": "@.danniellablan",
+      "followers": 757,
+      "caption": "#outfitinspo #OOTD #fyp #viral #relatable ",
+      "views": 539,
+      "likes": 87,
+      "comments": 6,
+      "shares": 0,
+      "saves": 3,
+      "engagement_rate": 17.81,
+      "hashtags": [
+        "#outfitinspo",
+        "#ootd",
+        "#fyp",
+        "#viral",
+        "#relatable"
+      ],
+      "sound": "Toe Tag",
+      "duration": 7,
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@.danniellablan/video/7625806898624826654"
+    }
+  ]
+}

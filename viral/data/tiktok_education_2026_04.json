@@ -1,0 +1,587 @@
+{
+  "platform": "TikTok",
+  "platform_key": "tiktok",
+  "month": "April",
+  "year": 2026,
+  "niche": "education",
+  "generated_at": "2026-04-07T21:19:04.870888",
+  "data_points_analyzed": 100,
+  "viral_posts_found": 99,
+  "hooks": [],
+  "best_times": [
+    {
+      "day": "Thursday",
+      "time": "Peak",
+      "engagement_avg": 10.9,
+      "sample_size": 17
+    },
+    {
+      "day": "Sunday",
+      "time": "Peak",
+      "engagement_avg": 9.6,
+      "sample_size": 11
+    },
+    {
+      "day": "Saturday",
+      "time": "Peak",
+      "engagement_avg": 9.5,
+      "sample_size": 8
+    },
+    {
+      "day": "Monday",
+      "time": "Peak",
+      "engagement_avg": 9.0,
+      "sample_size": 9
+    },
+    {
+      "day": "Friday",
+      "time": "Peak",
+      "engagement_avg": 8.7,
+      "sample_size": 14
+    },
+    {
+      "day": "Wednesday",
+      "time": "Peak",
+      "engagement_avg": 8.7,
+      "sample_size": 19
+    },
+    {
+      "day": "Tuesday",
+      "time": "Peak",
+      "engagement_avg": 7.6,
+      "sample_size": 21
+    }
+  ],
+  "hashtags": [
+    {
+      "tag": "#learnontiktok",
+      "usage_count": 81,
+      "avg_views": 8326425
+    },
+    {
+      "tag": "#fyp",
+      "usage_count": 19,
+      "avg_views": 14475589
+    },
+    {
+      "tag": "#foryou",
+      "usage_count": 12,
+      "avg_views": 16954241
+    },
+    {
+      "tag": "#lifehacks",
+      "usage_count": 10,
+      "avg_views": 10254780
+    },
+    {
+      "tag": "#viral",
+      "usage_count": 9,
+      "avg_views": 8908722
+    },
+    {
+      "tag": "#science",
+      "usage_count": 7,
+      "avg_views": 24283612
+    },
+    {
+      "tag": "#tiktokpartner",
+      "usage_count": 6,
+      "avg_views": 4366250
+    },
+    {
+      "tag": "#factsyoudidntknow",
+      "usage_count": 6,
+      "avg_views": 6589283
+    },
+    {
+      "tag": "#tiktoktips",
+      "usage_count": 5,
+      "avg_views": 3570660
+    },
+    {
+      "tag": "#educational",
+      "usage_count": 5,
+      "avg_views": 4754300
+    },
+    {
+      "tag": "#satisfying",
+      "usage_count": 5,
+      "avg_views": 40900000
+    },
+    {
+      "tag": "#diy",
+      "usage_count": 5,
+      "avg_views": 25860000
+    },
+    {
+      "tag": "#tiktoklearningcampaign",
+      "usage_count": 4,
+      "avg_views": 1963750
+    },
+    {
+      "tag": "#psychology",
+      "usage_count": 4,
+      "avg_views": 1006075
+    },
+    {
+      "tag": "#didyouknow",
+      "usage_count": 4,
+      "avg_views": 1900238
+    },
+    {
+      "tag": "#edutok",
+      "usage_count": 4,
+      "avg_views": 855142
+    },
+    {
+      "tag": "#fyp\u30b7",
+      "usage_count": 4,
+      "avg_views": 2097850
+    },
+    {
+      "tag": "#tips",
+      "usage_count": 4,
+      "avg_views": 40050000
+    },
+    {
+      "tag": "#randomfacts",
+      "usage_count": 4,
+      "avg_views": 8564925
+    },
+    {
+      "tag": "#animals",
+      "usage_count": 3,
+      "avg_views": 3535466
+    },
+    {
+      "tag": "#momsoftiktok",
+      "usage_count": 3,
+      "avg_views": 11266666
+    },
+    {
+      "tag": "#storage",
+      "usage_count": 3,
+      "avg_views": 1272733
+    },
+    {
+      "tag": "#sortout",
+      "usage_count": 3,
+      "avg_views": 1272733
+    },
+    {
+      "tag": "#tutorial",
+      "usage_count": 3,
+      "avg_views": 5236117
+    },
+    {
+      "tag": "#lifehack",
+      "usage_count": 3,
+      "avg_views": 38400000
+    }
+  ],
+  "formats": [
+    {
+      "name": "Educational / tips",
+      "avg_engagement": 8.5,
+      "post_count": 40
+    },
+    {
+      "name": "Question / engagement",
+      "avg_engagement": 7.4,
+      "post_count": 3
+    },
+    {
+      "name": "Story / narrative",
+      "avg_engagement": 5.7,
+      "post_count": 4
+    },
+    {
+      "name": "Challenge / trend",
+      "avg_engagement": 0.8,
+      "post_count": 2
+    }
+  ],
+  "trending_sounds": [
+    {
+      "name": "original sound",
+      "usage_count": 51
+    },
+    {
+      "name": "Originalton",
+      "usage_count": 4
+    },
+    {
+      "name": "som original",
+      "usage_count": 2
+    },
+    {
+      "name": "son original",
+      "usage_count": 2
+    },
+    {
+      "name": " Diva",
+      "usage_count": 1
+    },
+    {
+      "name": "ZulyGurl go viral",
+      "usage_count": 1
+    },
+    {
+      "name": "Intentions (Instrumental Version) [Originally Performed by Justin Bieber & Quavo]",
+      "usage_count": 1
+    },
+    {
+      "name": "Delusion",
+      "usage_count": 1
+    },
+    {
+      "name": "What's Next (Instrumental)",
+      "usage_count": 1
+    },
+    {
+      "name": "Vlog Video work Fashionable BGM(847726)",
+      "usage_count": 1
+    }
+  ],
+  "insights": "Educational / tips content leads with 8.5% avg engagement. Avg engagement: 9.0%. 99 posts analyzed.",
+  "top_posts": [
+    {
+      "author": "@digital.olive",
+      "followers": 225900,
+      "caption": "I need everyone using their rights to their full advantage this year\u2019s elections \n\n#vote #politicstiktok #learnontiktok #tiktoklearningcampaign ",
+      "views": 1300000,
+      "likes": 326600,
+      "comments": 1764,
+      "shares": 42100,
+      "saves": 90251,
+      "engagement_rate": 35.44,
+      "hashtags": [
+        "#vote",
+        "#politicstiktok",
+        "#learnontiktok",
+        "#tiktoklearningcampaign"
+      ],
+      "sound": "original sound",
+      "duration": 94,
+      "posted_date": "2026-01-08",
+      "url": "https://www.tiktok.com/@digital.olive/video/7593109268958579981"
+    },
+    {
+      "author": "@caseyrosenberg",
+      "followers": 3200000,
+      "caption": "Follow for more fun facts and rankings! #girlpower #LearnOnTikTok #TikTokPartner #feminism #forthegirls #feminist",
+      "views": 2000000,
+      "likes": 523100,
+      "comments": 24200,
+      "shares": 17700,
+      "saves": 30390,
+      "engagement_rate": 29.77,
+      "hashtags": [
+        "#girlpower",
+        "#learnontiktok",
+        "#tiktokpartner",
+        "#feminism",
+        "#forthegirls",
+        "#feminist"
+      ],
+      "sound": " Diva",
+      "duration": 26,
+      "posted_date": "2020-11-14",
+      "url": "https://www.tiktok.com/@caseyrosenberg/video/6895096211972410630"
+    },
+    {
+      "author": "@drhanren",
+      "followers": 150500,
+      "caption": "Link to article in comments. #decolonize #maslowshierarchy #learnontiktok #psychology",
+      "views": 624300,
+      "likes": 153900,
+      "comments": 2219,
+      "shares": 14800,
+      "saves": 12998,
+      "engagement_rate": 29.46,
+      "hashtags": [
+        "#decolonize",
+        "#maslowshierarchy",
+        "#learnontiktok",
+        "#psychology"
+      ],
+      "sound": "original sound",
+      "duration": 58,
+      "posted_date": "2021-04-26",
+      "url": "https://www.tiktok.com/@drhanren/video/6955578408067747077"
+    },
+    {
+      "author": "@life.with.michaiah",
+      "followers": 136700,
+      "caption": "Reply to @tanyaroldan09 TOUCH is top tier \u2728\ud83e\udd17\ud83e\udd70 #learnontiktok #tiktokpartner",
+      "views": 544200,
+      "likes": 123200,
+      "comments": 417,
+      "shares": 2187,
+      "saves": 10780,
+      "engagement_rate": 25.1,
+      "hashtags": [
+        "#",
+        "#learnontiktok",
+        "#tiktokpartner"
+      ],
+      "sound": "original sound",
+      "duration": 102,
+      "posted_date": "2022-03-24",
+      "url": "https://www.tiktok.com/@life.with.michaiah/video/7078787284992085290"
+    },
+    {
+      "author": "@zulygurl",
+      "followers": 143200,
+      "caption": "Stop scrolling without engaging. This will help your account grow lets learn how to make viral tiktok videos. #creatorsearchinsights #howtogrowontiktok #howtogrowyouraccount #tiktokshopaffiliates #tik",
+      "views": 1300000,
+      "likes": 176200,
+      "comments": 47100,
+      "shares": 49900,
+      "saves": 40605,
+      "engagement_rate": 24.14,
+      "hashtags": [
+        "#creatorsearchinsights",
+        "#howtogrowontiktok",
+        "#howtogrowyouraccount",
+        "#tiktokshopaffiliates",
+        "#tiktokgrowthtips",
+        "#tiktoktips",
+        "#tiktokalgorithm",
+        "#creatorstips"
+      ],
+      "sound": "ZulyGurl go viral",
+      "duration": 110,
+      "posted_date": "2024-10-24",
+      "url": "https://www.tiktok.com/@zulygurl/video/7429391782229789998"
+    },
+    {
+      "author": "@mndiaye_97",
+      "followers": 16000000,
+      "caption": "I knew i wasnt crazy #didyouknow#learnontiktok#moreyouknow#learnsomethingnew#bug",
+      "views": 2000000,
+      "likes": 440000,
+      "comments": 2423,
+      "shares": 4544,
+      "saves": 19790,
+      "engagement_rate": 23.34,
+      "hashtags": [
+        "#didyouknow",
+        "#learnontiktok",
+        "#moreyouknow",
+        "#learnsomethingnew",
+        "#bug"
+      ],
+      "sound": "original sound",
+      "duration": 64,
+      "posted_date": "2022-08-09",
+      "url": "https://www.tiktok.com/@mndiaye_97/video/7129970420601720107"
+    },
+    {
+      "author": "@kennovate",
+      "followers": 486900,
+      "caption": "How to actually start on tiktok. #howtotiktok #creativitybetaprogram #tiktokcreatoracademy #greenscreen ",
+      "views": 2000000,
+      "likes": 232900,
+      "comments": 12700,
+      "shares": 15800,
+      "saves": 178852,
+      "engagement_rate": 22.01,
+      "hashtags": [
+        "#howtotiktok",
+        "#creativitybetaprogram",
+        "#tiktokcreatoracademy",
+        "#greenscreen"
+      ],
+      "sound": "original sound",
+      "duration": 369,
+      "posted_date": "2024-02-09",
+      "url": "https://www.tiktok.com/@kennovate/video/7333403713052085546"
+    },
+    {
+      "author": "@toseeyououtside",
+      "followers": 109100,
+      "caption": "Reply to @_____artemis_____ great question \u260e\ufe0f \ud83d\ude4b\ud83c\udffe\u200d\u2640\ufe0f #fyp #learnontiktok #sciencetok #arctic #permafrost #science #animals #news #explosion #climatechange #viralvideo #learnontiktok #biology #viruses @",
+      "views": 306400,
+      "likes": 57200,
+      "comments": 857,
+      "shares": 1188,
+      "saves": 2204,
+      "engagement_rate": 20.06,
+      "hashtags": [
+        "#",
+        "#fyp",
+        "#learnontiktok",
+        "#sciencetok",
+        "#arctic",
+        "#permafrost",
+        "#science",
+        "#animals"
+      ],
+      "sound": "original sound",
+      "duration": 129,
+      "posted_date": "2022-04-10",
+      "url": "https://www.tiktok.com/@toseeyououtside/video/7084797549592186154"
+    },
+    {
+      "author": "@raquelolsson",
+      "followers": 1800000,
+      "caption": "Reply to @jungkooks_ahgase  how to be less emotional!\ud83d\ude36 #psychology #learnontiktok #psychologyfacts #skillbuilding #hacks",
+      "views": 1000000,
+      "likes": 169600,
+      "comments": 695,
+      "shares": 5443,
+      "saves": 19778,
+      "engagement_rate": 19.55,
+      "hashtags": [
+        "#",
+        "#psychology",
+        "#learnontiktok",
+        "#psychologyfacts",
+        "#skillbuilding",
+        "#hacks"
+      ],
+      "sound": "Intentions (Instrumental Version) [Originally Performed by Justin Bieber & Quavo]",
+      "duration": 55,
+      "posted_date": "2020-07-26",
+      "url": "https://www.tiktok.com/@raquelolsson/video/6853688430661029125"
+    },
+    {
+      "author": "@zoeyxinyigong",
+      "followers": 161200,
+      "caption": "#selfmassagetips #chinesemedicine #acupressure #breasthealth #tiktokpartner #learnontiktok #womenshealth #breastcancerawarness #massagetherapy",
+      "views": 3700000,
+      "likes": 558800,
+      "comments": 2997,
+      "shares": 35900,
+      "saves": 108784,
+      "engagement_rate": 19.09,
+      "hashtags": [
+        "#selfmassagetips",
+        "#chinesemedicine",
+        "#acupressure",
+        "#breasthealth",
+        "#tiktokpartner",
+        "#learnontiktok",
+        "#womenshealth",
+        "#breastcancerawarness"
+      ],
+      "sound": "original sound",
+      "duration": 55,
+      "posted_date": "2020-09-23",
+      "url": "https://www.tiktok.com/@zoeyxinyigong/video/6875797744913534214"
+    },
+    {
+      "author": "@ladyspinedoc",
+      "followers": 2600000,
+      "caption": "Tips from your spine doc to reduce back pain! #backpain #backsurgery #strength #chronicpain #learnontiktok #glutealmuscles #fyp #spinesurgery",
+      "views": 4300000,
+      "likes": 605900,
+      "comments": 4045,
+      "shares": 41500,
+      "saves": 65017,
+      "engagement_rate": 16.66,
+      "hashtags": [
+        "#backpain",
+        "#backsurgery",
+        "#strength",
+        "#chronicpain",
+        "#learnontiktok",
+        "#glutealmuscles",
+        "#fyp",
+        "#spinesurgery"
+      ],
+      "sound": "original sound",
+      "duration": 52,
+      "posted_date": "2022-05-07",
+      "url": "https://www.tiktok.com/@ladyspinedoc/video/7095095235587345707"
+    },
+    {
+      "author": "@anthrowolfy",
+      "followers": 37900,
+      "caption": "Replying to @Nick Bell Hope this helps #learnontiktok #anthropology #science #evolution ",
+      "views": 117,
+      "likes": 10,
+      "comments": 5,
+      "shares": 2,
+      "saves": 2,
+      "engagement_rate": 16.24,
+      "hashtags": [
+        "#",
+        "#learnontiktok",
+        "#anthropology",
+        "#science",
+        "#evolution"
+      ],
+      "sound": "Delusion",
+      "duration": 35,
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@anthrowolfy/video/7626094024650231053"
+    },
+    {
+      "author": "@renata.vidente",
+      "followers": 37300,
+      "caption": "Doggie teaches you how to RESET THE UNIVERSE! (just an exeple)\n#learnontiktok #educational #doggieteaches #dog ",
+      "views": 593000,
+      "likes": 55200,
+      "comments": 3263,
+      "shares": 15300,
+      "saves": 15272,
+      "engagement_rate": 15.01,
+      "hashtags": [
+        "#learnontiktok",
+        "#educational",
+        "#doggieteaches",
+        "#dog"
+      ],
+      "sound": "som original",
+      "duration": 68,
+      "posted_date": "2025-10-22",
+      "url": "https://www.tiktok.com/@renata.vidente/video/7564193230217153847"
+    },
+    {
+      "author": "@ezraloveslearning",
+      "followers": 58900,
+      "caption": "Comment if you are from the beautiful country Ethiopia \ud83d\ude0d\ud83d\udc47\ud83c\udffe\ud83d\ude01. Next country?  #ethiopian_tik_tok #learnontiktok #learnwithEzra #ezraloveslearning #ethiopia ",
+      "views": 501500,
+      "likes": 56600,
+      "comments": 3368,
+      "shares": 9596,
+      "saves": 5554,
+      "engagement_rate": 14.98,
+      "hashtags": [
+        "#ethiopian_tik_tok",
+        "#learnontiktok",
+        "#learnwithezra",
+        "#ezraloveslearning",
+        "#ethiopia"
+      ],
+      "sound": "original sound",
+      "duration": 98,
+      "posted_date": "2026-03-22",
+      "url": "https://www.tiktok.com/@ezraloveslearning/video/7620183185812426006"
+    },
+    {
+      "author": "@mathletters",
+      "followers": 640400,
+      "caption": "It\u2019s incredible that this weird procedure has a fixed point. #math #STEM #learnontiktok #mathematics #mathtok",
+      "views": 10000000,
+      "likes": 1200000,
+      "comments": 6699,
+      "shares": 52100,
+      "saves": 119532,
+      "engagement_rate": 13.78,
+      "hashtags": [
+        "#math",
+        "#stem",
+        "#learnontiktok",
+        "#mathematics",
+        "#mathtok"
+      ],
+      "sound": "original sound",
+      "duration": 77,
+      "posted_date": "2022-04-28",
+      "url": "https://www.tiktok.com/@mathletters/video/7091783499430153518"
+    }
+  ]
+}

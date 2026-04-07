@@ -1,0 +1,594 @@
+{
+  "platform": "TikTok",
+  "platform_key": "tiktok",
+  "month": "April",
+  "year": 2026,
+  "niche": "tech",
+  "generated_at": "2026-04-07T21:19:04.870888",
+  "data_points_analyzed": 100,
+  "viral_posts_found": 100,
+  "hooks": [
+    {
+      "pattern": "X things/tips/ways",
+      "example_count": 1,
+      "trend_pct": 70,
+      "example": "3 things to do after you build your first PC #learnontiktok #Tech #techgirl #pcgaming #TechTips"
+    }
+  ],
+  "best_times": [
+    {
+      "day": "Wednesday",
+      "time": "Peak",
+      "engagement_avg": 10.2,
+      "sample_size": 14
+    },
+    {
+      "day": "Friday",
+      "time": "Peak",
+      "engagement_avg": 9.7,
+      "sample_size": 11
+    },
+    {
+      "day": "Tuesday",
+      "time": "Peak",
+      "engagement_avg": 9.3,
+      "sample_size": 27
+    },
+    {
+      "day": "Thursday",
+      "time": "Peak",
+      "engagement_avg": 9.3,
+      "sample_size": 14
+    },
+    {
+      "day": "Sunday",
+      "time": "Peak",
+      "engagement_avg": 8.2,
+      "sample_size": 9
+    },
+    {
+      "day": "Saturday",
+      "time": "Peak",
+      "engagement_avg": 8.0,
+      "sample_size": 16
+    },
+    {
+      "day": "Monday",
+      "time": "Peak",
+      "engagement_avg": 6.4,
+      "sample_size": 9
+    }
+  ],
+  "hashtags": [
+    {
+      "tag": "#techtok",
+      "usage_count": 95,
+      "avg_views": 1514500
+    },
+    {
+      "tag": "#fyp",
+      "usage_count": 23,
+      "avg_views": 2195350
+    },
+    {
+      "tag": "#tech",
+      "usage_count": 19,
+      "avg_views": 1778662
+    },
+    {
+      "tag": "#setup",
+      "usage_count": 13,
+      "avg_views": 448453
+    },
+    {
+      "tag": "#gamingsetup",
+      "usage_count": 10,
+      "avg_views": 275740
+    },
+    {
+      "tag": "#viral",
+      "usage_count": 10,
+      "avg_views": 1491940
+    },
+    {
+      "tag": "#pcgaming",
+      "usage_count": 10,
+      "avg_views": 973146
+    },
+    {
+      "tag": "#gaming",
+      "usage_count": 9,
+      "avg_views": 1331326
+    },
+    {
+      "tag": "#iphone",
+      "usage_count": 9,
+      "avg_views": 1776021
+    },
+    {
+      "tag": "#desksetup",
+      "usage_count": 8,
+      "avg_views": 494019
+    },
+    {
+      "tag": "#pcsetup",
+      "usage_count": 7,
+      "avg_views": 1999942
+    },
+    {
+      "tag": "#pc",
+      "usage_count": 7,
+      "avg_views": 2474346
+    },
+    {
+      "tag": "#apple",
+      "usage_count": 6,
+      "avg_views": 1046566
+    },
+    {
+      "tag": "#samsung",
+      "usage_count": 6,
+      "avg_views": 424574
+    },
+    {
+      "tag": "#carterpcs",
+      "usage_count": 5,
+      "avg_views": 4361340
+    },
+    {
+      "tag": "#gamingpc",
+      "usage_count": 5,
+      "avg_views": 2032720
+    },
+    {
+      "tag": "#pcbuild",
+      "usage_count": 4,
+      "avg_views": 1493875
+    },
+    {
+      "tag": "#xyzbca",
+      "usage_count": 4,
+      "avg_views": 393650
+    },
+    {
+      "tag": "#foryou",
+      "usage_count": 4,
+      "avg_views": 2064501
+    },
+    {
+      "tag": "#whitesetup",
+      "usage_count": 3,
+      "avg_views": 455916
+    },
+    {
+      "tag": "#minimalist",
+      "usage_count": 3,
+      "avg_views": 416466
+    },
+    {
+      "tag": "#compsetup",
+      "usage_count": 3,
+      "avg_views": 2789066
+    },
+    {
+      "tag": "#goviral",
+      "usage_count": 3,
+      "avg_views": 1314933
+    },
+    {
+      "tag": "#edit",
+      "usage_count": 3,
+      "avg_views": 688400
+    },
+    {
+      "tag": "#techcreator",
+      "usage_count": 3,
+      "avg_views": 401933
+    }
+  ],
+  "formats": [
+    {
+      "name": "List / numbered",
+      "avg_engagement": 11.2,
+      "post_count": 1
+    },
+    {
+      "name": "Question / engagement",
+      "avg_engagement": 8.8,
+      "post_count": 7
+    },
+    {
+      "name": "Educational / tips",
+      "avg_engagement": 8.6,
+      "post_count": 19
+    },
+    {
+      "name": "Challenge / trend",
+      "avg_engagement": 7.7,
+      "post_count": 4
+    }
+  ],
+  "trending_sounds": [
+    {
+      "name": "original sound",
+      "usage_count": 31
+    },
+    {
+      "name": "som original",
+      "usage_count": 6
+    },
+    {
+      "name": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0432\u0443\u043a",
+      "usage_count": 4
+    },
+    {
+      "name": "Blade Runner 2049",
+      "usage_count": 3
+    },
+    {
+      "name": "Love You So",
+      "usage_count": 2
+    },
+    {
+      "name": "Ribbons",
+      "usage_count": 1
+    },
+    {
+      "name": "KATUKA",
+      "usage_count": 1
+    },
+    {
+      "name": "TREESHA BY KELTHRAXX n HARDCOREXOF ON SPOTIFY",
+      "usage_count": 1
+    },
+    {
+      "name": "xKatanaz",
+      "usage_count": 1
+    },
+    {
+      "name": "Still",
+      "usage_count": 1
+    }
+  ],
+  "insights": "List / numbered content leads with 11.2% avg engagement. \"X things/tips/ways\" hook appears in 1 viral posts. Avg engagement: 8.9%. 100 posts analyzed.",
+  "top_posts": [
+    {
+      "author": "@whimsicalmilki",
+      "followers": 2246,
+      "caption": "Added a few new things for my setup\ud83e\udd0d.  #angelcore #whitesetup #gamingsetup #techtok #gamergirl ",
+      "views": 550,
+      "likes": 155,
+      "comments": 36,
+      "shares": 5,
+      "saves": 10,
+      "engagement_rate": 37.45,
+      "hashtags": [
+        "#angelcore",
+        "#whitesetup",
+        "#gamingsetup",
+        "#techtok",
+        "#gamergirl"
+      ],
+      "sound": "Ribbons",
+      "duration": 15,
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@whimsicalmilki/video/7625810346107833631"
+    },
+    {
+      "author": "@voidpcs",
+      "followers": 2952,
+      "caption": "Thanks @Clustrs for sending out these Skates! USE CODE \u201cVOID\u201d FOR 10% OFF!\n\n#setup #techtok #clustrs #skates #mouse  ",
+      "views": 760,
+      "likes": 103,
+      "comments": 23,
+      "shares": 9,
+      "saves": 12,
+      "engagement_rate": 19.34,
+      "hashtags": [
+        "#",
+        "#setup",
+        "#techtok",
+        "#clustrs",
+        "#skates",
+        "#mouse"
+      ],
+      "sound": "KATUKA",
+      "duration": 16,
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@voidpcs/video/7625850686487514398"
+    },
+    {
+      "author": "@theadamhuda",
+      "followers": 58000,
+      "caption": "microwave go brrr\n#stem #fyp #techtok ",
+      "views": 873400,
+      "likes": 108700,
+      "comments": 464,
+      "shares": 12400,
+      "saves": 42569,
+      "engagement_rate": 18.79,
+      "hashtags": [
+        "#stem",
+        "#fyp",
+        "#techtok"
+      ],
+      "sound": "original sound",
+      "duration": 27,
+      "posted_date": "2025-12-16",
+      "url": "https://www.tiktok.com/@theadamhuda/video/7584564735756995862"
+    },
+    {
+      "author": "@twobfan",
+      "followers": 3379,
+      "caption": "alright alright alright \n#desksetup #minimalist #techtok #swag #clean single monitor is the goat",
+      "views": 140600,
+      "likes": 21200,
+      "comments": 329,
+      "shares": 636,
+      "saves": 2263,
+      "engagement_rate": 17.37,
+      "hashtags": [
+        "#desksetup",
+        "#minimalist",
+        "#techtok",
+        "#swag",
+        "#clean"
+      ],
+      "sound": "TREESHA BY KELTHRAXX n HARDCOREXOF ON SPOTIFY",
+      "duration": 8,
+      "posted_date": "2025-12-17",
+      "url": "https://www.tiktok.com/@twobfan/video/7584958215343918366"
+    },
+    {
+      "author": "@d0tfps",
+      "followers": 38300,
+      "caption": "Keylights kinda useless \ud83d\ude22 #techtok #minimalist #pcsetup #blacksetup #fyp ",
+      "views": 513300,
+      "likes": 72500,
+      "comments": 1156,
+      "shares": 4900,
+      "saves": 10550,
+      "engagement_rate": 17.36,
+      "hashtags": [
+        "#techtok",
+        "#minimalist",
+        "#pcsetup",
+        "#blacksetup",
+        "#fyp"
+      ],
+      "sound": "xKatanaz",
+      "duration": 16,
+      "posted_date": "2025-12-27",
+      "url": "https://www.tiktok.com/@d0tfps/video/7588585428744146178"
+    },
+    {
+      "author": "@marculedu",
+      "followers": 2549,
+      "caption": "turning myself into a robot #coding #techtok #cyber #programming #electronicmusic",
+      "views": 335600,
+      "likes": 50400,
+      "comments": 197,
+      "shares": 1052,
+      "saves": 5570,
+      "engagement_rate": 17.05,
+      "hashtags": [
+        "#coding",
+        "#techtok",
+        "#cyber",
+        "#programming",
+        "#electronicmusic"
+      ],
+      "sound": "Still",
+      "duration": 11,
+      "posted_date": "2026-01-27",
+      "url": "https://www.tiktok.com/@marculedu/video/7600056267603856662"
+    },
+    {
+      "author": "@7eustech",
+      "followers": 50300,
+      "caption": "Whoever treats THE VIDEO the BEST gets THE FOLLOW BACK! \ud83d\ude0d\u270c\ufe0f #techtok #foryoupage #gamingsetup #fyp #gaming ",
+      "views": 13000,
+      "likes": 1174,
+      "comments": 526,
+      "shares": 149,
+      "saves": 359,
+      "engagement_rate": 16.98,
+      "hashtags": [
+        "#techtok",
+        "#foryoupage",
+        "#gamingsetup",
+        "#fyp",
+        "#gaming"
+      ],
+      "sound": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0432\u0443\u043a",
+      "duration": 6,
+      "posted_date": "2026-03-29",
+      "url": "https://www.tiktok.com/@7eustech/video/7622736552350731552"
+    },
+    {
+      "author": "@themorganling",
+      "followers": 170200,
+      "caption": "Guess which one I am now (hint: not the shorts guy) #gamingtok #techtok #gamedev #gamedeveloper #gamertok #techfashion #arcaneleagueoflegends",
+      "views": 3400000,
+      "likes": 523300,
+      "comments": 659,
+      "shares": 875,
+      "saves": 7529,
+      "engagement_rate": 15.66,
+      "hashtags": [
+        "#gamingtok",
+        "#techtok",
+        "#gamedev",
+        "#gamedeveloper",
+        "#gamertok",
+        "#techfashion",
+        "#arcaneleagueoflegends"
+      ],
+      "sound": "NUESTRA CANCI\u00d3N x PRAISE GOD Kanye",
+      "duration": 11,
+      "posted_date": "2022-02-10",
+      "url": "https://www.tiktok.com/@themorganling/video/7063187783787056430"
+    },
+    {
+      "author": "@espyrepairco",
+      "followers": 358800,
+      "caption": "Spotty WiFi and controller problems = broken PlayStation #playstation4 #playstationrepair #consolerepair #repairtok #techtok",
+      "views": 4300000,
+      "likes": 624900,
+      "comments": 3541,
+      "shares": 1803,
+      "saves": 12985,
+      "engagement_rate": 14.96,
+      "hashtags": [
+        "#playstation4",
+        "#playstationrepair",
+        "#consolerepair",
+        "#repairtok",
+        "#techtok"
+      ],
+      "sound": "original sound",
+      "duration": 159,
+      "posted_date": "2022-02-11",
+      "url": "https://www.tiktok.com/@espyrepairco/video/7063563900171799855"
+    },
+    {
+      "author": "@jacob.tech.2026",
+      "followers": 8439,
+      "caption": "iPhone 14 Pro #iphone #techtok #iphone14pro #viral #fyp ",
+      "views": 773200,
+      "likes": 99900,
+      "comments": 584,
+      "shares": 3481,
+      "saves": 9039,
+      "engagement_rate": 14.62,
+      "hashtags": [
+        "#iphone",
+        "#techtok",
+        "#iphone14pro",
+        "#viral",
+        "#fyp"
+      ],
+      "sound": "MONTAGEM DO OLHO MORTE - SLOWED",
+      "duration": 14,
+      "posted_date": "2026-03-28",
+      "url": "https://www.tiktok.com/@jacob.tech.2026/video/7622277729433439521"
+    },
+    {
+      "author": "@havokharakiri",
+      "followers": 80600,
+      "caption": "Nobody. PC MFs \ud83d\ude0f #tech #techtok #gamingontiktok #pcgaming #pcbuild #gameroomsetup #office #pcmr #fyp #parati",
+      "views": 2500000,
+      "likes": 319800,
+      "comments": 5206,
+      "shares": 14300,
+      "saves": 22628,
+      "engagement_rate": 14.48,
+      "hashtags": [
+        "#tech",
+        "#techtok",
+        "#gamingontiktok",
+        "#pcgaming",
+        "#pcbuild",
+        "#gameroomsetup",
+        "#office",
+        "#pcmr"
+      ],
+      "sound": "Originalton",
+      "duration": 9,
+      "posted_date": "2022-02-17",
+      "url": "https://www.tiktok.com/@havokharakiri/video/7065779648692636975"
+    },
+    {
+      "author": "@mrwedit1",
+      "followers": 2958,
+      "caption": "evenings\ud83e\udd24 #fyp #compsetup #techtok #room #goviral ",
+      "views": 3200000,
+      "likes": 389300,
+      "comments": 1742,
+      "shares": 30100,
+      "saves": 40802,
+      "engagement_rate": 14.44,
+      "hashtags": [
+        "#fyp",
+        "#compsetup",
+        "#techtok",
+        "#room",
+        "#goviral"
+      ],
+      "sound": "original sound",
+      "duration": 13,
+      "posted_date": "2026-03-11",
+      "url": "https://www.tiktok.com/@mrwedit1/video/7616036885772913923"
+    },
+    {
+      "author": "@chrisjr404",
+      "followers": 428400,
+      "caption": "This is how I got my beginner cybersecurity job so fast, how to begin #tech #techcareer #techtok #technology #college #cybersecurity #remotework #school",
+      "views": 5000000,
+      "likes": 445900,
+      "comments": 2961,
+      "shares": 51200,
+      "saves": 214044,
+      "engagement_rate": 14.28,
+      "hashtags": [
+        "#tech",
+        "#techcareer",
+        "#techtok",
+        "#technology",
+        "#college",
+        "#cybersecurity",
+        "#remotework",
+        "#school"
+      ],
+      "sound": "original sound",
+      "duration": 96,
+      "posted_date": "2023-05-25",
+      "url": "https://www.tiktok.com/@chrisjr404/video/7237258995482856747"
+    },
+    {
+      "author": "@carterpcs",
+      "followers": 6300000,
+      "caption": "The problem with Tech content #carterpcs #tech #techtok ",
+      "views": 1300000,
+      "likes": 173900,
+      "comments": 654,
+      "shares": 236,
+      "saves": 9817,
+      "engagement_rate": 14.2,
+      "hashtags": [
+        "#carterpcs",
+        "#tech",
+        "#techtok"
+      ],
+      "sound": "Storytelling",
+      "duration": 64,
+      "posted_date": "2024-02-16",
+      "url": "https://www.tiktok.com/@carterpcs/video/7336269012281773358"
+    },
+    {
+      "author": "@carterpcs",
+      "followers": 6300000,
+      "caption": "@ninja was my guess close? #carterpcs #tech #techtok #gaming #gamingpc #streaming #streamingsetup #gamingsetup",
+      "views": 5200000,
+      "likes": 721600,
+      "comments": 1893,
+      "shares": 684,
+      "saves": 10208,
+      "engagement_rate": 14.12,
+      "hashtags": [
+        "#",
+        "#carterpcs",
+        "#tech",
+        "#techtok",
+        "#gaming",
+        "#gamingpc",
+        "#streaming",
+        "#streamingsetup"
+      ],
+      "sound": "original sound",
+      "duration": 47,
+      "posted_date": "2022-02-10",
+      "url": "https://www.tiktok.com/@carterpcs/video/7062881641383021871"
+    }
+  ]
+}

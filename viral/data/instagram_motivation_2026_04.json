@@ -1,0 +1,519 @@
+{
+  "platform": "Instagram",
+  "platform_key": "instagram",
+  "month": "April",
+  "year": 2026,
+  "niche": "motivation",
+  "generated_at": "2026-04-07T21:19:04.870888",
+  "data_points_analyzed": 100,
+  "viral_posts_found": 100,
+  "hooks": [
+    {
+      "pattern": "If you [X]",
+      "example_count": 1,
+      "trend_pct": 70,
+      "example": "If you train your mind to find the beauty, it will find it."
+    }
+  ],
+  "best_times": [
+    {
+      "day": "Tuesday",
+      "time": "Peak",
+      "engagement_avg": 51.4,
+      "sample_size": 100
+    }
+  ],
+  "hashtags": [
+    {
+      "tag": "#mindset",
+      "usage_count": 88,
+      "avg_views": 2
+    },
+    {
+      "tag": "#motivation",
+      "usage_count": 12,
+      "avg_views": 11
+    },
+    {
+      "tag": "#discipline",
+      "usage_count": 11,
+      "avg_views": 1
+    },
+    {
+      "tag": "#entrepreneur",
+      "usage_count": 9,
+      "avg_views": 1
+    },
+    {
+      "tag": "#focus",
+      "usage_count": 9,
+      "avg_views": 4
+    },
+    {
+      "tag": "#technology",
+      "usage_count": 8,
+      "avg_views": 1
+    },
+    {
+      "tag": "#tech",
+      "usage_count": 8,
+      "avg_views": 1
+    },
+    {
+      "tag": "#businessowner",
+      "usage_count": 8,
+      "avg_views": 1
+    },
+    {
+      "tag": "#digitalmarketing",
+      "usage_count": 8,
+      "avg_views": 1
+    },
+    {
+      "tag": "#artificialintelligence",
+      "usage_count": 8,
+      "avg_views": 1
+    },
+    {
+      "tag": "#branding",
+      "usage_count": 8,
+      "avg_views": 1
+    },
+    {
+      "tag": "#startup",
+      "usage_count": 8,
+      "avg_views": 1
+    },
+    {
+      "tag": "#pers\u00f6nlichkeitsentwicklung",
+      "usage_count": 6,
+      "avg_views": 0
+    },
+    {
+      "tag": "#selfimprovement",
+      "usage_count": 6,
+      "avg_views": 0
+    },
+    {
+      "tag": "#selfgrowth",
+      "usage_count": 5,
+      "avg_views": 5
+    },
+    {
+      "tag": "#wachstum",
+      "usage_count": 5,
+      "avg_views": 0
+    },
+    {
+      "tag": "#growth",
+      "usage_count": 5,
+      "avg_views": 6
+    },
+    {
+      "tag": "#psychologie",
+      "usage_count": 4,
+      "avg_views": 0
+    },
+    {
+      "tag": "#consistency",
+      "usage_count": 4,
+      "avg_views": 2
+    },
+    {
+      "tag": "#leadership",
+      "usage_count": 4,
+      "avg_views": 0
+    },
+    {
+      "tag": "#success",
+      "usage_count": 4,
+      "avg_views": 0
+    },
+    {
+      "tag": "#manifestation",
+      "usage_count": 4,
+      "avg_views": 0
+    },
+    {
+      "tag": "#manifestyourdreams",
+      "usage_count": 4,
+      "avg_views": 0
+    },
+    {
+      "tag": "#wellness",
+      "usage_count": 3,
+      "avg_views": 5
+    },
+    {
+      "tag": "#growthmindset",
+      "usage_count": 3,
+      "avg_views": 0
+    }
+  ],
+  "formats": [
+    {
+      "name": "Before/after",
+      "avg_engagement": 100.0,
+      "post_count": 2
+    },
+    {
+      "name": "Question / engagement",
+      "avg_engagement": 33.3,
+      "post_count": 3
+    },
+    {
+      "name": "Challenge / trend",
+      "avg_engagement": 0.0,
+      "post_count": 1
+    }
+  ],
+  "trending_sounds": [],
+  "insights": "Before/after content leads with 100.0% avg engagement. \"If you [X]\" hook appears in 1 viral posts. Avg engagement: 51.4%. 100 posts analyzed.",
+  "top_posts": [
+    {
+      "author": "@chloe.softlife.secret",
+      "followers": 0,
+      "caption": "Choosing where my energy goes, one thought at a time.\nComing back to what feels true, quiet, and mine.\n\nThis season, I choose to listen inward. \u2728\n\n#wellness #mindset #quote #healthylife #healthylifest",
+      "views": 0,
+      "likes": -1,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 400.0,
+      "hashtags": [
+        "#wellness",
+        "#mindset",
+        "#quote",
+        "#healthylife",
+        "#healthylifestyle"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10_k3mHPp/"
+    },
+    {
+      "author": "@mind.glows",
+      "followers": 0,
+      "caption": "A soft reminder\u2026 \ud83e\udd0d\nYou are allowed to grow at your own pace.\nYou don\u2019t have to rush your journey.\nEverything is unfolding exactly as it should. \ud83c\udf3f\nSave this for when you need it most \ud83d\udcad\n\u2014 mind.glows \u2728\n#",
+      "views": 0,
+      "likes": 1,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#mindglows",
+        "#selflove",
+        "#healingjourney",
+        "#growthmindset",
+        "#innerpeace",
+        "#positivemindset",
+        "#selfgrowth",
+        "#mentalhealthmatters"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11bo7jDba/"
+    },
+    {
+      "author": "@albertkollmanncoaching",
+      "followers": 0,
+      "caption": "Du verstehst dich.\nDu wei\u00dft, warum du so reagierst.\nDu erkennst deine Muster.\nDu kannst es logisch einordnen.\nUnd genau das f\u00fchlt sich an\nwie Fortschritt.\nDoch im entscheidenden Moment\npassiert wieder",
+      "views": 0,
+      "likes": 0,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#albertkollmanncoaching",
+        "#pers\u00f6nlichkeitsentwicklung",
+        "#selbstentwicklung",
+        "#mindset",
+        "#achtsamkeit"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11ah-DmJA/"
+    },
+    {
+      "author": "@she_ownsherstory",
+      "followers": 0,
+      "caption": "Not everything that was lost was meant to stay gone.\n\nSome things were taken away\u2026\nso she could rebuild them stronger, better, and with deeper purpose.\n\nShe is not starting over.\nShe is starting again",
+      "views": 0,
+      "likes": 1,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#personalgrowth",
+        "#mindset",
+        "#growthmindset",
+        "#selfdevelopment",
+        "#becomingher"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11JiVk8Zu/"
+    },
+    {
+      "author": "@jeniva_zufrieden",
+      "followers": 0,
+      "caption": "Manchmal merkst du erst am Ende eines Weges,\ndass er dich genau dorthin gef\u00fchrt hat,\nwo du bereit bist f\u00fcr mehr.\n\nUnklarheit f\u00fchlt sich nicht immer gut an.\nAber sie ist oft der Anfang von etwas,\ndas n",
+      "views": 0,
+      "likes": 1,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#neuanfang",
+        "#umbruch",
+        "#wachstum",
+        "#mindset",
+        "#selbstentwicklung",
+        "#mentalhealth",
+        "#realtalk",
+        "#pers\u00f6nlichkeitsentwicklung"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11DV-CP-F/"
+    },
+    {
+      "author": "@bbntimesofficial",
+      "followers": 0,
+      "caption": "The Hong Kong Stock Exchange (HKEX) and the Hang Seng Index remain closed on Tuesday, April 7, 2026, as Hong Kong observes an extended Easter holiday period.\n\nRead More: https://www.bbntimes.com/globa",
+      "views": 0,
+      "likes": 1,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#technology",
+        "#tech",
+        "#businessowner",
+        "#entrepreneur",
+        "#digitalmarketing",
+        "#artificialintelligence",
+        "#branding",
+        "#startup"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW108bxDGu5/"
+    },
+    {
+      "author": "@freiheitsbibliothek",
+      "followers": 0,
+      "caption": "Die meisten Menschen wissen, was sie tun m\u00fcssten\u2026\naber sie tun es einfach nicht.\nGenau das unterscheidet Gewinner von allen anderen.\nNicht Talent. Nicht Gl\u00fcck. Sondern Denken, Verantwortung und Diszip",
+      "views": 0,
+      "likes": 2,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#mindset",
+        "#erfolg",
+        "#erfolgreich",
+        "#disziplin",
+        "#motivation",
+        "#pers\u00f6nlichkeitsentwicklung",
+        "#mindsetshift",
+        "#wachstum"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10a1qCE0y/"
+    },
+    {
+      "author": "@theperformancecodeorg",
+      "followers": 0,
+      "caption": "Meet the Co-Founder.\n\nEduard \ud83c\udfca\u200d\u2642\ufe0f\n\nEntrepreneur, performance coach, and co-founder of The Performance Code.\n\nEduard\u2019s work is built at the intersection of elite sport, entrepreneurship, and high-perfo",
+      "views": 0,
+      "likes": 6,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 183.33,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10Zhbj73h/"
+    },
+    {
+      "author": "@theperformancecodeorg",
+      "followers": 0,
+      "caption": "Meet the Co-Founder - Paige \ud83e\udde0\n\nA licensed provisional psychologist, co-founder of The Performance Code, and author of The Performance Code: How Belief, Perception, and the Mind Predict Performance.\n\nH",
+      "views": 0,
+      "likes": 7,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 171.43,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10JG8D01e/"
+    },
+    {
+      "author": "@theechomind0",
+      "followers": 0,
+      "caption": "\ud83e\udde0 Your mind is more powerful than you think!\nWhich fact surprised you the most? Comment below \ud83d\udc47\n.\nFollow @theechomind0 for daily psychology insights!\n.\n#psychology #psychologyfacts #mentalhealth #mind",
+      "views": 0,
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 150.0,
+      "hashtags": [
+        "#psychology",
+        "#psychologyfacts",
+        "#mentalhealth",
+        "#mindset",
+        "#selfimprovement",
+        "#motivation",
+        "#mindpower",
+        "#facts"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11MMPjHyn/"
+    },
+    {
+      "author": "@bbntimesofficial",
+      "followers": 0,
+      "caption": "China's SSE Composite Index, which tracks all A-shares and B-shares traded on the Shanghai Stock Exchange, returned to trading on Tuesday, April 7, 2026, following a one-day closure on Monday for the ",
+      "views": 0,
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 150.0,
+      "hashtags": [
+        "#technology",
+        "#tech",
+        "#businessowner",
+        "#entrepreneur",
+        "#digitalmarketing",
+        "#artificialintelligence",
+        "#branding",
+        "#startup"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW100rdjMrJ/"
+    },
+    {
+      "author": "@michaeldorang",
+      "followers": 0,
+      "caption": "Are you caught in the Productivity Trap?\n\nWhen the exhaustion creeps in, most of us treat it like a logistical problem.\n\nOptimize the schedule. Sleep more. Take a vacation. Download a meditation app.\n",
+      "views": 0,
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 150.0,
+      "hashtags": [
+        "#mindsetcoach",
+        "#coaching",
+        "#Alignment",
+        "#PersonalGrowth",
+        "#personalDevelopment",
+        "#coach",
+        "#alignmentcoach",
+        "#habits"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10zpfD9v3/"
+    },
+    {
+      "author": "@bbntimesofficial",
+      "followers": 0,
+      "caption": "France's flagship CAC 40 index returned to trading on Tuesday, April 7, 2026, following a four-day Easter holiday break, with the index rising approximately 0.4% to 7,994 points in early trading.\n\nRea",
+      "views": 0,
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 150.0,
+      "hashtags": [
+        "#technology",
+        "#tech",
+        "#businessowner",
+        "#entrepreneur",
+        "#digitalmarketing",
+        "#artificialintelligence",
+        "#branding",
+        "#startup"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10w1nDEZv/"
+    },
+    {
+      "author": "@bbntimesofficial",
+      "followers": 0,
+      "caption": "The word \u201cfuttitinni\u201d has special meaning for Sicilians.\n\nRead More: https://www.bbntimes.com/society/letting-go-and-living-life-fully\n\nFollow @bbntimesofficial for more updates.\n\n#technology #tech #b",
+      "views": 0,
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 150.0,
+      "hashtags": [
+        "#technology",
+        "#tech",
+        "#businessowner",
+        "#entrepreneur",
+        "#digitalmarketing",
+        "#artificialintelligence",
+        "#branding",
+        "#startup"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10snRDC0c/"
+    },
+    {
+      "author": "@beyondperfectparenting",
+      "followers": 0,
+      "caption": "\ud83d\udc49\ud83c\udffc Send to a mom always in overdrive! \n\nThe reason you feel overwhelmed as a mom is not what you think. People always say it\u2019s because moms are doing too much. (Don\u2019t get me wrong, they do!)\n\nBut it\u2019s",
+      "views": 0,
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 150.0,
+      "hashtags": [
+        "#momlife",
+        "#overwhelmedmom",
+        "#mentalload",
+        "#momstress",
+        "#mindset"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10r9_CbdO/"
+    }
+  ]
+}

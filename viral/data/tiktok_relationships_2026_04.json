@@ -1,0 +1,572 @@
+{
+  "platform": "TikTok",
+  "platform_key": "tiktok",
+  "month": "April",
+  "year": 2026,
+  "niche": "relationships",
+  "generated_at": "2026-04-07T21:19:04.870888",
+  "data_points_analyzed": 100,
+  "viral_posts_found": 98,
+  "hooks": [],
+  "best_times": [
+    {
+      "day": "Wednesday",
+      "time": "Peak",
+      "engagement_avg": 19.4,
+      "sample_size": 8
+    },
+    {
+      "day": "Thursday",
+      "time": "Peak",
+      "engagement_avg": 17.8,
+      "sample_size": 4
+    },
+    {
+      "day": "Monday",
+      "time": "Peak",
+      "engagement_avg": 16.4,
+      "sample_size": 24
+    },
+    {
+      "day": "Saturday",
+      "time": "Peak",
+      "engagement_avg": 13.8,
+      "sample_size": 13
+    },
+    {
+      "day": "Sunday",
+      "time": "Peak",
+      "engagement_avg": 13.6,
+      "sample_size": 16
+    },
+    {
+      "day": "Tuesday",
+      "time": "Peak",
+      "engagement_avg": 13.2,
+      "sample_size": 21
+    },
+    {
+      "day": "Friday",
+      "time": "Peak",
+      "engagement_avg": 12.1,
+      "sample_size": 12
+    }
+  ],
+  "hashtags": [
+    {
+      "tag": "#relationship",
+      "usage_count": 36,
+      "avg_views": 5975658
+    },
+    {
+      "tag": "#fyp",
+      "usage_count": 28,
+      "avg_views": 5279901
+    },
+    {
+      "tag": "#love",
+      "usage_count": 25,
+      "avg_views": 5937261
+    },
+    {
+      "tag": "#couple",
+      "usage_count": 18,
+      "avg_views": 7043000
+    },
+    {
+      "tag": "#relationships",
+      "usage_count": 15,
+      "avg_views": 2939229
+    },
+    {
+      "tag": "#relationshipgoals",
+      "usage_count": 13,
+      "avg_views": 6436495
+    },
+    {
+      "tag": "#viral",
+      "usage_count": 8,
+      "avg_views": 4476644
+    },
+    {
+      "tag": "#relationshipadvice",
+      "usage_count": 8,
+      "avg_views": 336564
+    },
+    {
+      "tag": "#foryou",
+      "usage_count": 8,
+      "avg_views": 4297400
+    },
+    {
+      "tag": "#lovequotes",
+      "usage_count": 8,
+      "avg_views": 3862487
+    },
+    {
+      "tag": "#motivation",
+      "usage_count": 8,
+      "avg_views": 3230059
+    },
+    {
+      "tag": "#relatable",
+      "usage_count": 7,
+      "avg_views": 4458307
+    },
+    {
+      "tag": "#couplegoals",
+      "usage_count": 7,
+      "avg_views": 6728018
+    },
+    {
+      "tag": "#boyfriend",
+      "usage_count": 6,
+      "avg_views": 4322300
+    },
+    {
+      "tag": "#couples",
+      "usage_count": 6,
+      "avg_views": 5799505
+    },
+    {
+      "tag": "#bf",
+      "usage_count": 5,
+      "avg_views": 3042660
+    },
+    {
+      "tag": "#psychology",
+      "usage_count": 5,
+      "avg_views": 5200000
+    },
+    {
+      "tag": "#psychologyfacts",
+      "usage_count": 4,
+      "avg_views": 4002700
+    },
+    {
+      "tag": "#marriage",
+      "usage_count": 4,
+      "avg_views": 5725224
+    },
+    {
+      "tag": "#truelove",
+      "usage_count": 4,
+      "avg_views": 7610525
+    },
+    {
+      "tag": "#gf",
+      "usage_count": 3,
+      "avg_views": 4900000
+    },
+    {
+      "tag": "#fyp\u30b7",
+      "usage_count": 3,
+      "avg_views": 1008833
+    },
+    {
+      "tag": "#foryoupage",
+      "usage_count": 3,
+      "avg_views": 2518133
+    },
+    {
+      "tag": "#relationshipquotes",
+      "usage_count": 3,
+      "avg_views": 1794566
+    },
+    {
+      "tag": "#quotes",
+      "usage_count": 3,
+      "avg_views": 3656466
+    }
+  ],
+  "formats": [
+    {
+      "name": "Story / narrative",
+      "avg_engagement": 16.6,
+      "post_count": 2
+    },
+    {
+      "name": "Question / engagement",
+      "avg_engagement": 14.6,
+      "post_count": 2
+    },
+    {
+      "name": "Educational / tips",
+      "avg_engagement": 14.2,
+      "post_count": 7
+    },
+    {
+      "name": "Challenge / trend",
+      "avg_engagement": 10.8,
+      "post_count": 6
+    }
+  ],
+  "trending_sounds": [
+    {
+      "name": "original sound",
+      "usage_count": 39
+    },
+    {
+      "name": "Here With Me by D4vd",
+      "usage_count": 7
+    },
+    {
+      "name": "20200229 2",
+      "usage_count": 3
+    },
+    {
+      "name": "suono originale",
+      "usage_count": 3
+    },
+    {
+      "name": "son original",
+      "usage_count": 2
+    },
+    {
+      "name": "Love You So",
+      "usage_count": 2
+    },
+    {
+      "name": "som original",
+      "usage_count": 2
+    },
+    {
+      "name": "When I'm With You",
+      "usage_count": 1
+    },
+    {
+      "name": "\"Sleep BGM\" The sound of dream wings invites you to sleep",
+      "usage_count": 1
+    },
+    {
+      "name": "i'd always think of jenny",
+      "usage_count": 1
+    }
+  ],
+  "insights": "Story / narrative content leads with 16.6% avg engagement. Avg engagement: 14.7%. 98 posts analyzed.",
+  "top_posts": [
+    {
+      "author": "@butyoupromised1000",
+      "followers": 1187,
+      "caption": "#relatable #fyp\u30c4 #relationship #bf #gf ",
+      "views": 2600000,
+      "likes": 548100,
+      "comments": 730,
+      "shares": 260800,
+      "saves": 48814,
+      "engagement_rate": 33.02,
+      "hashtags": [
+        "#relatable",
+        "#fyp\u30c4",
+        "#relationship",
+        "#bf",
+        "#gf"
+      ],
+      "sound": "When I'm With You",
+      "duration": 10,
+      "posted_date": "2026-04-01",
+      "url": "https://www.tiktok.com/@butyoupromised1000/video/7623842392856087839"
+    },
+    {
+      "author": "@marina_xspam",
+      "followers": 153,
+      "caption": "#relate #relationship #bf ",
+      "views": 333000,
+      "likes": 75600,
+      "comments": 294,
+      "shares": 23500,
+      "saves": 6291,
+      "engagement_rate": 31.74,
+      "hashtags": [
+        "#relate",
+        "#relationship",
+        "#bf"
+      ],
+      "sound": "\"Sleep BGM\" The sound of dream wings invites you to sleep",
+      "duration": 5,
+      "posted_date": "2026-03-16",
+      "url": "https://www.tiktok.com/@marina_xspam/video/7617939250352311574"
+    },
+    {
+      "author": "@ourlov3storyy",
+      "followers": 2506,
+      "caption": "idk what he doing #couple #xyzbcab #touch #relationship #ilovemybf ",
+      "views": 96300,
+      "likes": 21500,
+      "comments": 38,
+      "shares": 3510,
+      "saves": 2175,
+      "engagement_rate": 28.27,
+      "hashtags": [
+        "#couple",
+        "#xyzbcab",
+        "#touch",
+        "#relationship",
+        "#ilovemybf"
+      ],
+      "sound": "original sound",
+      "duration": 10,
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@ourlov3storyy/video/7625460621022104862"
+    },
+    {
+      "author": "@lilipaigebaiden",
+      "followers": 41100,
+      "caption": "The kind of love story that you see in movies #boyfriend #relationship #couple #boyfriendsoftiktok",
+      "views": 477800,
+      "likes": 90300,
+      "comments": 51,
+      "shares": 36300,
+      "saves": 6088,
+      "engagement_rate": 27.78,
+      "hashtags": [
+        "#boyfriend",
+        "#relationship",
+        "#couple",
+        "#boyfriendsoftiktok"
+      ],
+      "sound": "i'd always think of jenny",
+      "duration": 12,
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@lilipaigebaiden/video/7625476617900526879"
+    },
+    {
+      "author": "@sennentamar",
+      "followers": 2158,
+      "caption": "and he ALWAYS needs to agree with me #bf #couple #relatable #relationship #fyp ",
+      "views": 180300,
+      "likes": 31300,
+      "comments": 26,
+      "shares": 16200,
+      "saves": 1789,
+      "engagement_rate": 27.35,
+      "hashtags": [
+        "#bf",
+        "#couple",
+        "#relatable",
+        "#relationship",
+        "#fyp"
+      ],
+      "sound": "original sound",
+      "duration": 5,
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@sennentamar/video/7625719299436596513"
+    },
+    {
+      "author": "@reidjohnson18",
+      "followers": 36200,
+      "caption": "#truck #trucktok #trucks #fyp #fyp\u30b7 ",
+      "views": 82500,
+      "likes": 18600,
+      "comments": 19,
+      "shares": 2053,
+      "saves": 1332,
+      "engagement_rate": 26.67,
+      "hashtags": [
+        "#truck",
+        "#trucktok",
+        "#trucks",
+        "#fyp",
+        "#fyp\u30b7"
+      ],
+      "sound": "original sound",
+      "duration": 8,
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@reidjohnson18/video/7625746525938879757"
+    },
+    {
+      "author": "@secretacc.lover",
+      "followers": 401,
+      "caption": "\ud83e\udec2\u2764\ufe0f\u200d\ud83e\ude79\n\n#hugs #relationship #love #sweet #relatablevideos ",
+      "views": 1300000,
+      "likes": 219100,
+      "comments": 1387,
+      "shares": 87600,
+      "saves": 20992,
+      "engagement_rate": 25.31,
+      "hashtags": [
+        "#hugs",
+        "#relationship",
+        "#love",
+        "#sweet",
+        "#relatablevideos"
+      ],
+      "sound": "Fade Into You",
+      "duration": 62,
+      "posted_date": "2026-03-01",
+      "url": "https://www.tiktok.com/@secretacc.lover/video/7612388279274458390"
+    },
+    {
+      "author": "@4real.corey",
+      "followers": 914400,
+      "caption": "Send this to your person\ud83e\udd0d || #relateable #love #relationships #viral #foryoupage ",
+      "views": 10400,
+      "likes": 1706,
+      "comments": 20,
+      "shares": 721,
+      "saves": 183,
+      "engagement_rate": 25.29,
+      "hashtags": [
+        "#relateable",
+        "#love",
+        "#relationships",
+        "#viral",
+        "#foryoupage"
+      ],
+      "sound": "I'm Not Them",
+      "duration": 5,
+      "posted_date": "2026-04-05",
+      "url": "https://www.tiktok.com/@4real.corey/video/7625289156679273759"
+    },
+    {
+      "author": "@.exel1nn",
+      "followers": 548,
+      "caption": "\ud83d\udc8c #fypp #love #relationship #inlove #mylove ",
+      "views": 3800000,
+      "likes": 584000,
+      "comments": 2399,
+      "shares": 305800,
+      "saves": 57965,
+      "engagement_rate": 25.0,
+      "hashtags": [
+        "#fypp",
+        "#love",
+        "#relationship",
+        "#inlove",
+        "#mylove"
+      ],
+      "sound": "original sound",
+      "duration": 8,
+      "posted_date": "2026-02-23",
+      "url": "https://www.tiktok.com/@.exel1nn/video/7610073179037420822"
+    },
+    {
+      "author": "@wyattimprovement",
+      "followers": 255200,
+      "caption": "here\u2019s how to build a loving relationship",
+      "views": 33100,
+      "likes": 6378,
+      "comments": 48,
+      "shares": 337,
+      "saves": 1210,
+      "engagement_rate": 24.09,
+      "hashtags": [],
+      "sound": "Blind Spots Theme",
+      "duration": 49,
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@wyattimprovement/video/7625727451028557086"
+    },
+    {
+      "author": "@samandmonica",
+      "followers": 4000000,
+      "caption": "Not the tiny violin \ud83c\udfbb #prank #couples #fyp #relationship #reaction",
+      "views": 13300000,
+      "likes": 2900000,
+      "comments": 10800,
+      "shares": 34700,
+      "saves": 118103,
+      "engagement_rate": 23.03,
+      "hashtags": [
+        "#prank",
+        "#couples",
+        "#fyp",
+        "#relationship",
+        "#reaction"
+      ],
+      "sound": "original sound",
+      "duration": 36,
+      "posted_date": "2022-06-08",
+      "url": "https://www.tiktok.com/@samandmonica/video/7106959240530578694"
+    },
+    {
+      "author": "@shelliesaurus",
+      "followers": 6207,
+      "caption": "I love my sweet baby so much \ud83d\udc97\ud83d\udc97 @\ud83e\ude91 #ilovemygf #xyzabc #appreciation #Relationship #wlw ",
+      "views": 14100,
+      "likes": 1586,
+      "comments": 23,
+      "shares": 1249,
+      "saves": 388,
+      "engagement_rate": 23.02,
+      "hashtags": [
+        "#",
+        "#ilovemygf",
+        "#xyzabc",
+        "#appreciation",
+        "#relationship",
+        "#wlw"
+      ],
+      "sound": "Gentle Wind Chimes",
+      "duration": 8,
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@shelliesaurus/video/7625578980162620675"
+    },
+    {
+      "author": "@ivrydisc",
+      "followers": 9011,
+      "caption": "#fyp #relationship #love ",
+      "views": 4200000,
+      "likes": 763300,
+      "comments": 1942,
+      "shares": 64600,
+      "saves": 135439,
+      "engagement_rate": 22.98,
+      "hashtags": [
+        "#fyp",
+        "#relationship",
+        "#love"
+      ],
+      "sound": "original sound",
+      "duration": 39,
+      "posted_date": "2026-01-17",
+      "url": "https://www.tiktok.com/@ivrydisc/video/7596329390871498015"
+    },
+    {
+      "author": "@shadowtrial",
+      "followers": 45000,
+      "caption": "The girl who genuinely loves you the hardestis who panics fastest.\n#relationships #psychology #psychologyfacts #love #loves ",
+      "views": 8100000,
+      "likes": 1400000,
+      "comments": 6866,
+      "shares": 214300,
+      "saves": 201859,
+      "engagement_rate": 22.51,
+      "hashtags": [
+        "#relationships",
+        "#psychology",
+        "#psychologyfacts",
+        "#love",
+        "#loves"
+      ],
+      "sound": "20200229 2",
+      "duration": 61,
+      "posted_date": "2026-01-07",
+      "url": "https://www.tiktok.com/@shadowtrial/video/7592693254659902750"
+    },
+    {
+      "author": "@plumsoju",
+      "followers": 1100000,
+      "caption": "What do you think of these gifts? #birthdaygift #birthdaygirl #relationship #couples #joehisaishi #stufioghibli #aritzia #oakandfort #girlfriend #boyfriend #relationships #relationshipgoals #engineeri",
+      "views": 6800000,
+      "likes": 1400000,
+      "comments": 11100,
+      "shares": 28400,
+      "saves": 79890,
+      "engagement_rate": 22.34,
+      "hashtags": [
+        "#birthdaygift",
+        "#birthdaygirl",
+        "#relationship",
+        "#couples",
+        "#joehisaishi",
+        "#stufioghibli",
+        "#aritzia",
+        "#oakandfort"
+      ],
+      "sound": "Merry-Go-Round of Life - from 'Howl's Moving Castle'",
+      "duration": 44,
+      "posted_date": "2022-06-02",
+      "url": "https://www.tiktok.com/@plumsoju/video/7104708236300881195"
+    }
+  ]
+}

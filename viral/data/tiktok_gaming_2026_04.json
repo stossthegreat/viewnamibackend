@@ -1,0 +1,588 @@
+{
+  "platform": "TikTok",
+  "platform_key": "tiktok",
+  "month": "April",
+  "year": 2026,
+  "niche": "gaming",
+  "generated_at": "2026-04-07T21:19:04.870888",
+  "data_points_analyzed": 100,
+  "viral_posts_found": 100,
+  "hooks": [
+    {
+      "pattern": "POV: you just...",
+      "example_count": 1,
+      "trend_pct": 70,
+      "example": "POV: You've been"
+    },
+    {
+      "pattern": "If you [X]",
+      "example_count": 1,
+      "trend_pct": 70,
+      "example": "If you don\u2019t want to be my friend that\u2019s fine with me #gamingtiktok #gamingsetup #gamingroom #gamer #theultimatenerd"
+    }
+  ],
+  "best_times": [
+    {
+      "day": "Thursday",
+      "time": "Peak",
+      "engagement_avg": 10.2,
+      "sample_size": 17
+    },
+    {
+      "day": "Friday",
+      "time": "Peak",
+      "engagement_avg": 8.7,
+      "sample_size": 15
+    },
+    {
+      "day": "Wednesday",
+      "time": "Peak",
+      "engagement_avg": 8.4,
+      "sample_size": 16
+    },
+    {
+      "day": "Sunday",
+      "time": "Peak",
+      "engagement_avg": 7.9,
+      "sample_size": 10
+    },
+    {
+      "day": "Tuesday",
+      "time": "Peak",
+      "engagement_avg": 7.0,
+      "sample_size": 21
+    },
+    {
+      "day": "Monday",
+      "time": "Peak",
+      "engagement_avg": 7.0,
+      "sample_size": 10
+    },
+    {
+      "day": "Saturday",
+      "time": "Peak",
+      "engagement_avg": 5.8,
+      "sample_size": 11
+    }
+  ],
+  "hashtags": [
+    {
+      "tag": "#gaming",
+      "usage_count": 64,
+      "avg_views": 3019420
+    },
+    {
+      "tag": "#fyp",
+      "usage_count": 24,
+      "avg_views": 3367747
+    },
+    {
+      "tag": "#games",
+      "usage_count": 15,
+      "avg_views": 2358019
+    },
+    {
+      "tag": "#gamer",
+      "usage_count": 13,
+      "avg_views": 4190782
+    },
+    {
+      "tag": "#game",
+      "usage_count": 10,
+      "avg_views": 1080820
+    },
+    {
+      "tag": "#viral",
+      "usage_count": 9,
+      "avg_views": 3956645
+    },
+    {
+      "tag": "#pcgaming",
+      "usage_count": 8,
+      "avg_views": 1248750
+    },
+    {
+      "tag": "#gameplay",
+      "usage_count": 7,
+      "avg_views": 1081325
+    },
+    {
+      "tag": "#gamingontiktok",
+      "usage_count": 6,
+      "avg_views": 1518200
+    },
+    {
+      "tag": "#gamerlife",
+      "usage_count": 6,
+      "avg_views": 993783
+    },
+    {
+      "tag": "#fyp\u30b7",
+      "usage_count": 5,
+      "avg_views": 1554567
+    },
+    {
+      "tag": "#foryou",
+      "usage_count": 5,
+      "avg_views": 2455280
+    },
+    {
+      "tag": "#foryoupage",
+      "usage_count": 5,
+      "avg_views": 1606614
+    },
+    {
+      "tag": "#trending",
+      "usage_count": 5,
+      "avg_views": 160771
+    },
+    {
+      "tag": "#pc",
+      "usage_count": 4,
+      "avg_views": 4450000
+    },
+    {
+      "tag": "#videogames",
+      "usage_count": 4,
+      "avg_views": 1475517
+    },
+    {
+      "tag": "#indiegame",
+      "usage_count": 4,
+      "avg_views": 531583
+    },
+    {
+      "tag": "#funny",
+      "usage_count": 4,
+      "avg_views": 287825
+    },
+    {
+      "tag": "#indiegames",
+      "usage_count": 4,
+      "avg_views": 1444540
+    },
+    {
+      "tag": "#vr",
+      "usage_count": 4,
+      "avg_views": 8143225
+    },
+    {
+      "tag": "#relatable",
+      "usage_count": 3,
+      "avg_views": 795466
+    },
+    {
+      "tag": "#viralvideo",
+      "usage_count": 3,
+      "avg_views": 795466
+    },
+    {
+      "tag": "#gamingtok",
+      "usage_count": 3,
+      "avg_views": 3466666
+    },
+    {
+      "tag": "#gamingmemes",
+      "usage_count": 3,
+      "avg_views": 2337233
+    },
+    {
+      "tag": "#steam",
+      "usage_count": 3,
+      "avg_views": 592433
+    }
+  ],
+  "formats": [
+    {
+      "name": "Question / engagement",
+      "avg_engagement": 6.5,
+      "post_count": 6
+    },
+    {
+      "name": "Challenge / trend",
+      "avg_engagement": 3.2,
+      "post_count": 8
+    },
+    {
+      "name": "Educational / tips",
+      "avg_engagement": 1.7,
+      "post_count": 1
+    },
+    {
+      "name": "Before/after",
+      "avg_engagement": 0.3,
+      "post_count": 1
+    }
+  ],
+  "trending_sounds": [
+    {
+      "name": "original sound",
+      "usage_count": 53
+    },
+    {
+      "name": "Never Meant to Belong - Bleach",
+      "usage_count": 1
+    },
+    {
+      "name": "OG vanossgaming clip",
+      "usage_count": 1
+    },
+    {
+      "name": "original sound - Ashy\ud83d\ude4f\ud83c\udffe",
+      "usage_count": 1
+    },
+    {
+      "name": "nothing left",
+      "usage_count": 1
+    },
+    {
+      "name": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0432\u0443\u043a",
+      "usage_count": 1
+    },
+    {
+      "name": "Nun Id change",
+      "usage_count": 1
+    },
+    {
+      "name": "9am in Calabasas",
+      "usage_count": 1
+    },
+    {
+      "name": "Mozart/Requiem \"Lacrimosa\"(1394506)",
+      "usage_count": 1
+    },
+    {
+      "name": "Presentation",
+      "usage_count": 1
+    }
+  ],
+  "insights": "Question / engagement content leads with 6.5% avg engagement. \"POV: you just...\" hook appears in 1 viral posts. Avg engagement: 8.0%. 100 posts analyzed.",
+  "top_posts": [
+    {
+      "author": "@freddsaint",
+      "followers": 4157,
+      "caption": "Them was the good days \ud83d\ude2e\u200d\ud83d\udca8\ud83d\udcaf #gaming #fyp\u30b7 #real #viral #nostalgia ",
+      "views": 94500,
+      "likes": 19300,
+      "comments": 241,
+      "shares": 3077,
+      "saves": 920,
+      "engagement_rate": 24.91,
+      "hashtags": [
+        "#gaming",
+        "#fyp\u30b7",
+        "#real",
+        "#viral",
+        "#nostalgia"
+      ],
+      "sound": "original sound",
+      "duration": 14,
+      "posted_date": "2026-04-05",
+      "url": "https://www.tiktok.com/@freddsaint/video/7625357530012699934"
+    },
+    {
+      "author": "@ronnwya",
+      "followers": 203300,
+      "caption": "Character Development\ud83e\udd40 #relatable #viralvideo #fypage #funnyvideo #gaming ",
+      "views": 1100000,
+      "likes": 208600,
+      "comments": 1702,
+      "shares": 20800,
+      "saves": 29599,
+      "engagement_rate": 23.7,
+      "hashtags": [
+        "#relatable",
+        "#viralvideo",
+        "#fypage",
+        "#funnyvideo",
+        "#gaming"
+      ],
+      "sound": "original sound",
+      "duration": 38,
+      "posted_date": "2025-11-06",
+      "url": "https://www.tiktok.com/@ronnwya/video/7569733585536601399"
+    },
+    {
+      "author": "@olwoody_",
+      "followers": 3963,
+      "caption": "My face cam was blurry \ud83d\ude22 #gaming #gamingtok #fyp\u30b7 #roblox #robloxgame ",
+      "views": 4200000,
+      "likes": 710200,
+      "comments": 4704,
+      "shares": 157900,
+      "saves": 99636,
+      "engagement_rate": 23.15,
+      "hashtags": [
+        "#gaming",
+        "#gamingtok",
+        "#fyp\u30b7",
+        "#roblox",
+        "#robloxgame"
+      ],
+      "sound": "original sound",
+      "duration": 11,
+      "posted_date": "2026-02-26",
+      "url": "https://www.tiktok.com/@olwoody_/video/7611223192769760526"
+    },
+    {
+      "author": "@ronnwya",
+      "followers": 203300,
+      "caption": "And this is why I\u2019m unemployed\ud83d\ude2d\u270c\ufe0f #gaming #viralvideo #funnyvideo #relatable #wyaronn ",
+      "views": 562000,
+      "likes": 99600,
+      "comments": 1581,
+      "shares": 15100,
+      "saves": 9932,
+      "engagement_rate": 22.46,
+      "hashtags": [
+        "#gaming",
+        "#viralvideo",
+        "#funnyvideo",
+        "#relatable",
+        "#wyaronn"
+      ],
+      "sound": "original sound",
+      "duration": 60,
+      "posted_date": "2026-03-18",
+      "url": "https://www.tiktok.com/@ronnwya/video/7618401989692509454"
+    },
+    {
+      "author": "@chaserakss",
+      "followers": 4972,
+      "caption": "Be fallin asleep on the game and all cuh\ud83d\ude02\ud83d\ude02\ud83d\ude02 #viral #blowthisup #relatable #fyp #viralvideo #makemefamous #gaming#streamer #twitch #gtav ",
+      "views": 724400,
+      "likes": 132200,
+      "comments": 596,
+      "shares": 17700,
+      "saves": 11700,
+      "engagement_rate": 22.39,
+      "hashtags": [
+        "#viral",
+        "#blowthisup",
+        "#relatable",
+        "#fyp",
+        "#viralvideo",
+        "#makemefamous",
+        "#gaming",
+        "#streamer"
+      ],
+      "sound": "original sound",
+      "duration": 6,
+      "posted_date": "2025-07-19",
+      "url": "https://www.tiktok.com/@chaserakss/video/7528601795438972174"
+    },
+    {
+      "author": "@jordielocks_",
+      "followers": 196000,
+      "caption": "100+ games in library = nothing to play  \ud83d\ude00 #gamer #gaming #gamingontiktok #gamerproblems #jordielocks ",
+      "views": 595200,
+      "likes": 106000,
+      "comments": 1217,
+      "shares": 16900,
+      "saves": 6135,
+      "engagement_rate": 21.88,
+      "hashtags": [
+        "#gamer",
+        "#gaming",
+        "#gamingontiktok",
+        "#gamerproblems",
+        "#jordielocks"
+      ],
+      "sound": "original sound",
+      "duration": 9,
+      "posted_date": "2026-02-05",
+      "url": "https://www.tiktok.com/@jordielocks_/video/7603468517517659406"
+    },
+    {
+      "author": "@champagnelance",
+      "followers": 641600,
+      "caption": "Pro iPad gamer \ud83d\ude02\ud83d\ude02 #fyp #blowthisup #music #games #zyxcba ",
+      "views": 6500000,
+      "likes": 890800,
+      "comments": 7180,
+      "shares": 369000,
+      "saves": 138536,
+      "engagement_rate": 21.62,
+      "hashtags": [
+        "#fyp",
+        "#blowthisup",
+        "#music",
+        "#games",
+        "#zyxcba"
+      ],
+      "sound": "Never Meant to Belong - Bleach",
+      "duration": 60,
+      "posted_date": "2026-03-12",
+      "url": "https://www.tiktok.com/@champagnelance/video/7616186725081124126"
+    },
+    {
+      "author": "@gaming",
+      "followers": 10400000,
+      "caption": "\ud83d\udd25@witolszewski \ud83d\udd25 Absolutely incredible \ud83d\udc4f #foryou #fyp #foryoupage #gaming #gamelancer FOLLOW OUR IG (Click IG icon in bio)",
+      "views": 7900000,
+      "likes": 1600000,
+      "comments": 9305,
+      "shares": 19400,
+      "saves": 63910,
+      "engagement_rate": 21.43,
+      "hashtags": [
+        "#",
+        "#foryou",
+        "#fyp",
+        "#foryoupage",
+        "#gaming",
+        "#gamelancer"
+      ],
+      "sound": "original sound",
+      "duration": 16,
+      "posted_date": "2020-10-02",
+      "url": "https://www.tiktok.com/@gaming/video/6879128174798589186"
+    },
+    {
+      "author": "@keemsama",
+      "followers": 871700,
+      "caption": "PROTECT YOUR STORE\n\n#gaming #keemsama #horror ",
+      "views": 33900000,
+      "likes": 5500000,
+      "comments": 14200,
+      "shares": 656800,
+      "saves": 634080,
+      "engagement_rate": 20.07,
+      "hashtags": [
+        "#gaming",
+        "#keemsama",
+        "#horror"
+      ],
+      "sound": "original sound",
+      "duration": 84,
+      "posted_date": "2025-07-02",
+      "url": "https://www.tiktok.com/@keemsama/video/7522587126915943710"
+    },
+    {
+      "author": "@jezzellx",
+      "followers": 6658,
+      "caption": "\ud83d\ude44\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\n#game #games #gamer #gaming\n#gamingmemes ",
+      "views": 511700,
+      "likes": 79100,
+      "comments": 233,
+      "shares": 13400,
+      "saves": 5402,
+      "engagement_rate": 19.18,
+      "hashtags": [
+        "#game",
+        "#games",
+        "#gamer",
+        "#gaming",
+        "#gamingmemes"
+      ],
+      "sound": "OG vanossgaming clip",
+      "duration": 10,
+      "posted_date": "2026-02-17",
+      "url": "https://www.tiktok.com/@jezzellx/video/7607657736272219405"
+    },
+    {
+      "author": "@wassup.imjay",
+      "followers": 3011,
+      "caption": "A YOUNG GAMING H*E \ud83e\udee0\ud83e\udee0\ud83e\udee0 #steam #pcgaming #fyp #cozygamer #gaming ",
+      "views": 10100,
+      "likes": 1615,
+      "comments": 49,
+      "shares": 113,
+      "saves": 140,
+      "engagement_rate": 18.98,
+      "hashtags": [
+        "#steam",
+        "#pcgaming",
+        "#fyp",
+        "#cozygamer",
+        "#gaming"
+      ],
+      "sound": "original sound",
+      "duration": 5,
+      "posted_date": "2026-02-20",
+      "url": "https://www.tiktok.com/@wassup.imjay/video/7609045342062988574"
+    },
+    {
+      "author": "@ashyssr",
+      "followers": 464300,
+      "caption": "I had a lot of fun playing this icl ||| Roblox Game: Bite By Night (Releases March 28th)",
+      "views": 5400000,
+      "likes": 624200,
+      "comments": 4446,
+      "shares": 176300,
+      "saves": 156199,
+      "engagement_rate": 17.8,
+      "hashtags": [],
+      "sound": "original sound - Ashy\ud83d\ude4f\ud83c\udffe",
+      "duration": 59,
+      "posted_date": "2026-03-26",
+      "url": "https://www.tiktok.com/@ashyssr/video/7621377329096445205"
+    },
+    {
+      "author": "@ibeecollecting",
+      "followers": 923,
+      "caption": "yea nah im just being a scaredy cat #fyp #gaming #residentevil2 #residentevil #horrortok ",
+      "views": 1300000,
+      "likes": 194000,
+      "comments": 3924,
+      "shares": 10100,
+      "saves": 17900,
+      "engagement_rate": 17.38,
+      "hashtags": [
+        "#fyp",
+        "#gaming",
+        "#residentevil2",
+        "#residentevil",
+        "#horrortok"
+      ],
+      "sound": "nothing left",
+      "duration": 37,
+      "posted_date": "2026-03-13",
+      "url": "https://www.tiktok.com/@ibeecollecting/video/7616558001440296223"
+    },
+    {
+      "author": "@mado.whatch",
+      "followers": 9772,
+      "caption": "POV: You've been\ngaming all night #battlefield6 #gaming #bf6 #bf #clips ",
+      "views": 29300000,
+      "likes": 4300000,
+      "comments": 6124,
+      "shares": 368300,
+      "saves": 248693,
+      "engagement_rate": 16.8,
+      "hashtags": [
+        "#battlefield6",
+        "#gaming",
+        "#bf6",
+        "#bf",
+        "#clips"
+      ],
+      "sound": "original sound",
+      "duration": 15,
+      "posted_date": "2025-10-22",
+      "url": "https://www.tiktok.com/@mado.whatch/video/7563985924019784982"
+    },
+    {
+      "author": "@everydayrjj",
+      "followers": 359,
+      "caption": "Peak male gaming #gta #og #late #gaming #fun ",
+      "views": 484300,
+      "likes": 62300,
+      "comments": 330,
+      "shares": 4715,
+      "saves": 9899,
+      "engagement_rate": 15.95,
+      "hashtags": [
+        "#gta",
+        "#og",
+        "#late",
+        "#gaming",
+        "#fun"
+      ],
+      "sound": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0432\u0443\u043a",
+      "duration": 13,
+      "posted_date": "2025-12-30",
+      "url": "https://www.tiktok.com/@everydayrjj/video/7589580985684053261"
+    }
+  ]
+}

@@ -1,0 +1,582 @@
+{
+  "platform": "TikTok",
+  "platform_key": "tiktok",
+  "month": "April",
+  "year": 2026,
+  "niche": "comedy",
+  "generated_at": "2026-04-07T21:19:04.870888",
+  "data_points_analyzed": 100,
+  "viral_posts_found": 100,
+  "hooks": [
+    {
+      "pattern": "POV: you just...",
+      "example_count": 2,
+      "trend_pct": 90,
+      "example": "POV: High School. Part 3. #pov #funny #comedy #skit #school"
+    }
+  ],
+  "best_times": [
+    {
+      "day": "Monday",
+      "time": "Peak",
+      "engagement_avg": 14.7,
+      "sample_size": 13
+    },
+    {
+      "day": "Thursday",
+      "time": "Peak",
+      "engagement_avg": 14.3,
+      "sample_size": 10
+    },
+    {
+      "day": "Wednesday",
+      "time": "Peak",
+      "engagement_avg": 13.5,
+      "sample_size": 13
+    },
+    {
+      "day": "Friday",
+      "time": "Peak",
+      "engagement_avg": 13.4,
+      "sample_size": 14
+    },
+    {
+      "day": "Sunday",
+      "time": "Peak",
+      "engagement_avg": 13.1,
+      "sample_size": 11
+    },
+    {
+      "day": "Saturday",
+      "time": "Peak",
+      "engagement_avg": 12.6,
+      "sample_size": 10
+    },
+    {
+      "day": "Tuesday",
+      "time": "Peak",
+      "engagement_avg": 11.1,
+      "sample_size": 29
+    }
+  ],
+  "hashtags": [
+    {
+      "tag": "#comedy",
+      "usage_count": 71,
+      "avg_views": 9218655
+    },
+    {
+      "tag": "#standup",
+      "usage_count": 28,
+      "avg_views": 7446708
+    },
+    {
+      "tag": "#funny",
+      "usage_count": 26,
+      "avg_views": 10927510
+    },
+    {
+      "tag": "#fyp",
+      "usage_count": 25,
+      "avg_views": 11184541
+    },
+    {
+      "tag": "#standupcomedy",
+      "usage_count": 20,
+      "avg_views": 13615168
+    },
+    {
+      "tag": "#crowdwork",
+      "usage_count": 15,
+      "avg_views": 10647099
+    },
+    {
+      "tag": "#relatable",
+      "usage_count": 8,
+      "avg_views": 8987657
+    },
+    {
+      "tag": "#funnyvideos",
+      "usage_count": 7,
+      "avg_views": 11157463
+    },
+    {
+      "tag": "#foryou",
+      "usage_count": 6,
+      "avg_views": 13950023
+    },
+    {
+      "tag": "#skit",
+      "usage_count": 6,
+      "avg_views": 10766666
+    },
+    {
+      "tag": "#improv",
+      "usage_count": 6,
+      "avg_views": 20116803
+    },
+    {
+      "tag": "#renevaca",
+      "usage_count": 6,
+      "avg_views": 1183927
+    },
+    {
+      "tag": "#pov",
+      "usage_count": 5,
+      "avg_views": 11560000
+    },
+    {
+      "tag": "#mattrife",
+      "usage_count": 5,
+      "avg_views": 24140000
+    },
+    {
+      "tag": "#family",
+      "usage_count": 4,
+      "avg_views": 20850000
+    },
+    {
+      "tag": "#comedian",
+      "usage_count": 4,
+      "avg_views": 1003791
+    },
+    {
+      "tag": "#viral",
+      "usage_count": 4,
+      "avg_views": 13725000
+    },
+    {
+      "tag": "#foryoupage",
+      "usage_count": 4,
+      "avg_views": 18600000
+    },
+    {
+      "tag": "#comedyvideo",
+      "usage_count": 4,
+      "avg_views": 5677160
+    },
+    {
+      "tag": "#foryourpage",
+      "usage_count": 4,
+      "avg_views": 5905660
+    },
+    {
+      "tag": "#trending",
+      "usage_count": 3,
+      "avg_views": 15466666
+    },
+    {
+      "tag": "#tiktok",
+      "usage_count": 3,
+      "avg_views": 8338000
+    },
+    {
+      "tag": "#jokes",
+      "usage_count": 3,
+      "avg_views": 8433333
+    },
+    {
+      "tag": "#renevacacomedy",
+      "usage_count": 3,
+      "avg_views": 773
+    },
+    {
+      "tag": "#couple",
+      "usage_count": 3,
+      "avg_views": 9633333
+    }
+  ],
+  "formats": [
+    {
+      "name": "Challenge / trend",
+      "avg_engagement": 13.8,
+      "post_count": 6
+    },
+    {
+      "name": "Question / engagement",
+      "avg_engagement": 12.9,
+      "post_count": 4
+    },
+    {
+      "name": "Story / narrative",
+      "avg_engagement": 8.4,
+      "post_count": 3
+    }
+  ],
+  "trending_sounds": [
+    {
+      "name": "original sound",
+      "usage_count": 75
+    },
+    {
+      "name": "Love You So",
+      "usage_count": 2
+    },
+    {
+      "name": "snowfall",
+      "usage_count": 1
+    },
+    {
+      "name": "Funny",
+      "usage_count": 1
+    },
+    {
+      "name": "[Nocturne No. 2] Piano Chopin(155315)",
+      "usage_count": 1
+    },
+    {
+      "name": "Suspenseful and tense orchestra(1318015)",
+      "usage_count": 1
+    },
+    {
+      "name": "Chopin Nocturne No. 2 Piano Mono",
+      "usage_count": 1
+    },
+    {
+      "name": "10 minutes! Fashionable and bright jazz piano(1127989)",
+      "usage_count": 1
+    },
+    {
+      "name": "Aesthetic",
+      "usage_count": 1
+    },
+    {
+      "name": "original sound - COMEDY_ CASTLE_",
+      "usage_count": 1
+    }
+  ],
+  "insights": "Challenge / trend content leads with 13.8% avg engagement. \"POV: you just...\" hook appears in 2 viral posts. Avg engagement: 12.9%. 100 posts analyzed.",
+  "top_posts": [
+    {
+      "author": "@outtpig",
+      "followers": 3800000,
+      "caption": "Part 3 to the series #POV #comedy #relatable #family ",
+      "views": 18700000,
+      "likes": 4300000,
+      "comments": 12900,
+      "shares": 208400,
+      "saves": 278434,
+      "engagement_rate": 25.67,
+      "hashtags": [
+        "#pov",
+        "#comedy",
+        "#relatable",
+        "#family"
+      ],
+      "sound": "original sound",
+      "duration": 36,
+      "posted_date": "2023-01-23",
+      "url": "https://www.tiktok.com/@outtpig/video/7191961012768197930"
+    },
+    {
+      "author": "@zzzb794",
+      "followers": 11100,
+      "caption": "comedian Adam KellyFunny Moments#comedy #comedian #funny #joke #oneliner   ",
+      "views": 916,
+      "likes": 184,
+      "comments": 2,
+      "shares": 16,
+      "saves": 19,
+      "engagement_rate": 24.13,
+      "hashtags": [
+        "#comedy",
+        "#comedian",
+        "#funny",
+        "#joke",
+        "#oneliner"
+      ],
+      "sound": "original sound",
+      "duration": 154,
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@zzzb794/video/7625945985482493215"
+    },
+    {
+      "author": "@landon.mauk",
+      "followers": 1700000,
+      "caption": "Okay goodnight i have to go to bed. #fyp #foryou #comedy ",
+      "views": 3000000,
+      "likes": 548300,
+      "comments": 3432,
+      "shares": 91900,
+      "saves": 49128,
+      "engagement_rate": 23.09,
+      "hashtags": [
+        "#fyp",
+        "#foryou",
+        "#comedy"
+      ],
+      "sound": "original sound",
+      "duration": 68,
+      "posted_date": "2024-06-05",
+      "url": "https://www.tiktok.com/@landon.mauk/video/7376836673390398762"
+    },
+    {
+      "author": "@omidsingh",
+      "followers": 23000,
+      "caption": "Lets go shopping together #joke #target #comedy #funny #indian #iranian #standup #lilspecial ",
+      "views": 10400000,
+      "likes": 1800000,
+      "comments": 5065,
+      "shares": 436200,
+      "saves": 124310,
+      "engagement_rate": 22.75,
+      "hashtags": [
+        "#joke",
+        "#target",
+        "#comedy",
+        "#funny",
+        "#indian",
+        "#iranian",
+        "#standup",
+        "#lilspecial"
+      ],
+      "sound": "original sound",
+      "duration": 59,
+      "posted_date": "2023-10-09",
+      "url": "https://www.tiktok.com/@omidsingh/video/7287974551881829662"
+    },
+    {
+      "author": "@alexiaeofficial",
+      "followers": 3900000,
+      "caption": "NEW SERIES \u201cLet\u2019s Talk:\u201d what should we talk about next!!?  \ud83e\udd2f\ud83d\ude02\ud83d\ude4c\ud83c\udffb #fyp #trending #viral #comedy #hilarious #ohno #fail #family #education #mom #son #talk ",
+      "views": 23300000,
+      "likes": 4200000,
+      "comments": 29200,
+      "shares": 72700,
+      "saves": 518024,
+      "engagement_rate": 20.69,
+      "hashtags": [
+        "#fyp",
+        "#trending",
+        "#viral",
+        "#comedy",
+        "#hilarious",
+        "#ohno",
+        "#fail",
+        "#family"
+      ],
+      "sound": "original sound",
+      "duration": 127,
+      "posted_date": "2022-11-14",
+      "url": "https://www.tiktok.com/@alexiaeofficial/video/7165989422893190443"
+    },
+    {
+      "author": "@erin_garv",
+      "followers": 11800,
+      "caption": "shows that are written by women are funnier let\u2019s fight ab it #imsorry",
+      "views": 11500000,
+      "likes": 2200000,
+      "comments": 11800,
+      "shares": 36500,
+      "saves": 126139,
+      "engagement_rate": 20.65,
+      "hashtags": [
+        "#imsorry"
+      ],
+      "sound": "original sound",
+      "duration": 53,
+      "posted_date": "2021-01-01",
+      "url": "https://www.tiktok.com/@erin_garv/video/6912868727264529669"
+    },
+    {
+      "author": "@kenflores300",
+      "followers": 580900,
+      "caption": "\ud83d\ude02 #comedy #standup #fyp ",
+      "views": 5300000,
+      "likes": 845200,
+      "comments": 2442,
+      "shares": 149200,
+      "saves": 80571,
+      "engagement_rate": 20.33,
+      "hashtags": [
+        "#comedy",
+        "#standup",
+        "#fyp"
+      ],
+      "sound": "original sound",
+      "duration": 53,
+      "posted_date": "2023-07-04",
+      "url": "https://www.tiktok.com/@kenflores300/video/7252087894616100138"
+    },
+    {
+      "author": "@theelijahnevels",
+      "followers": 75400,
+      "caption": "Perfect timing\ud83d\ude02\ud83d\udd25\nI\u2019ll be back in Columbus at the attic comedy club July 17th!!! Tickets on their website at theatticcomedyclub.com\ud83e\udd1f\ud83c\udffe\n#standupcomedy #comedy #funny #brother #fyp ",
+      "views": 2200000,
+      "likes": 400300,
+      "comments": 393,
+      "shares": 1952,
+      "saves": 36288,
+      "engagement_rate": 19.95,
+      "hashtags": [
+        "#standupcomedy",
+        "#comedy",
+        "#funny",
+        "#brother",
+        "#fyp"
+      ],
+      "sound": "original sound",
+      "duration": 25,
+      "posted_date": "2024-06-01",
+      "url": "https://www.tiktok.com/@theelijahnevels/video/7375590018003356974"
+    },
+    {
+      "author": "@troybond69",
+      "followers": 2400000,
+      "caption": "Once again Germany starts a war it wasnt ready to finish #comedy #standupcomedy #fyp #foryoupage ",
+      "views": 34600000,
+      "likes": 5900000,
+      "comments": 14800,
+      "shares": 333500,
+      "saves": 632344,
+      "engagement_rate": 19.89,
+      "hashtags": [
+        "#comedy",
+        "#standupcomedy",
+        "#fyp",
+        "#foryoupage"
+      ],
+      "sound": "original sound",
+      "duration": 59,
+      "posted_date": "2023-06-26",
+      "url": "https://www.tiktok.com/@troybond69/video/7249111628501749034"
+    },
+    {
+      "author": "@futurecomedy5",
+      "followers": 1200000,
+      "caption": "Nobody parties like Spanish people #fyp #tiktok #CapCut #standup #comedy #spanish #spain #kattwilliams #kattwilliamscomedy ",
+      "views": 10300000,
+      "likes": 1700000,
+      "comments": 5269,
+      "shares": 113200,
+      "saves": 193439,
+      "engagement_rate": 19.53,
+      "hashtags": [
+        "#fyp",
+        "#tiktok",
+        "#capcut",
+        "#standup",
+        "#comedy",
+        "#spanish",
+        "#spain",
+        "#kattwilliams"
+      ],
+      "sound": "Love You So",
+      "duration": 59,
+      "posted_date": "2023-02-25",
+      "url": "https://www.tiktok.com/@futurecomedy5/video/7204130518546402565"
+    },
+    {
+      "author": "@steezyfilms.ae",
+      "followers": 146600,
+      "caption": "Is good boys the best movie oat?|| #goodboysmovie #goodboy #goodboysedit #viral #comedymovie #fyp #highquality #movie ",
+      "views": 5800000,
+      "likes": 919900,
+      "comments": 1901,
+      "shares": 31900,
+      "saves": 146695,
+      "engagement_rate": 18.97,
+      "hashtags": [
+        "#goodboysmovie",
+        "#goodboy",
+        "#goodboysedit",
+        "#viral",
+        "#comedymovie",
+        "#fyp",
+        "#highquality",
+        "#movie"
+      ],
+      "sound": "original sound",
+      "duration": 61,
+      "posted_date": "2024-05-30",
+      "url": "https://www.tiktok.com/@steezyfilms.ae/video/7374869489952787758"
+    },
+    {
+      "author": "@comedycentral",
+      "followers": 6100000,
+      "caption": "\u201cOne girl gets sick, every girl plays a part.\u201d \ud83c\udfa4: Tony Rock \n#standup #standupcomedy #drunk ",
+      "views": 2900000,
+      "likes": 481200,
+      "comments": 1294,
+      "shares": 32200,
+      "saves": 31553,
+      "engagement_rate": 18.84,
+      "hashtags": [
+        "#standup",
+        "#standupcomedy",
+        "#drunk"
+      ],
+      "sound": "original sound",
+      "duration": 60,
+      "posted_date": "2024-05-17",
+      "url": "https://www.tiktok.com/@comedycentral/video/7370008756941311275"
+    },
+    {
+      "author": "@sabrina.cinoman.brier",
+      "followers": 866400,
+      "caption": "#friends #comedy #nyc ",
+      "views": 4700000,
+      "likes": 779900,
+      "comments": 4991,
+      "shares": 56200,
+      "saves": 33821,
+      "engagement_rate": 18.62,
+      "hashtags": [
+        "#friends",
+        "#comedy",
+        "#nyc"
+      ],
+      "sound": "original sound",
+      "duration": 54,
+      "posted_date": "2023-06-18",
+      "url": "https://www.tiktok.com/@sabrina.cinoman.brier/video/7246034596393946414"
+    },
+    {
+      "author": "@yanidacoldest",
+      "followers": 303700,
+      "caption": "these clients nowadays \ud83e\udd26\ud83c\udffd\u200d\u2640\ufe0f #fyp #foryoupage #hairstylist #hairstylisttiktok #wiginstall #houstonstylist #comedy ",
+      "views": 10100000,
+      "likes": 1700000,
+      "comments": 2971,
+      "shares": 16800,
+      "saves": 157176,
+      "engagement_rate": 18.58,
+      "hashtags": [
+        "#fyp",
+        "#foryoupage",
+        "#hairstylist",
+        "#hairstylisttiktok",
+        "#wiginstall",
+        "#houstonstylist",
+        "#comedy"
+      ],
+      "sound": "original sound",
+      "duration": 162,
+      "posted_date": "2023-02-02",
+      "url": "https://www.tiktok.com/@yanidacoldest/video/7195385449781660974"
+    },
+    {
+      "author": "@countrycomedian3",
+      "followers": 229300,
+      "caption": "#stitch with @lifeofrhody  I have a heart #comedian #comedy #fyp #Funny ",
+      "views": 248,
+      "likes": 34,
+      "comments": 7,
+      "shares": 1,
+      "saves": 4,
+      "engagement_rate": 18.55,
+      "hashtags": [
+        "#stitch",
+        "#",
+        "#comedian",
+        "#comedy",
+        "#fyp",
+        "#funny"
+      ],
+      "sound": "original sound",
+      "duration": 59,
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@countrycomedian3/video/7626092201277263135"
+    }
+  ]
+}

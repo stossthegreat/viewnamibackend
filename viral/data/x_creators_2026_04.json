@@ -1,0 +1,321 @@
+{
+  "platform": "X (Twitter)",
+  "platform_key": "x",
+  "month": "April",
+  "year": 2026,
+  "niche": "creators",
+  "generated_at": "2026-04-07T21:19:04.870888",
+  "data_points_analyzed": 100,
+  "viral_posts_found": 100,
+  "hooks": [
+    {
+      "pattern": "If you [X]",
+      "example_count": 2,
+      "trend_pct": 90,
+      "example": "If you look at this YouTube channel, you\u2019ll realize something\u2014"
+    }
+  ],
+  "best_times": [],
+  "hashtags": [
+    {
+      "tag": "#ugc",
+      "usage_count": 2,
+      "avg_views": 15
+    },
+    {
+      "tag": "#ugccreator",
+      "usage_count": 2,
+      "avg_views": 15
+    },
+    {
+      "tag": "#socialmediamarketing",
+      "usage_count": 2,
+      "avg_views": 85
+    }
+  ],
+  "formats": [
+    {
+      "name": "Challenge / trend",
+      "avg_engagement": 7.7,
+      "post_count": 3
+    },
+    {
+      "name": "Review / recommendation",
+      "avg_engagement": 1.9,
+      "post_count": 1
+    },
+    {
+      "name": "Educational / tips",
+      "avg_engagement": 1.6,
+      "post_count": 8
+    },
+    {
+      "name": "Question / engagement",
+      "avg_engagement": 1.5,
+      "post_count": 2
+    },
+    {
+      "name": "Story / narrative",
+      "avg_engagement": 0.6,
+      "post_count": 3
+    }
+  ],
+  "trending_sounds": [],
+  "insights": "Challenge / trend content leads with 7.7% avg engagement. \"If you [X]\" hook appears in 2 viral posts. Avg engagement: 4.1%. 100 posts analyzed.",
+  "top_posts": [
+    {
+      "author": "@HonenCourses",
+      "followers": 8,
+      "caption": "Audience Growth Strategy\n\nYour first 1,000 followers don't come from the algorithm\n\nThey come from showing up where your audience already exists\n\nCommenting with real insight on large pages, and inter",
+      "views": 3,
+      "likes": 0,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 33.33,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Thu Apr 02",
+      "url": "https://x.com/HonenCourses/status/2039840940169523290"
+    },
+    {
+      "author": "@mrtbrgl",
+      "followers": 15589,
+      "caption": "@msjojos @ngahalla If your replies, comments, and shares increase, your content is doing more than reaching, it\u2019s connecting.",
+      "views": 6,
+      "likes": 1,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 33.33,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/mrtbrgl/status/2041609441443791276"
+    },
+    {
+      "author": "@skylarosbornugc",
+      "followers": 662,
+      "caption": "My UGC for Amazon Blink hit 14.6M views. \n\nHere's the strategy: I opened with a feeling everyone relates to \u2014 putting off an easy task. \n\nJust me walking through my house talking like a normal person.",
+      "views": 20,
+      "likes": 4,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 20.0,
+      "hashtags": [
+        "#ugc",
+        "#ugcexample",
+        "#ugccreator",
+        "#ugccreators",
+        "#techugc"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/skylarosbornugc/status/2041602306886791528"
+    },
+    {
+      "author": "@NKLinhzk",
+      "followers": 15643,
+      "caption": "Want real, measurable impact from creator campaigns? \ud83d\udc40\n\n\u27a0 Measurable on chain results you can prove  \n\u27a0 Creators who actually fit your product and audience  \n\u27a0 Real user growth that turns into on chai",
+      "views": 1588,
+      "likes": 130,
+      "comments": 152,
+      "shares": 6,
+      "saves": 0,
+      "engagement_rate": 18.14,
+      "hashtags": [
+        "#XOOB"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Mon Apr 06",
+      "url": "https://x.com/NKLinhzk/status/2041053083653046675"
+    },
+    {
+      "author": "@qwofi_manuel",
+      "followers": 10315,
+      "caption": "Be honest\u2026\nDid you ever think ads were your only option when your reach died on X? \ud83e\udd14\n\nOr did you realize something else was missing?\n\nDrop your experience below \ud83d\udc47\nLet\u2019s talk real growth, not guesses \ud83d\ude80",
+      "views": 51,
+      "likes": 5,
+      "comments": 3,
+      "shares": 1,
+      "saves": 0,
+      "engagement_rate": 17.65,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/qwofi_manuel/status/2041607568775073822"
+    },
+    {
+      "author": "@Winner2923",
+      "followers": 91,
+      "caption": "90 Days of growing faceless pages all across different social media. And this insights have been amazing. In that time frame.. I did the following on TikTok alone \n\n* Grew a page from 6 followers  to ",
+      "views": 34,
+      "likes": 4,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 14.71,
+      "hashtags": [
+        "#socialmediamanager",
+        "#SocialMediaMarketing",
+        "#growthstrategist",
+        "#buildinpublic",
+        "#monetization"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Wed Apr 01",
+      "url": "https://x.com/Winner2923/status/2039410521749721422"
+    },
+    {
+      "author": "@vvsmoe",
+      "followers": 1013,
+      "caption": "@BecomingCritter Where do these \u201c70k viewers\u201d come from? This is their current podcast and they usually get 3-8k viewers on YT. So where is the other 90-95%?\n\nUnless they count the 50 clips they cut f",
+      "views": 41,
+      "likes": 4,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 14.63,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/vvsmoe/status/2041604784625443000"
+    },
+    {
+      "author": "@AI_creator_Yara",
+      "followers": 1641,
+      "caption": "\ud83d\udea8 \ud835\udc06\ud835\udc0e\ud835\udc0b\ud835\udc03 \ud835\udc02\ud835\udc11\ud835\udc04\ud835\udc00\ud835\udc13\ud835\udc0e\ud835\udc11 \ud835\udc15\ud835\udc00\ud835\udc14\ud835\udc0b\ud835\udc13 \ud83d\udea8\n\nInside:\n\ud83d\udcc2 Content Strategy\n\ud83d\udcc2 Viral Hooks\n\ud83d\udcc2 Audience Growth\n\ud83d\udcc2 Monetization\n\ud83d\udcc2 Branding &amp; Design\n\ud83d\udcc2 Productivity Systems\n\nGet it:\n\u2714 Like &amp; RT\n\u2714 Comment \u201c NEED \u201d\n\u2714 Follow @A",
+      "views": 594,
+      "likes": 40,
+      "comments": 24,
+      "shares": 19,
+      "saves": 3,
+      "engagement_rate": 14.48,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Wed Mar 11",
+      "url": "https://x.com/AI_creator_Yara/status/2031867505216733243"
+    },
+    {
+      "author": "@Gatorman4444444",
+      "followers": 110,
+      "caption": "I\u2019m accumulating! 40 million views and we have the creator. We need more content and more interaction @HIAGOALBUQ96681",
+      "views": 7,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 14.29,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/Gatorman4444444/status/2041609642518667620"
+    },
+    {
+      "author": "@AmbroseHuc21134",
+      "followers": 547,
+      "caption": "\ud83d\udea8 YouTube Growth Vault \u2014 $16K+ in 28 Days \ud83d\udea8\n\nYour channel blew past 4.2M views (\ud83d\udd25 1.8M above average).\n\nInside:\n\n\u2605Shorts domination framework.\n\u2605Algorithm trigger tactics.\n\u2605Sponsorship &amp; revenue pl",
+      "views": 1221,
+      "likes": 78,
+      "comments": 42,
+      "shares": 30,
+      "saves": 18,
+      "engagement_rate": 13.76,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Sat Apr 04",
+      "url": "https://x.com/AmbroseHuc21134/status/2040367545828725073"
+    },
+    {
+      "author": "@IFEOMA_OF_WEB3",
+      "followers": 3394,
+      "caption": "\ud835\udde3\ud835\uddff\ud835\uddfc\ud835\uddfa\ud835\uddfd\ud835\ude01 \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\uddf0\ud835\uddff\ud835\uddf2\ud835\uddee\ud835\ude01\ud835\uddfc\ud835\uddff\ud835\ude00.\n\nYou are an experienced social media strategist and content creator specializing in viral growth and audience engagement.\n\nSuggest a list of trending and high-performing topics in",
+      "views": 489,
+      "likes": 32,
+      "comments": 19,
+      "shares": 2,
+      "saves": 11,
+      "engagement_rate": 13.09,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Fri Nov 07",
+      "url": "https://x.com/IFEOMA_OF_WEB3/status/1986872938419585281"
+    },
+    {
+      "author": "@BritneyLahman",
+      "followers": 658,
+      "caption": "After working with hundreds of creators at different stages, I\u2019ve noticed a pattern. \ud83d\udc47\ud83d\udc47\n\nThe ones who grow the fastest are rarely the most talented.\n\nThey\u2019re the MOST CONNECTED.\n\n- They\u2019re having conv",
+      "views": 8,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 12.5,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Wed Apr 01",
+      "url": "https://x.com/BritneyLahman/status/2039344678710256081"
+    },
+    {
+      "author": "@Shahriar661731",
+      "followers": 6016,
+      "caption": "\ud83d\udea8 YouTube Growth Vault \u2014 $16K+ in 28 Days \ud83d\udea8\n\nYour channel blew past 4.2M views (\ud83d\udd25 1.8M above average).\n\nInside:\n\n\u2605Shorts domination framework.\n\u2605Algorithm trigger tactics.\n\u2605Sponsorship &amp; revenue pl",
+      "views": 1085,
+      "likes": 49,
+      "comments": 28,
+      "shares": 33,
+      "saves": 12,
+      "engagement_rate": 11.24,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Mon Apr 06",
+      "url": "https://x.com/Shahriar661731/status/2041036864950304873"
+    },
+    {
+      "author": "@funkylilaritan",
+      "followers": 4778,
+      "caption": "@g00sehoe trending youtube short audios are what raises monthly audience\u2019s the most",
+      "views": 10,
+      "likes": 0,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 10.0,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/funkylilaritan/status/2041607060891082896"
+    },
+    {
+      "author": "@Alexxmarketing",
+      "followers": 90,
+      "caption": "We grew ViralityAI to 160K+ users and billions of views the same way. Show up consistently. Add real value. Let the algorithm work for you, not against you.",
+      "views": 12,
+      "likes": 0,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 8.33,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/Alexxmarketing/status/2041527624736927928"
+    }
+  ]
+}

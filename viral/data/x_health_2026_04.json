@@ -1,0 +1,330 @@
+{
+  "platform": "X (Twitter)",
+  "platform_key": "x",
+  "month": "April",
+  "year": 2026,
+  "niche": "health",
+  "generated_at": "2026-04-07T21:19:04.870888",
+  "data_points_analyzed": 100,
+  "viral_posts_found": 100,
+  "hooks": [],
+  "best_times": [],
+  "hashtags": [
+    {
+      "tag": "#mentalhealth",
+      "usage_count": 5,
+      "avg_views": 12
+    },
+    {
+      "tag": "#worldhealthday",
+      "usage_count": 5,
+      "avg_views": 119
+    },
+    {
+      "tag": "#digitalwellness",
+      "usage_count": 2,
+      "avg_views": 57
+    },
+    {
+      "tag": "#wellness",
+      "usage_count": 2,
+      "avg_views": 23
+    }
+  ],
+  "formats": [
+    {
+      "name": "Before/after",
+      "avg_engagement": 4.2,
+      "post_count": 1
+    },
+    {
+      "name": "Challenge / trend",
+      "avg_engagement": 3.4,
+      "post_count": 1
+    },
+    {
+      "name": "Question / engagement",
+      "avg_engagement": 2.4,
+      "post_count": 5
+    },
+    {
+      "name": "Educational / tips",
+      "avg_engagement": 0.1,
+      "post_count": 1
+    },
+    {
+      "name": "Story / narrative",
+      "avg_engagement": 0.0,
+      "post_count": 1
+    }
+  ],
+  "trending_sounds": [],
+  "insights": "Before/after content leads with 4.2% avg engagement. Avg engagement: 3.5%. 100 posts analyzed.",
+  "top_posts": [
+    {
+      "author": "@Be_The_Dream",
+      "followers": 4194,
+      "caption": "A refreshing contrast to past over-medication, it highlights a growing awareness of holistic mental wellness approaches. \n\nYT: https://t.co/Ehb3j28wCz\nApple: Apple: https://t.co/z1ClH1QccD\nSpotify: ht",
+      "views": 5,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 20.0,
+      "hashtags": [
+        "#Kava",
+        "#MentalWellness",
+        "#HolisticHealth"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/Be_The_Dream/status/2041353409370972458"
+    },
+    {
+      "author": "@kvng_west_",
+      "followers": 3264,
+      "caption": "Dear April,\nplease be gentle with our mental health.",
+      "views": 97,
+      "likes": 7,
+      "comments": 3,
+      "shares": 4,
+      "saves": 0,
+      "engagement_rate": 14.43,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Wed Apr 01",
+      "url": "https://x.com/kvng_west_/status/2039226177886232740"
+    },
+    {
+      "author": "@Elumind_Centres",
+      "followers": 168,
+      "caption": "Stress can make life feel smaller than it really is.\nVictor Glover\u2019s words are a reminder to zoom out, breathe, and reconnect with what matters.\nSometimes perspective does not remove the weight, but i",
+      "views": 7,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 14.29,
+      "hashtags": [
+        "#MentalHealth",
+        "#BrainHealth",
+        "#StressAwareness",
+        "#Elumind"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Mon Apr 06",
+      "url": "https://x.com/Elumind_Centres/status/2041293411588649257"
+    },
+    {
+      "author": "@r4ralxrita",
+      "followers": 2818,
+      "caption": "For your mental health, it is OKAY to: \n\u2022 Cancel plans\n\u2022 Set boundaries\n\u2022 End friendships \n\u2022 Change your mind\n\u2022 Take a break\n\u2022 Scream",
+      "views": 246,
+      "likes": 16,
+      "comments": 7,
+      "shares": 8,
+      "saves": 1,
+      "engagement_rate": 13.01,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Sat Apr 04",
+      "url": "https://x.com/r4ralxrita/status/2040422546596585868"
+    },
+    {
+      "author": "@cyberpeacecorps",
+      "followers": 34520,
+      "caption": "This #WorldHealthDay2025, let\u2019s redefine what it truly means to be healthy \ud83c\udf0d\n\nBecause in today\u2019s digital age, wellness goes beyond just physical and mental health .It includes how safely we navigate t",
+      "views": 26,
+      "likes": 2,
+      "comments": 0,
+      "shares": 1,
+      "saves": 0,
+      "engagement_rate": 11.54,
+      "hashtags": [
+        "#WorldHealthDay2025",
+        "#CyberPeace",
+        "#HealthForAll",
+        "#DigitalWellness",
+        "#CyberHygiene"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/cyberpeacecorps/status/2041446670609895827"
+    },
+    {
+      "author": "@ElgieSims",
+      "followers": 4250,
+      "caption": "This Public Health Week, let's prioritize prevention and wellness to support a healthier future for all. From nutrition to mental health, every choice we make impacts our well-being. #PublicHealthWeek",
+      "views": 19,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 10.53,
+      "hashtags": [
+        "#PublicHealthWeek",
+        "#HealthIsWealth",
+        "#PreventionMatters",
+        "#WellnessWednesday"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Mon Apr 06",
+      "url": "https://x.com/ElgieSims/status/2041191708910555476"
+    },
+    {
+      "author": "@NightGuardian34",
+      "followers": 5025,
+      "caption": "World Health Day\n\nThe WHO chooses to highlight a special theme current in the wellness and medical world.\n\nRanging from mental health to insurance & everything in between, this day sets the tone for w",
+      "views": 67,
+      "likes": 5,
+      "comments": 1,
+      "shares": 1,
+      "saves": 0,
+      "engagement_rate": 10.45,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/NightGuardian34/status/2041367932383457678"
+    },
+    {
+      "author": "@meratutorai",
+      "followers": 4,
+      "caption": "World Health Day Special \ud83d\udc99\ud83e\udde0\n\n#StudyTalkswithArjunandRiya: student health, mental wellness &amp; study-life balance.\n\nReminder: Sleep + Breaks + Hydration + Consistency &gt; Burnout.\n\nWhat\u2019s\u00a0your best ",
+      "views": 10,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 10.0,
+      "hashtags": [
+        "#StudyTalkswithArjunandRiya",
+        "#WorldHealthDay",
+        "#StudentWellbeing",
+        "#MeraTutorAI"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/meratutorai/status/2041414926015893944"
+    },
+    {
+      "author": "@Dky_oums",
+      "followers": 1816,
+      "caption": "Une fois par mois il devait y avoir un lundi f\u00e9ri\u00e9 juste pour notre sant\u00e9 mental \ud83d\ude4f\ud83c\udffe\ud83d\ude4f\ud83c\udffe c\u2019est tellement doux",
+      "views": 95865,
+      "likes": 8351,
+      "comments": 8,
+      "shares": 1084,
+      "saves": 93,
+      "engagement_rate": 9.95,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Mon Apr 06",
+      "url": "https://x.com/Dky_oums/status/2041183615380320351"
+    },
+    {
+      "author": "@__Sharyf",
+      "followers": 223284,
+      "caption": "We don\u2019t take mental health seriously in this part of the world and it\u2019s sad.",
+      "views": 2448,
+      "likes": 158,
+      "comments": 8,
+      "shares": 41,
+      "saves": 5,
+      "engagement_rate": 8.66,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Wed Apr 01",
+      "url": "https://x.com/__Sharyf/status/2039309188786995687"
+    },
+    {
+      "author": "@Littleboogiema",
+      "followers": 6116,
+      "caption": "La salud mental es importante, cu\u00eddense mucho por favor",
+      "views": 13434,
+      "likes": 975,
+      "comments": 7,
+      "shares": 155,
+      "saves": 13,
+      "engagement_rate": 8.56,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Wed Apr 01",
+      "url": "https://x.com/Littleboogiema/status/2039148830772302101"
+    },
+    {
+      "author": "@fluoridevictim",
+      "followers": 1047,
+      "caption": "and you get good mental health! and you get good mental health! and you get",
+      "views": 95,
+      "likes": 8,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 8.42,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Fri Apr 03",
+      "url": "https://x.com/fluoridevictim/status/2039865663695568993"
+    },
+    {
+      "author": "@TheCraZyLareb",
+      "followers": 1699,
+      "caption": "Everyone nowadays is going through some serious mental health issues",
+      "views": 127,
+      "likes": 7,
+      "comments": 2,
+      "shares": 1,
+      "saves": 0,
+      "engagement_rate": 7.87,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Wed Apr 01",
+      "url": "https://x.com/TheCraZyLareb/status/2039247341392368126"
+    },
+    {
+      "author": "@valawakened",
+      "followers": 2673,
+      "caption": "Your mental health &gt; other people's feelings",
+      "views": 1270,
+      "likes": 68,
+      "comments": 6,
+      "shares": 22,
+      "saves": 4,
+      "engagement_rate": 7.87,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/valawakened/status/2041476191408763086"
+    },
+    {
+      "author": "@flow1022",
+      "followers": 32375,
+      "caption": "@ysuckme An important reminder. Your mental, spiritual &amp; physical health matters. \ud83e\udd8b",
+      "views": 157,
+      "likes": 11,
+      "comments": 0,
+      "shares": 0,
+      "saves": 1,
+      "engagement_rate": 7.64,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Mar 31",
+      "url": "https://x.com/flow1022/status/2039098912963723678"
+    }
+  ]
+}

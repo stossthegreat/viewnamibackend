@@ -1,0 +1,499 @@
+{
+  "platform": "Instagram",
+  "platform_key": "instagram",
+  "month": "April",
+  "year": 2026,
+  "niche": "travel",
+  "generated_at": "2026-04-07T21:19:04.870888",
+  "data_points_analyzed": 100,
+  "viral_posts_found": 99,
+  "hooks": [
+    {
+      "pattern": "Day X of",
+      "example_count": 1,
+      "trend_pct": 70,
+      "example": "Day 97 of 2026:"
+    }
+  ],
+  "best_times": [
+    {
+      "day": "Tuesday",
+      "time": "Peak",
+      "engagement_avg": 30.5,
+      "sample_size": 97
+    }
+  ],
+  "hashtags": [
+    {
+      "tag": "#travel",
+      "usage_count": 80,
+      "avg_views": 0
+    },
+    {
+      "tag": "#nature",
+      "usage_count": 6,
+      "avg_views": 0
+    },
+    {
+      "tag": "#vacation",
+      "usage_count": 6,
+      "avg_views": 1
+    },
+    {
+      "tag": "#travelphotography",
+      "usage_count": 5,
+      "avg_views": 0
+    },
+    {
+      "tag": "#photography",
+      "usage_count": 4,
+      "avg_views": 1
+    },
+    {
+      "tag": "#holiday",
+      "usage_count": 4,
+      "avg_views": 0
+    },
+    {
+      "tag": "#sea",
+      "usage_count": 4,
+      "avg_views": 3
+    },
+    {
+      "tag": "#explorepage",
+      "usage_count": 3,
+      "avg_views": 0
+    },
+    {
+      "tag": "#fyp",
+      "usage_count": 3,
+      "avg_views": 5
+    },
+    {
+      "tag": "#\u03c4\u03b1\u03be\u03af\u03b4\u03b9",
+      "usage_count": 3,
+      "avg_views": 6
+    },
+    {
+      "tag": "#cruise",
+      "usage_count": 3,
+      "avg_views": 0
+    },
+    {
+      "tag": "#love",
+      "usage_count": 3,
+      "avg_views": 0
+    },
+    {
+      "tag": "#instagood",
+      "usage_count": 3,
+      "avg_views": 0
+    },
+    {
+      "tag": "#photooftheday",
+      "usage_count": 3,
+      "avg_views": 1
+    },
+    {
+      "tag": "#viral",
+      "usage_count": 3,
+      "avg_views": 0
+    },
+    {
+      "tag": "#tunisia",
+      "usage_count": 2,
+      "avg_views": 5
+    },
+    {
+      "tag": "#throwback",
+      "usage_count": 2,
+      "avg_views": 5
+    },
+    {
+      "tag": "#summertime",
+      "usage_count": 2,
+      "avg_views": 5
+    },
+    {
+      "tag": "#seaview",
+      "usage_count": 2,
+      "avg_views": 5
+    },
+    {
+      "tag": "#memories",
+      "usage_count": 2,
+      "avg_views": 5
+    },
+    {
+      "tag": "#mariakimera",
+      "usage_count": 2,
+      "avg_views": 2
+    },
+    {
+      "tag": "#shelivespoetry\ud83e\udd84",
+      "usage_count": 2,
+      "avg_views": 2
+    },
+    {
+      "tag": "#barcelonapart1",
+      "usage_count": 2,
+      "avg_views": 2
+    },
+    {
+      "tag": "#traveller",
+      "usage_count": 2,
+      "avg_views": 8
+    },
+    {
+      "tag": "#malta",
+      "usage_count": 2,
+      "avg_views": 8
+    }
+  ],
+  "formats": [
+    {
+      "name": "Educational / tips",
+      "avg_engagement": 100.0,
+      "post_count": 4
+    },
+    {
+      "name": "Challenge / trend",
+      "avg_engagement": 100.0,
+      "post_count": 2
+    },
+    {
+      "name": "Story / narrative",
+      "avg_engagement": 66.7,
+      "post_count": 3
+    }
+  ],
+  "trending_sounds": [],
+  "insights": "Educational / tips content leads with 100.0% avg engagement. \"Day X of\" hook appears in 1 viral posts. Avg engagement: 42.0%. 99 posts analyzed.",
+  "top_posts": [
+    {
+      "author": "@itz_munazir_78",
+      "followers": 0,
+      "caption": "Is Karam ka Karam \ud83d\udc8e\n\n#explorepage #travel #virel",
+      "views": 0,
+      "likes": -1,
+      "comments": 12,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1100.0,
+      "hashtags": [
+        "#explorepage",
+        "#travel",
+        "#virel"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-03-22",
+      "url": "https://www.instagram.com/p/DWL8dA2j8pk/"
+    },
+    {
+      "author": "@cambrianashville",
+      "followers": 0,
+      "caption": "Whether you\u2019re poolside, bar side, or bedside, a stellar skyline view is always within view. \n.\n.\n.\n#CambriaHotels #Cambria #Travel #NashvilleHotels #BroadwayNashville",
+      "views": 0,
+      "likes": 1,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#CambriaHotels",
+        "#Cambria",
+        "#Travel",
+        "#NashvilleHotels",
+        "#BroadwayNashville"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW12aHQDkuP/"
+    },
+    {
+      "author": "@fairmontorchid",
+      "followers": 0,
+      "caption": "Experience an evening of storytelling through music, hula and cuisine at Hawai\u02bbiloa L\u016b\u02bbau, set within the storied grounds of Kal\u0101huipua\u02bba, where ali\u02bbi once gathered. \ud83c\udf3a Join us every Saturday, with add",
+      "views": 0,
+      "likes": 1,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW12Z8rE8oP/"
+    },
+    {
+      "author": "@nicuesalodge",
+      "followers": 0,
+      "caption": "EN: Breathe deeply, move mindfully, and let nature guide your wellness journey. \ud83e\uddd8\u200d\u2640\ufe0f \nNicuesa is the perfect setting for renewal. \n \nES: Respirar profundo, moverte con intenci\u00f3n y dejar que la natural",
+      "views": 0,
+      "likes": 1,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#costarica",
+        "#puravida",
+        "#travel",
+        "#nature",
+        "#golfodulce",
+        "#rainforest",
+        "#osapeninsula",
+        "#photography"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW12XnngKAG/"
+    },
+    {
+      "author": "@injosogu",
+      "followers": 0,
+      "caption": "La mejor experiencia\ud83c\udf88\u2600\ufe0f\ud83d\ude0d\n\n#travel #holiday #turkey\ud83c\uddf9\ud83c\uddf7 #goreme #hotairballoons",
+      "views": 0,
+      "likes": 2,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#travel",
+        "#holiday",
+        "#turkey\ud83c\uddf9\ud83c\uddf7",
+        "#goreme",
+        "#hotairballoons"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW12OQFDL1F/"
+    },
+    {
+      "author": "@rozanka013",
+      "followers": 0,
+      "caption": "Good times and tan lines in Tunisia \ud83c\uddf9\ud83c\uddf7\n.\n.\n.\n.\n#tunisia #throwback #vacation #summertime #sea #seaview #memories #travel #instaphoto #summer #holiday #aesthetic #polishgirl #photodump",
+      "views": 0,
+      "likes": 10,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 130.0,
+      "hashtags": [
+        "#tunisia",
+        "#throwback",
+        "#vacation",
+        "#summertime",
+        "#sea",
+        "#seaview",
+        "#memories",
+        "#travel"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW12SC2DcJi/"
+    },
+    {
+      "author": "@mariakimera",
+      "followers": 0,
+      "caption": "La crisi nucleare, quel faccione di cera in delirio totale che nessuno osa fermare, il lockdown energetico, quella risposta che aspetto da un mese e non arriva ancora\u2026 per\u00f2 in Spagna.\nNel frattempo gl",
+      "views": 0,
+      "likes": 4,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 125.0,
+      "hashtags": [
+        "#mariakimera",
+        "#shelivespoetry\ud83e\udd84",
+        "#travel",
+        "#barcelonapart1"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW12HXRiDJF/"
+    },
+    {
+      "author": "@yiannis.94",
+      "followers": 0,
+      "caption": "\u0395\u03b9\u03ba\u03cc\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf \u03c4\u03b1\u03be\u03af\u03b4\u03b9 \u03c3\u03c4\u03b7 \u039c\u03ac\u03bb\u03c4\u03b1 \ud83c\uddf2\ud83c\uddf9 #travel #traveller #malta #fyp #\u03c4\u03b1\u03be\u03af\u03b4\u03b9",
+      "views": 0,
+      "likes": 17,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 105.88,
+      "hashtags": [
+        "#travel",
+        "#traveller",
+        "#malta",
+        "#fyp",
+        "#\u03c4\u03b1\u03be\u03af\u03b4\u03b9"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW12Y7XDFhZ/"
+    },
+    {
+      "author": "@culturalcarearg",
+      "followers": 0,
+      "caption": "\u23f0 \u00daltima semana para aplicar con 40% OFF\nSi ven\u00eds pensando en convertirte en au pair y vivir una experiencia en Estados Unidos \u2708\ufe0f\u2728, este es el momento. El 40% OFF por tiempo limitado ya entra en su \u00fal",
+      "views": 0,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#culturalcareaupair",
+        "#AuPairArgentina",
+        "#aupairlife",
+        "#travel"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW12eGYj0c-/"
+    },
+    {
+      "author": "@ghass_16",
+      "followers": 0,
+      "caption": "\u0645\u0628\u0627\u0631\u0643 \u0627\u0644\u062a\u062e\u0631\u062c \u0631\u062d\u0627\u0628 \u0627\u062a\u0645\u0646\u0627\u0644\u062c \u0643\u0644 \u0627\u0644\u062a\u0648\u0641\u064a\u0642 \u064a\u0627\u0631\u0628 \u064a\u0627 \u0627\u062d\u0644\u0649 \u0645\u0647\u0646\u062f\u0633\u0647 \u062f\u064a\u0643\u0648\u0631\ud83e\udd0d\n\n#\u062c\u0627\u0645\u0639\u0647_\u0627\u0644\u062a\u0631\u0627\u062b\ud83c\udfdb\ufe0f \n\n#\u062a\u0635\u0645\u064a\u0645_\u062f\u0627\u062e\u0644\u064a \n\n#trending \n\n#travel",
+      "views": 0,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#\u062c\u0627\u0645\u0639\u0647_\u0627\u0644\u062a\u0631\u0627\u062b\ud83c\udfdb\ufe0f",
+        "#\u062a\u0635\u0645\u064a\u0645_\u062f\u0627\u062e\u0644\u064a",
+        "#trending",
+        "#travel"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW12eC3jLUV/"
+    },
+    {
+      "author": "@chianti.shuttle.agresto",
+      "followers": 0,
+      "caption": ".\n\n# italy\ud83c\uddee\ud83c\uddf9 #italiantour #classicdriver #italianturism #agriturismoitalia holiday driverservice pic vogliadestate driver winelife transfer limousineservice travel travelmagazine @_travel_magazine  to",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#italiantour",
+        "#classicdriver",
+        "#italianturism",
+        "#agriturismoitalia"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-02-12",
+      "url": "https://www.instagram.com/p/DUpAu_iiixw/"
+    },
+    {
+      "author": "@ansh_1208",
+      "followers": 0,
+      "caption": "Seas the day \ud83c\udf0a \n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#travel #cruise #sea #happylife #tourism",
+      "views": 0,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#travel",
+        "#cruise",
+        "#sea",
+        "#happylife",
+        "#tourism"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW12bJRDkjr/"
+    },
+    {
+      "author": "@pilo_qlb",
+      "followers": 0,
+      "caption": "Quedlinburg! Anfang April zeigen die B\u00e4ume ihre bunten Bl\u00fcten.\n.\n\ud83c\udf38\ud83c\udf33\ud83d\udcae\ud83c\udf38\ud83c\udf33\ud83d\udcae\ud83c\udf38\ud83c\udf33\ud83d\udcae\ud83c\udf38\ud83c\udf33\ud83d\udcae\ud83c\udf38\ud83c\udf33\ud83d\udcae\ud83c\udf38\ud83c\udf33\ud83d\udcae\ud83c\udf38\ud83c\udf33\n#Baumbl\u00fcten #fr\u00fchlingserwachen #travel",
+      "views": 0,
+      "likes": 7,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#Baumbl\u00fcten",
+        "#fr\u00fchlingserwachen",
+        "#travel"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW12ap2DAtt/"
+    },
+    {
+      "author": "@shivvxrajput.7",
+      "followers": 0,
+      "caption": "\ud83c\udf1d\u2601\ufe0f!!\n\n#travel #instafashion #music lifestyle me likeforfollow #smile #photoshoot photographer",
+      "views": 0,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#travel",
+        "#instafashion",
+        "#music",
+        "#smile",
+        "#photoshoot"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW12adYk9gX/"
+    },
+    {
+      "author": "@travel4bikers",
+      "followers": 0,
+      "caption": "Strade bianche \ud83e\udd29\n\n#Travel4Bikers #T4B #travelphotography #travelmotorcycle  #travel #traveltips #motorcycletravel #motoadventure #bikerlife  #motorcyclelandscapes #motorcycletips #motorcycletouring #o",
+      "views": 0,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#Travel4Bikers",
+        "#T4B",
+        "#travelphotography",
+        "#travelmotorcycle",
+        "#travel",
+        "#traveltips",
+        "#motorcycletravel",
+        "#motoadventure"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW12ZxfFJyZ/"
+    }
+  ]
+}

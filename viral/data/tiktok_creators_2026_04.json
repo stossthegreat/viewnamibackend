@@ -1,0 +1,614 @@
+{
+  "platform": "TikTok",
+  "platform_key": "tiktok",
+  "month": "April",
+  "year": 2026,
+  "niche": "creators",
+  "generated_at": "2026-04-07T21:19:04.870888",
+  "data_points_analyzed": 100,
+  "viral_posts_found": 99,
+  "hooks": [
+    {
+      "pattern": "X things/tips/ways",
+      "example_count": 2,
+      "trend_pct": 90,
+      "example": "4 tips to help you grow on social media\ud83e\uddf8\u2601\ufe0f"
+    },
+    {
+      "pattern": "If you [X]",
+      "example_count": 2,
+      "trend_pct": 90,
+      "example": "If you watched episode one and picked your niche this one is for you \u2728"
+    },
+    {
+      "pattern": "Day X of",
+      "example_count": 1,
+      "trend_pct": 70,
+      "example": "day 5 of becoming a content creator\u2026. my first collab!!"
+    },
+    {
+      "pattern": "The truth about",
+      "example_count": 1,
+      "trend_pct": 70,
+      "example": "Creators get asked all the time: \u201cYou must make SO much money from posting videos!\u201d \u2026but the truth is, most people would"
+    },
+    {
+      "pattern": "POV: you just...",
+      "example_count": 1,
+      "trend_pct": 70,
+      "example": "POV: me, trying to keep a straight face"
+    }
+  ],
+  "best_times": [
+    {
+      "day": "Thursday",
+      "time": "Peak",
+      "engagement_avg": 22.2,
+      "sample_size": 14
+    },
+    {
+      "day": "Tuesday",
+      "time": "Peak",
+      "engagement_avg": 17.6,
+      "sample_size": 29
+    },
+    {
+      "day": "Saturday",
+      "time": "Peak",
+      "engagement_avg": 16.9,
+      "sample_size": 9
+    },
+    {
+      "day": "Monday",
+      "time": "Peak",
+      "engagement_avg": 15.7,
+      "sample_size": 15
+    },
+    {
+      "day": "Friday",
+      "time": "Peak",
+      "engagement_avg": 14.0,
+      "sample_size": 9
+    },
+    {
+      "day": "Sunday",
+      "time": "Peak",
+      "engagement_avg": 12.3,
+      "sample_size": 11
+    },
+    {
+      "day": "Wednesday",
+      "time": "Peak",
+      "engagement_avg": 10.8,
+      "sample_size": 12
+    }
+  ],
+  "hashtags": [
+    {
+      "tag": "#contentcreator",
+      "usage_count": 55,
+      "avg_views": 1367683
+    },
+    {
+      "tag": "#contentcreatortips",
+      "usage_count": 21,
+      "avg_views": 652584
+    },
+    {
+      "tag": "#fyp",
+      "usage_count": 15,
+      "avg_views": 1041145
+    },
+    {
+      "tag": "#creatorsearchinsights",
+      "usage_count": 13,
+      "avg_views": 1543433
+    },
+    {
+      "tag": "#smallcontentcreators",
+      "usage_count": 9,
+      "avg_views": 224601
+    },
+    {
+      "tag": "#tiktokgrowth",
+      "usage_count": 8,
+      "avg_views": 1371834
+    },
+    {
+      "tag": "#contentcreation",
+      "usage_count": 8,
+      "avg_views": 1325227
+    },
+    {
+      "tag": "#creatortips",
+      "usage_count": 7,
+      "avg_views": 516835
+    },
+    {
+      "tag": "#tiktoktips",
+      "usage_count": 7,
+      "avg_views": 1020628
+    },
+    {
+      "tag": "#microinfluencer",
+      "usage_count": 7,
+      "avg_views": 292370
+    },
+    {
+      "tag": "#influencer",
+      "usage_count": 6,
+      "avg_views": 353766
+    },
+    {
+      "tag": "#howtogoviral",
+      "usage_count": 5,
+      "avg_views": 1862480
+    },
+    {
+      "tag": "#socialmediatips",
+      "usage_count": 5,
+      "avg_views": 12850
+    },
+    {
+      "tag": "#ugccreator",
+      "usage_count": 5,
+      "avg_views": 19435
+    },
+    {
+      "tag": "#content",
+      "usage_count": 4,
+      "avg_views": 187750
+    },
+    {
+      "tag": "#howtobecomeaninfluencer",
+      "usage_count": 4,
+      "avg_views": 73856
+    },
+    {
+      "tag": "#influencertips",
+      "usage_count": 4,
+      "avg_views": 215121
+    },
+    {
+      "tag": "#contenttips",
+      "usage_count": 4,
+      "avg_views": 597058
+    },
+    {
+      "tag": "#growontiktok",
+      "usage_count": 4,
+      "avg_views": 719331
+    },
+    {
+      "tag": "#smallcreator",
+      "usage_count": 4,
+      "avg_views": 110436
+    },
+    {
+      "tag": "#relatable",
+      "usage_count": 4,
+      "avg_views": 596280
+    },
+    {
+      "tag": "#howtogoviralontiktok",
+      "usage_count": 3,
+      "avg_views": 587900
+    },
+    {
+      "tag": "#creatorjourney",
+      "usage_count": 3,
+      "avg_views": 9114
+    },
+    {
+      "tag": "#motivation",
+      "usage_count": 3,
+      "avg_views": 2533419
+    },
+    {
+      "tag": "#foryoupage",
+      "usage_count": 3,
+      "avg_views": 543073
+    }
+  ],
+  "formats": [
+    {
+      "name": "Story / narrative",
+      "avg_engagement": 18.2,
+      "post_count": 2
+    },
+    {
+      "name": "Educational / tips",
+      "avg_engagement": 17.8,
+      "post_count": 35
+    },
+    {
+      "name": "Challenge / trend",
+      "avg_engagement": 10.1,
+      "post_count": 2
+    },
+    {
+      "name": "Question / engagement",
+      "avg_engagement": 6.4,
+      "post_count": 2
+    }
+  ],
+  "trending_sounds": [
+    {
+      "name": "original sound",
+      "usage_count": 70
+    },
+    {
+      "name": "Powerful songs like action movie music",
+      "usage_count": 1
+    },
+    {
+      "name": "in the bleak midwinter",
+      "usage_count": 1
+    },
+    {
+      "name": "E85 x swimming pools",
+      "usage_count": 1
+    },
+    {
+      "name": "Toda Noite em Claro",
+      "usage_count": 1
+    },
+    {
+      "name": "Trade of Hearts - Instrumental",
+      "usage_count": 1
+    },
+    {
+      "name": "Morning Routine",
+      "usage_count": 1
+    },
+    {
+      "name": "Bossa Nova jazz that seems to fit in a cafe(1433079)",
+      "usage_count": 1
+    },
+    {
+      "name": "original sound - CJ is just testing stuff",
+      "usage_count": 1
+    },
+    {
+      "name": "Didn't Cha Know Smooth",
+      "usage_count": 1
+    }
+  ],
+  "insights": "Story / narrative content leads with 18.2% avg engagement. \"X things/tips/ways\" hook appears in 2 viral posts. Avg engagement: 16.1%. 99 posts analyzed.",
+  "top_posts": [
+    {
+      "author": "@selina_family1",
+      "followers": 1000000,
+      "caption": "How to go viral \ud83d\ude46\u200d\u2640\ufe0f#creatorsearchinsights #content #contentcreator #creatersearchinsight2026",
+      "views": 303700,
+      "likes": 18400,
+      "comments": 9981,
+      "shares": 323300,
+      "saves": 4017,
+      "engagement_rate": 117.12,
+      "hashtags": [
+        "#creatorsearchinsights",
+        "#content",
+        "#contentcreator",
+        "#creatersearchinsight2026"
+      ],
+      "sound": "Powerful songs like action movie music",
+      "duration": 26,
+      "posted_date": "2026-01-29",
+      "url": "https://www.tiktok.com/@selina_family1/video/7600864870363368724"
+    },
+    {
+      "author": "@alisonxflores",
+      "followers": 30700,
+      "caption": "How to go viral this week on TikTok \ud83d\udc8c\ud83c\udf1f\ud83d\udcf9\ud83d\udc9e\ud83c\udf52\n\n#howtogoviralontiktok #howtogoviraltips #howtogoviral #creatorsearchinsights #creatortips #contentcreator #contentcreatortips ",
+      "views": 945500,
+      "likes": 143600,
+      "comments": 58400,
+      "shares": 91700,
+      "saves": 71637,
+      "engagement_rate": 38.64,
+      "hashtags": [
+        "#howtogoviralontiktok",
+        "#howtogoviraltips",
+        "#howtogoviral",
+        "#creatorsearchinsights",
+        "#creatortips",
+        "#contentcreator",
+        "#contentcreatortips"
+      ],
+      "sound": "original sound",
+      "duration": 124,
+      "posted_date": "2025-05-24",
+      "url": "https://www.tiktok.com/@alisonxflores/video/7508038217724218655"
+    },
+    {
+      "author": "@cyn_thialainez",
+      "followers": 4355,
+      "caption": "I finally hit 1 million views! Guess how much I made? #tiktokshop #transparent #contentcreator #realtalk #creatorjourney ",
+      "views": 456,
+      "likes": 82,
+      "comments": 66,
+      "shares": 1,
+      "saves": 10,
+      "engagement_rate": 34.87,
+      "hashtags": [
+        "#tiktokshop",
+        "#transparent",
+        "#contentcreator",
+        "#realtalk",
+        "#creatorjourney"
+      ],
+      "sound": "original sound",
+      "duration": 86,
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@cyn_thialainez/video/7625823985011412255"
+    },
+    {
+      "author": "@soph.maii",
+      "followers": 104600,
+      "caption": "LETS GAIN FOLLOWERS!! if you help me, ill help you!! comment \ud83d\udcab if you want a follow back \ud83d\ude48\ud83d\ude48 #creator #creatorsearchinsights #contentcreator #howtogoviral #goviral #howtogoviralontiktok #howtogoviralti",
+      "views": 695500,
+      "likes": 100000,
+      "comments": 37700,
+      "shares": 51200,
+      "saves": 47318,
+      "engagement_rate": 33.96,
+      "hashtags": [
+        "#creator",
+        "#creatorsearchinsights",
+        "#contentcreator",
+        "#howtogoviral",
+        "#goviral",
+        "#howtogoviralontiktok",
+        "#howtogoviraltips",
+        "#tipsandtricks"
+      ],
+      "sound": "original sound",
+      "duration": 79,
+      "posted_date": "2025-05-27",
+      "url": "https://www.tiktok.com/@soph.maii/video/7509116264443284759"
+    },
+    {
+      "author": "@calledandcapable",
+      "followers": 230500,
+      "caption": "All it takes is six months\u2026\nWhat if showing up every day changed everything?\n\nThis isn\u2019t about luck it\u2019s about consistency, discipline, and trusting the process.\n\nStay until the end\u2026 this might be the",
+      "views": 26300,
+      "likes": 5224,
+      "comments": 1022,
+      "shares": 633,
+      "saves": 1487,
+      "engagement_rate": 31.81,
+      "hashtags": [
+        "#sixmonthconsistency",
+        "#fulltimecontentcreator",
+        "#creatorjourney",
+        "#contentcreatormindset",
+        "#postingconsistently"
+      ],
+      "sound": "in the bleak midwinter",
+      "duration": 65,
+      "posted_date": "2026-01-02",
+      "url": "https://www.tiktok.com/@calledandcapable/video/7590886472488586527"
+    },
+    {
+      "author": "@marquiece.nicole",
+      "followers": 33100,
+      "caption": "Chicago Content Creators Tap In! \ud83d\udc95\u2b07\ufe0f #editing #chicago #blackgirlcontentcreator #howtoedit #fyp",
+      "views": 27700,
+      "likes": 6563,
+      "comments": 110,
+      "shares": 239,
+      "saves": 1359,
+      "engagement_rate": 29.86,
+      "hashtags": [
+        "#editing",
+        "#chicago",
+        "#blackgirlcontentcreator",
+        "#howtoedit",
+        "#fyp"
+      ],
+      "sound": "E85 x swimming pools",
+      "duration": 64,
+      "posted_date": "2026-03-17",
+      "url": "https://www.tiktok.com/@marquiece.nicole/video/7618313686003748126"
+    },
+    {
+      "author": "@nicoledanilamoureux",
+      "followers": 177500,
+      "caption": "#creatorsearchinsights sharing Content ideas for the entire week to make your life easier as a content creator. Sometimes we are making content creation much harder than it needs to be. Let me help wi",
+      "views": 63500,
+      "likes": 6548,
+      "comments": 1713,
+      "shares": 3149,
+      "saves": 7288,
+      "engagement_rate": 29.45,
+      "hashtags": [
+        "#creatorsearchinsights",
+        "#contentideas",
+        "#content",
+        "#contentplanning",
+        "#contentcreatorsoftiktok",
+        "#smallcontentcreators",
+        "#microcontentcreator",
+        "#growtiktokcommunity"
+      ],
+      "sound": "original sound",
+      "duration": 146,
+      "posted_date": "2025-05-11",
+      "url": "https://www.tiktok.com/@nicoledanilamoureux/video/7503303854906264875"
+    },
+    {
+      "author": "@muvasclass",
+      "followers": 141400,
+      "caption": "Stop letting your feed keep you from getting rich. Here\u2019s a list of content creators that I watched that have helped me with my finances \u2605\n\nFollow for more x\n\n#digitalmarketingjourney #makemoneyonline",
+      "views": 2100000,
+      "likes": 448800,
+      "comments": 6315,
+      "shares": 18100,
+      "saves": 139536,
+      "engagement_rate": 29.18,
+      "hashtags": [
+        "#digitalmarketingjourney",
+        "#makemoneyonline",
+        "#financialliteracy"
+      ],
+      "sound": "Toda Noite em Claro",
+      "duration": 273,
+      "posted_date": "2026-02-23",
+      "url": "https://www.tiktok.com/@muvasclass/video/7610077669341793558"
+    },
+    {
+      "author": "@nati.noeli",
+      "followers": 41800,
+      "caption": "I want to see allllllll of it !!! \n\n#contentcreator #influencers #contentcreatortips ",
+      "views": 145300,
+      "likes": 22600,
+      "comments": 8139,
+      "shares": 3107,
+      "saves": 6206,
+      "engagement_rate": 27.57,
+      "hashtags": [
+        "#contentcreator",
+        "#influencers",
+        "#contentcreatortips"
+      ],
+      "sound": "original sound",
+      "duration": 62,
+      "posted_date": "2026-01-02",
+      "url": "https://www.tiktok.com/@nati.noeli/video/7590837880403119391"
+    },
+    {
+      "author": "@kauaiafterhours",
+      "followers": 1138,
+      "caption": "No gatekeeping! You can personally dm me if you have other questions! Let\u2019s help each other grow! Journey to 1k! #girlssupportinggirls #grwm #smallcontentcreators #tiktokgrowth #fyp",
+      "views": 1217,
+      "likes": 152,
+      "comments": 105,
+      "shares": 22,
+      "saves": 39,
+      "engagement_rate": 26.13,
+      "hashtags": [
+        "#girlssupportinggirls",
+        "#grwm",
+        "#smallcontentcreators",
+        "#tiktokgrowth",
+        "#fyp"
+      ],
+      "sound": "original sound",
+      "duration": 58,
+      "posted_date": "2026-03-31",
+      "url": "https://www.tiktok.com/@kauaiafterhours/video/7623568864143592717"
+    },
+    {
+      "author": "@iambreham",
+      "followers": 244700,
+      "caption": "Want more nrand deals?! Level up your editing game babes #howtobecomeacontentcreator #howtobecomeaninfluencer #influencerlifestyle #howinfluencersmakemoney #howtomonetizetiktokvideos #contentstrategis",
+      "views": 208500,
+      "likes": 32600,
+      "comments": 997,
+      "shares": 2213,
+      "saves": 16861,
+      "engagement_rate": 25.26,
+      "hashtags": [
+        "#howtobecomeacontentcreator",
+        "#howtobecomeaninfluencer",
+        "#influencerlifestyle",
+        "#howinfluencersmakemoney",
+        "#howtomonetizetiktokvideos",
+        "#contentstrategist",
+        "#contentcreatortips"
+      ],
+      "sound": "original sound",
+      "duration": 105,
+      "posted_date": "2024-03-05",
+      "url": "https://www.tiktok.com/@iambreham/video/7342977274922323246"
+    },
+    {
+      "author": "@itsevetterenee_",
+      "followers": 13600,
+      "caption": "my first $20K month as a creator \ud83d\ude4c\ud83c\udffe 3 years in the making!\n\n#contentcreator #enterprenuerlife #motivation #softlifediscipline ",
+      "views": 8958,
+      "likes": 2041,
+      "comments": 82,
+      "shares": 26,
+      "saves": 78,
+      "engagement_rate": 24.86,
+      "hashtags": [
+        "#contentcreator",
+        "#enterprenuerlife",
+        "#motivation",
+        "#softlifediscipline"
+      ],
+      "sound": "Trade of Hearts - Instrumental",
+      "duration": 52,
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@itsevetterenee_/video/7625630538367307038"
+    },
+    {
+      "author": "@janay.finn",
+      "followers": 103400,
+      "caption": "no gatekeeping!! this is what really helped me grow to 100K+ on tiktok! do these basics & i promise it will really help \ud83e\udef6\ud83c\udffd \n\n#contentcreatortips #socialmediatips #contentcreation #howtogrowontiktok #i",
+      "views": 9834,
+      "likes": 1683,
+      "comments": 374,
+      "shares": 96,
+      "saves": 284,
+      "engagement_rate": 24.78,
+      "hashtags": [
+        "#contentcreatortips",
+        "#socialmediatips",
+        "#contentcreation",
+        "#howtogrowontiktok",
+        "#influencertips"
+      ],
+      "sound": "Morning Routine",
+      "duration": 171,
+      "posted_date": "2026-03-26",
+      "url": "https://www.tiktok.com/@janay.finn/video/7621606715787660574"
+    },
+    {
+      "author": "@chrystalwillis",
+      "followers": 268500,
+      "caption": "Attention all content creators !!!! I'm talking to you...You didn\u2019t come this far to just give up now!!\nKeep showing up, keep posting and don\u2019t change for anyone. Your moment is coming you got this.!!",
+      "views": 495,
+      "likes": 65,
+      "comments": 23,
+      "shares": 15,
+      "saves": 19,
+      "engagement_rate": 24.65,
+      "hashtags": [
+        "#celebrate",
+        "#womanempowerment",
+        "#smallcontentcreators",
+        "#youvegotthis",
+        "#fyp"
+      ],
+      "sound": "original sound",
+      "duration": 50,
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@chrystalwillis/video/7626014669295160590"
+    },
+    {
+      "author": "@laurenbwebb",
+      "followers": 146500,
+      "caption": "Posting everyday for a year changed my life. It was incredibly hard but so rewarding!! Are you gonna do it? Remember me when your famous \ud83d\ude18#contentcreator #influencer #contentcreatortips #sahm #tiktokc",
+      "views": 28700,
+      "likes": 4747,
+      "comments": 880,
+      "shares": 307,
+      "saves": 972,
+      "engagement_rate": 24.06,
+      "hashtags": [
+        "#contentcreator",
+        "#influencer",
+        "#contentcreatortips",
+        "#sahm",
+        "#tiktokchangedmylife"
+      ],
+      "sound": "original sound",
+      "duration": 148,
+      "posted_date": "2026-03-28",
+      "url": "https://www.tiktok.com/@laurenbwebb/video/7622419344907111711"
+    }
+  ]
+}

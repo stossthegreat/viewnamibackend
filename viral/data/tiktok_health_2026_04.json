@@ -1,0 +1,573 @@
+{
+  "platform": "TikTok",
+  "platform_key": "tiktok",
+  "month": "April",
+  "year": 2026,
+  "niche": "health",
+  "generated_at": "2026-04-07T21:19:04.870888",
+  "data_points_analyzed": 100,
+  "viral_posts_found": 97,
+  "hooks": [
+    {
+      "pattern": "X things/tips/ways",
+      "example_count": 3,
+      "trend_pct": 111,
+      "example": "5 Signs You're Breaking Mentally but No One Notices \ud83d\udc94\ud83d\udc94"
+    }
+  ],
+  "best_times": [
+    {
+      "day": "Monday",
+      "time": "Peak",
+      "engagement_avg": 17.8,
+      "sample_size": 27
+    },
+    {
+      "day": "Saturday",
+      "time": "Peak",
+      "engagement_avg": 17.7,
+      "sample_size": 10
+    },
+    {
+      "day": "Sunday",
+      "time": "Peak",
+      "engagement_avg": 17.7,
+      "sample_size": 10
+    },
+    {
+      "day": "Thursday",
+      "time": "Peak",
+      "engagement_avg": 16.0,
+      "sample_size": 9
+    },
+    {
+      "day": "Tuesday",
+      "time": "Peak",
+      "engagement_avg": 15.5,
+      "sample_size": 20
+    },
+    {
+      "day": "Friday",
+      "time": "Peak",
+      "engagement_avg": 14.5,
+      "sample_size": 13
+    },
+    {
+      "day": "Wednesday",
+      "time": "Peak",
+      "engagement_avg": 14.4,
+      "sample_size": 8
+    }
+  ],
+  "hashtags": [
+    {
+      "tag": "#mentalhealth",
+      "usage_count": 57,
+      "avg_views": 567046
+    },
+    {
+      "tag": "#fyp",
+      "usage_count": 35,
+      "avg_views": 1025738
+    },
+    {
+      "tag": "#mentalhealthmatters",
+      "usage_count": 25,
+      "avg_views": 1687453
+    },
+    {
+      "tag": "#viral",
+      "usage_count": 16,
+      "avg_views": 389634
+    },
+    {
+      "tag": "#depression",
+      "usage_count": 9,
+      "avg_views": 1737676
+    },
+    {
+      "tag": "#mentalhealthawareness",
+      "usage_count": 9,
+      "avg_views": 3784252
+    },
+    {
+      "tag": "#blowthisup",
+      "usage_count": 6,
+      "avg_views": 84991
+    },
+    {
+      "tag": "#fyp\u30b7\u309aviral",
+      "usage_count": 6,
+      "avg_views": 81145
+    },
+    {
+      "tag": "#relatable",
+      "usage_count": 5,
+      "avg_views": 493380
+    },
+    {
+      "tag": "#sad",
+      "usage_count": 5,
+      "avg_views": 25311
+    },
+    {
+      "tag": "#real",
+      "usage_count": 5,
+      "avg_views": 349038
+    },
+    {
+      "tag": "#foryoupage",
+      "usage_count": 4,
+      "avg_views": 5067600
+    },
+    {
+      "tag": "#mensmentalhealth",
+      "usage_count": 4,
+      "avg_views": 2391584
+    },
+    {
+      "tag": "#fyp\u30b7",
+      "usage_count": 4,
+      "avg_views": 4471175
+    },
+    {
+      "tag": "#awareness",
+      "usage_count": 3,
+      "avg_views": 270045
+    },
+    {
+      "tag": "#selflove",
+      "usage_count": 3,
+      "avg_views": 3800000
+    },
+    {
+      "tag": "#motivation",
+      "usage_count": 3,
+      "avg_views": 833533
+    },
+    {
+      "tag": "#repost",
+      "usage_count": 2,
+      "avg_views": 2826
+    },
+    {
+      "tag": "#vent",
+      "usage_count": 2,
+      "avg_views": 1173450
+    },
+    {
+      "tag": "#wockst\u2605rz\ud83e\udd87",
+      "usage_count": 2,
+      "avg_views": 3975
+    },
+    {
+      "tag": "#mh",
+      "usage_count": 2,
+      "avg_views": 17313
+    },
+    {
+      "tag": "#realestmf",
+      "usage_count": 2,
+      "avg_views": 191450
+    },
+    {
+      "tag": "#depressed",
+      "usage_count": 2,
+      "avg_views": 5823800
+    },
+    {
+      "tag": "#spokenpoetry",
+      "usage_count": 2,
+      "avg_views": 1650000
+    },
+    {
+      "tag": "#psychologyfacts",
+      "usage_count": 2,
+      "avg_views": 1564050
+    }
+  ],
+  "formats": [
+    {
+      "name": "Story / narrative",
+      "avg_engagement": 21.8,
+      "post_count": 2
+    },
+    {
+      "name": "Challenge / trend",
+      "avg_engagement": 18.0,
+      "post_count": 1
+    },
+    {
+      "name": "Question / engagement",
+      "avg_engagement": 7.0,
+      "post_count": 3
+    },
+    {
+      "name": "Educational / tips",
+      "avg_engagement": 5.4,
+      "post_count": 1
+    }
+  ],
+  "trending_sounds": [
+    {
+      "name": "original sound",
+      "usage_count": 49
+    },
+    {
+      "name": "Hate Yourself",
+      "usage_count": 2
+    },
+    {
+      "name": "maybe i should kill myself",
+      "usage_count": 2
+    },
+    {
+      "name": "som original",
+      "usage_count": 2
+    },
+    {
+      "name": "Ambient-style emotional piano",
+      "usage_count": 2
+    },
+    {
+      "name": "Tony Stark monologue",
+      "usage_count": 1
+    },
+    {
+      "name": "original sound - Lonewolf",
+      "usage_count": 1
+    },
+    {
+      "name": "I Promise It Won't Happen Again",
+      "usage_count": 1
+    },
+    {
+      "name": "November Rain",
+      "usage_count": 1
+    },
+    {
+      "name": "Pain that Never goes Away",
+      "usage_count": 1
+    }
+  ],
+  "insights": "Story / narrative content leads with 21.8% avg engagement. \"X things/tips/ways\" hook appears in 3 viral posts. Avg engagement: 16.4%. 97 posts analyzed.",
+  "top_posts": [
+    {
+      "author": "@mvntalhealth",
+      "followers": 17500,
+      "caption": "#mentalhealth #relatable #fyp #anxietyattack #foryoupage ",
+      "views": 470400,
+      "likes": 118300,
+      "comments": 222,
+      "shares": 6445,
+      "saves": 20679,
+      "engagement_rate": 30.96,
+      "hashtags": [
+        "#mentalhealth",
+        "#relatable",
+        "#fyp",
+        "#anxietyattack",
+        "#foryoupage"
+      ],
+      "sound": "original sound",
+      "duration": 27,
+      "posted_date": "2026-02-23",
+      "url": "https://www.tiktok.com/@mvntalhealth/video/7610046734089112862"
+    },
+    {
+      "author": "@theteenspace_",
+      "followers": 14700,
+      "caption": "Your Mental Health Matters. We wish we could include every condition in this video. Please comment about the ones we left out. \n\n#mentalhealth #youmatter #viral #theteenspace #spreadawareness ",
+      "views": 1900000,
+      "likes": 470000,
+      "comments": 1380,
+      "shares": 16800,
+      "saves": 70549,
+      "engagement_rate": 29.41,
+      "hashtags": [
+        "#mentalhealth",
+        "#youmatter",
+        "#viral",
+        "#theteenspace",
+        "#spreadawareness"
+      ],
+      "sound": "original sound",
+      "duration": 15,
+      "posted_date": "2026-02-07",
+      "url": "https://www.tiktok.com/@theteenspace_/video/7604137266675535117"
+    },
+    {
+      "author": "@nofooddeprssion0",
+      "followers": 40,
+      "caption": "won\u2019t stop #sad #mentalhealth #cantdothisanymore #fyp #repost ",
+      "views": 4691,
+      "likes": 1043,
+      "comments": 11,
+      "shares": 53,
+      "saves": 178,
+      "engagement_rate": 27.39,
+      "hashtags": [
+        "#sad",
+        "#mentalhealth",
+        "#cantdothisanymore",
+        "#fyp",
+        "#repost"
+      ],
+      "sound": "original sound",
+      "duration": 7,
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@nofooddeprssion0/video/7625698622776118549"
+    },
+    {
+      "author": "@_.unknownprettygirlllll",
+      "followers": 70,
+      "caption": "#blowthisup #fyp\u30b7\u309aviral #drainedasf #mentalhealthmatters ",
+      "views": 5917,
+      "likes": 1253,
+      "comments": 11,
+      "shares": 100,
+      "saves": 231,
+      "engagement_rate": 26.96,
+      "hashtags": [
+        "#blowthisup",
+        "#fyp\u30b7\u309aviral",
+        "#drainedasf",
+        "#mentalhealthmatters"
+      ],
+      "sound": "original sound",
+      "duration": 13,
+      "posted_date": "2026-04-04",
+      "url": "https://www.tiktok.com/@_.unknownprettygirlllll/video/7625036730751520030"
+    },
+    {
+      "author": "@u.dont.know.v",
+      "followers": 17600,
+      "caption": "#fyp #school #mentalhealthmatters #foryoupage ",
+      "views": 1200000,
+      "likes": 292400,
+      "comments": 192,
+      "shares": 4771,
+      "saves": 25334,
+      "engagement_rate": 26.89,
+      "hashtags": [
+        "#fyp",
+        "#school",
+        "#mentalhealthmatters",
+        "#foryoupage"
+      ],
+      "sound": "original sound",
+      "duration": 10,
+      "posted_date": "2026-04-03",
+      "url": "https://www.tiktok.com/@u.dont.know.v/video/7624642334533127457"
+    },
+    {
+      "author": "@sophsmemorydump",
+      "followers": 1093,
+      "caption": "#fyp#mentalhealth ",
+      "views": 3255,
+      "likes": 741,
+      "comments": 5,
+      "shares": 23,
+      "saves": 101,
+      "engagement_rate": 26.73,
+      "hashtags": [
+        "#fyp",
+        "#mentalhealth"
+      ],
+      "sound": "original sound",
+      "duration": 10,
+      "posted_date": "2026-04-05",
+      "url": "https://www.tiktok.com/@sophsmemorydump/video/7625281392733097236"
+    },
+    {
+      "author": "@usersecret990",
+      "followers": 20800,
+      "caption": "#mentalhealth #relatable #derealization #foryoupage ",
+      "views": 1200000,
+      "likes": 263900,
+      "comments": 216,
+      "shares": 14900,
+      "saves": 40935,
+      "engagement_rate": 26.66,
+      "hashtags": [
+        "#mentalhealth",
+        "#relatable",
+        "#derealization",
+        "#foryoupage"
+      ],
+      "sound": "Tony Stark monologue",
+      "duration": 10,
+      "posted_date": "2026-03-29",
+      "url": "https://www.tiktok.com/@usersecret990/video/7622544289721060628"
+    },
+    {
+      "author": "@happyfamilyxxo",
+      "followers": 292,
+      "caption": "yeah. #reletable #vent #viral #fyp ",
+      "views": 646900,
+      "likes": 139900,
+      "comments": 205,
+      "shares": 6134,
+      "saves": 24232,
+      "engagement_rate": 26.35,
+      "hashtags": [
+        "#reletable",
+        "#vent",
+        "#viral",
+        "#fyp"
+      ],
+      "sound": "Hate Yourself",
+      "duration": 17,
+      "posted_date": "2026-03-17",
+      "url": "https://www.tiktok.com/@happyfamilyxxo/video/7618293816608476438"
+    },
+    {
+      "author": "@x_jf9",
+      "followers": 18800,
+      "caption": "deep thoughts about memories and overthinking.\n#deepthoughts #relatable #mentalhealth #sadthoughts #\u0641\u0636\u0641\u0636\u0647",
+      "views": 730300,
+      "likes": 158000,
+      "comments": 124,
+      "shares": 12000,
+      "saves": 17291,
+      "engagement_rate": 25.66,
+      "hashtags": [
+        "#deepthoughts",
+        "#relatable",
+        "#mentalhealth",
+        "#sadthoughts",
+        "#\u0641\u0636\u0641\u0636\u0647"
+      ],
+      "sound": "original sound - Lonewolf",
+      "duration": 5,
+      "posted_date": "2026-04-02",
+      "url": "https://www.tiktok.com/@x_jf9/video/7624269266912595221"
+    },
+    {
+      "author": "@fatchudliana",
+      "followers": 866,
+      "caption": "can yall tell I was freaking out or did I play it cool #foryou #fyp #shawareness #mentalhealth #likeitup ",
+      "views": 15400,
+      "likes": 3339,
+      "comments": 66,
+      "shares": 61,
+      "saves": 477,
+      "engagement_rate": 25.6,
+      "hashtags": [
+        "#foryou",
+        "#fyp",
+        "#shawareness",
+        "#mentalhealth",
+        "#likeitup"
+      ],
+      "sound": "I Promise It Won't Happen Again",
+      "duration": 37,
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@fatchudliana/video/7625516679891553567"
+    },
+    {
+      "author": "@secret_.acount16",
+      "followers": 4000,
+      "caption": "#catvalentine#mentalhealth #depression #vent #makethisgoviral ",
+      "views": 1700000,
+      "likes": 350500,
+      "comments": 1102,
+      "shares": 25900,
+      "saves": 57394,
+      "engagement_rate": 25.58,
+      "hashtags": [
+        "#catvalentine",
+        "#mentalhealth",
+        "#depression",
+        "#vent",
+        "#makethisgoviral"
+      ],
+      "sound": "original sound",
+      "duration": 5,
+      "posted_date": "2026-02-16",
+      "url": "https://www.tiktok.com/@secret_.acount16/video/7607350304312544542"
+    },
+    {
+      "author": "@zajuniorr",
+      "followers": 158700,
+      "caption": "#camaro #camaross #fyp\u30b7\u309aviral #mentalhealth ",
+      "views": 267300,
+      "likes": 58400,
+      "comments": 80,
+      "shares": 1935,
+      "saves": 7916,
+      "engagement_rate": 25.56,
+      "hashtags": [
+        "#camaro",
+        "#camaross",
+        "#fyp\u30b7\u309aviral",
+        "#mentalhealth"
+      ],
+      "sound": "original sound",
+      "duration": 11,
+      "posted_date": "2026-04-01",
+      "url": "https://www.tiktok.com/@zajuniorr/video/7623615161433214239"
+    },
+    {
+      "author": "@user1446712631",
+      "followers": 93,
+      "caption": "#mentalhealthmatters #fyp ",
+      "views": 927,
+      "likes": 221,
+      "comments": 0,
+      "shares": 3,
+      "saves": 12,
+      "engagement_rate": 25.46,
+      "hashtags": [
+        "#mentalhealthmatters",
+        "#fyp"
+      ],
+      "sound": "original sound",
+      "duration": 9,
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@user1446712631/video/7625883037451963678"
+    },
+    {
+      "author": "@.accountnotfound509",
+      "followers": 129,
+      "caption": "might delete this later ##blowthisup##xbcyza##fyp##dontletthisflop##wockst\u2605rz\ud83e\udd87",
+      "views": 6485,
+      "likes": 1397,
+      "comments": 3,
+      "shares": 47,
+      "saves": 186,
+      "engagement_rate": 25.18,
+      "hashtags": [
+        "#blowthisup",
+        "#xbcyza",
+        "#fyp",
+        "#dontletthisflop",
+        "#wockst\u2605rz\ud83e\udd87"
+      ],
+      "sound": "original sound",
+      "duration": 11,
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@.accountnotfound509/video/7625731809141067021"
+    },
+    {
+      "author": "@hai_spams09",
+      "followers": 155,
+      "caption": "#yelling #mentalhealth #relatable ",
+      "views": 13600,
+      "likes": 3059,
+      "comments": 2,
+      "shares": 63,
+      "saves": 264,
+      "engagement_rate": 24.91,
+      "hashtags": [
+        "#yelling",
+        "#mentalhealth",
+        "#relatable"
+      ],
+      "sound": "November Rain",
+      "duration": 9,
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@hai_spams09/video/7625486401349405983"
+    }
+  ]
+}

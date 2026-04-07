@@ -1,0 +1,517 @@
+{
+  "platform": "Instagram",
+  "platform_key": "instagram",
+  "month": "April",
+  "year": 2026,
+  "niche": "tech",
+  "generated_at": "2026-04-07T21:19:04.870888",
+  "data_points_analyzed": 100,
+  "viral_posts_found": 100,
+  "hooks": [],
+  "best_times": [
+    {
+      "day": "Tuesday",
+      "time": "Peak",
+      "engagement_avg": 33.3,
+      "sample_size": 100
+    }
+  ],
+  "hashtags": [
+    {
+      "tag": "#tech",
+      "usage_count": 83,
+      "avg_views": 1
+    },
+    {
+      "tag": "#technology",
+      "usage_count": 19,
+      "avg_views": 4
+    },
+    {
+      "tag": "#ai",
+      "usage_count": 15,
+      "avg_views": 1
+    },
+    {
+      "tag": "#programming",
+      "usage_count": 10,
+      "avg_views": 0
+    },
+    {
+      "tag": "#cybersecurity",
+      "usage_count": 10,
+      "avg_views": 0
+    },
+    {
+      "tag": "#artificialintelligence",
+      "usage_count": 9,
+      "avg_views": 1
+    },
+    {
+      "tag": "#startup",
+      "usage_count": 9,
+      "avg_views": 1
+    },
+    {
+      "tag": "#innovation",
+      "usage_count": 8,
+      "avg_views": 2
+    },
+    {
+      "tag": "#businessowner",
+      "usage_count": 7,
+      "avg_views": 2
+    },
+    {
+      "tag": "#entrepreneur",
+      "usage_count": 7,
+      "avg_views": 2
+    },
+    {
+      "tag": "#digitalmarketing",
+      "usage_count": 7,
+      "avg_views": 2
+    },
+    {
+      "tag": "#branding",
+      "usage_count": 7,
+      "avg_views": 2
+    },
+    {
+      "tag": "#apple",
+      "usage_count": 7,
+      "avg_views": 0
+    },
+    {
+      "tag": "#gadgets",
+      "usage_count": 7,
+      "avg_views": 0
+    },
+    {
+      "tag": "#gadget",
+      "usage_count": 6,
+      "avg_views": 1
+    },
+    {
+      "tag": "#fyp",
+      "usage_count": 6,
+      "avg_views": 1
+    },
+    {
+      "tag": "#viral",
+      "usage_count": 6,
+      "avg_views": 1
+    },
+    {
+      "tag": "#hacker",
+      "usage_count": 6,
+      "avg_views": 0
+    },
+    {
+      "tag": "#cyberwithjohann",
+      "usage_count": 6,
+      "avg_views": 0
+    },
+    {
+      "tag": "#networking",
+      "usage_count": 5,
+      "avg_views": 5
+    },
+    {
+      "tag": "#smartgadget",
+      "usage_count": 5,
+      "avg_views": 1
+    },
+    {
+      "tag": "#automation",
+      "usage_count": 4,
+      "avg_views": 4
+    },
+    {
+      "tag": "#coding",
+      "usage_count": 4,
+      "avg_views": 0
+    },
+    {
+      "tag": "#protechassiba",
+      "usage_count": 4,
+      "avg_views": 0
+    },
+    {
+      "tag": "#neverstopexploring",
+      "usage_count": 4,
+      "avg_views": 0
+    }
+  ],
+  "formats": [
+    {
+      "name": "Challenge / trend",
+      "avg_engagement": 50.0,
+      "post_count": 2
+    },
+    {
+      "name": "Question / engagement",
+      "avg_engagement": 50.0,
+      "post_count": 4
+    },
+    {
+      "name": "Educational / tips",
+      "avg_engagement": 9.1,
+      "post_count": 11
+    },
+    {
+      "name": "Before/after",
+      "avg_engagement": 0.0,
+      "post_count": 1
+    }
+  ],
+  "trending_sounds": [],
+  "insights": "Challenge / trend content leads with 50.0% avg engagement. Avg engagement: 33.3%. 100 posts analyzed.",
+  "top_posts": [
+    {
+      "author": "@mis_amulya__",
+      "followers": 0,
+      "caption": "\ud83d\ude18\ud83d\udc8b\u2728\n.\n.#instagramgrowth\n#Engagingcontent\n#comment\n#Explorepage\n#Tech",
+      "views": 0,
+      "likes": 3,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#instagramgrowth",
+        "#Engagingcontent",
+        "#comment",
+        "#Explorepage",
+        "#Tech"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW15zHpEoyW/"
+    },
+    {
+      "author": "@stimmekroatiens",
+      "followers": 0,
+      "caption": "\ud83d\ude97\u26a1 Kroatien im Fokus!\n\nDie BMW Group arbeitet gemeinsam mit Rimac Technology an einer neuen Batteriegeneration f\u00fcr den kommenden BMW i7 \ud83d\udd0b\n\n\ud83d\udc49 Mehr Reichweite\n\ud83d\udc49 Schnellere Ladezeiten\n\ud83d\udc49 Made near Zagreb ",
+      "views": 0,
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 150.0,
+      "hashtags": [
+        "#BMW",
+        "#Rimac",
+        "#Elektromobilit\u00e4t",
+        "#Innovation",
+        "#Kroatien",
+        "#Tech",
+        "#EV",
+        "#Zagreb"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11W_alh3x/"
+    },
+    {
+      "author": "@bbntimesofficial",
+      "followers": 0,
+      "caption": "The Hong Kong Stock Exchange (HKEX) and the Hang Seng Index remain closed on Tuesday, April 7, 2026, as Hong Kong observes an extended Easter holiday period.\n\nRead More: https://www.bbntimes.com/globa",
+      "views": 0,
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 150.0,
+      "hashtags": [
+        "#technology",
+        "#tech",
+        "#businessowner",
+        "#entrepreneur",
+        "#digitalmarketing",
+        "#artificialintelligence",
+        "#branding",
+        "#startup"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW108bxDGu5/"
+    },
+    {
+      "author": "@bbntimesofficial",
+      "followers": 0,
+      "caption": "China's SSE Composite Index, which tracks all A-shares and B-shares traded on the Shanghai Stock Exchange, returned to trading on Tuesday, April 7, 2026, following a one-day closure on Monday for the ",
+      "views": 0,
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 150.0,
+      "hashtags": [
+        "#technology",
+        "#tech",
+        "#businessowner",
+        "#entrepreneur",
+        "#digitalmarketing",
+        "#artificialintelligence",
+        "#branding",
+        "#startup"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW100rdjMrJ/"
+    },
+    {
+      "author": "@bbntimesofficial",
+      "followers": 0,
+      "caption": "France's flagship CAC 40 index returned to trading on Tuesday, April 7, 2026, following a four-day Easter holiday break, with the index rising approximately 0.4% to 7,994 points in early trading.\n\nRea",
+      "views": 0,
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 150.0,
+      "hashtags": [
+        "#technology",
+        "#tech",
+        "#businessowner",
+        "#entrepreneur",
+        "#digitalmarketing",
+        "#artificialintelligence",
+        "#branding",
+        "#startup"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10w1nDEZv/"
+    },
+    {
+      "author": "@bbntimesofficial",
+      "followers": 0,
+      "caption": "Italy's FTSE MIB index resumed trading on Tuesday, April 7, 2026, following the Easter holiday break, as Borsa Italiana \u2014 now part of Euronext Milan \u2014 reopened after the Good Friday and Easter Monday ",
+      "views": 0,
+      "likes": 3,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 133.33,
+      "hashtags": [
+        "#technology",
+        "#tech",
+        "#businessowner",
+        "#entrepreneur",
+        "#digitalmarketing",
+        "#artificialintelligence",
+        "#branding",
+        "#startup"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11VUFDISr/"
+    },
+    {
+      "author": "@miranemirgulekli",
+      "followers": 0,
+      "caption": "\ud83e\udeea #apple #macbook #tech",
+      "views": 0,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#apple",
+        "#macbook",
+        "#tech"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW163vZCFRd/"
+    },
+    {
+      "author": "@networks.baseline",
+      "followers": 0,
+      "caption": "Day 72: Datacenter Interconnect Guide for Network & Security Engineers\nThanks to all subscribers for the huge support \u2764\ufe0f\u2764\ufe0f\n\n#education #networking #tech #fblifestyle",
+      "views": 0,
+      "likes": 6,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#education",
+        "#networking",
+        "#tech",
+        "#fblifestyle"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW16csEEVsv/"
+    },
+    {
+      "author": "@sterlingvvv",
+      "followers": 0,
+      "caption": "Adore these folks \u2764\ufe0f Just a few more days til opening!\n#manoflamancha @montgomerytheater @theatrephiladelphia #cervantes #donquixote #nonbinary #genderfluid #queer #musical #theatre #tech",
+      "views": 0,
+      "likes": 11,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#manoflamancha",
+        "#cervantes",
+        "#donquixote",
+        "#nonbinary",
+        "#genderfluid",
+        "#queer",
+        "#musical",
+        "#theatre"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW15rJAD9eb/"
+    },
+    {
+      "author": "@techhype.zone",
+      "followers": 0,
+      "caption": "This gadget is the upgrade you didn't know you needed\u26a1\ud83e\udd2f\n\n#technology #smartgadget #gadget #gadgets #tech",
+      "views": 0,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#technology",
+        "#smartgadget",
+        "#gadget",
+        "#gadgets",
+        "#tech"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW16W2wko6x/"
+    },
+    {
+      "author": "@techhype.zone",
+      "followers": 0,
+      "caption": "This gadget is the upgrade you didn't know you needed\u26a1\ud83e\udd2f\n\n#technology #smartgadget #gadget #gadgets #tech",
+      "views": 0,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#technology",
+        "#smartgadget",
+        "#gadget",
+        "#gadgets",
+        "#tech"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW16TavEvYF/"
+    },
+    {
+      "author": "@zedga_dget",
+      "followers": 0,
+      "caption": "This gadget is the upgrade you didn't know you needed\u26a1\ud83e\udd2f\n\n#technology #smartgadget #gadget #gadgets #tech",
+      "views": 0,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#technology",
+        "#smartgadget",
+        "#gadget",
+        "#gadgets",
+        "#tech"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW16JgaExJU/"
+    },
+    {
+      "author": "@zedga_dget",
+      "followers": 0,
+      "caption": "This gadget is the upgrade you didn't know you needed\u26a1\ud83e\udd2f\n\n#technology #smartgadget #gadget #gadgets #tech",
+      "views": 0,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#technology",
+        "#smartgadget",
+        "#gadget",
+        "#gadgets",
+        "#tech"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW16D1QE2Sn/"
+    },
+    {
+      "author": "@ameeofficiel",
+      "followers": 0,
+      "caption": "\ud83d\udcc5 \ud83d\ude80 Retrouvez l'AMEE du 07 au 09 avril 2026 au @gitexafrica 2026 !\u200b\n\ud83d\udce2 \ud83d\udccd Rejoignez-nous au stand n\u00b0 11D-10 ! Nous serons ravis d'\u00e9changer avec vous et de vous faire b\u00e9n\u00e9ficier d'un pre-diagnostic \u00e9nerg",
+      "views": 0,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#AMEE",
+        "#Efficacit\u00e9Energ\u00e9tique",
+        "#GitexAfrica",
+        "#Tech",
+        "#Marrakech",
+        "#Maroc\u200b\u200b"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW15R2vDsRJ/"
+    },
+    {
+      "author": "@unfoldedai",
+      "followers": 0,
+      "caption": "AI learned to see in 12 years\n\nIn 2014, AI images were rough and unclear. Models could hint at shapes, but nothing close to reality. A cow looked like a blurry guess, not a real animal.\n\nThese systems",
+      "views": 0,
+      "likes": 19,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#ai",
+        "#automation",
+        "#tech",
+        "#ainews"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW14z31E1Wf/"
+    }
+  ]
+}

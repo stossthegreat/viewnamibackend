@@ -1,0 +1,429 @@
+{
+  "platform": "X (Twitter)",
+  "platform_key": "x",
+  "month": "April",
+  "year": 2026,
+  "niche": "motivation",
+  "generated_at": "2026-04-07T21:19:04.870888",
+  "data_points_analyzed": 100,
+  "viral_posts_found": 100,
+  "hooks": [
+    {
+      "pattern": "If you [X]",
+      "example_count": 1,
+      "trend_pct": 70,
+      "example": "If you don\u2019t follow a moral law, you destroy yourself."
+    },
+    {
+      "pattern": "POV: you just...",
+      "example_count": 1,
+      "trend_pct": 70,
+      "example": "POV: Why You Keep Training So Much \ud83d\udcad\ud83d\udd25"
+    }
+  ],
+  "best_times": [],
+  "hashtags": [
+    {
+      "tag": "#discipline",
+      "usage_count": 27,
+      "avg_views": 17
+    },
+    {
+      "tag": "#mindset",
+      "usage_count": 25,
+      "avg_views": 18
+    },
+    {
+      "tag": "#viral",
+      "usage_count": 22,
+      "avg_views": 11
+    },
+    {
+      "tag": "#fyp",
+      "usage_count": 18,
+      "avg_views": 18
+    },
+    {
+      "tag": "#motivation",
+      "usage_count": 11,
+      "avg_views": 68
+    },
+    {
+      "tag": "#4amclub",
+      "usage_count": 10,
+      "avg_views": 10
+    },
+    {
+      "tag": "#marciusvan",
+      "usage_count": 10,
+      "avg_views": 10
+    },
+    {
+      "tag": "#marcius",
+      "usage_count": 10,
+      "avg_views": 10
+    },
+    {
+      "tag": "#selfimprovement",
+      "usage_count": 6,
+      "avg_views": 23
+    },
+    {
+      "tag": "#successmindset",
+      "usage_count": 5,
+      "avg_views": 12
+    },
+    {
+      "tag": "#growth",
+      "usage_count": 3,
+      "avg_views": 11
+    },
+    {
+      "tag": "#mindsetmatters",
+      "usage_count": 3,
+      "avg_views": 148
+    },
+    {
+      "tag": "#foryou",
+      "usage_count": 3,
+      "avg_views": 18
+    },
+    {
+      "tag": "#success",
+      "usage_count": 2,
+      "avg_views": 10
+    },
+    {
+      "tag": "#finance",
+      "usage_count": 2,
+      "avg_views": 17
+    },
+    {
+      "tag": "#trending",
+      "usage_count": 2,
+      "avg_views": 16
+    },
+    {
+      "tag": "#shorts",
+      "usage_count": 2,
+      "avg_views": 13
+    },
+    {
+      "tag": "#thinkbigsundaywithmarsha",
+      "usage_count": 2,
+      "avg_views": 214
+    },
+    {
+      "tag": "#explorepage",
+      "usage_count": 2,
+      "avg_views": 15
+    }
+  ],
+  "formats": [
+    {
+      "name": "Review / recommendation",
+      "avg_engagement": 22.2,
+      "post_count": 1
+    },
+    {
+      "name": "Hot take / opinion",
+      "avg_engagement": 15.8,
+      "post_count": 1
+    },
+    {
+      "name": "Story / narrative",
+      "avg_engagement": 8.3,
+      "post_count": 1
+    },
+    {
+      "name": "Educational / tips",
+      "avg_engagement": 4.7,
+      "post_count": 2
+    },
+    {
+      "name": "Challenge / trend",
+      "avg_engagement": 0.0,
+      "post_count": 1
+    },
+    {
+      "name": "Question / engagement",
+      "avg_engagement": 0.0,
+      "post_count": 3
+    }
+  ],
+  "trending_sounds": [],
+  "insights": "Review / recommendation content leads with 22.2% avg engagement. \"If you [X]\" hook appears in 1 viral posts. Avg engagement: 6.1%. 100 posts analyzed.",
+  "top_posts": [
+    {
+      "author": "@chander65698221",
+      "followers": 496,
+      "caption": "\ud83e\udde0 Mindset Matters\nNegative thoughts can impact your body\nPractice gratitude, affirmations &amp; positivity",
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/chander65698221/status/2041598640700190939"
+    },
+    {
+      "author": "@_champs4",
+      "followers": 3348,
+      "caption": "Don't follow your Mood while trying to eradicate poverty or Financial instability.\n\nStick to your Laid down plans and watch how your life elevates every second, Minute , Hr, Day.\n\nYour plan is your Li",
+      "views": 14,
+      "likes": 3,
+      "comments": 3,
+      "shares": 1,
+      "saves": 0,
+      "engagement_rate": 50.0,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/_champs4/status/2041607834178126034"
+    },
+    {
+      "author": "@RichingsMaxx",
+      "followers": 159,
+      "caption": "People talk about discipline like it\u2019s some sacred trait.\n\nIt\u2019s not. \n\nIt\u2019s just the ability to keep promises to yourself when nobody is watching. \n\nThat\u2019s why it compounds. That\u2019s why it builds confi",
+      "views": 8,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 25.0,
+      "hashtags": [
+        "#Discipline",
+        "#Mindset",
+        "#Habits",
+        "#SelfImprovement",
+        "#Success"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Sun Apr 05",
+      "url": "https://x.com/RichingsMaxx/status/2040936098927390804"
+    },
+    {
+      "author": "@TRMCoaching",
+      "followers": 80,
+      "caption": "Success isn't about luck; it's about quality routines and daily habits that provide structure. Discipline is self-love, choosing what serves you over what doesn't. Build habits that lead to your goals",
+      "views": 4,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 25.0,
+      "hashtags": [
+        "#Discipline",
+        "#SelfLove",
+        "#SuccessMindset"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Thu Apr 02",
+      "url": "https://x.com/TRMCoaching/status/2039809684165493027"
+    },
+    {
+      "author": "@ratheshganesan",
+      "followers": 1046,
+      "caption": "@vetrivelmuruges Perfect combo. Training your body and reviewing wins or losses builds both discipline and clarity. Stick to it. Small daily wins compound faster than you think.",
+      "views": 9,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 22.22,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Thu Apr 02",
+      "url": "https://x.com/ratheshganesan/status/2039717945694380191"
+    },
+    {
+      "author": "@SHarshit26",
+      "followers": 66,
+      "caption": "Discipline isn\u2019t about doing more. It\u2019s about doing what matters - consistently.\nNo distractions. No shortcuts. No wasted motion.\nJust focused work, clear priorities, and execution that compounds over",
+      "views": 5,
+      "likes": 0,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 20.0,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Mon Apr 06",
+      "url": "https://x.com/SHarshit26/status/2041226082305945892"
+    },
+    {
+      "author": "@TheMariyaKhan",
+      "followers": 537,
+      "caption": "Hot take: Most \u201cdisciplined\u201d people are just self-destructive.\n\nThey overwork. Ignore their body. Burn out &amp; call it success.\n\nYou don\u2019t need more pressure.\nYou need better leadership.\n\nAgree or d",
+      "views": 19,
+      "likes": 2,
+      "comments": 0,
+      "shares": 1,
+      "saves": 0,
+      "engagement_rate": 15.79,
+      "hashtags": [
+        "#discipline",
+        "#mindset",
+        "#selfimprovement",
+        "#fatloss",
+        "#growth"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Thu Apr 02",
+      "url": "https://x.com/TheMariyaKhan/status/2039720336980426865"
+    },
+    {
+      "author": "@Nahvido_",
+      "followers": 5233,
+      "caption": "Discipline means showing up even when support is absent. Stay committed to your goals, trust your effort, and keep pushing forward because consistency, especially in solitude, is what builds real stre",
+      "views": 32,
+      "likes": 2,
+      "comments": 1,
+      "shares": 2,
+      "saves": 0,
+      "engagement_rate": 15.62,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Thu Apr 02",
+      "url": "https://x.com/Nahvido_/status/2039560654089068954"
+    },
+    {
+      "author": "@Challenger_ST",
+      "followers": 89877,
+      "caption": "@Stephen_Moss_AT @keithmxatc @BixbySpartanFB @BixbyStrength Discipline takes you places motivation can\u2019t!",
+      "views": 20,
+      "likes": 3,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 15.0,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Mon Apr 06",
+      "url": "https://x.com/Challenger_ST/status/2041192881763873048"
+    },
+    {
+      "author": "@fitskate",
+      "followers": 92,
+      "caption": "@skatingpj @rockerskating @CanadianFSNews @InTheLoPodcast @insideskating @SkateCanada @SkateOntario These mental skills apply beyond sport:\n\n- Job loss\n- Career pivots\n- Academic setbacks\n- Relationsh",
+      "views": 7,
+      "likes": 0,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 14.29,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/fitskate/status/2041606375877308806"
+    },
+    {
+      "author": "@Jagranjosh",
+      "followers": 23435,
+      "caption": "Motivation may fade, but discipline is what pushes you forward when the going gets tough. Keep grinding, stay consistent! \ud83d\udcaa\u2728\n\n#DisciplineOverMotivation #StayConsistent #DailyGrind #Motivation #SelfImp",
+      "views": 15,
+      "likes": 1,
+      "comments": 0,
+      "shares": 1,
+      "saves": 0,
+      "engagement_rate": 13.33,
+      "hashtags": [
+        "#DisciplineOverMotivation",
+        "#StayConsistent",
+        "#DailyGrind",
+        "#Motivation",
+        "#SelfImprovement",
+        "#SuccessMindset",
+        "#HardWorkPaysOff",
+        "#MindsetMatters"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/Jagranjosh/status/2041357798861373626"
+    },
+    {
+      "author": "@Zilot042",
+      "followers": 4893,
+      "caption": "@KQ_Mindset Discipline grows from small routines, consistency beats motivation, and builds long-term success quietly.",
+      "views": 8,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 12.5,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Wed Apr 01",
+      "url": "https://x.com/Zilot042/status/2039279670198174115"
+    },
+    {
+      "author": "@talkswithbodex",
+      "followers": 4071,
+      "caption": "Discipline is choosing what you want most over what feels easy right now. It\u2019s not always loud or exciting, but it builds results quietly. Stay committed to your goals, especially on days you don\u2019t fe",
+      "views": 8,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 12.5,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Thu Apr 02",
+      "url": "https://x.com/talkswithbodex/status/2039706476785062199"
+    },
+    {
+      "author": "@ratheshganesan",
+      "followers": 1046,
+      "caption": "@vetrivelmuruges That\u2019s a strong move. Awareness and a simple system like timers can break the cycle. Start small and stay consistent. Set timelines for goals and try to finish them.",
+      "views": 16,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 1,
+      "engagement_rate": 12.5,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Fri Apr 03",
+      "url": "https://x.com/ratheshganesan/status/2040068228475662374"
+    },
+    {
+      "author": "@bignexx7",
+      "followers": 401,
+      "caption": "This where most people quit #motivation #discipline #mindset #viral #fyp... https://t.co/qYMtN1ipTH via @YouTube",
+      "views": 9,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 11.11,
+      "hashtags": [
+        "#motivation",
+        "#discipline",
+        "#mindset",
+        "#viral",
+        "#fyp"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Wed Mar 25",
+      "url": "https://x.com/bignexx7/status/2036811838751465637"
+    }
+  ]
+}

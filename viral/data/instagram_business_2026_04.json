@@ -1,0 +1,510 @@
+{
+  "platform": "Instagram",
+  "platform_key": "instagram",
+  "month": "April",
+  "year": 2026,
+  "niche": "business",
+  "generated_at": "2026-04-07T21:19:04.870888",
+  "data_points_analyzed": 100,
+  "viral_posts_found": 100,
+  "hooks": [],
+  "best_times": [
+    {
+      "day": "Tuesday",
+      "time": "Peak",
+      "engagement_avg": 40.2,
+      "sample_size": 99
+    }
+  ],
+  "hashtags": [
+    {
+      "tag": "#entrepreneur",
+      "usage_count": 78,
+      "avg_views": 6
+    },
+    {
+      "tag": "#business",
+      "usage_count": 19,
+      "avg_views": 21
+    },
+    {
+      "tag": "#smallbusiness",
+      "usage_count": 17,
+      "avg_views": 1
+    },
+    {
+      "tag": "#startup",
+      "usage_count": 12,
+      "avg_views": 11
+    },
+    {
+      "tag": "#businessgrowth",
+      "usage_count": 11,
+      "avg_views": 0
+    },
+    {
+      "tag": "#marketing",
+      "usage_count": 9,
+      "avg_views": 0
+    },
+    {
+      "tag": "#onlinebusiness",
+      "usage_count": 7,
+      "avg_views": 0
+    },
+    {
+      "tag": "#networking",
+      "usage_count": 7,
+      "avg_views": 0
+    },
+    {
+      "tag": "#digitalmarketing",
+      "usage_count": 6,
+      "avg_views": 0
+    },
+    {
+      "tag": "#chicago",
+      "usage_count": 6,
+      "avg_views": 0
+    },
+    {
+      "tag": "#founder",
+      "usage_count": 6,
+      "avg_views": 0
+    },
+    {
+      "tag": "#mindset",
+      "usage_count": 5,
+      "avg_views": 1
+    },
+    {
+      "tag": "#success",
+      "usage_count": 5,
+      "avg_views": 2
+    },
+    {
+      "tag": "#ecommerce",
+      "usage_count": 5,
+      "avg_views": 0
+    },
+    {
+      "tag": "#motivation",
+      "usage_count": 4,
+      "avg_views": 1
+    },
+    {
+      "tag": "#sidehustle",
+      "usage_count": 3,
+      "avg_views": 0
+    },
+    {
+      "tag": "#entrepreneuriat",
+      "usage_count": 3,
+      "avg_views": 12
+    },
+    {
+      "tag": "#fyp",
+      "usage_count": 3,
+      "avg_views": 0
+    },
+    {
+      "tag": "#life",
+      "usage_count": 3,
+      "avg_views": 1
+    },
+    {
+      "tag": "#shopify",
+      "usage_count": 3,
+      "avg_views": 0
+    },
+    {
+      "tag": "#seo",
+      "usage_count": 3,
+      "avg_views": 0
+    },
+    {
+      "tag": "#growthstrategy",
+      "usage_count": 3,
+      "avg_views": 0
+    },
+    {
+      "tag": "#amazonindia",
+      "usage_count": 2,
+      "avg_views": 1
+    },
+    {
+      "tag": "#bestseller",
+      "usage_count": 2,
+      "avg_views": 1
+    },
+    {
+      "tag": "#passiveincome",
+      "usage_count": 2,
+      "avg_views": 1
+    }
+  ],
+  "formats": [
+    {
+      "name": "Educational / tips",
+      "avg_engagement": 20.0,
+      "post_count": 5
+    },
+    {
+      "name": "Challenge / trend",
+      "avg_engagement": 0.0,
+      "post_count": 2
+    },
+    {
+      "name": "Story / narrative",
+      "avg_engagement": 0.0,
+      "post_count": 1
+    },
+    {
+      "name": "Before/after",
+      "avg_engagement": 0.0,
+      "post_count": 1
+    }
+  ],
+  "trending_sounds": [],
+  "insights": "Educational / tips content leads with 20.0% avg engagement. Avg engagement: 41.3%. 100 posts analyzed.",
+  "top_posts": [
+    {
+      "author": "@destinya1323",
+      "followers": 0,
+      "caption": "Nobody is talking about this Amazon gem and I am upset \ud83d\udc40\n\nImagine having the power to create products that users just can't resist! \ud83d\udca1\ud83c\udfaf 'Hooked' by @NirEyal is your secret weapon!\n\n\u2705 Unlock the secrets",
+      "views": 0,
+      "likes": 1,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 300.0,
+      "hashtags": [
+        "#3",
+        "#HookedBook",
+        "#ProductDesign",
+        "#GrowthHacking",
+        "#AmazonIndia",
+        "#BestSeller",
+        "#BookRecommendation",
+        "#BusinessBooks"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW16tqwGADD/"
+    },
+    {
+      "author": "@writingmotivation_777",
+      "followers": 0,
+      "caption": "\ud83c\udf0d World Health Day: The One Thing You\u2019re Ignoring\u2026\n\nToday is World Health Day \u2014 led by the World Health Organization.\n\nA simple reminder:\n\n\ud83d\udc49 Health is a human right.\n\nBut here\u2019s the truth\u2026\n\nMost peopl",
+      "views": 0,
+      "likes": 2,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 250.0,
+      "hashtags": [
+        "#WorldHealthDay",
+        "#HealthMatters",
+        "#MentalHealth",
+        "#Wellness",
+        "#KDP",
+        "#SelfPublishing",
+        "#PassiveIncome",
+        "#SideHustle"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW12YCnCAJn/"
+    },
+    {
+      "author": "@leaderimpact_canada",
+      "followers": 0,
+      "caption": "\ud83c\udf99\ufe0f If you have ever felt like you don't have control over what happens in your life, you'll want to tune in to the LeaderImpact Podcast to hear what @corlissco, success principles coach and author, ha",
+      "views": 0,
+      "likes": 1,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#leadership",
+        "#leader",
+        "#impact",
+        "#leaders",
+        "#LeaderImpact",
+        "#LeaderImpactPodcast",
+        "#podcast",
+        "#podcasts"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW160HTk17o/"
+    },
+    {
+      "author": "@nochizspice",
+      "followers": 0,
+      "caption": "Exclusive Excerpts from the Forthcoming Book: From Idea to Store Shelf (Releasing April 30, 2026)\n\nINTRODUCTION (Page 9)\n\nFrom time to time, I go on marketing visits to retail stores that carry Nochiz",
+      "views": 0,
+      "likes": 1,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#booksbooksbooks",
+        "#entrepreneur",
+        "#newbook",
+        "#reader",
+        "#startup"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW15rLyEv07/"
+    },
+    {
+      "author": "@the_introvert_businesswoman",
+      "followers": 0,
+      "caption": "On va pas se mentir.\n\nQuand t\u2019as lanc\u00e9 ton business, t\u2019imaginais g\u00e9rer des clients, d\u00e9velopper des projets, peut-\u00eatre m\u00eame siroter un cocktail les pieds dans le sable en t\u00e9l\u00e9travail. \u2728\n\nCe que personn",
+      "views": 0,
+      "likes": 2,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#quietambition",
+        "#entrepreneur",
+        "#business",
+        "#mindset",
+        "#trusttheprocess"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW13V8EkeMg/"
+    },
+    {
+      "author": "@destinya1323",
+      "followers": 0,
+      "caption": "Nobody is talking about this Amazon gem and I am upset \ud83d\udc40\n\nImagine if your favorite products were as addictive as your favorite Netflix series. Well, now they can be! 'Hooked' by @NirEyal is your secre",
+      "views": 0,
+      "likes": 1,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#1",
+        "#3",
+        "#AmazonIndia",
+        "#BestSeller",
+        "#BookLovers",
+        "#Productivity",
+        "#Entrepreneur",
+        "#BookWorm"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW12pMUD2FT/"
+    },
+    {
+      "author": "@nofilter.business",
+      "followers": 0,
+      "caption": "\u038c\u03bb\u03bf\u03b9 \u03b8\u03ad\u03bb\u03bf\u03c5\u03bd \u03bd\u03b1 \u03b2\u03b3\u03ac\u03bb\u03bf\u03c5\u03bd \u03bb\u03b5\u03c6\u03c4\u03ac.\n\n\u039b\u03af\u03b3\u03bf\u03b9 \u03b1\u03bd\u03c4\u03ad\u03c7\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03c0\u03af\u03b5\u03c3\u03b7, \u03c4\u03bf \u03ac\u03b3\u03c7\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b5\u03c5\u03b8\u03cd\u03bd\u03b7 \u03c0\u03bf\u03c5 \u03ad\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03bc\u03b1\u03b6\u03af \u03c4\u03bf\u03c5\u03c2.\n\n\u0391\u03c5\u03c4\u03cc \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf \u03ba\u03bf\u03bc\u03bc\u03ac\u03c4\u03b9 \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03c3\u03bf\u03c5 \u03bb\u03ad\u03b5\u03b9 \u03ba\u03b1\u03bd\u03b5\u03af\u03c2.\n\n\u2e3b\n\nEveryone wants the money.\n\nFew can handle wh",
+      "views": 0,
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 150.0,
+      "hashtags": [
+        "#business",
+        "#entrepreneur",
+        "#mindset",
+        "#success",
+        "#smallbusiness"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW16pnODQz2/"
+    },
+    {
+      "author": "@lovechattingwithchrissy",
+      "followers": 0,
+      "caption": "You are someone. \u2764\ufe0f\n\nLast week I got locked out of my account\u2014and yes, I panicked. \ud83d\ude05\n\nI\u2019ve been on a long break from online selling and honestly, I might stay on it\u2026 unless I find a product or service",
+      "views": 0,
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 150.0,
+      "hashtags": [
+        "#ChattingwithChrissy",
+        "#ShineBright",
+        "#Entrepreneur"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW13EQDGUBZ/"
+    },
+    {
+      "author": "@pawsandpeacellc",
+      "followers": 0,
+      "caption": "The first 24 hours are overwhelming.\n\nYou don\u2019t need to do everything perfectly.\nYou just need to get through it.\n#petloss #grief #pet #rainbowbridge #pawsandpeace",
+      "views": 0,
+      "likes": 4,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 150.0,
+      "hashtags": [
+        "#petloss",
+        "#grief",
+        "#pet",
+        "#rainbowbridge",
+        "#pawsandpeace"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1Oi52jkHd/"
+    },
+    {
+      "author": "@grow_digital_maria",
+      "followers": 0,
+      "caption": "\u062a\u062d\u062f\u0651\u0649 \u062d\u0627\u0644\u0643\u2026 \u0644\u0623\u0646 \u0623\u0643\u0628\u0631 \u0639\u062f\u0648 \u0644\u0625\u0644\u0643 \u0645\u0634 \u0627\u0644\u0638\u0631\u0648\u0641\u060c \u0628\u0644 \u0627\u0644\u062e\u0648\u0641 \u0627\u0644\u0644\u064a \u062c\u0648\u0651\u0627\u062a\u0643.\n\n\u0648\u0627\u062c\u0647 \u0645\u062e\u0627\u0648\u0641\u0643 \u062e\u0637\u0648\u0629 \u062e\u0637\u0648\u0629\u060c \u062d\u062a\u0649 \u0644\u0648 \u0643\u0627\u0646\u062a \u0631\u062c\u0644\u064a\u0643 \u0639\u0645 \u062a\u0631\u062c\u0641.\n\u0643\u0644 \u0645\u0631\u0629 \u0628\u062a\u062e\u062a\u0627\u0631 \u0627\u0644\u0634\u062c\u0627\u0639\u0629 \u0628\u062f\u0644 \u0627\u0644\u0647\u0631\u0648\u0628\u060c \u0623\u0646\u062a \u0639\u0645 \u062a\u0642\u0631\u0651\u0628 \u0623\u0643\u062a\u0631 \u0645\u0646 \u0627\u0644\u0646\u0633\u062e\u0629 \u0627\u0644\u0623\u0642\u0648\u0649 \u0645\u0646\u0643.\n\n\u0627\u0637\u0644\u0639 \u0635\u0648\u0628 \u0627\u0644",
+      "views": 0,
+      "likes": 9,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 144.44,
+      "hashtags": [
+        "#entrepreneur",
+        "#newbeginnings",
+        "#fearless"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-04",
+      "url": "https://www.instagram.com/p/DWtH-sqDMa1/"
+    },
+    {
+      "author": "@o.pulentia",
+      "followers": 0,
+      "caption": "End goal is success \ud83d\udcaa \n-\n-\n-\n-\n-\n-\n-\n#entrepreneur #wolfofwallstreet #success #millionaire #billionaire",
+      "views": 0,
+      "likes": 7,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 142.86,
+      "hashtags": [
+        "#entrepreneur",
+        "#wolfofwallstreet",
+        "#success",
+        "#millionaire",
+        "#billionaire"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW144dtjra4/"
+    },
+    {
+      "author": "@theboardcouple",
+      "followers": 0,
+      "caption": "No reason in particular.\nWe just wanted to say hey.\n\nIf you\u2019re new here, welcome!\nBryan and I (Monica) started The Board Couple in 2018. We were on a small, commercial kitchen with other chefs and foo",
+      "views": 0,
+      "likes": 29,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 131.03,
+      "hashtags": [
+        "#charcuterie",
+        "#SmallBusiness",
+        "#entrepreneur",
+        "#sanantonio",
+        "#Love"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW129Oyke5s/"
+    },
+    {
+      "author": "@wealthytools",
+      "followers": 0,
+      "caption": "During the Iraq War, U.S. forces intercepted nearly 1,000 gold bars worth up to $868,000,000 at a military checkpoint.\n\nThe operation targeted financial assets linked to Saddam Hussein to weaken fundi",
+      "views": 0,
+      "likes": 114,
+      "comments": 7,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 106.14,
+      "hashtags": [
+        "#gold",
+        "#entrepreneur",
+        "#business",
+        "#hustlers",
+        "#geopolitics"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW14Qn9E0kZ/"
+    },
+    {
+      "author": "@thebusinesshacks",
+      "followers": 0,
+      "caption": "Apple introduced free engraving with iPods in the early 2000s, allowing users to personalize devices with names or messages.\n\nThe feature helped turn mass produced products into personal items, especi",
+      "views": 0,
+      "likes": 147,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.68,
+      "hashtags": [
+        "#entrepreneur",
+        "#business"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW12bnmCHe_/"
+    },
+    {
+      "author": "@theamorexperience",
+      "followers": 0,
+      "caption": "Book Your Wax Today\ud83d\ude0a\n-\n-\nHave you booked your appointment yet?\ud83d\udc40\n\ud83d\uddd3\ufe0fApril Books Are Now Open\n\ud83d\udccdLocated in West Philadelphia \n\ud83d\udd17 Link to book is in the bio!\n-\n-\n#phillycosmetologist #lash #lashtech #esthet",
+      "views": 0,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#phillycosmetologist",
+        "#lash",
+        "#lashtech",
+        "#estheticianlife",
+        "#soloesthetician",
+        "#smallbusiness",
+        "#phillylash",
+        "#esthetician"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW17FPfCqXk/"
+    }
+  ]
+}

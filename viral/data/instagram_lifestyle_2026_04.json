@@ -1,0 +1,491 @@
+{
+  "platform": "Instagram",
+  "platform_key": "instagram",
+  "month": "April",
+  "year": 2026,
+  "niche": "lifestyle",
+  "generated_at": "2026-04-07T21:19:04.870888",
+  "data_points_analyzed": 100,
+  "viral_posts_found": 99,
+  "hooks": [],
+  "best_times": [
+    {
+      "day": "Monday",
+      "time": "Peak",
+      "engagement_avg": 100.0,
+      "sample_size": 2
+    },
+    {
+      "day": "Tuesday",
+      "time": "Peak",
+      "engagement_avg": 66.4,
+      "sample_size": 97
+    }
+  ],
+  "hashtags": [
+    {
+      "tag": "#dailylife",
+      "usage_count": 85,
+      "avg_views": 2
+    },
+    {
+      "tag": "#lifestyle",
+      "usage_count": 13,
+      "avg_views": 0
+    },
+    {
+      "tag": "#diariovisual",
+      "usage_count": 4,
+      "avg_views": 0
+    },
+    {
+      "tag": "#vidareal",
+      "usage_count": 4,
+      "avg_views": 0
+    },
+    {
+      "tag": "#sinfiltro",
+      "usage_count": 4,
+      "avg_views": 0
+    },
+    {
+      "tag": "#madrid",
+      "usage_count": 4,
+      "avg_views": 0
+    },
+    {
+      "tag": "#espa\u00f1a",
+      "usage_count": 4,
+      "avg_views": 0
+    },
+    {
+      "tag": "#relatable",
+      "usage_count": 4,
+      "avg_views": 0
+    },
+    {
+      "tag": "#home",
+      "usage_count": 4,
+      "avg_views": 7
+    },
+    {
+      "tag": "#california",
+      "usage_count": 4,
+      "avg_views": 0
+    },
+    {
+      "tag": "#beach",
+      "usage_count": 4,
+      "avg_views": 0
+    },
+    {
+      "tag": "#goodvibes",
+      "usage_count": 3,
+      "avg_views": 0
+    },
+    {
+      "tag": "#life",
+      "usage_count": 3,
+      "avg_views": 0
+    },
+    {
+      "tag": "#fyp",
+      "usage_count": 3,
+      "avg_views": 4
+    },
+    {
+      "tag": "#streetphotography",
+      "usage_count": 3,
+      "avg_views": 2
+    },
+    {
+      "tag": "#coffee",
+      "usage_count": 3,
+      "avg_views": 3
+    },
+    {
+      "tag": "#auckland",
+      "usage_count": 3,
+      "avg_views": 0
+    },
+    {
+      "tag": "#horse",
+      "usage_count": 3,
+      "avg_views": 0
+    },
+    {
+      "tag": "#emociones",
+      "usage_count": 3,
+      "avg_views": 0
+    },
+    {
+      "tag": "#momentos",
+      "usage_count": 3,
+      "avg_views": 0
+    },
+    {
+      "tag": "#mente",
+      "usage_count": 3,
+      "avg_views": 0
+    },
+    {
+      "tag": "#corgi",
+      "usage_count": 2,
+      "avg_views": 0
+    },
+    {
+      "tag": "#exploer",
+      "usage_count": 2,
+      "avg_views": 0
+    },
+    {
+      "tag": "#doglife",
+      "usage_count": 2,
+      "avg_views": 0
+    },
+    {
+      "tag": "#countrylife",
+      "usage_count": 2,
+      "avg_views": 0
+    }
+  ],
+  "formats": [
+    {
+      "name": "Challenge / trend",
+      "avg_engagement": 33.3,
+      "post_count": 3
+    },
+    {
+      "name": "Educational / tips",
+      "avg_engagement": 0.0,
+      "post_count": 1
+    }
+  ],
+  "trending_sounds": [],
+  "insights": "Challenge / trend content leads with 33.3% avg engagement. Avg engagement: 67.1%. 99 posts analyzed.",
+  "top_posts": [
+    {
+      "author": "@itsyourcorgijoy",
+      "followers": 0,
+      "caption": "April in motion. \n.\n.\n.\n#corgi #dailylife #exploer #doglife #goodvibes",
+      "views": 0,
+      "likes": -1,
+      "comments": 16,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1500.0,
+      "hashtags": [
+        "#corgi",
+        "#dailylife",
+        "#exploer",
+        "#doglife",
+        "#goodvibes"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1okQ1DKRh/"
+    },
+    {
+      "author": "@hercountryhome",
+      "followers": 0,
+      "caption": "Happy Tuesday! Didn\u2019t the bank holiday fly by? I was so busy but had the best time, a good mix of ticking jobs off the never ending list and enjoying time out and about \u2728 Hope you all had a lovely one",
+      "views": 0,
+      "likes": -1,
+      "comments": 10,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 900.0,
+      "hashtags": [
+        "#countrylife",
+        "#homelife",
+        "#homeaccount",
+        "#homestyle",
+        "#dailylife"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1pqChCGgB/"
+    },
+    {
+      "author": "@rafaelapurim",
+      "followers": 0,
+      "caption": "amo muito tudo isso \u2728\ud83c\udf43 qual o seu momentinho para n\u00e3o se ter pressa? :,)\n\n#rotina #dailylife #foryoupage #cozy",
+      "views": 0,
+      "likes": -1,
+      "comments": 6,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 500.0,
+      "hashtags": [
+        "#rotina",
+        "#dailylife",
+        "#foryoupage",
+        "#cozy"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1dKslkQR_/"
+    },
+    {
+      "author": "@sabihmekkin3b",
+      "followers": 0,
+      "caption": "Live ordinary days the way you like \u2728#dailylife #dailyvlog #springvibes #lifestyle #selfcare #beauty #flowers #walk #relax #happylife",
+      "views": 0,
+      "likes": 1,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#dailylife",
+        "#dailyvlog",
+        "#springvibes",
+        "#lifestyle",
+        "#selfcare",
+        "#beauty",
+        "#flowers",
+        "#walk"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1yvXJkZbM/"
+    },
+    {
+      "author": "@cathyyy0904",
+      "followers": 0,
+      "caption": "\ud83d\udcad#dailylife",
+      "views": 0,
+      "likes": 1,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#dailylife"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1ouuMFIxo/"
+    },
+    {
+      "author": "@eunbin_lee__",
+      "followers": 0,
+      "caption": "\uff61\u02da\u273f\u02d6\u00b0 \u22c6\n\n#\ubc9a\uaf43 #\ubc9a\uaf43\uba85\uc18c #\uc11c\uc6b8 #\uc591\uc7ac\ucc9c #\ud589\uad81\ub3d9",
+      "views": 0,
+      "likes": -1,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#\ubc9a\uaf43",
+        "#\ubc9a\uaf43\uba85\uc18c",
+        "#\uc11c\uc6b8",
+        "#\uc591\uc7ac\ucc9c",
+        "#\ud589\uad81\ub3d9"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1eS32GIo5/"
+    },
+    {
+      "author": "@itsyenblack",
+      "followers": 0,
+      "caption": "No todos los d\u00edas empiezan bien.\nNot every day starts right.\n\n#diariovisual #vidareal #sinfiltro #actitud #estilourbano #madrid #espa\u00f1a #lifestyle #realidad #mood\n#dailylife #realmoments #nofilter #ur",
+      "views": 0,
+      "likes": 1,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#diariovisual",
+        "#vidareal",
+        "#sinfiltro",
+        "#actitud",
+        "#estilourbano",
+        "#madrid",
+        "#espa\u00f1a",
+        "#lifestyle"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzJGNhCKzX/"
+    },
+    {
+      "author": "@primasaura",
+      "followers": 0,
+      "caption": "Wanted to share a glimpse of these lovely times \ud83c\udf38\u2728\n\u2022\n\u2022\nFollow @primasaura \n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n#life #artwork #dailylife #fypge",
+      "views": 0,
+      "likes": -1,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#life",
+        "#artwork",
+        "#dailylife",
+        "#fypge"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1bQ83jDRV/"
+    },
+    {
+      "author": "@mary__vibesss",
+      "followers": 0,
+      "caption": "Romanticizing my life\ud83c\udf39\n. \n. \n. \n#fyp #explore #dailylife #dadyal",
+      "views": 0,
+      "likes": 12,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 175.0,
+      "hashtags": [
+        "#fyp",
+        "#explore",
+        "#dailylife",
+        "#dadyal"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1qUwdjCyo/"
+    },
+    {
+      "author": "@acchibaatein.world",
+      "followers": 0,
+      "caption": "Small things that instantly make your mood better \ud83d\udc9b\nRelatable everyday life moments we all experience.\nNothing big\u2026 but somehow everything feels better.\nThis is us.\n#relatable #dailylife #simplejoys #",
+      "views": 0,
+      "likes": 3,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 166.67,
+      "hashtags": [
+        "#relatable",
+        "#dailylife",
+        "#simplejoys",
+        "#moodboost",
+        "#acchibaatein"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1h6alDMYU/"
+    },
+    {
+      "author": "@gerstalain",
+      "followers": 0,
+      "caption": "Miaou. #gerstalain #streetart #streetphotography #streetartparis #streetartphotography #urbanart #dailylife #viequotidienne #Paris #illustration #cat #chat",
+      "views": 0,
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 150.0,
+      "hashtags": [
+        "#gerstalain",
+        "#streetart",
+        "#streetphotography",
+        "#streetartparis",
+        "#streetartphotography",
+        "#urbanart",
+        "#dailylife",
+        "#viequotidienne"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1rYjdjU3b/"
+    },
+    {
+      "author": "@every.day.sk",
+      "followers": 0,
+      "caption": "almost there \ud83d\udc59\n\n#model \n#myeverydaylife\n#dailylife\n#livingmybestlife\n#tinybitsofmylife",
+      "views": 0,
+      "likes": 13,
+      "comments": 6,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 146.15,
+      "hashtags": [
+        "#model",
+        "#myeverydaylife",
+        "#dailylife",
+        "#livingmybestlife",
+        "#tinybitsofmylife"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1n2ogDRSH/"
+    },
+    {
+      "author": "@gerstalain",
+      "followers": 0,
+      "caption": "Bronzette. #gerstalain #streetart #streetphotography #streetartparis #streetartphotography #urbanart #dailylife #viequotidienne #Paris #illustration #tattoo #tatouage",
+      "views": 0,
+      "likes": 5,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 140.0,
+      "hashtags": [
+        "#gerstalain",
+        "#streetart",
+        "#streetphotography",
+        "#streetartparis",
+        "#streetartphotography",
+        "#urbanart",
+        "#dailylife",
+        "#viequotidienne"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1rzuyDcei/"
+    },
+    {
+      "author": "@its_alisa.verma",
+      "followers": 0,
+      "caption": "just a girl with too many tabs open in her brain \u2728\n\nbuilding something cool. stay tuned.\n\n\ud83d\udccd Delhi",
+      "views": 0,
+      "likes": 3,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 133.33,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1ozlkgUHs/"
+    },
+    {
+      "author": "@polkadotwhimsy",
+      "followers": 0,
+      "caption": "March Recap! \n\nFrom Disneyland to Magic Kingdom with my besties, cheering on the Savanna Bananas \ud83c\udf4c\u26be\ufe0f, and traveling for Expo to Florida and Dallas\u2026 it was a month full of fun, creativity, and communit",
+      "views": 0,
+      "likes": 15,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 113.33,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1u2P3CcA-/"
+    }
+  ]
+}

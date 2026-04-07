@@ -1,0 +1,456 @@
+{
+  "platform": "X (Twitter)",
+  "platform_key": "x",
+  "month": "April",
+  "year": 2026,
+  "niche": "gaming",
+  "generated_at": "2026-04-07T21:19:04.870888",
+  "data_points_analyzed": 100,
+  "viral_posts_found": 100,
+  "hooks": [
+    {
+      "pattern": "Unpopular opinion",
+      "example_count": 1,
+      "trend_pct": 70,
+      "example": "Unpopular opinion: PvP is more fun than PvE. Fight me in the comments"
+    }
+  ],
+  "best_times": [],
+  "hashtags": [
+    {
+      "tag": "#gaming",
+      "usage_count": 45,
+      "avg_views": 158
+    },
+    {
+      "tag": "#gamer",
+      "usage_count": 35,
+      "avg_views": 69
+    },
+    {
+      "tag": "#viral",
+      "usage_count": 24,
+      "avg_views": 147
+    },
+    {
+      "tag": "#streamer",
+      "usage_count": 12,
+      "avg_views": 99
+    },
+    {
+      "tag": "#fortnite",
+      "usage_count": 10,
+      "avg_views": 182
+    },
+    {
+      "tag": "#games",
+      "usage_count": 7,
+      "avg_views": 73
+    },
+    {
+      "tag": "#gamedev",
+      "usage_count": 6,
+      "avg_views": 79
+    },
+    {
+      "tag": "#pixelart",
+      "usage_count": 6,
+      "avg_views": 79
+    },
+    {
+      "tag": "#funny",
+      "usage_count": 6,
+      "avg_views": 42
+    },
+    {
+      "tag": "#callofduty",
+      "usage_count": 6,
+      "avg_views": 71
+    },
+    {
+      "tag": "#cod",
+      "usage_count": 6,
+      "avg_views": 71
+    },
+    {
+      "tag": "#twitch",
+      "usage_count": 6,
+      "avg_views": 56
+    },
+    {
+      "tag": "#nyc",
+      "usage_count": 6,
+      "avg_views": 73
+    },
+    {
+      "tag": "#gamingcommunity",
+      "usage_count": 6,
+      "avg_views": 32
+    },
+    {
+      "tag": "#trending",
+      "usage_count": 5,
+      "avg_views": 60
+    },
+    {
+      "tag": "#indie",
+      "usage_count": 4,
+      "avg_views": 100
+    },
+    {
+      "tag": "#fyp",
+      "usage_count": 4,
+      "avg_views": 65
+    },
+    {
+      "tag": "#dominicano",
+      "usage_count": 4,
+      "avg_views": 74
+    },
+    {
+      "tag": "#game",
+      "usage_count": 4,
+      "avg_views": 54
+    },
+    {
+      "tag": "#fishing",
+      "usage_count": 4,
+      "avg_views": 86
+    },
+    {
+      "tag": "#fortniteclips",
+      "usage_count": 4,
+      "avg_views": 27
+    },
+    {
+      "tag": "#gamerlife",
+      "usage_count": 3,
+      "avg_views": 29
+    },
+    {
+      "tag": "#fps",
+      "usage_count": 3,
+      "avg_views": 36
+    },
+    {
+      "tag": "#valorant",
+      "usage_count": 3,
+      "avg_views": 36
+    },
+    {
+      "tag": "#gameplay",
+      "usage_count": 3,
+      "avg_views": 30
+    }
+  ],
+  "formats": [
+    {
+      "name": "Hot take / opinion",
+      "avg_engagement": 17.6,
+      "post_count": 1
+    },
+    {
+      "name": "Challenge / trend",
+      "avg_engagement": 4.6,
+      "post_count": 17
+    },
+    {
+      "name": "Question / engagement",
+      "avg_engagement": 3.4,
+      "post_count": 2
+    },
+    {
+      "name": "Before/after",
+      "avg_engagement": 2.2,
+      "post_count": 1
+    },
+    {
+      "name": "Story / narrative",
+      "avg_engagement": 0.0,
+      "post_count": 1
+    },
+    {
+      "name": "Educational / tips",
+      "avg_engagement": 0.0,
+      "post_count": 1
+    }
+  ],
+  "trending_sounds": [],
+  "insights": "Hot take / opinion content leads with 17.6% avg engagement. \"Unpopular opinion\" hook appears in 1 viral posts. Avg engagement: 4.4%. 100 posts analyzed.",
+  "top_posts": [
+    {
+      "author": "@Z0E_VT",
+      "followers": 451,
+      "caption": "\ud83d\udc9cNuevo vide\u00edto espero les guste\ud83d\udc9c\n\n#Vtuber #VtuberES #VtuberUprising #youtubegaming \n\nhttps://t.co/RKtQOETDDq",
+      "views": 8,
+      "likes": 1,
+      "comments": 0,
+      "shares": 1,
+      "saves": 0,
+      "engagement_rate": 25.0,
+      "hashtags": [
+        "#Vtuber",
+        "#VtuberES",
+        "#VtuberUprising",
+        "#youtubegaming"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/Z0E_VT/status/2041606583101084055"
+    },
+    {
+      "author": "@CapoMiyo",
+      "followers": 4880,
+      "caption": "CHAT Can I Become A Viral Streamer? \ud83d\udc51 CONTENT KING  (only reading YouTube &amp; Twitch Chat) https://t.co/7xK1xaiVA1",
+      "views": 65,
+      "likes": 11,
+      "comments": 1,
+      "shares": 4,
+      "saves": 0,
+      "engagement_rate": 24.62,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/CapoMiyo/status/2041607056160125015"
+    },
+    {
+      "author": "@theGr8vibes",
+      "followers": 8141,
+      "caption": "Parachute in, loot up, and dominate. This player's insane combat skills and multi-elimination streak are unreal! #Gaming #GamerLife #FPS #Multiplayer #Combat https://t.co/Pf7jdcBxNH",
+      "views": 10,
+      "likes": 1,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 20.0,
+      "hashtags": [
+        "#Gaming",
+        "#GamerLife",
+        "#FPS",
+        "#Multiplayer",
+        "#Combat"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Sun Apr 05",
+      "url": "https://x.com/theGr8vibes/status/2040740011570552946"
+    },
+    {
+      "author": "@ssumbaka",
+      "followers": 4338,
+      "caption": "LIVE NOW \ud83e\uddc0\n\ngiggling and cheesing (day 2 of trying to become a gamer) https://t.co/pZBnjpxQsW",
+      "views": 20,
+      "likes": 4,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 20.0,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/ssumbaka/status/2041606364791808019"
+    },
+    {
+      "author": "@RinoTheBouncer",
+      "followers": 89978,
+      "caption": "GIVEAWAY: Win any game of your choice and I will cover it for 1 WINNER\ud83d\ude80\n\n\ud83c\udfaeDigital\n\ud83d\udcbfStandard\n\ud83d\udd79\ufe0fAvailable on PlayStation, Xbox, Nintendo, or Steam stores\n\n\u2705FOLLOW @RinoTheBouncer \n\u2705REPOST + LIKE\n\u2705REPLY ",
+      "views": 3526,
+      "likes": 235,
+      "comments": 198,
+      "shares": 208,
+      "saves": 27,
+      "engagement_rate": 18.94,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/RinoTheBouncer/status/2041602361248887102"
+    },
+    {
+      "author": "@chlerix86",
+      "followers": 33,
+      "caption": "Unpopular opinion: PvP is more fun than PvE. Fight me in the comments\nhttps://t.co/etqDyXKzhd\n#gaming #gamer #darkfantasy #viral #foryoupage https://t.co/DwrBiylrOX",
+      "views": 17,
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 17.65,
+      "hashtags": [
+        "#gaming",
+        "#gamer",
+        "#darkfantasy",
+        "#viral",
+        "#foryoupage"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Sat Mar 21",
+      "url": "https://x.com/chlerix86/status/2035485785990815884"
+    },
+    {
+      "author": "@PandaSub2000",
+      "followers": 1864,
+      "caption": "Like evolving/shifting demographics there\u2019s a new MASTER RACE in town\u2026 from 37 years ago\ud83e\udd23\n\nThe Mother F\u2019n Game Boy!\ud83e\udd73\n\nCheers to every console lover (/anarchist\ud83d\ude06\ud83e\udd2d ) who made this happen on @SideScrolle",
+      "views": 134,
+      "likes": 17,
+      "comments": 6,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 17.16,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/PandaSub2000/status/2041603880866238973"
+    },
+    {
+      "author": "@barryxwang",
+      "followers": 134,
+      "caption": "its crazy to see caseoh\u2019s video with my game is #4 trending on youtube for gaming \ud83e\udd79 https://t.co/q783oPuluM",
+      "views": 12,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 16.67,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/barryxwang/status/2041470902618267665"
+    },
+    {
+      "author": "@haru_nikukyuu",
+      "followers": 2535,
+      "caption": "\u305f\u3060\u3044\u307e\u30b7\u30eb2\u301c\u301c\u270c\ufe0f\u270c\ufe0f\u4e45\u3057\u3076\u308a\u270c\ufe0f\n\u3053\u306e\u307e\u307e\u30b4\u30fc\u30eb\u30c9\u3044\u304f\u305e\u3044\u304f\u305e\ud83e\udd73\n#VALORANT https://t.co/uiSRticm6I",
+      "views": 37,
+      "likes": 6,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 16.22,
+      "hashtags": [
+        "#VALORANT"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/haru_nikukyuu/status/2041605252374556979"
+    },
+    {
+      "author": "@chapinguate77",
+      "followers": 1166,
+      "caption": "@kindapilot @Whatever26031 @zerohedge A fat gay goyim american playing video games! How fitting! That is funny",
+      "views": 7,
+      "likes": 0,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 14.29,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/chapinguate77/status/2041607992982811121"
+    },
+    {
+      "author": "@RestoreIsland",
+      "followers": 993,
+      "caption": "Only 2 days until our game launches.\n.\nOur first video to have over 100,000 views came from a video we created using inspiration from another game\u2019s trailer. We copied their style in hopes that it wou",
+      "views": 80,
+      "likes": 7,
+      "comments": 3,
+      "shares": 1,
+      "saves": 0,
+      "engagement_rate": 13.75,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/RestoreIsland/status/2041604077423862203"
+    },
+    {
+      "author": "@gamesthataremad",
+      "followers": 141,
+      "caption": "Death in a platform shooter game I made!\n\nPlay Fire Hop &amp; the Demo:\nhttps://t.co/PavBvzrRHT\n\n#games #gaming #gamer #indie #gamedev #pixelart #animation #viral https://t.co/nB1jV845R6",
+      "views": 104,
+      "likes": 12,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 11.54,
+      "hashtags": [
+        "#games",
+        "#gaming",
+        "#gamer",
+        "#indie",
+        "#gamedev",
+        "#pixelart",
+        "#animation",
+        "#viral"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Fri Apr 03",
+      "url": "https://x.com/gamesthataremad/status/2040083525177573739"
+    },
+    {
+      "author": "@Luis_Lachegga",
+      "followers": 1043,
+      "caption": "@NuCaloric Unironically covid gamers destroyed gaming culture",
+      "views": 23,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 8.7,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/Luis_Lachegga/status/2041607584398872694"
+    },
+    {
+      "author": "@GamingDoniya",
+      "followers": 289,
+      "caption": "Respect for Pilots #gamingdoniya #gaming #trending #games #100million https://t.co/Zm9zcfwYnh",
+      "views": 36,
+      "likes": 3,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 8.33,
+      "hashtags": [
+        "#gamingdoniya",
+        "#gaming",
+        "#trending",
+        "#games",
+        "#100million"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/GamingDoniya/status/2041377533208461808"
+    },
+    {
+      "author": "@gs_golfpraplern",
+      "followers": 561,
+      "caption": "\u0e43\u0e19\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e01\u0e47\u0e2b\u0e32\u0e40\u0e01\u0e21\u0e17\u0e35\u0e48\u0e42\u0e04\u0e23\u0e15\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e44\u0e14\u0e49\u0e25\u0e30\u0e04\u0e23\u0e31\u0e1a \u0e1a\u0e2d\u0e01\u0e44\u0e14\u0e49\u0e40\u0e25\u0e22\u0e27\u0e48\u0e32\u0e19\u0e48\u0e32\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e01\u0e21\u0e40\u0e40\u0e23\u0e01\u0e40\u0e25\u0e22\u0e44\u0e14\u0e49\u0e21\u0e31\u0e49\u0e07\u0e17\u0e35\u0e48\u0e40\u0e25\u0e48\u0e19\u0e1a\u0e19\u0e40\u0e01\u0e21 com \u0e22\u0e38\u0e04\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c \u0e1b\u0e352003\n\u0e40\u0e14\u0e35\u0e48\u0e22\u0e27\u0e40\u0e2d\u0e32\u0e21\u0e32\u0e40\u0e25\u0e48\u0e19\u0e25\u0e07\u0e44\u0e25\u0e1f\u0e4c\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32 \u0e40\u0e01\u0e21\u0e0a\u0e27\u0e19\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e2a\u0e21\u0e31\u0e22\u0e40\u0e14\u0e47\u0e01\u0e46 555 https://t.co/cBJoCc5ARd",
+      "views": 12,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 8.33,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Apr 07",
+      "url": "https://x.com/gs_golfpraplern/status/2041601164777812213"
+    }
+  ]
+}
