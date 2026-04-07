@@ -4,512 +4,467 @@
   "month": "April",
   "year": 2026,
   "niche": "education",
-  "generated_at": "2026-04-07T21:19:04.870888",
-  "data_points_analyzed": 100,
-  "viral_posts_found": 100,
-  "hooks": [],
-  "best_times": [
+  "generated_at": "2026-04-07T23:56:38.136034",
+  "data_points_analyzed": 292,
+  "viral_posts_found": 292,
+  "hooks": [
     {
-      "day": "Tuesday",
-      "time": "Peak",
-      "engagement_avg": 35.3,
-      "sample_size": 100
+      "pattern": "How to",
+      "example_count": 4,
+      "example": "Mini tutorial video. How to shuffle/cuttingshapes."
+    },
+    {
+      "pattern": "Don't/Never",
+      "example_count": 2,
+      "example": "Never blocking you again. I know I do dumb shit sometimes, but that was wild. You were right to call me out."
+    },
+    {
+      "pattern": "Watch this",
+      "example_count": 1,
+      "example": "Backbenchers Should Watch This! \ud83d\udc80"
+    },
+    {
+      "pattern": "If you",
+      "example_count": 1,
+      "example": "If you like little harmony moves like these and video explanations taking them through all the keys you may enjoy my pat"
     }
   ],
+  "best_times": [],
   "hashtags": [
     {
+      "tag": "#education",
+      "usage_count": 99
+    },
+    {
       "tag": "#didyouknow",
-      "usage_count": 90,
-      "avg_views": 4
+      "usage_count": 90
     },
     {
-      "tag": "#naturefacts",
-      "usage_count": 7,
-      "avg_views": 0
-    },
-    {
-      "tag": "#amazingfacts",
-      "usage_count": 7,
-      "avg_views": 0
-    },
-    {
-      "tag": "#dentalfacts",
-      "usage_count": 5,
-      "avg_views": 0
-    },
-    {
-      "tag": "#oralhealth",
-      "usage_count": 4,
-      "avg_views": 0
-    },
-    {
-      "tag": "#healthysmile",
-      "usage_count": 4,
-      "avg_views": 0
-    },
-    {
-      "tag": "#dentalcare",
-      "usage_count": 4,
-      "avg_views": 0
-    },
-    {
-      "tag": "#funfacts",
-      "usage_count": 4,
-      "avg_views": 0
-    },
-    {
-      "tag": "#sciencefacts",
-      "usage_count": 4,
-      "avg_views": 0
-    },
-    {
-      "tag": "#dailyfacts",
-      "usage_count": 3,
-      "avg_views": 0
-    },
-    {
-      "tag": "#facts",
-      "usage_count": 3,
-      "avg_views": 53
+      "tag": "#learning",
+      "usage_count": 89
     },
     {
       "tag": "#fyp",
-      "usage_count": 3,
-      "avg_views": 0
+      "usage_count": 20
+    },
+    {
+      "tag": "#explore",
+      "usage_count": 10
     },
     {
       "tag": "#viral",
-      "usage_count": 3,
-      "avg_views": 0
+      "usage_count": 10
     },
     {
-      "tag": "#animaladaptations",
-      "usage_count": 3,
-      "avg_views": 0
+      "tag": "#trending",
+      "usage_count": 9
     },
     {
-      "tag": "#scienceeducation",
-      "usage_count": 3,
-      "avg_views": 0
+      "tag": "#study",
+      "usage_count": 8
     },
     {
-      "tag": "#plumbingexperts",
-      "usage_count": 3,
-      "avg_views": 0
+      "tag": "#history",
+      "usage_count": 8
     },
     {
-      "tag": "#anytimeservice",
-      "usage_count": 3,
-      "avg_views": 0
+      "tag": "#reels",
+      "usage_count": 8
     },
     {
-      "tag": "#wildlife",
-      "usage_count": 3,
-      "avg_views": 0
+      "tag": "#ai",
+      "usage_count": 8
     },
     {
-      "tag": "#wildlifefacts",
-      "usage_count": 3,
-      "avg_views": 0
+      "tag": "#naturefacts",
+      "usage_count": 7
     },
     {
-      "tag": "#geographyfacts",
-      "usage_count": 2,
-      "avg_views": 1
+      "tag": "#amazingfacts",
+      "usage_count": 7
     },
     {
-      "tag": "#maplovers",
-      "usage_count": 2,
-      "avg_views": 1
+      "tag": "#viralreels",
+      "usage_count": 6
     },
     {
-      "tag": "#vantrue",
-      "usage_count": 2,
-      "avg_views": 4
+      "tag": "#motivation",
+      "usage_count": 6
     },
     {
-      "tag": "#tech",
-      "usage_count": 2,
-      "avg_views": 4
+      "tag": "#sciencefacts",
+      "usage_count": 5
     },
     {
-      "tag": "#hdr",
-      "usage_count": 2,
-      "avg_views": 4
+      "tag": "#dentalfacts",
+      "usage_count": 5
     },
     {
-      "tag": "#dashcam",
-      "usage_count": 2,
-      "avg_views": 4
+      "tag": "#language",
+      "usage_count": 4
+    },
+    {
+      "tag": "#learn",
+      "usage_count": 4
+    },
+    {
+      "tag": "#explorepage",
+      "usage_count": 4
+    },
+    {
+      "tag": "#tutorial",
+      "usage_count": 4
+    },
+    {
+      "tag": "#tips",
+      "usage_count": 4
+    },
+    {
+      "tag": "#ww2",
+      "usage_count": 4
+    },
+    {
+      "tag": "#trendingreels",
+      "usage_count": 4
+    },
+    {
+      "tag": "#languagelearning",
+      "usage_count": 4
     }
   ],
-  "formats": [
-    {
-      "name": "Challenge / trend",
-      "avg_engagement": 150.0,
-      "post_count": 2
-    },
-    {
-      "name": "Story / narrative",
-      "avg_engagement": 64.3,
-      "post_count": 7
-    },
-    {
-      "name": "Question / engagement",
-      "avg_engagement": 0.0,
-      "post_count": 1
-    },
-    {
-      "name": "Before/after",
-      "avg_engagement": 0.0,
-      "post_count": 1
-    },
-    {
-      "name": "Educational / tips",
-      "avg_engagement": 0.0,
-      "post_count": 2
-    }
-  ],
+  "formats": [],
   "trending_sounds": [],
-  "insights": "Challenge / trend content leads with 150.0% avg engagement. Avg engagement: 35.3%. 100 posts analyzed.",
+  "insights": "292 Instagram reels. Avg 35,362 views, 997 likes.",
   "top_posts": [
     {
-      "author": "@bangkok.thai.massage.cyprus",
+      "author": "@invention",
       "followers": 0,
-      "caption": "Did you know? \ud83c\uddf9\ud83c\udded \nThai massage is one of the oldest healing techniques in the world\n\u2014 used in Thailand for over 2,500 years.\n\nBut here\u2019s the secret\u2026\nIt\u2019s not just relaxing \ud83d\udc47\n\n\u2714 Deep muscle recovery\n\u2714 ",
-      "views": 0,
-      "likes": 1,
-      "comments": 1,
+      "caption": "Used in construction hoists and industrial lift platforms, this device acts as a purely mechanical fail safe. During normal operation it stays disengaged, but the moment downward speed exceeds a safe ",
+      "views": 568397,
+      "likes": -1,
+      "comments": 14,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 200.0,
-      "hashtags": [
-        "#DidYouKnow",
-        "#BangkokThaiMassage",
-        "#Protaras",
-        "#ThaiMassage",
-        "#DeepTissue",
-        "#Relaxation",
-        "#CyprusLife",
-        "#MassageTherapy"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW16y8Flc4O/"
-    },
-    {
-      "author": "@amandasmaid",
-      "followers": 0,
-      "caption": "Not every home needs the same type of cleaning, and that\u2019s exactly why different services exist. \u2728\n\nFrom maintaining your space weekly to deep cleaning hard-to-reach areas or preparing your home for a",
-      "views": 0,
-      "likes": 1,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 200.0,
-      "hashtags": [
-        "#AmandaMaid",
-        "#CharlotteCleaning",
-        "#DidYouKnow",
-        "#CleaningServices",
-        "#HomeCare"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW14qxNE40T/"
-    },
-    {
-      "author": "@dollarofficiaal",
-      "followers": 0,
-      "caption": "Kick off Day 1 of our Country Capitals series with the political heart of the United States: Washington, D.C. \ud83c\uddfa\ud83c\uddf8\n\nHome to the iconic Capitol Building and the White House, this city is more than just a",
-      "views": 0,
-      "likes": 1,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 200.0,
-      "hashtags": [
-        "#GeographyFacts",
-        "#CountryCapitals",
-        "#WorldTraveler",
-        "#DailyFacts",
-        "#EducationalContent",
-        "#LearnEveryday",
-        "#MapLovers",
-        "#TriviaNight"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW12_EtEjqW/"
-    },
-    {
-      "author": "@coxinsurance1",
-      "followers": 0,
-      "caption": "\ud83c\udfe0\u2728 Did you know a new roof could make you eligible for a discount on your home insurance? That's right! Insurers love a fresh, sturdy roof because it means better protection for your home and that can",
-      "views": 0,
-      "likes": 1,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 200.0,
-      "hashtags": [
-        "#HomeInsurance",
-        "#NewRoof",
-        "#InsuranceSavings",
-        "#HomeownerTips",
-        "#DidYouKnow"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW11Rc_D6i3/"
-    },
-    {
-      "author": "@mealmysteries",
-      "followers": 0,
-      "caption": "VIDEO LINK TO THE WHOLE STORY:\nhttps://www.youtube.com/shorts/M73XlF5sEVw\n\nAmerica's favorite Chinese dish isn't actually Chinese \ud83e\udd62\n\nFor nearly a century, chop suey was on every Chinese restaurant men",
-      "views": 0,
-      "likes": 2,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 150.0,
-      "hashtags": [
-        "#ChopSuey",
-        "#FoodHistory",
-        "#MealMysteries",
-        "#ChineseFood",
-        "#ChineseAmericanFood",
-        "#FoodFacts",
-        "#DidYouKnow",
-        "#FoodStories"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW10ObsFljH/"
-    },
-    {
-      "author": "@leswolffsports",
-      "followers": 0,
-      "caption": "Did you know that on 4/8/01 65th US masters tournament: Tiger Woods wins his second masters and sixth major title, two strokes ahead of David Duval.  Who wants to purchase this autographed, Upper Deck",
-      "views": 0,
-      "likes": 2,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 150.0,
+      "engagement_rate": 0.0,
       "hashtags": [],
       "sound": "",
       "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1zR8CkpKB/"
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWxb7xoEVDq/"
     },
     {
-      "author": "@unclemcreatives",
+      "author": "@math_practice.s",
       "followers": 0,
-      "caption": "New images from the Moon\u2019s far side have been captured during the April 2026 flyby by the Artemis II mission \ud83c\udf19\n\nThe crew aboard the Orion spacecraft documented high-resolution views of regions that ar",
-      "views": 0,
-      "likes": 36,
-      "comments": 6,
+      "caption": "Answer  #math \n#viralreels #geometry #education",
+      "views": 408156,
+      "likes": 2798,
+      "comments": 735,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 116.67,
+      "engagement_rate": 0.87,
       "hashtags": [
-        "#SpaceExploration",
-        "#NASA",
-        "#MoonFacts",
-        "#Artemis",
-        "#DidYouKnow"
+        "#math",
+        "#viralreels",
+        "#geometry",
+        "#education"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwHt2_gccv/"
+    },
+    {
+      "author": "@milaawad_2021",
+      "followers": 0,
+      "caption": "\u2764\ufe0f\n.\n#learning #kids #english #language",
+      "views": 402793,
+      "likes": 3387,
+      "comments": 18,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.85,
+      "hashtags": [
+        "#learning",
+        "#kids",
+        "#english",
+        "#language"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-03-29",
+      "url": "https://www.instagram.com/p/DWd972zjsS8/"
+    },
+    {
+      "author": "@the_zoo_prof",
+      "followers": 0,
+      "caption": "POV-Being a teacher\ud83d\udc69\ud83c\udffb\u200d\ud83c\udfeb\ud83d\ude09\n.\n.\n.\n#education #teacherlife #study #learn  #educator #motivation #sciencedaily\n#explorepage #instagram #fyp #instagood #reels #like #follow #instadaily #trend #foryoupage #p",
+      "views": 378454,
+      "likes": 10087,
+      "comments": 60,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.68,
+      "hashtags": [
+        "#education",
+        "#teacherlife",
+        "#study",
+        "#learn",
+        "#educator",
+        "#motivation",
+        "#sciencedaily",
+        "#explorepage"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-04",
+      "url": "https://www.instagram.com/p/DWuBYexE6HM/"
+    },
+    {
+      "author": "@propunjabtv",
+      "followers": 0,
+      "caption": "Section \u0a28\u0a3e \u0a2c\u0a26\u0a32\u0a23 '\u0a24\u0a47 \u0a35\u0a30\u0a26\u0a40 '\u0a1a \u0a38\u0a15\u0a42\u0a32 \u0a1c\u0a3e \u0a2a\u0a39\u0a41\u0a70\u0a1a\u0a40 \u0a07\u0a70\u0a38\u0a2a\u0a48\u0a15\u0a1f\u0a30 \u0a2a\u0a4d\u0a30\u0a3f\u0a70\u0a38\u0a40\u0a2a\u0a32 \u0a28\u0a3e\u0a32 \u0a39\u0a4b \u0a17\u0a08 \u0a24\u0a3f\u0a71\u0a16\u0a40 \u0a2c\u0a39\u0a3f\u0a38 \u0a26\u0a71\u0a38\u0a4b \u0a15\u0a4c\u0a23 \u0a38\u0a39\u0a40 \u0a24\u0a47 \u0a15\u0a4c\u0a23 \u0a17\u0a32\u0a24 ? | Pro Punjab Tv |\n#punjab #SchoolIssue #Inspector #Principal #HeatedArgument #ViralNews #De",
+      "views": 262244,
+      "likes": 3148,
+      "comments": 140,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.25,
+      "hashtags": [
+        "#punjab",
+        "#SchoolIssue",
+        "#Inspector",
+        "#Principal",
+        "#HeatedArgument",
+        "#ViralNews",
+        "#Debate",
+        "#WhoIsRight"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW12d7VCe2v/"
+      "url": "https://www.instagram.com/p/DW0MCllAffD/"
     },
     {
-      "author": "@vantrue_official",
+      "author": "@brandon.warchol",
       "followers": 0,
-      "caption": "HDR>4K. Easily. \ud83d\udc40 \ud83d\udcf8\n\n#vantrue #tech #hdr #dashcam #didyouknow",
-      "views": 0,
-      "likes": 9,
+      "caption": "WORLDS MOST EDUCATED POPULATIONS\n\nCanada leads the world in education, with nearly 65 out of every 100 people holding a college or university degree. \ud83d\udcda\ud83c\udde8\ud83c\udde6 From Ireland to South Korea, the global race f",
+      "views": 237469,
+      "likes": 827,
+      "comments": 150,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.41,
+      "hashtags": [
+        "#education",
+        "#canada",
+        "#statistics",
+        "#worlddata",
+        "#ranking"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-03",
+      "url": "https://www.instagram.com/p/DWrRC79kR-g/"
+    },
+    {
+      "author": "@thelegalbeef",
+      "followers": 0,
+      "caption": "If you\u2019re not being detained, you\u2019re free to walk away. Period. #legalbeef\n\n#law #knowyourrights #legaltips #education",
+      "views": 191738,
+      "likes": 7618,
+      "comments": 139,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 4.05,
+      "hashtags": [
+        "#legalbeef",
+        "#law",
+        "#knowyourrights",
+        "#legaltips",
+        "#education"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwdgBmjZVC/"
+    },
+    {
+      "author": "@bheemrajkushiraj",
+      "followers": 0,
+      "caption": "#braintest #iqtest #joyful #learning #govtschool",
+      "views": 181882,
+      "likes": 2742,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.51,
+      "hashtags": [
+        "#braintest",
+        "#iqtest",
+        "#joyful",
+        "#learning",
+        "#govtschool"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWxyoE5gNxP/"
+    },
+    {
+      "author": "@_tonypindc",
+      "followers": 0,
+      "caption": "I think there\u2019s some truth to the whole \u201cI take myself too seriously\u201d thing so, I want to find my humorous side as time goes on! \n\n#week #vlog #bts #comedy #learning",
+      "views": 168299,
+      "likes": 2075,
+      "comments": 156,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.33,
+      "hashtags": [
+        "#week",
+        "#vlog",
+        "#bts",
+        "#comedy",
+        "#learning"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-02",
+      "url": "https://www.instagram.com/p/DWpW3ZMEe60/"
+    },
+    {
+      "author": "@sofia_sofia9379",
+      "followers": 0,
+      "caption": "Mini tutorial video. How to shuffle/cuttingshapes.\n.\n.\n#moves #tutorial #shufflestyles #shufflegirl #shuffling #howto #tutorials #footwork #learn #practice #dance #shuffle #happy #reels #reelsinstagra",
+      "views": 160117,
+      "likes": 4617,
+      "comments": 176,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.99,
+      "hashtags": [
+        "#moves",
+        "#tutorial",
+        "#shufflestyles",
+        "#shufflegirl",
+        "#shuffling",
+        "#howto",
+        "#tutorials",
+        "#footwork"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-03-29",
+      "url": "https://www.instagram.com/p/DWesnd-h4Fu/"
+    },
+    {
+      "author": "@sofia_sofia9379",
+      "followers": 0,
+      "caption": "Mini tutorial video. How to shuffle/cuttingshapes.\n.\n.\n#moves #tutorial #shufflestyles #shufflegirl #shuffling #howto #tutorials #footwork #learn #practice #dance #shuffle #happy #reels #reelsinstagra",
+      "views": 159196,
+      "likes": 4989,
+      "comments": 193,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.26,
+      "hashtags": [
+        "#moves",
+        "#tutorial",
+        "#shufflestyles",
+        "#shufflegirl",
+        "#shuffling",
+        "#howto",
+        "#tutorials",
+        "#footwork"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwt5DxB_WR/"
+    },
+    {
+      "author": "@educationadda74",
+      "followers": 0,
+      "caption": "#gkquestions #education #gk #gs",
+      "views": 158115,
+      "likes": 1405,
       "comments": 1,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 111.11,
+      "engagement_rate": 0.89,
       "hashtags": [
-        "#vantrue",
-        "#tech",
-        "#hdr",
-        "#dashcam",
-        "#didyouknow"
+        "#gkquestions",
+        "#education",
+        "#gk",
+        "#gs"
       ],
       "sound": "",
       "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1y6geEaLj/"
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWy6oDMiYDu/"
     },
     {
-      "author": "@thehistory.source",
+      "author": "@propunjabtv",
       "followers": 0,
-      "caption": "In 1662, this document laid out the harsh realities of starting a new life in the new world.\n\nFar from the romanticized idea of opportunity, relocating to Virginia required careful planning, resources",
-      "views": 0,
-      "likes": 156,
-      "comments": 2,
+      "caption": "\u0a39\u0a70\u0a15\u0a3e\u0a30 '\u0a1a \u0a06\u0a08 \u0a2e\u0a39\u0a3f\u0a32\u0a3e Inspector : \u0a2a\u0a4d\u0a30\u0a3f\u0a70\u0a38\u0a40\u0a2a\u0a32 | Pro Punjab Tv |\n#punjab #SchoolIssue #Inspector #Principal #HeatedArgument #ViralNews #Debate #WhoIsRight #Education #Controversy #NewsUpdate #PublicOpinion #",
+      "views": 153135,
+      "likes": 1328,
+      "comments": 39,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 101.28,
+      "engagement_rate": 0.89,
       "hashtags": [
-        "#history",
-        "#didyouknow",
-        "#interesting",
-        "#facts",
-        "#historical"
+        "#punjab",
+        "#SchoolIssue",
+        "#Inspector",
+        "#Principal",
+        "#HeatedArgument",
+        "#ViralNews",
+        "#Debate",
+        "#WhoIsRight"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1wgXyGBdT/"
+      "url": "https://www.instagram.com/p/DW0WYhfgVIJ/"
     },
     {
-      "author": "@bitofact",
+      "author": "@reshilmarie",
       "followers": 0,
-      "caption": "We take our safety completely for granted, but the terrifying reality of modern warfare is that a city can go from perfectly normal to a combat zone in a matter of minutes.\n\nIf the sirens ever go off,",
-      "views": 0,
-      "likes": 128,
-      "comments": 1,
+      "caption": "I cannot explain the phenomenon that just happened \ud83e\udd7c\ud83d\udd2d #chinesedrama #cdrama #arthurchen #reaction #learning \ud83c\udfa5Love Beyond The Grave",
+      "views": 150963,
+      "likes": 5840,
+      "comments": 502,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 100.78,
+      "engagement_rate": 4.2,
       "hashtags": [
-        "#survivaltips",
-        "#urbansurvival",
-        "#warzone",
-        "#preparedness",
-        "#didyouknow"
+        "#chinesedrama",
+        "#cdrama",
+        "#arthurchen",
+        "#reaction",
+        "#learning"
       ],
       "sound": "",
       "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW125Ockfe5/"
+      "posted_date": "2026-04-03",
+      "url": "https://www.instagram.com/p/DWrDE99jfvG/"
     },
     {
-      "author": "@saintnorbertparish",
+      "author": "@invention",
       "followers": 0,
-      "caption": "To celebrate 70 Years of Faith & History, we\u2019re sharing fun facts, hidden history, and throwback stories about our incredible St. Norbert Catholic Community. \n\nWant to see what else is happening? Chec",
-      "views": 0,
-      "likes": 4,
-      "comments": 0,
+      "caption": "A steady stream of fresh honey begins to stack onto itself, forming smooth, layered coils that resemble a rope winding in place. This effect happens because honey flows slowly and continuously without",
+      "views": 145739,
+      "likes": -1,
+      "comments": 8,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#StNorbert70",
-        "#DidYouKnow",
-        "#StNorbertParish",
-        "#StNorbertSchool",
-        "#StNorbertCatholicCommunity"
-      ],
+      "engagement_rate": 0.0,
+      "hashtags": [],
       "sound": "",
       "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW15ykwDMUq/"
-    },
-    {
-      "author": "@d.sapienn",
-      "followers": 0,
-      "caption": "It\u2019s not just a grass it\u2019s the dawn of human civilisation \n\n#Evolution #NaturalHistory #didyouknow #fyp #grass",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#Evolution",
-        "#NaturalHistory",
-        "#didyouknow",
-        "#fyp",
-        "#grass"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW15XSOiEO8/"
-    },
-    {
-      "author": "@queenstreetfamilydental",
-      "followers": 0,
-      "caption": "Did you know brushing harder doesn\u2019t mean cleaning better? \ud83d\udc40\n\nIn fact\u2026 brushing too hard can actually:\n\nwear down your enamel\nirritate your gums\ncause sensitivity over time\n\nGentle + consistent always",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#DidYouKnow",
-        "#DentalFacts",
-        "#QueenStreetDental",
-        "#ChathamOntario",
-        "#OralHealth",
-        "#BrushingTips",
-        "#HealthySmile",
-        "#DentalCare"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW14--YDpbU/"
-    },
-    {
-      "author": "@exeterdental",
-      "followers": 0,
-      "caption": "Did you know your gums are just as important as your teeth? \ud83d\udc40\n\nMost people focus on cavities\u2026\nbut gum health is actually what supports your entire smile.\n\nBleeding when you brush or floss isn\u2019t someth",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#DidYouKnow",
-        "#DentalFacts",
-        "#ExeterOntario",
-        "#ExeterFamilyDental",
-        "#GumHealth",
-        "#HealthyGums",
-        "#OralHealth",
-        "#DentalCare"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW14JHpDsDK/"
-    },
-    {
-      "author": "@quintemuseum",
-      "followers": 0,
-      "caption": "Happy National Wildlife Week! \ud83d\udc30\ud83e\udd89\ud83d\udc3b\u200d\u2744\ufe0f\ud83d\udc3a\ud83e\udd8c\ud83d\udc3e Established in 1947, this week encourages Canadians across the country to learn about and appreciate our country's incredible wildlife.\n\nThis year's theme is ex",
-      "views": 0,
-      "likes": 2,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#NationalWildlifeWeek",
-        "#expeditionalert",
-        "#quintemuseum",
-        "#DidYouKnow"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW13eh_lLx7/"
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzXwdsAQqQ/"
     }
   ]
 }

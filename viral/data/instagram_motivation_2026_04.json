@@ -4,189 +4,128 @@
   "month": "April",
   "year": 2026,
   "niche": "motivation",
-  "generated_at": "2026-04-07T23:44:53.202256",
-  "data_points_analyzed": 229,
-  "viral_posts_found": 200,
+  "generated_at": "2026-04-07T23:56:38.136034",
+  "data_points_analyzed": 267,
+  "viral_posts_found": 267,
   "hooks": [
     {
       "pattern": "Don't/Never",
+      "example_count": 5,
+      "example": "Don\u2019t skip this. 4 simple band exercises = stronger, faster, injury-free runs. Save to try later!"
+    },
+    {
+      "pattern": "If you",
       "example_count": 1,
-      "example": "Don\u2019t let anyone tell you \u2014 that being a mom is your whole identity\u2728  We have to take care of our mental health  first \u2026"
+      "example": "If you train your mind to find the beauty, it will find it."
     }
   ],
   "best_times": [],
   "hashtags": [
     {
-      "tag": "#motivation",
-      "usage_count": 76
-    },
-    {
       "tag": "#mindset",
-      "usage_count": 37
+      "usage_count": 122
     },
     {
-      "tag": "#entrepreneur",
-      "usage_count": 28
-    },
-    {
-      "tag": "#businessmindset",
-      "usage_count": 27
+      "tag": "#motivation",
+      "usage_count": 113
     },
     {
       "tag": "#grind",
       "usage_count": 26
     },
     {
+      "tag": "#discipline",
+      "usage_count": 20
+    },
+    {
       "tag": "#fyp",
-      "usage_count": 13
-    },
-    {
-      "tag": "#explore",
-      "usage_count": 11
-    },
-    {
-      "tag": "#gym",
-      "usage_count": 11
+      "usage_count": 16
     },
     {
       "tag": "#reels",
-      "usage_count": 10
+      "usage_count": 13
     },
     {
       "tag": "#viral",
-      "usage_count": 10
+      "usage_count": 13
     },
     {
-      "tag": "#business",
-      "usage_count": 10
+      "tag": "#gym",
+      "usage_count": 12
     },
     {
       "tag": "#fitness",
-      "usage_count": 9
+      "usage_count": 11
     },
     {
       "tag": "#inspiration",
-      "usage_count": 8
+      "usage_count": 10
     },
     {
-      "tag": "#discipline",
-      "usage_count": 8
+      "tag": "#focus",
+      "usage_count": 10
+    },
+    {
+      "tag": "#explore",
+      "usage_count": 10
+    },
+    {
+      "tag": "#entrepreneur",
+      "usage_count": 10
     },
     {
       "tag": "#success",
+      "usage_count": 9
+    },
+    {
+      "tag": "#growth",
+      "usage_count": 9
+    },
+    {
+      "tag": "#selfimprovement",
+      "usage_count": 9
+    },
+    {
+      "tag": "#technology",
+      "usage_count": 8
+    },
+    {
+      "tag": "#tech",
+      "usage_count": 8
+    },
+    {
+      "tag": "#businessowner",
+      "usage_count": 8
+    },
+    {
+      "tag": "#digitalmarketing",
+      "usage_count": 8
+    },
+    {
+      "tag": "#artificialintelligence",
+      "usage_count": 8
+    },
+    {
+      "tag": "#branding",
+      "usage_count": 8
+    },
+    {
+      "tag": "#startup",
+      "usage_count": 8
+    },
+    {
+      "tag": "#selfgrowth",
       "usage_count": 7
     },
     {
       "tag": "#trending",
       "usage_count": 6
-    },
-    {
-      "tag": "#toronto",
-      "usage_count": 5
-    },
-    {
-      "tag": "#forsale",
-      "usage_count": 5
-    },
-    {
-      "tag": "#house",
-      "usage_count": 5
-    },
-    {
-      "tag": "#home",
-      "usage_count": 5
-    },
-    {
-      "tag": "#homes",
-      "usage_count": 5
-    },
-    {
-      "tag": "#listing",
-      "usage_count": 5
-    },
-    {
-      "tag": "#torontorealestate",
-      "usage_count": 5
-    },
-    {
-      "tag": "#broker",
-      "usage_count": 5
-    },
-    {
-      "tag": "#confidence",
-      "usage_count": 5
     }
   ],
   "formats": [],
   "trending_sounds": [],
-  "insights": "200 Instagram reels. Avg 34,276 views, 1,249 likes.",
+  "insights": "267 Instagram reels. Avg 11,736 views, 529 likes.",
   "top_posts": [
-    {
-      "author": "@nk.business.talks",
-      "followers": 0,
-      "caption": "Stop selling to everyone.\nStart owning a position in customer\u2019s mind.\n\nSegmentation creates clarity.\nPositioning creates demand.\n\nThat\u2019s how strong brands are built.\n\n#entrepreneurship #successmindset",
-      "views": 1102186,
-      "likes": 66300,
-      "comments": 2454,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 6.24,
-      "hashtags": [
-        "#entrepreneurship",
-        "#successmindset",
-        "#businessmindset",
-        "#smallbusiness",
-        "#startuplife"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW0Z4znyPmn/"
-    },
-    {
-      "author": "@harshsevani",
-      "followers": 0,
-      "caption": "Everything\u2019s a joke until you actually prove it \u270c\ufe0f\nYour Gut & Your Vision can never be wrong. Just do it.\n\n#startup #entrepreneur #food #delivery #liveit",
-      "views": 1005150,
-      "likes": 5259,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.52,
-      "hashtags": [
-        "#startup",
-        "#entrepreneur",
-        "#food",
-        "#delivery",
-        "#liveit"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwaRu9COgE/"
-    },
-    {
-      "author": "@businessmind_hindi",
-      "followers": 0,
-      "caption": "\u2728 \u092c\u093f\u091c\u0928\u0947\u0938 \u0914\u0930 \u092b\u093e\u0907\u0928\u0947\u0902\u0936\u093f\u092f\u0932 \u090f\u091c\u0941\u0915\u0947\u0936\u0928 \u0915\u0947 \u0932\u093f\u090f \u0939\u092e\u0947\u0902 \u092b\u0949\u0932\u094b \u0915\u0930\u0947\u0902 \u27a1\ufe0f @businessmind_hindi\n\n\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\n\n#StockMarketIndia\n#BusinessMindset\n#WealthBuilding\n#TradingMindset\n#EntrepreneurIndia\n\n\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796",
-      "views": 301478,
-      "likes": 1724,
-      "comments": 377,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.7,
-      "hashtags": [
-        "#StockMarketIndia",
-        "#BusinessMindset",
-        "#WealthBuilding",
-        "#TradingMindset",
-        "#EntrepreneurIndia"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-03-23",
-      "url": "https://www.instagram.com/p/DWOm0BIihvC/"
-    },
     {
       "author": "@theinsidertoronto",
       "followers": 0,
@@ -211,27 +150,6 @@
       "duration": 0,
       "posted_date": "2026-03-15",
       "url": "https://www.instagram.com/p/DV6TkLnjU_h/"
-    },
-    {
-      "author": "@georgeclem",
-      "followers": 0,
-      "caption": "Life Hack: Charge every 4 weeks instead of monthly \n\n\ud83d\udc49Follow @georgeclem for more valuable videos on scaling your agency to $100K-$200K/mo\n\n#entrepreneur #agency #scaling #info",
-      "views": 131919,
-      "likes": 3065,
-      "comments": 88,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 2.39,
-      "hashtags": [
-        "#entrepreneur",
-        "#agency",
-        "#scaling",
-        "#info"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWxDAoJjEJ-/"
     },
     {
       "author": "@theinsidertoronto",
@@ -277,88 +195,6 @@
       "duration": 0,
       "posted_date": "2026-04-07",
       "url": "https://www.instagram.com/p/DW1k7WgjRHx/"
-    },
-    {
-      "author": "@andrewtatelegacyy",
-      "followers": 0,
-      "caption": "Andrew Tate (born Emory Andrew Tate III on December 1, 1986) is a British-American entrepreneur, former professional kickboxer, and online personality. He first rose to prominence through his success ",
-      "views": 89736,
-      "likes": 6277,
-      "comments": 13,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 7.01,
-      "hashtags": [
-        "#AndrewTate",
-        "#TopG",
-        "#KickboxingChampion",
-        "#Entrepreneur",
-        "#OnlinePersonality"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-02",
-      "url": "https://www.instagram.com/p/DWpHFyrjKPf/"
-    },
-    {
-      "author": "@ceotipsdaily",
-      "followers": 0,
-      "caption": "\u201cIt's a scam.\u201d\n\nThat\u2019s how fast Mark Cuban shut it down on Shark Tank. Ryan Naylor walked in with Esso Watches showing real profit, $120K in revenue and $70K in profit, but the moment he explained the",
-      "views": 87878,
-      "likes": 694,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.79,
-      "hashtags": [],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-03",
-      "url": "https://www.instagram.com/p/DWrTMbzEvuo/"
-    },
-    {
-      "author": "@samantha.schueller",
-      "followers": 0,
-      "caption": "Hand aufs Herz: Verkaufst du noch \u201eBalayage\u201c laut Preisliste? Dann machst du dich vergleichbar.\ud83e\udd13\n\nDenn eine Balayage kriegt man an jeder Ecke. Aber was man dort NICHT bekommt, ist deine Haltung, deine",
-      "views": 80857,
-      "likes": 2188,
-      "comments": 48,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 2.77,
-      "hashtags": [
-        "#kopfsacheakademie",
-        "#preiskalkulation",
-        "#friseure",
-        "#selbstst\u00e4ndig",
-        "#businessmindset"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-03-17",
-      "url": "https://www.instagram.com/p/DV-jXYYCAi0/"
-    },
-    {
-      "author": "@annabellekoch.95",
-      "followers": 0,
-      "caption": "Man merkt es nicht sofort...\n\nNicht, wenn man immer gibt.\nNicht, wenn man immer da ist.\nNicht, wenn man denkt,\nes kommt irgendwann zur\u00fcck.\n\nAber irgendwann f\u00fchlst du es.\nDiese Leere.\nDieses Ungleichge",
-      "views": 75266,
-      "likes": 1339,
-      "comments": 16,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 1.8,
-      "hashtags": [
-        "#workingmom",
-        "#businesswoman",
-        "#businessmindset",
-        "#reichweiteaufbauen",
-        "#glaubeandich"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwbie0DSMe/"
     },
     {
       "author": "@campbellcorp",
@@ -446,6 +282,190 @@
       "duration": 0,
       "posted_date": "2026-04-03",
       "url": "https://www.instagram.com/p/DWr0Uhwj-ZQ/"
+    },
+    {
+      "author": "@slyida.b",
+      "followers": 0,
+      "caption": "\u201cRated X\u201d by Nine Dog Dick, from the album Rated X/Mothership. #freejazz #psychojazz #grind #milesdavis #larryyoung",
+      "views": 61741,
+      "likes": 2899,
+      "comments": 125,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 4.9,
+      "hashtags": [
+        "#freejazz",
+        "#psychojazz",
+        "#grind",
+        "#milesdavis",
+        "#larryyoung"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-03-18",
+      "url": "https://www.instagram.com/p/DWCIPQuDvP_/"
+    },
+    {
+      "author": "@joyful.jyo",
+      "followers": 0,
+      "caption": "Avasaranni batti manushulu\ud83d\ude4f\n#motivation #instagram #viral #trending #insta #instagood #telugu #instagramreels #instadaily #telugumotivationalquotes #inspiration #fake #people",
+      "views": 59347,
+      "likes": 2675,
+      "comments": 24,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 4.55,
+      "hashtags": [
+        "#motivation",
+        "#instagram",
+        "#viral",
+        "#trending",
+        "#insta",
+        "#instagood",
+        "#telugu",
+        "#instagramreels"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0V14dkvYq/"
+    },
+    {
+      "author": "@jeremy_mtvt",
+      "followers": 0,
+      "caption": "Je suis venu, j\u2019ai vu, j\u2019a vaincu.\n\nVeni, Vidi, Vici.\n\n#miami #entreprendre #motivation #infodujour #relation",
+      "views": 57329,
+      "likes": 1477,
+      "comments": 14,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.6,
+      "hashtags": [
+        "#miami",
+        "#entreprendre",
+        "#motivation",
+        "#infodujour",
+        "#relation"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzfDJykWAz/"
+    },
+    {
+      "author": "@rushan._.4",
+      "followers": 0,
+      "caption": "\ud83d\ude0c\n.\n.\n.\n.\n.\n.\n.\n.\n#cristiano #instagram #motivation #fypppppppppppppppppppppppppppppppppppppppppp #share",
+      "views": 56154,
+      "likes": -1,
+      "comments": 20,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.03,
+      "hashtags": [
+        "#cristiano",
+        "#instagram",
+        "#motivation",
+        "#fypppppppppppppppppppppppppppppppppppppppppp",
+        "#share"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0VP6PjBvD/"
+    },
+    {
+      "author": "@p80otg",
+      "followers": 0,
+      "caption": "Post-prison glow-up by Gucci Mane. That focus, that drive. Seize your moment. Don't let opportunity pass you by. #GucciMane #Motivation #Inspiration #Grind #Hustle #SuccessMindset #Transformation #Foc",
+      "views": 53313,
+      "likes": 883,
+      "comments": 90,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.83,
+      "hashtags": [
+        "#GucciMane",
+        "#Motivation",
+        "#Inspiration",
+        "#Grind",
+        "#Hustle",
+        "#SuccessMindset",
+        "#Transformation",
+        "#Focus"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWviYPviI3N/"
+    },
+    {
+      "author": "@alessia_mrtti",
+      "followers": 0,
+      "caption": "Il va pas s\u2019en remettre avec cette r\u00e9ponse\u2026\n#amour #relations #confianceensoi #mindset",
+      "views": 47511,
+      "likes": 559,
+      "comments": 44,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.27,
+      "hashtags": [
+        "#amour",
+        "#relations",
+        "#confianceensoi",
+        "#mindset"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzF9FHghO5/"
+    },
+    {
+      "author": "@theinsidertoronto",
+      "followers": 0,
+      "caption": "Join 145,000 Torontonians who enjoy InsiderToronto. If you liked this post, click the link in our bio for our free newsletter.\n\nMost people miss this if you are walking on Queen St E in Toronto.\n\nAt t",
+      "views": 46043,
+      "likes": 1343,
+      "comments": 23,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.97,
+      "hashtags": [
+        "#toronto",
+        "#forsale",
+        "#house",
+        "#home",
+        "#homes",
+        "#listing",
+        "#torontorealestate",
+        "#broker"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-04",
+      "url": "https://www.instagram.com/p/DWts7WfDZjJ/"
+    },
+    {
+      "author": "@sarkastic_official",
+      "followers": 0,
+      "caption": "\ud83d\ude09\ud83d\ude09\n#fyp #cz #sk #Sarkastic #motivation",
+      "views": 40671,
+      "likes": 742,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.83,
+      "hashtags": [
+        "#fyp",
+        "#cz",
+        "#sk",
+        "#Sarkastic",
+        "#motivation"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0Z1LugsNt/"
     }
   ]
 }

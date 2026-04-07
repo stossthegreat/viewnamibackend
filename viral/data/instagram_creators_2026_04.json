@@ -4,380 +4,143 @@
   "month": "April",
   "year": 2026,
   "niche": "creators",
-  "generated_at": "2026-04-07T23:44:53.202256",
-  "data_points_analyzed": 257,
-  "viral_posts_found": 200,
+  "generated_at": "2026-04-07T23:56:38.136034",
+  "data_points_analyzed": 265,
+  "viral_posts_found": 265,
   "hooks": [
     {
       "pattern": "How to",
-      "example_count": 4,
-      "example": "Mini tutorial video. How to shuffle/cuttingshapes."
+      "example_count": 6,
+      "example": "Getting to 400,000 wasn\u2019t easy for me- mostly because I wasted my time in the beginning trying to figure out how to make"
+    },
+    {
+      "pattern": "Nobody talks about",
+      "example_count": 2,
+      "example": "Nobody talks about this \u2014 and it's costing kids their growth window. \ud83d\udea8"
+    },
+    {
+      "pattern": "X things/tips",
+      "example_count": 2,
+      "example": "7 things to stop doing this month:"
+    },
+    {
+      "pattern": "Here's why",
+      "example_count": 2,
+      "example": "Your Cold Emails Are Going to SPAM \u2014 Here's Why."
     },
     {
       "pattern": "Stop doing",
       "example_count": 1,
       "example": "Stop using boring flat icons."
-    },
-    {
-      "pattern": "Don't/Never",
-      "example_count": 1,
-      "example": "Never blocking you again. I know I do dumb shit sometimes, but that was wild. You were right to call me out."
-    },
-    {
-      "pattern": "If you",
-      "example_count": 1,
-      "example": "If you like little harmony moves like these and video explanations taking them through all the keys you may enjoy my pat"
     }
   ],
   "best_times": [],
   "hashtags": [
     {
-      "tag": "#learning",
-      "usage_count": 73
+      "tag": "#growthtips",
+      "usage_count": 140
     },
     {
-      "tag": "#education",
-      "usage_count": 64
+      "tag": "#digitalmarketing",
+      "usage_count": 58
+    },
+    {
+      "tag": "#marketingstrategy",
+      "usage_count": 40
+    },
+    {
+      "tag": "#contentstrategy",
+      "usage_count": 32
     },
     {
       "tag": "#instagramreels",
-      "usage_count": 30
-    },
-    {
-      "tag": "#fyp",
-      "usage_count": 25
+      "usage_count": 29
     },
     {
       "tag": "#contentcreators",
       "usage_count": 24
     },
     {
-      "tag": "#viralreels",
-      "usage_count": 14
+      "tag": "#socialmediatips",
+      "usage_count": 22
     },
     {
-      "tag": "#reels",
-      "usage_count": 13
+      "tag": "#marketingtips",
+      "usage_count": 18
     },
     {
-      "tag": "#viral",
-      "usage_count": 12
+      "tag": "#businessgrowth",
+      "usage_count": 18
     },
     {
-      "tag": "#explore",
-      "usage_count": 11
+      "tag": "#instagramgrowth",
+      "usage_count": 18
     },
     {
-      "tag": "#trendingreels",
-      "usage_count": 11
+      "tag": "#onlinebusiness",
+      "usage_count": 16
     },
     {
-      "tag": "#trending",
-      "usage_count": 11
+      "tag": "#contentcreator",
+      "usage_count": 16
     },
     {
       "tag": "#explorepage",
+      "usage_count": 14
+    },
+    {
+      "tag": "#contentmarketing",
+      "usage_count": 14
+    },
+    {
+      "tag": "#smallbusiness",
+      "usage_count": 14
+    },
+    {
+      "tag": "#viralreels",
+      "usage_count": 12
+    },
+    {
+      "tag": "#fyp",
+      "usage_count": 12
+    },
+    {
+      "tag": "#leadgeneration",
+      "usage_count": 10
+    },
+    {
+      "tag": "#customerexperience",
+      "usage_count": 10
+    },
+    {
+      "tag": "#trendingreels",
+      "usage_count": 9
+    },
+    {
+      "tag": "#socialmediagrowth",
+      "usage_count": 9
+    },
+    {
+      "tag": "#support",
+      "usage_count": 9
+    },
+    {
+      "tag": "#reels",
       "usage_count": 8
     },
     {
-      "tag": "#study",
-      "usage_count": 6
-    },
-    {
-      "tag": "#viralvideos",
-      "usage_count": 6
-    },
-    {
-      "tag": "#ai",
-      "usage_count": 5
-    },
-    {
-      "tag": "#instagood",
-      "usage_count": 5
-    },
-    {
-      "tag": "#motivation",
-      "usage_count": 4
-    },
-    {
-      "tag": "#languagelearning",
-      "usage_count": 4
-    },
-    {
-      "tag": "#shorts",
-      "usage_count": 4
-    },
-    {
-      "tag": "#instagram",
-      "usage_count": 4
-    },
-    {
       "tag": "#digitalcreator",
-      "usage_count": 4
+      "usage_count": 8
     },
     {
-      "tag": "#explorar",
-      "usage_count": 4
-    },
-    {
-      "tag": "#learn",
-      "usage_count": 3
-    },
-    {
-      "tag": "#tutorial",
-      "usage_count": 3
-    },
-    {
-      "tag": "#footwork",
-      "usage_count": 3
+      "tag": "#socialmediamarketing",
+      "usage_count": 8
     }
   ],
   "formats": [],
   "trending_sounds": [],
-  "insights": "200 Instagram reels. Avg 35,814 views, 1,293 likes.",
+  "insights": "265 Instagram reels. Avg 5,015 views, 240 likes.",
   "top_posts": [
-    {
-      "author": "@math_practice.s",
-      "followers": 0,
-      "caption": "Answer  #math \n#viralreels #geometry #education",
-      "views": 408156,
-      "likes": 2798,
-      "comments": 735,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.87,
-      "hashtags": [
-        "#math",
-        "#viralreels",
-        "#geometry",
-        "#education"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwHt2_gccv/"
-    },
-    {
-      "author": "@the_zoo_prof",
-      "followers": 0,
-      "caption": "POV-Being a teacher\ud83d\udc69\ud83c\udffb\u200d\ud83c\udfeb\ud83d\ude09\n.\n.\n.\n#education #teacherlife #study #learn  #educator #motivation #sciencedaily\n#explorepage #instagram #fyp #instagood #reels #like #follow #instadaily #trend #foryoupage #p",
-      "views": 378454,
-      "likes": 10087,
-      "comments": 60,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 2.68,
-      "hashtags": [
-        "#education",
-        "#teacherlife",
-        "#study",
-        "#learn",
-        "#educator",
-        "#motivation",
-        "#sciencedaily",
-        "#explorepage"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-04",
-      "url": "https://www.instagram.com/p/DWuBYexE6HM/"
-    },
-    {
-      "author": "@sofia_sofia9379",
-      "followers": 0,
-      "caption": "Mini tutorial video. How to shuffle/cuttingshapes.\n.\n.\n#moves #tutorial #shufflestyles #shufflegirl #shuffling #howto #tutorials #footwork #learn #practice #dance #shuffle #happy #reels #reelsinstagra",
-      "views": 160117,
-      "likes": 4617,
-      "comments": 176,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 2.99,
-      "hashtags": [
-        "#moves",
-        "#tutorial",
-        "#shufflestyles",
-        "#shufflegirl",
-        "#shuffling",
-        "#howto",
-        "#tutorials",
-        "#footwork"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-03-29",
-      "url": "https://www.instagram.com/p/DWesnd-h4Fu/"
-    },
-    {
-      "author": "@sofia_sofia9379",
-      "followers": 0,
-      "caption": "Mini tutorial video. How to shuffle/cuttingshapes.\n.\n.\n#moves #tutorial #shufflestyles #shufflegirl #shuffling #howto #tutorials #footwork #learn #practice #dance #shuffle #happy #reels #reelsinstagra",
-      "views": 159196,
-      "likes": 4989,
-      "comments": 193,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 3.26,
-      "hashtags": [
-        "#moves",
-        "#tutorial",
-        "#shufflestyles",
-        "#shufflegirl",
-        "#shuffling",
-        "#howto",
-        "#tutorials",
-        "#footwork"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwt5DxB_WR/"
-    },
-    {
-      "author": "@educationadda74",
-      "followers": 0,
-      "caption": "#gkquestions #education #gk #gs",
-      "views": 158115,
-      "likes": 1405,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.89,
-      "hashtags": [
-        "#gkquestions",
-        "#education",
-        "#gk",
-        "#gs"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWy6oDMiYDu/"
-    },
-    {
-      "author": "@reshilmarie",
-      "followers": 0,
-      "caption": "I cannot explain the phenomenon that just happened \ud83e\udd7c\ud83d\udd2d #chinesedrama #cdrama #arthurchen #reaction #learning \ud83c\udfa5Love Beyond The Grave",
-      "views": 150963,
-      "likes": 5840,
-      "comments": 502,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 4.2,
-      "hashtags": [
-        "#chinesedrama",
-        "#cdrama",
-        "#arthurchen",
-        "#reaction",
-        "#learning"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-03",
-      "url": "https://www.instagram.com/p/DWrDE99jfvG/"
-    },
-    {
-      "author": "@yeshajain",
-      "followers": 0,
-      "caption": "#foryoupage #fyp #trend #explore #learning",
-      "views": 137296,
-      "likes": 2766,
-      "comments": 51,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 2.05,
-      "hashtags": [
-        "#foryoupage",
-        "#fyp",
-        "#trend",
-        "#explore",
-        "#learning"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-03-31",
-      "url": "https://www.instagram.com/p/DWkRos_DHSm/"
-    },
-    {
-      "author": "@invention",
-      "followers": 0,
-      "caption": "A freshly forged blade is driven straight into the dense core of a banana tree, where moisture and fibrous material immediately begin pulling heat away from the metal. The violent steam and debris you",
-      "views": 136908,
-      "likes": -1,
-      "comments": 27,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.02,
-      "hashtags": [],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1tIGsEYPf/"
-    },
-    {
-      "author": "@miss_crafty_mama",
-      "followers": 0,
-      "caption": "Alphabet Garden! \ud83e\udeb4\ud83c\udf37\u263a\ufe0f #earlychildhoodeducation #diy #activitiesforkids #learning #alphabet",
-      "views": 126744,
-      "likes": 1490,
-      "comments": 16,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 1.19,
-      "hashtags": [
-        "#earlychildhoodeducation",
-        "#diy",
-        "#activitiesforkids",
-        "#learning",
-        "#alphabet"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzoV7FE7Rd/"
-    },
-    {
-      "author": "@ceddi.mp4",
-      "followers": 0,
-      "caption": "Hat jemand bitte einen Tipp? \n#swimming #swim #learning #fy #help",
-      "views": 123581,
-      "likes": 2218,
-      "comments": 77,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 1.86,
-      "hashtags": [
-        "#swimming",
-        "#swim",
-        "#learning",
-        "#fy",
-        "#help"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-02",
-      "url": "https://www.instagram.com/p/DWo9ooODeXH/"
-    },
-    {
-      "author": "@static_gk_tips",
-      "followers": 0,
-      "caption": "#knowledgeispower #education #sscchsl #knowledgeispower\ud83d\udcda",
-      "views": 119886,
-      "likes": 857,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.71,
-      "hashtags": [
-        "#knowledgeispower",
-        "#education",
-        "#sscchsl",
-        "#knowledgeispower\ud83d\udcda"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwePnTkiSv/"
-    },
     {
       "author": "@y_m_cinematic_",
       "followers": 0,
@@ -404,48 +167,6 @@
       "url": "https://www.instagram.com/p/DWxlEKfApyA/"
     },
     {
-      "author": "@saffanabanana",
-      "followers": 0,
-      "caption": "fastest to rot their brain wins and you're the only one sprinting. \n\nWe're built different my guy. \n\n#medialiteracy #learning \n#whiteboard",
-      "views": 112201,
-      "likes": 8868,
-      "comments": 153,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 8.04,
-      "hashtags": [
-        "#medialiteracy",
-        "#learning",
-        "#whiteboard"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-03",
-      "url": "https://www.instagram.com/p/DWrmLKvCGeD/"
-    },
-    {
-      "author": "@ceddi.mp4",
-      "followers": 0,
-      "caption": "Einfach mal einen Backflip probieren\ud83d\ude4c\ud83c\udffc\ud83e\udd1d\ud83c\udffcwie habt ihr ihn gelernt?#fyp #backflip #r\u00fcckw\u00e4rtssalto #learning #ostern",
-      "views": 104727,
-      "likes": 1992,
-      "comments": 10,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 1.91,
-      "hashtags": [
-        "#fyp",
-        "#backflip",
-        "#r\u00fcckw\u00e4rtssalto",
-        "#learning",
-        "#ostern"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWy08ewjiyx/"
-    },
-    {
       "author": "@kristin.digitalprofits",
       "followers": 0,
       "caption": "\ud83d\udcac Comment \u201cTEMPLATE\u201d and I\u2019ll send you this FREE Instagram pop-out template \ud83e\udd0d\n\nThis is one of my favorite ways to make your page stand out instantly.\n\nIt looks professional.\nIt grabs attention.\nAnd it",
@@ -466,6 +187,286 @@
       "duration": 0,
       "posted_date": "2026-03-24",
       "url": "https://www.instagram.com/p/DWST1aOjfw3/"
+    },
+    {
+      "author": "@iampulkitm4real",
+      "followers": 0,
+      "caption": "Most creators don\u2019t know this Instagram feature yet. \ud83d\udc40\n\nYou can actually link multiple reels inside ONE reel.\n\nTap any thumbnail and it instantly opens that reel.\n\nPerfect for turning travel memories ",
+      "views": 96792,
+      "likes": 756,
+      "comments": 230,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.02,
+      "hashtags": [
+        "#instagramtips",
+        "#reelideas",
+        "#contentcreators",
+        "#travelreel",
+        "#i\u0307nstagramgrowth"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-03-12",
+      "url": "https://www.instagram.com/p/DVyNHRck--1/"
+    },
+    {
+      "author": "@werkwithlee",
+      "followers": 0,
+      "caption": "Happy Air Max Day \ud83d\udda4\u2728\n95s on my feet, tulle in my twirl\u2026 because balance is the real flex.\n\nSporty meets soft.\nEdge meets feminine.\nAnd somehow\u2026 it just works.\n\nDon\u2019t box your style in, the magic is in",
+      "views": 70226,
+      "likes": -1,
+      "comments": 924,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.31,
+      "hashtags": [
+        "#werkwithlee",
+        "#airmaxday",
+        "#airmax95s",
+        "#midsizestyleinspo",
+        "#tallgirlfashion"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-03-27",
+      "url": "https://www.instagram.com/p/DWXrXBIjEDw/"
+    },
+    {
+      "author": "@fardan.aep",
+      "followers": 0,
+      "caption": "Stop using boring flat icons.\nJust ONE small tweak can completely transform your design.\n\nComment \u201cEDIT\u201d and I\u2019ll send you the plugin in your DMs.\n\n#motiongraphics #\u1d20\u026a\u1d05\u1d07\u1d0f\u1d07\u1d05\u026a\u1d1b\u026a\u0274\u0262 #aftereffects #editing",
+      "views": 63258,
+      "likes": 5467,
+      "comments": 314,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 9.14,
+      "hashtags": [
+        "#motiongraphics",
+        "#\u1d20\u026a\u1d05\u1d07\u1d0f\u1d07\u1d05\u026a\u1d1b\u026a\u0274\u0262",
+        "#aftereffects",
+        "#editingtips",
+        "#contentcreators"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-03-30",
+      "url": "https://www.instagram.com/p/DWfhAR8lq-d/"
+    },
+    {
+      "author": "@mosaicodestrellas",
+      "followers": 0,
+      "caption": "pd: muchas de las cosas mostradas en el video fueron hechas a mano. #fyp #parati #reels #contentcreators",
+      "views": 59473,
+      "likes": 10226,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 17.21,
+      "hashtags": [
+        "#fyp",
+        "#parati",
+        "#reels",
+        "#contentcreators"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-02",
+      "url": "https://www.instagram.com/p/DWnFAdeESW8/"
+    },
+    {
+      "author": "@checkmateeveryday",
+      "followers": 0,
+      "caption": "Chess is one of the oldest strategy games, with its origins based on Indian civilization. Historians accept that the game emerged in the 6th century A.D. in India under the name \"Chaturanga.\" With its",
+      "views": 54808,
+      "likes": 955,
+      "comments": 18,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.78,
+      "hashtags": [
+        "#chess",
+        "#reelsviral",
+        "#viralreels",
+        "#instagramreels",
+        "#trendingreels"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1h0YcD4AJ/"
+    },
+    {
+      "author": "@indiaiconics",
+      "followers": 0,
+      "caption": "Badalne wali hai reality shows ki reality. The 50 has got everyone wondering! Starts 1st Feb, on #JioHotstar and #ColorsTV\n#The50 #banijayasia",
+      "views": 49249,
+      "likes": 2965,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 6.04,
+      "hashtags": [
+        "#JioHotstar",
+        "#ColorsTV",
+        "#The50",
+        "#banijayasia"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW2BJUjzSZV/"
+    },
+    {
+      "author": "@sumeet__55",
+      "followers": 0,
+      "caption": "\ud83c\udf6b\ud83e\uddff\ud83d\udc97\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#chocolate #instagramreels #viralpost #\u1d20\u026a\u0280\u1d00\u029f\u1d18\u1d0fst #trending",
+      "views": 48045,
+      "likes": 1111,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.31,
+      "hashtags": [
+        "#chocolate",
+        "#instagramreels",
+        "#viralpost",
+        "#\u1d20\u026a\u0280\u1d00\u029f\u1d18\u1d0fst",
+        "#trending"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1JOQqDEVl/"
+    },
+    {
+      "author": "@owagnerandrade",
+      "followers": 0,
+      "caption": "Quando falta argumento, sobra m\u00edmica, deboche e a esperan\u00e7a de que a pose apague o erro. \n\n#Jornalismo #Credibilidade #Apuracao #Arthur #InstagramReels",
+      "views": 42074,
+      "likes": 1155,
+      "comments": 125,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.04,
+      "hashtags": [
+        "#Jornalismo",
+        "#Credibilidade",
+        "#Apuracao",
+        "#Arthur",
+        "#InstagramReels"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1k-_Gu7IO/"
+    },
+    {
+      "author": "@sulferexclusive",
+      "followers": 0,
+      "caption": "\ud83c\udfac Via @sulferexclusive\n\nModern Family is the groundbreaking comedy series that uses a mockumentary style to follow the diverse lives of the Pritchett-Dunphy-Delgado family, a large, extended clan base",
+      "views": 34097,
+      "likes": -1,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#explore",
+        "#fyp",
+        "#instagramreels",
+        "#relatable",
+        "#movies",
+        "#moviesmemes",
+        "#memes"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW05RAmjZuQ/"
+    },
+    {
+      "author": "@rani.di.rasoi",
+      "followers": 0,
+      "caption": "Fullan cho full\u2026 gobi da full\ud83c\udf38\u2764\ufe0f\ud83d\ude0d\n.\n.\n.\n#contentcreators #videomaker #punjabifood #foodmaker #homefood",
+      "views": 33891,
+      "likes": 951,
+      "comments": 39,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.92,
+      "hashtags": [
+        "#contentcreators",
+        "#videomaker",
+        "#punjabifood",
+        "#foodmaker",
+        "#homefood"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-03",
+      "url": "https://www.instagram.com/p/DWqzgmJkTXX/"
+    },
+    {
+      "author": "@tetuan4life",
+      "followers": 0,
+      "caption": "How much money I made last month so far\u2026 \ud83d\udc40 here to share all the details \ud83d\udcb8\nBTW, I just found out @lennyandlarrys Protein Fitzels are now at @samsclub \ud83d\udc40\nFitzels are my favorite snack.\nDid I run\u2026 or did",
+      "views": 26810,
+      "likes": -1,
+      "comments": 17,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.06,
+      "hashtags": [
+        "#lennyandlarrys",
+        "#samsclub",
+        "#contentcreators",
+        "#snacks",
+        "#contentmonetization"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1wduJCFDc/"
+    },
+    {
+      "author": "@bhavyamiglani",
+      "followers": 0,
+      "caption": "Free studio slots \ud83c\udfac \nNow open in South Delhi. \n\nPerfect for content shoots. DM to know more.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n{ influencers, content creators, delhi based content creators, delh",
+      "views": 25542,
+      "likes": 485,
+      "comments": 382,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.39,
+      "hashtags": [
+        "#delhiinfluencers",
+        "#southdelhi",
+        "#contentcreators",
+        "#influencers",
+        "#studiosetup}"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-03-26",
+      "url": "https://www.instagram.com/p/DWW7NosE1qh/"
+    },
+    {
+      "author": "@rashelle_stetman",
+      "followers": 0,
+      "caption": "Keepin\u2019 it REAL is the only way.\n\nI used to only care if it looked \u201cprofessional\u201d\nI used to get embarrassed so easily\nI used to hide my views beyond art\n\nThe real you is the most beautiful thing we\u2019ll",
+      "views": 25388,
+      "likes": 1415,
+      "comments": 139,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 6.12,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzFQaCgWlZ/"
     }
   ]
 }

@@ -4,21 +4,26 @@
   "month": "April",
   "year": 2026,
   "niche": "beauty",
-  "generated_at": "2026-04-07T23:44:53.202256",
+  "generated_at": "2026-04-07T23:56:38.136034",
   "data_points_analyzed": 203,
-  "viral_posts_found": 200,
+  "viral_posts_found": 203,
   "hooks": [
     {
       "pattern": "If you",
       "example_count": 1,
       "example": "If you can relate, you\u2019ve got this!"
+    },
+    {
+      "pattern": "Watch this",
+      "example_count": 1,
+      "example": "This is probably my biggest transformation to date...watch this room go from mouse playground to dream (kid) playroom!"
     }
   ],
   "best_times": [],
   "hashtags": [
     {
       "tag": "#glowuo",
-      "usage_count": 74
+      "usage_count": 77
     },
     {
       "tag": "#skincare",
@@ -119,7 +124,7 @@
   ],
   "formats": [],
   "trending_sounds": [],
-  "insights": "200 Instagram reels. Avg 24,800 views, 794 likes.",
+  "insights": "203 Instagram reels. Avg 24,590 views, 798 likes.",
   "top_posts": [
     {
       "author": "@glowup_king",

@@ -4,9 +4,9 @@
   "month": "April",
   "year": 2026,
   "niche": "comedy",
-  "generated_at": "2026-04-07T23:44:53.202256",
-  "data_points_analyzed": 69,
-  "viral_posts_found": 69,
+  "generated_at": "2026-04-07T23:56:38.136034",
+  "data_points_analyzed": 169,
+  "viral_posts_found": 169,
   "hooks": [
     {
       "pattern": "If you",
@@ -17,109 +17,109 @@
   "best_times": [],
   "hashtags": [
     {
-      "tag": "#comedy",
-      "usage_count": 32
+      "tag": "#funny",
+      "usage_count": 107
     },
     {
       "tag": "#memes",
-      "usage_count": 30
+      "usage_count": 45
+    },
+    {
+      "tag": "#comedy",
+      "usage_count": 42
     },
     {
       "tag": "#reels",
-      "usage_count": 14
+      "usage_count": 17
     },
     {
-      "tag": "#funny",
-      "usage_count": 10
-    },
-    {
-      "tag": "#fyp",
-      "usage_count": 9
+      "tag": "#humor",
+      "usage_count": 17
     },
     {
       "tag": "#viral",
-      "usage_count": 9
+      "usage_count": 16
+    },
+    {
+      "tag": "#fyp",
+      "usage_count": 15
+    },
+    {
+      "tag": "#relatable",
+      "usage_count": 11
+    },
+    {
+      "tag": "#love",
+      "usage_count": 11
+    },
+    {
+      "tag": "#memesdaily",
+      "usage_count": 8
     },
     {
       "tag": "#explore",
       "usage_count": 7
     },
     {
-      "tag": "#relatable",
+      "tag": "#funnymemes",
+      "usage_count": 7
+    },
+    {
+      "tag": "#trending",
+      "usage_count": 7
+    },
+    {
+      "tag": "#instagood",
+      "usage_count": 7
+    },
+    {
+      "tag": "#jokes",
       "usage_count": 6
     },
     {
-      "tag": "#humor",
+      "tag": "#photooftheday",
       "usage_count": 6
+    },
+    {
+      "tag": "#satire",
+      "usage_count": 5
     },
     {
       "tag": "#explorepage",
       "usage_count": 4
     },
     {
+      "tag": "#viralvideos",
+      "usage_count": 4
+    },
+    {
+      "tag": "#fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp",
+      "usage_count": 4
+    },
+    {
+      "tag": "#fypage",
+      "usage_count": 4
+    },
+    {
+      "tag": "#motivation",
+      "usage_count": 3
+    },
+    {
+      "tag": "#viralreels",
+      "usage_count": 3
+    },
+    {
       "tag": "#instagram",
       "usage_count": 3
     },
     {
-      "tag": "#jokes",
+      "tag": "#lol",
       "usage_count": 3
-    },
-    {
-      "tag": "#explorar",
-      "usage_count": 3
-    },
-    {
-      "tag": "#standupcomedy",
-      "usage_count": 2
-    },
-    {
-      "tag": "#standup",
-      "usage_count": 2
-    },
-    {
-      "tag": "#motivation",
-      "usage_count": 2
-    },
-    {
-      "tag": "#dankmemes",
-      "usage_count": 2
-    },
-    {
-      "tag": "#trendingreels",
-      "usage_count": 2
-    },
-    {
-      "tag": "#viralvideos",
-      "usage_count": 2
-    },
-    {
-      "tag": "#viralreels",
-      "usage_count": 2
-    },
-    {
-      "tag": "#video",
-      "usage_count": 2
-    },
-    {
-      "tag": "#meme",
-      "usage_count": 2
-    },
-    {
-      "tag": "#geometrydash",
-      "usage_count": 2
-    },
-    {
-      "tag": "#animation",
-      "usage_count": 2
-    },
-    {
-      "tag": "#reelsinstagram",
-      "usage_count": 2
     }
   ],
   "formats": [],
   "trending_sounds": [],
-  "insights": "69 Instagram reels. Avg 21,113 views, 938 likes.",
+  "insights": "169 Instagram reels. Avg 8,620 views, 386 likes.",
   "top_posts": [
     {
       "author": "@aminetheleo",

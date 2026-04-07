@@ -4,123 +4,187 @@
   "month": "April",
   "year": 2026,
   "niche": "health",
-  "generated_at": "2026-04-07T23:44:53.202256",
-  "data_points_analyzed": 64,
-  "viral_posts_found": 64,
+  "generated_at": "2026-04-07T23:56:38.136034",
+  "data_points_analyzed": 297,
+  "viral_posts_found": 297,
   "hooks": [
     {
       "pattern": "If you",
-      "example_count": 3,
+      "example_count": 5,
       "example": "If you are from the US \ud83c\uddfa\ud83c\uddf8 comment \u201cgut\u201d"
+    },
+    {
+      "pattern": "How to",
+      "example_count": 1,
+      "example": "everyone\u2019s talking about fibermaxxing. but nobody\u2019s showing petite women how to eat 25g/day without gaining weight"
+    },
+    {
+      "pattern": "Watch this",
+      "example_count": 1,
+      "example": "\ud83d\udeab Watch this before your next triceps workout."
+    },
+    {
+      "pattern": "X things/tips",
+      "example_count": 1,
+      "example": "10 things I do to reduce inflammation \ud83e\udd51\ud83c\udf6f \u2728"
+    },
+    {
+      "pattern": "Don't/Never",
+      "example_count": 1,
+      "example": "Don\u2019t ignore blood in stool \u26a0\ufe0f\u201d \ud83d\udc47"
     }
   ],
   "best_times": [],
   "hashtags": [
     {
       "tag": "#wellness",
-      "usage_count": 31
+      "usage_count": 130
+    },
+    {
+      "tag": "#healthylifestyle",
+      "usage_count": 86
     },
     {
       "tag": "#health",
+      "usage_count": 55
+    },
+    {
+      "tag": "#lifestyle",
       "usage_count": 30
     },
     {
       "tag": "#fitness",
-      "usage_count": 6
+      "usage_count": 20
     },
     {
       "tag": "#selfcare",
-      "usage_count": 6
-    },
-    {
-      "tag": "#reels",
-      "usage_count": 4
-    },
-    {
-      "tag": "#usa",
-      "usage_count": 3
-    },
-    {
-      "tag": "#viral",
-      "usage_count": 3
-    },
-    {
-      "tag": "#healthylifestyle",
-      "usage_count": 3
+      "usage_count": 15
     },
     {
       "tag": "#healthy",
-      "usage_count": 3
+      "usage_count": 13
     },
     {
-      "tag": "#explore",
-      "usage_count": 3
+      "tag": "#gym",
+      "usage_count": 11
     },
     {
-      "tag": "#yoga",
-      "usage_count": 3
-    },
-    {
-      "tag": "#motivation",
-      "usage_count": 3
-    },
-    {
-      "tag": "#healthtips",
-      "usage_count": 2
+      "tag": "#reels",
+      "usage_count": 10
     },
     {
       "tag": "#guthealth",
-      "usage_count": 2
+      "usage_count": 8
     },
     {
-      "tag": "#asmr",
-      "usage_count": 2
+      "tag": "#fitnessmotivation",
+      "usage_count": 8
     },
     {
-      "tag": "#massage",
-      "usage_count": 2
+      "tag": "#explore",
+      "usage_count": 8
     },
     {
-      "tag": "#relaxation",
-      "usage_count": 2
-    },
-    {
-      "tag": "#trending",
-      "usage_count": 2
-    },
-    {
-      "tag": "#exercise",
-      "usage_count": 2
-    },
-    {
-      "tag": "#womenover40",
-      "usage_count": 2
-    },
-    {
-      "tag": "#unitedstates",
-      "usage_count": 2
-    },
-    {
-      "tag": "#womenshealth",
-      "usage_count": 2
+      "tag": "#motivation",
+      "usage_count": 8
     },
     {
       "tag": "#workout",
-      "usage_count": 2
+      "usage_count": 7
     },
     {
-      "tag": "#stretching",
-      "usage_count": 2
+      "tag": "#fyp",
+      "usage_count": 7
     },
     {
-      "tag": "#losangeles",
-      "usage_count": 2
+      "tag": "#bodybuilding",
+      "usage_count": 7
+    },
+    {
+      "tag": "#healthtips",
+      "usage_count": 6
+    },
+    {
+      "tag": "#healthyliving",
+      "usage_count": 6
+    },
+    {
+      "tag": "#worldhealthday",
+      "usage_count": 6
+    },
+    {
+      "tag": "#skincare",
+      "usage_count": 5
+    },
+    {
+      "tag": "#trending",
+      "usage_count": 5
+    },
+    {
+      "tag": "#mealprep",
+      "usage_count": 5
+    },
+    {
+      "tag": "#yoga",
+      "usage_count": 5
+    },
+    {
+      "tag": "#nutrition",
+      "usage_count": 4
+    },
+    {
+      "tag": "#healthyfood",
+      "usage_count": 4
     }
   ],
   "formats": [],
   "trending_sounds": [],
-  "insights": "64 Instagram reels. Avg 44,852 views, 1,252 likes.",
+  "insights": "297 Instagram reels. Avg 27,151 views, 898 likes.",
   "top_posts": [
+    {
+      "author": "@healthesencia",
+      "followers": 0,
+      "caption": "\u00bfSab\u00edas que cada tipo de queso tiene beneficios \u00fanicos para tu cuerpo? \ud83e\uddc0\ud83d\udcaa Descubre cu\u00e1les son los mejores quesos seg\u00fan prote\u00edna, calcio, grasas saludables y m\u00e1s, y aprende c\u00f3mo elegir el ideal para tu",
+      "views": 500287,
+      "likes": 17829,
+      "comments": 218,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.61,
+      "hashtags": [
+        "#cheese",
+        "#nutrition",
+        "#healthyfood",
+        "#weightloss",
+        "#fitness",
+        "#healthylifestyle"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-03",
+      "url": "https://www.instagram.com/p/DWrujwRlRaF/"
+    },
+    {
+      "author": "@sly.huncho",
+      "followers": 0,
+      "caption": "Would you try this strawberry mango sorbet? \n\nIngredients:\n3 Mangos\n2 Handfuls of Strawberries\nAgave (optional)\n\nSorbet Maker:\n@namawell J2 W/ Sorbet attachment\nUse my code \u201cHUNCHO\u201c for a discount on ",
+      "views": 302279,
+      "likes": 11568,
+      "comments": 166,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.88,
+      "hashtags": [
+        "#plantbased",
+        "#vegan",
+        "#healthylifestyle",
+        "#couple"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DWz89ncALzA/"
+    },
     {
       "author": "@mrc_marcela",
       "followers": 0,
@@ -144,6 +208,47 @@
       "url": "https://www.instagram.com/p/DWrVS-cjppM/"
     },
     {
+      "author": "@iyarkaiyum_aarogyamum",
+      "followers": 0,
+      "caption": "\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0bb5\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4 \u0bae\u0bc1\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0baf\u0bcd\n\n#healthyfood\n#healthylifestyle",
+      "views": 241445,
+      "likes": 2564,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.06,
+      "hashtags": [
+        "#healthyfood",
+        "#healthylifestyle"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-03",
+      "url": "https://www.instagram.com/p/DWqkM0wIDfK/"
+    },
+    {
+      "author": "@rsportherapy",
+      "followers": 0,
+      "caption": "Como fisioterapeutas debemos siempre enfocarnos en la salud y funcionalidad total del cuerpo y una causa muy com\u00fan de alteraciones y/o disfunciones de los tejidos se manifiesta cuando se presenta una ",
+      "views": 219292,
+      "likes": 733,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.34,
+      "hashtags": [
+        "#stayhealthy",
+        "#healthylifestyle",
+        "#healthychoise",
+        "#physicaltherapy",
+        "#scaretissue"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-01",
+      "url": "https://www.instagram.com/p/DWkmycSjaNa/"
+    },
+    {
       "author": "@tarakeeney",
       "followers": 0,
       "caption": "Follow @tarakeeney for more episodes \u2728 \n\nI spent the day at @ellemacpherson house \ud83e\udd0d\n\nOne of the world\u2019s biggest supermodels and now the inspiring founder of global wellness brand @welleco.\n\nIn these n",
@@ -164,6 +269,26 @@
       "duration": 0,
       "posted_date": "2026-04-04",
       "url": "https://www.instagram.com/p/DWtlW4MEd4O/"
+    },
+    {
+      "author": "@healthygirlkitchen",
+      "followers": 0,
+      "caption": "PLANE ESSENTIALS \u2708\ufe0f\u2728comment \u201czinc\u201d for the link to my drops. save this for the next time you travel #vimergypartner \n\nWhat to pack: \n- toiletry pouch \n- non toxic hand sanitizer \n- @vimergy Berrylicio",
+      "views": 202842,
+      "likes": 1054,
+      "comments": 118,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.58,
+      "hashtags": [
+        "#vimergypartner",
+        "#healthhack",
+        "#healthylifestyle"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-03-31",
+      "url": "https://www.instagram.com/p/DWkIr73Ad0l/"
     },
     {
       "author": "@rociodelatorre.wellness",
@@ -232,6 +357,28 @@
       "url": "https://www.instagram.com/p/DWuCjzzDCXy/"
     },
     {
+      "author": "@zendayahealthtips",
+      "followers": 0,
+      "caption": "Try this today, baby. \ud83d\udc9a\n\n#usa #healthylifestyle #healtyfood #healthy #healthylife",
+      "views": 144454,
+      "likes": 6974,
+      "comments": 3242,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 7.07,
+      "hashtags": [
+        "#usa",
+        "#healthylifestyle",
+        "#healtyfood",
+        "#healthy",
+        "#healthylife"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-03",
+      "url": "https://www.instagram.com/p/DWrNxbnDssg/"
+    },
+    {
       "author": "@heig_nutrition",
       "followers": 0,
       "caption": "#perderpeso #health #nutri\u00f3logo #adelgazar #nutrici\u00f3n",
@@ -252,6 +399,28 @@
       "duration": 0,
       "posted_date": "2026-04-05",
       "url": "https://www.instagram.com/p/DWu8I6VCgRB/"
+    },
+    {
+      "author": "@wellness__nutrition__centre",
+      "followers": 0,
+      "caption": "Wellness ka sahi raasta samajhna hai? \ud83d\udcaf\nAaj Nisar Akhtar (Senior Coach) ne share ki kuch important baatein jo aapki health journey ko completely change kar sakti hain \ud83d\udd25\n\nAgar aap weight loss, diabetes",
+      "views": 126608,
+      "likes": 961,
+      "comments": 71,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.82,
+      "hashtags": [
+        "#WellnessNutritionCentre",
+        "#HealthyLifestyle",
+        "#WeightLossJourney",
+        "#DiabetesCare",
+        "#FitnessMotivation"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-03",
+      "url": "https://www.instagram.com/p/DWrWkyCj0KR/"
     },
     {
       "author": "@austinkitt",
@@ -276,181 +445,29 @@
       "url": "https://www.instagram.com/p/DWzns3ngQi5/"
     },
     {
-      "author": "@saleha.malkova",
+      "author": "@satis_ngo_worker",
       "followers": 0,
-      "caption": "#asmr #massage #relaxation #selfcare #wellness",
-      "views": 96143,
-      "likes": 5728,
-      "comments": 159,
+      "caption": "\u0a2a\u0a47\u0a1f \u0a17\u0a48\u0a38 \u0a28\u0a39\u0a40 \u0a2c\u0a3e\u0a21\u0a40 \u0a1a \u0a15\u0a48\u0a02\u0a38\u0a30 \u0a24\u0a71\u0a15 \u0a30\u0a4b\u0a15\u0a26\u0a40 \u0a39\u0a48 \u0a05\u0a1c\u0a35\u0a3e\u0a08\u0a23\n\n\u0a2a\u0a70\u0a1c\u0a3e\u0a2c \u0a35\u0a3f\u0a71\u0a1a \u0a32\u0a17\u0a3e\u0a24\u0a3e\u0a30 \u0a35\u0a27 \u0a30\u0a39\u0a47 \u0a2b\u0a42\u0a21 \u0a2a\u0a3e\u0a08\u0a2a (\u0a2d\u0a4b\u0a1c\u0a28 \u0a28\u0a32\u0a40) \u0a26\u0a47 \u0a15\u0a48\u0a02\u0a38\u0a30 \u0a05\u0a24\u0a47 \u0a2a\u0a47\u0a1f \u0a26\u0a40\u0a06\u0a02 \u0a2c\u0a3f\u0a2e\u0a3e\u0a30\u0a40\u0a06\u0a02 \u0a2a\u0a4d\u0a30\u0a24\u0a40 \u0a1c\u0a3e\u0a17\u0a30\u0a42\u0a15\u0a24\u0a3e \u0a2b\u0a48\u0a32\u0a3e\u0a09\u0a23\u0a3e \u0a2c\u0a39\u0a41\u0a24 \u0a1c\u0a3c\u0a30\u0a42\u0a30\u0a40 \u0a39\u0a48\u0964 \u0a38\u0a3e\u0a21\u0a47 \u0a35\u0a32\u0a4c \u0a26\u0a71\u0a38\u0a3f\u0a06 \u0a17\u0a3f\u0a06 \u0a28\u0a41\u0a38\u0a16\u0a3e \u0a2c\u0a47\u0a39\u0a71\u0a26\n\u0a15\u0a3e\u0a30\u0a17\u0a30 \u0a39\u0a48",
+      "views": 105268,
+      "likes": 6842,
+      "comments": 174,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 6.12,
-      "hashtags": [
-        "#asmr",
-        "#massage",
-        "#relaxation",
-        "#selfcare",
-        "#wellness"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW07f_kDSOJ/"
-    },
-    {
-      "author": "@homebasedmassage",
-      "followers": 0,
-      "caption": "You Feel It Too\n\nThat tension\u2026\nit\u2019s not just you.\n\n#BodyTension #StressRelief #HomeMassage #Wellness #HomeGuyMassage",
-      "views": 90915,
-      "likes": 1108,
-      "comments": 100,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 1.33,
-      "hashtags": [
-        "#BodyTension",
-        "#StressRelief",
-        "#HomeMassage",
-        "#Wellness",
-        "#HomeGuyMassage"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-04",
-      "url": "https://www.instagram.com/p/DWtpNaVjLEl/"
-    },
-    {
-      "author": "@elina.danilova7",
-      "followers": 0,
-      "caption": "\ud83e\udd0d\ud83e\udd0d #elinadanilova #behappy #wellnessprofessional #wellness",
-      "views": 90214,
-      "likes": 596,
-      "comments": 22,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.69,
-      "hashtags": [
-        "#elinadanilova",
-        "#behappy",
-        "#wellnessprofessional",
-        "#wellness"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz0APZDxMx/"
-    },
-    {
-      "author": "@khouloudnehme",
-      "followers": 0,
-      "caption": "\u0639\u0645\u0631\u0643 40\u061f \u0628\u0644\u0651\u0634\u064a \u0645\u0642\u0627\u0648\u0645\u0629 \n\t\u2022\t\u0627\u0644\u0641\u0648\u0631\u0645 \u0623\u0648\u0644\u0627\u064b: \u0638\u0647\u0631 + \u0631\u0643\u0628 + \u0643\u062a\u0627\u0641\n\t\u2022\t\u0641\u0639\u0651\u0644\u064a \u0627\u0644\u0640 Core \u0628\u0643\u0644 \u062d\u0631\u0643\u0629\n\t\u2022\t\u0628\u0644\u0651\u0634\u064a \u0628\u0648\u0632\u0646 \u062c\u0633\u0645\u0643 (\u0633\u0643\u0648\u0627\u062a\u060c \u0644\u0648\u0646\u062c\u0632\u060c push-ups)\n\t\u2022\t2\u20133 \u0645\u0631\u0627\u062a/\u0623\u0633\u0628\u0648\u0639\u060c 20 \u062f\u0642\u064a\u0642\u0629\n\t\u2022\t\u062a\u0645\u0627\u0631\u064a\u0646 \u0645\u0631\u0643\u0651\u0628\u0629 = \u0623\u0641\u0636\u0644 \u0646\u062a\u064a\u062c\u0629\n\t\u2022\t\u0628\u0639\u062f 4 \u0623\u0633\u0627\u0628\u064a",
-      "views": 73916,
-      "likes": 1747,
-      "comments": 33,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 2.41,
-      "hashtags": [
-        "#\u0646\u0635\u0627\u0626\u062d",
-        "#\u0631\u064a\u0627\u0636\u0629",
-        "#fyp",
-        "#lit10",
-        "#health"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-04",
-      "url": "https://www.instagram.com/p/DWuPgd7D444/"
-    },
-    {
-      "author": "@abpnewstv",
-      "followers": 0,
-      "caption": "\u0915\u094d\u092f\u093e \u0906\u092a \u092d\u0940 \u0915\u093e\u0932\u0947 \u092a\u094d\u0932\u093e\u0938\u094d\u091f\u093f\u0915 \u0915\u0947 \u0921\u093f\u092c\u094d\u092c\u094b\u0902 \u092e\u0947\u0902 \u0916\u093e\u0928\u093e \u0916\u093e\u0924\u0947 \u0939\u0948\u0902? \u0924\u094b \u092f\u0947 \u0935\u0940\u0921\u093f\u092f\u094b \u0906\u092a\u0915\u0947 \u0932\u093f\u090f \u0939\u0940 \u0939\u0948!\n\n#HealthAwareness #PlasticDanger #ToxicTruth #Microplastics #FoodSafety #Health #DidYouKnow #Trending\n\n(black plast",
-      "views": 72292,
-      "likes": 970,
-      "comments": 24,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 1.37,
+      "engagement_rate": 6.66,
       "hashtags": [
         "#HealthAwareness",
-        "#PlasticDanger",
-        "#ToxicTruth",
-        "#Microplastics",
-        "#FoodSafety",
-        "#Health",
-        "#DidYouKnow",
-        "#Trending"
+        "#PunjabHealth",
+        "#NaturalRemedy",
+        "#StomachCare",
+        "#HealthyLifestyle",
+        "#Ayurveda",
+        "#CancerPrevention",
+        "#DigestionTips"
       ],
       "sound": "",
       "duration": 0,
-      "posted_date": "2026-04-03",
-      "url": "https://www.instagram.com/p/DWqvOSlFb_Q/"
-    },
-    {
-      "author": "@deematattan",
-      "followers": 0,
-      "caption": "\u0645\u0648 \u0643\u0644 \u0627\u0644\u0646\u0627\u0633 \u0628\u062a\u0639\u0631\u0641 \u0642\u062f\u064a\u0634 \u0635\u0639\u0628 \u062a\u0639\u064a\u0634 \u0628\u062c\u0633\u0645 \u0645\u0648 \u0645\u0631\u062a\u0627\u062d \u0641\u064a\u0647\n\u0648\u0644\u0627 \u0642\u062f\u064a\u0634 \u0628\u062a\u062a\u0639\u0628 \u0646\u0641\u0633\u064a\u0627\u064b \u0642\u0628\u0644 \u062c\u0633\u062f\u064a\u0627\u064b.\n\u0647\u0627\u064a \u0645\u0648 \u0642\u0635\u0629 \u062f\u0627\u064a\u062a\n\u0647\u0627\u064a \u0642\u0635\u0629 \u0642\u0631\u0627\u0631\n\u0642\u0631\u0627\u0631 \u0625\u0646\u064a \u0648\u0642\u0641 \u062a\u0623\u062c\u064a\u0644\n\u0642\u0631\u0627\u0631 \u0625\u0646\u064a \u0623\u062e\u062a\u0627\u0631 \u062d\u0627\u0644\u064a\n\u0642\u0631\u0627\u0631 \u0625\u0646\u064a \u0623\u0628\u062f\u0623\u060c \u062d\u062a\u0649 \u0644\u0648 \u0645\u0627 \u0643\u0646\u062a \u062c\u0627\u0647\u0632\u0629 100%\n\u0647\u0627\u064a \u0623\u0648\u0644 ",
-      "views": 64416,
-      "likes": 1295,
-      "comments": 166,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 2.27,
-      "hashtags": [
-        "#\u0631\u062d\u0644\u062a\u064a_\u0644\u0644\u062a\u063a\u064a\u064a\u0631",
-        "#\u062e\u0633\u0627\u0631\u0629_\u0648\u0632\u0646",
-        "#viral",
-        "#pharmacist",
-        "#health"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-02",
-      "url": "https://www.instagram.com/p/DWomPJDDBMk/"
-    },
-    {
-      "author": "@yangmunus",
-      "followers": 0,
-      "caption": "if you want more simple natural recipes like this comment recipe and and I will send you my guide\n\n#usahealth #wellness #newyork #chinesemedicineworks",
-      "views": 57095,
-      "likes": 1720,
-      "comments": 800,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 4.41,
-      "hashtags": [
-        "#usahealth",
-        "#wellness",
-        "#newyork",
-        "#chinesemedicineworks"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1cgA4gCXO/"
-    },
-    {
-      "author": "@saleha.malkova",
-      "followers": 0,
-      "caption": "#asmr #massage #relaxation #selfcare #wellness",
-      "views": 56984,
-      "likes": 3350,
-      "comments": 85,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 6.03,
-      "hashtags": [
-        "#asmr",
-        "#massage",
-        "#relaxation",
-        "#selfcare",
-        "#wellness"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW05MQbDZys/"
+      "posted_date": "2026-04-04",
+      "url": "https://www.instagram.com/p/DWsXRmnkijQ/"
     }
   ]
 }

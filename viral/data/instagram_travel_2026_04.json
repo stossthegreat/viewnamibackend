@@ -4,9 +4,9 @@
   "month": "April",
   "year": 2026,
   "niche": "travel",
-  "generated_at": "2026-04-07T23:44:53.202256",
-  "data_points_analyzed": 161,
-  "viral_posts_found": 161,
+  "generated_at": "2026-04-07T23:56:38.136034",
+  "data_points_analyzed": 261,
+  "viral_posts_found": 260,
   "hooks": [
     {
       "pattern": "Don't/Never",
@@ -23,7 +23,11 @@
   "hashtags": [
     {
       "tag": "#travel",
-      "usage_count": 97
+      "usage_count": 98
+    },
+    {
+      "tag": "#dailylife",
+      "usage_count": 85
     },
     {
       "tag": "#vacation",
@@ -31,39 +35,55 @@
     },
     {
       "tag": "#fyp",
-      "usage_count": 17
+      "usage_count": 20
     },
     {
       "tag": "#explore",
+      "usage_count": 17
+    },
+    {
+      "tag": "#lifestyle",
       "usage_count": 15
     },
     {
       "tag": "#beach",
-      "usage_count": 10
+      "usage_count": 14
     },
     {
       "tag": "#viral",
-      "usage_count": 9
+      "usage_count": 10
     },
     {
       "tag": "#love",
-      "usage_count": 9
+      "usage_count": 10
     },
     {
       "tag": "#trending",
-      "usage_count": 8
+      "usage_count": 9
+    },
+    {
+      "tag": "#instagood",
+      "usage_count": 7
+    },
+    {
+      "tag": "#ootd",
+      "usage_count": 6
     },
     {
       "tag": "#adventure",
       "usage_count": 5
     },
     {
-      "tag": "#instagood",
+      "tag": "#nature",
       "usage_count": 5
     },
     {
-      "tag": "#ootd",
-      "usage_count": 4
+      "tag": "#relatable",
+      "usage_count": 5
+    },
+    {
+      "tag": "#espa\u00f1a",
+      "usage_count": 5
     },
     {
       "tag": "#grwm",
@@ -71,6 +91,10 @@
     },
     {
       "tag": "#japan",
+      "usage_count": 4
+    },
+    {
+      "tag": "#foryou",
       "usage_count": 4
     },
     {
@@ -86,45 +110,21 @@
       "usage_count": 4
     },
     {
-      "tag": "#nature",
+      "tag": "#funny",
       "usage_count": 4
     },
     {
-      "tag": "#funny",
+      "tag": "#life",
       "usage_count": 4
     },
     {
       "tag": "#reels",
       "usage_count": 4
-    },
-    {
-      "tag": "#trip",
-      "usage_count": 4
-    },
-    {
-      "tag": "#solotravel",
-      "usage_count": 4
-    },
-    {
-      "tag": "#food",
-      "usage_count": 3
-    },
-    {
-      "tag": "#foryou",
-      "usage_count": 3
-    },
-    {
-      "tag": "#cruise",
-      "usage_count": 3
-    },
-    {
-      "tag": "#trend",
-      "usage_count": 3
     }
   ],
   "formats": [],
   "trending_sounds": [],
-  "insights": "161 Instagram reels. Avg 28,044 views, 1,011 likes.",
+  "insights": "260 Instagram reels. Avg 17,366 views, 627 likes.",
   "top_posts": [
     {
       "author": "@specialk1321",

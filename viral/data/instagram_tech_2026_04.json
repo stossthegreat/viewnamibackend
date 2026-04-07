@@ -4,9 +4,9 @@
   "month": "April",
   "year": 2026,
   "niche": "tech",
-  "generated_at": "2026-04-07T23:44:53.202256",
-  "data_points_analyzed": 231,
-  "viral_posts_found": 200,
+  "generated_at": "2026-04-07T23:56:38.136034",
+  "data_points_analyzed": 331,
+  "viral_posts_found": 300,
   "hooks": [
     {
       "pattern": "X things/tips",
@@ -18,42 +18,90 @@
   "hashtags": [
     {
       "tag": "#tech",
-      "usage_count": 94
+      "usage_count": 177
     },
     {
       "tag": "#ai",
-      "usage_count": 74
-    },
-    {
-      "tag": "#future",
-      "usage_count": 67
+      "usage_count": 89
     },
     {
       "tag": "#innovation",
-      "usage_count": 67
+      "usage_count": 75
+    },
+    {
+      "tag": "#future",
+      "usage_count": 69
     },
     {
       "tag": "#supersonic",
-      "usage_count": 64
+      "usage_count": 65
     },
     {
       "tag": "#japan",
-      "usage_count": 62
+      "usage_count": 63
     },
     {
       "tag": "#technolodgy",
       "usage_count": 24
     },
     {
+      "tag": "#technology",
+      "usage_count": 22
+    },
+    {
+      "tag": "#viral",
+      "usage_count": 14
+    },
+    {
+      "tag": "#fyp",
+      "usage_count": 13
+    },
+    {
+      "tag": "#artificialintelligence",
+      "usage_count": 12
+    },
+    {
+      "tag": "#startup",
+      "usage_count": 12
+    },
+    {
+      "tag": "#programming",
+      "usage_count": 11
+    },
+    {
+      "tag": "#cybersecurity",
+      "usage_count": 11
+    },
+    {
       "tag": "#reels",
       "usage_count": 9
     },
     {
-      "tag": "#viral",
+      "tag": "#gadgets",
+      "usage_count": 9
+    },
+    {
+      "tag": "#apple",
       "usage_count": 8
     },
     {
-      "tag": "#fyp",
+      "tag": "#ia",
+      "usage_count": 8
+    },
+    {
+      "tag": "#businessowner",
+      "usage_count": 7
+    },
+    {
+      "tag": "#entrepreneur",
+      "usage_count": 7
+    },
+    {
+      "tag": "#digitalmarketing",
+      "usage_count": 7
+    },
+    {
+      "tag": "#branding",
       "usage_count": 7
     },
     {
@@ -61,65 +109,17 @@
       "usage_count": 6
     },
     {
-      "tag": "#ia",
+      "tag": "#gadget",
       "usage_count": 6
     },
     {
-      "tag": "#explore",
-      "usage_count": 5
-    },
-    {
-      "tag": "#instagram",
-      "usage_count": 4
-    },
-    {
-      "tag": "#artificialintelligence",
-      "usage_count": 3
-    },
-    {
-      "tag": "#funny",
-      "usage_count": 3
-    },
-    {
-      "tag": "#startup",
-      "usage_count": 3
-    },
-    {
-      "tag": "#aigenerated",
-      "usage_count": 3
-    },
-    {
-      "tag": "#aitools",
-      "usage_count": 3
-    },
-    {
-      "tag": "#humor",
-      "usage_count": 3
-    },
-    {
-      "tag": "#claude",
-      "usage_count": 3
-    },
-    {
-      "tag": "#lifestyle",
-      "usage_count": 3
-    },
-    {
-      "tag": "#technology",
-      "usage_count": 3
-    },
-    {
-      "tag": "#assam",
-      "usage_count": 3
-    },
-    {
-      "tag": "#guwahati",
-      "usage_count": 3
+      "tag": "#hacker",
+      "usage_count": 6
     }
   ],
   "formats": [],
   "trending_sounds": [],
-  "insights": "200 Instagram reels. Avg 31,121 views, 846 likes.",
+  "insights": "300 Instagram reels. Avg 20,747 views, 565 likes.",
   "top_posts": [
     {
       "author": "@artificialintelligence.hub",

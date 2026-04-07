@@ -4,9 +4,9 @@
   "month": "April",
   "year": 2026,
   "niche": "gaming",
-  "generated_at": "2026-04-07T23:44:53.202256",
-  "data_points_analyzed": 232,
-  "viral_posts_found": 200,
+  "generated_at": "2026-04-07T23:56:38.136034",
+  "data_points_analyzed": 332,
+  "viral_posts_found": 300,
   "hooks": [
     {
       "pattern": "Don't/Never",
@@ -22,40 +22,45 @@
       "pattern": "POV",
       "example_count": 1,
       "example": "Pov: You collect Videogames and love it \ud83e\udd70\ud83e\udef6"
+    },
+    {
+      "pattern": "If you",
+      "example_count": 1,
+      "example": "If you know\u2026 you know \ud83c\udfae\ud83d\ude24"
     }
   ],
   "best_times": [],
   "hashtags": [
     {
       "tag": "#gaming",
-      "usage_count": 86
+      "usage_count": 177
     },
     {
       "tag": "#esports",
-      "usage_count": 68
+      "usage_count": 73
+    },
+    {
+      "tag": "#fyp",
+      "usage_count": 32
     },
     {
       "tag": "#games",
       "usage_count": 30
     },
     {
-      "tag": "#fyp",
-      "usage_count": 29
+      "tag": "#gamer",
+      "usage_count": 28
     },
     {
       "tag": "#viral",
+      "usage_count": 18
+    },
+    {
+      "tag": "#reels",
       "usage_count": 17
     },
     {
       "tag": "#mpls17",
-      "usage_count": 15
-    },
-    {
-      "tag": "#gamer",
-      "usage_count": 15
-    },
-    {
-      "tag": "#reels",
       "usage_count": 15
     },
     {
@@ -80,6 +85,10 @@
     },
     {
       "tag": "#bgmi",
+      "usage_count": 12
+    },
+    {
+      "tag": "#leagueoflegends",
       "usage_count": 11
     },
     {
@@ -87,8 +96,12 @@
       "usage_count": 11
     },
     {
-      "tag": "#leagueoflegends",
-      "usage_count": 10
+      "tag": "#videojuegos",
+      "usage_count": 11
+    },
+    {
+      "tag": "#videogames",
+      "usage_count": 11
     },
     {
       "tag": "#twitch",
@@ -99,37 +112,29 @@
       "usage_count": 9
     },
     {
-      "tag": "#explorepage",
+      "tag": "#nintendo",
+      "usage_count": 9
+    },
+    {
+      "tag": "#pokemon",
+      "usage_count": 9
+    },
+    {
+      "tag": "#fortnite",
       "usage_count": 8
     },
     {
-      "tag": "#trending",
+      "tag": "#gamerlife",
       "usage_count": 8
     },
     {
-      "tag": "#counterstrike",
-      "usage_count": 6
-    },
-    {
-      "tag": "#cs",
-      "usage_count": 6
-    },
-    {
-      "tag": "#viralreels",
-      "usage_count": 6
-    },
-    {
-      "tag": "#streamer",
-      "usage_count": 5
-    },
-    {
-      "tag": "#freefireindia",
-      "usage_count": 5
+      "tag": "#game",
+      "usage_count": 8
     }
   ],
   "formats": [],
   "trending_sounds": [],
-  "insights": "200 Instagram reels. Avg 48,276 views, 1,508 likes.",
+  "insights": "300 Instagram reels. Avg 32,184 views, 1,010 likes.",
   "top_posts": [
     {
       "author": "@9v5_0",

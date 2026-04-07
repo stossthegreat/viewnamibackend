@@ -4,9 +4,9 @@
   "month": "April",
   "year": 2026,
   "niche": "relationships",
-  "generated_at": "2026-04-07T23:44:53.202256",
-  "data_points_analyzed": 191,
-  "viral_posts_found": 191,
+  "generated_at": "2026-04-07T23:56:38.136034",
+  "data_points_analyzed": 291,
+  "viral_posts_found": 291,
   "hooks": [
     {
       "pattern": "POV",
@@ -18,19 +18,23 @@
   "hashtags": [
     {
       "tag": "#couple",
-      "usage_count": 108
+      "usage_count": 124
+    },
+    {
+      "tag": "#couplegoals",
+      "usage_count": 100
     },
     {
       "tag": "#relationship",
-      "usage_count": 93
+      "usage_count": 94
     },
     {
       "tag": "#love",
-      "usage_count": 39
+      "usage_count": 56
     },
     {
       "tag": "#fyp",
-      "usage_count": 35
+      "usage_count": 39
     },
     {
       "tag": "#viral",
@@ -45,8 +49,8 @@
       "usage_count": 13
     },
     {
-      "tag": "#couplegoals",
-      "usage_count": 12
+      "tag": "#relationships",
+      "usage_count": 13
     },
     {
       "tag": "#funny",
@@ -57,11 +61,15 @@
       "usage_count": 11
     },
     {
-      "tag": "#relationships",
-      "usage_count": 10
+      "tag": "#couples",
+      "usage_count": 9
     },
     {
       "tag": "#marriedlife",
+      "usage_count": 8
+    },
+    {
+      "tag": "#foryoupage",
       "usage_count": 8
     },
     {
@@ -73,19 +81,15 @@
       "usage_count": 8
     },
     {
-      "tag": "#foryoupage",
-      "usage_count": 7
-    },
-    {
       "tag": "#foryou",
-      "usage_count": 7
-    },
-    {
-      "tag": "#couples",
-      "usage_count": 7
+      "usage_count": 8
     },
     {
       "tag": "#trending",
+      "usage_count": 8
+    },
+    {
+      "tag": "#wedding",
       "usage_count": 7
     },
     {
@@ -101,25 +105,21 @@
       "usage_count": 6
     },
     {
+      "tag": "#humor",
+      "usage_count": 5
+    },
+    {
       "tag": "#goviral",
       "usage_count": 5
     },
     {
-      "tag": "#humor",
-      "usage_count": 4
-    },
-    {
-      "tag": "#personality",
-      "usage_count": 4
-    },
-    {
       "tag": "#motivation",
-      "usage_count": 4
+      "usage_count": 5
     }
   ],
   "formats": [],
   "trending_sounds": [],
-  "insights": "191 Instagram reels. Avg 53,990 views, 1,846 likes.",
+  "insights": "291 Instagram reels. Avg 35,436 views, 1,237 likes.",
   "top_posts": [
     {
       "author": "@dickersonross",

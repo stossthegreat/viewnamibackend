@@ -4,9 +4,9 @@
   "month": "April",
   "year": 2026,
   "niche": "fitness",
-  "generated_at": "2026-04-07T23:44:53.202256",
-  "data_points_analyzed": 209,
-  "viral_posts_found": 200,
+  "generated_at": "2026-04-07T23:56:38.136034",
+  "data_points_analyzed": 239,
+  "viral_posts_found": 239,
   "hooks": [
     {
       "pattern": "Don't/Never",
@@ -28,39 +28,39 @@
   "hashtags": [
     {
       "tag": "#fitness",
-      "usage_count": 121
+      "usage_count": 141
     },
     {
       "tag": "#workout",
-      "usage_count": 96
+      "usage_count": 98
     },
     {
       "tag": "#gym",
-      "usage_count": 65
+      "usage_count": 72
     },
     {
       "tag": "#gymmotivation",
-      "usage_count": 18
+      "usage_count": 19
     },
     {
       "tag": "#fitnessmotivation",
-      "usage_count": 17
+      "usage_count": 19
     },
     {
       "tag": "#motivation",
-      "usage_count": 15
+      "usage_count": 16
     },
     {
       "tag": "#fyp",
+      "usage_count": 12
+    },
+    {
+      "tag": "#bodybuilding",
       "usage_count": 11
     },
     {
       "tag": "#viral",
       "usage_count": 11
-    },
-    {
-      "tag": "#bodybuilding",
-      "usage_count": 9
     },
     {
       "tag": "#explore",
@@ -79,7 +79,23 @@
       "usage_count": 7
     },
     {
+      "tag": "#reels",
+      "usage_count": 7
+    },
+    {
       "tag": "#gymlife",
+      "usage_count": 7
+    },
+    {
+      "tag": "#dieta",
+      "usage_count": 7
+    },
+    {
+      "tag": "#humor",
+      "usage_count": 7
+    },
+    {
+      "tag": "#academia",
       "usage_count": 7
     },
     {
@@ -87,11 +103,11 @@
       "usage_count": 7
     },
     {
-      "tag": "#reels",
-      "usage_count": 6
+      "tag": "#lifestyle",
+      "usage_count": 7
     },
     {
-      "tag": "#dieta",
+      "tag": "#treino",
       "usage_count": 6
     },
     {
@@ -99,37 +115,21 @@
       "usage_count": 6
     },
     {
-      "tag": "#lifestyle",
-      "usage_count": 6
-    },
-    {
-      "tag": "#treino",
-      "usage_count": 5
-    },
-    {
       "tag": "#emagrecimento",
       "usage_count": 5
     },
     {
-      "tag": "#humor",
+      "tag": "#legday",
       "usage_count": 5
     },
     {
-      "tag": "#academia",
+      "tag": "#muscula\u00e7\u00e3o",
       "usage_count": 5
-    },
-    {
-      "tag": "#workoutmotivation",
-      "usage_count": 4
-    },
-    {
-      "tag": "#challenge",
-      "usage_count": 4
     }
   ],
   "formats": [],
   "trending_sounds": [],
-  "insights": "200 Instagram reels. Avg 36,453 views, 1,162 likes.",
+  "insights": "239 Instagram reels. Avg 33,798 views, 1,007 likes.",
   "top_posts": [
     {
       "author": "@mireiafiguerass",
@@ -377,6 +377,22 @@
       "url": "https://www.instagram.com/p/DW1sNY-DOuE/"
     },
     {
+      "author": "@workout",
+      "followers": 0,
+      "caption": "\u201323kg in 3 months. Hard work, consistency, and self-belief \u2014 proud doesn\u2019t even cover it \u2728\nThe plan I used made the journey feel achievable.\nHead to the link in my bio @workout\nSend \u201cREADY\u201d to learn m",
+      "views": 145569,
+      "likes": 921,
+      "comments": 14,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.64,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2025-12-20",
+      "url": "https://www.instagram.com/p/DSeDefzgsZH/"
+    },
+    {
       "author": "@aya_monah",
       "followers": 0,
       "caption": "\u0643\u0648\u0643\u0628 \u0632\u0645\u0631\u062f\u0629 \ud83d\udc97\ud83c\udf53\n\n.\n#\u0627\u0644\u0639\u0631\u0627\u0642 #gym #fitness #fitnessmodel #ayamonah",
@@ -399,6 +415,22 @@
       "url": "https://www.instagram.com/p/DW18aQqDHqG/"
     },
     {
+      "author": "@workout",
+      "followers": 0,
+      "caption": "The day I finally put myself first, things began to shift.\nFollowing this approach turned out to be an incredibly positive experience \u2014 and it could be for you as well.\n\nTake a look through the link i",
+      "views": 125047,
+      "likes": 917,
+      "comments": 35,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.76,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2025-12-24",
+      "url": "https://www.instagram.com/p/DSqLg3LgPV3/"
+    },
+    {
       "author": "@kaylastnly",
       "followers": 0,
       "caption": "hold me accountable baddie\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014-\n@buckedup KAYLASTANLEY20\n@gymshark link in bio\nfollow for more!! @kaylastnly \n\ntags: #gymshark #powerlifting #workout #gymhumor #skit",
@@ -419,50 +451,6 @@
       "duration": 0,
       "posted_date": "2026-04-06",
       "url": "https://www.instagram.com/p/DWzPbNRDyKn/"
-    },
-    {
-      "author": "@quan___",
-      "followers": 0,
-      "caption": "Chest day got me moving like Michael Jackson in Thriller\u2026 smooth, sharp, and slightly possessed \ud83e\udddf\u200d\u2642\ufe0f\ud83e\udd23\n\n#workout #workoutmotivation #fitness #pushup #challenge",
-      "views": 101276,
-      "likes": 5727,
-      "comments": 287,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 5.94,
-      "hashtags": [
-        "#workout",
-        "#workoutmotivation",
-        "#fitness",
-        "#pushup",
-        "#challenge"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1zQkHiZHn/"
-    },
-    {
-      "author": "@christiemcfit",
-      "followers": 0,
-      "caption": "The best cardio exercise! Do you agree? \ud83d\ude30\n#fitness #workout #healthylifestyle #workoutadvice #gym",
-      "views": 90605,
-      "likes": 3461,
-      "comments": 97,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 3.93,
-      "hashtags": [
-        "#fitness",
-        "#workout",
-        "#healthylifestyle",
-        "#workoutadvice",
-        "#gym"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1heXEgGfk/"
     }
   ]
 }
