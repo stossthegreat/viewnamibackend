@@ -1,0 +1,363 @@
+{
+  "platform": "Instagram",
+  "platform_key": "instagram",
+  "month": "April",
+  "year": 2026,
+  "niche": "beauty",
+  "generated_at": "2026-04-07T02:30:52.081863",
+  "data_points_analyzed": 50,
+  "viral_posts_found": 50,
+  "hooks": [],
+  "best_times": [
+    {
+      "day": "Thursday",
+      "time": "0:00",
+      "engagement_avg": 125.0,
+      "sample_size": 2
+    },
+    {
+      "day": "Monday",
+      "time": "0:00",
+      "engagement_avg": 30.8,
+      "sample_size": 13
+    },
+    {
+      "day": "Tuesday",
+      "time": "0:00",
+      "engagement_avg": 18.2,
+      "sample_size": 33
+    }
+  ],
+  "hashtags": [
+    {
+      "tag": "#selfcare",
+      "usage_count": 25,
+      "avg_views": 0,
+      "growth_pct": 250
+    },
+    {
+      "tag": "#beautytips",
+      "usage_count": 13,
+      "avg_views": 1,
+      "growth_pct": 130
+    },
+    {
+      "tag": "#beauty",
+      "usage_count": 7,
+      "avg_views": 0,
+      "growth_pct": 70
+    },
+    {
+      "tag": "#massagetherapy",
+      "usage_count": 3,
+      "avg_views": 0,
+      "growth_pct": 30
+    },
+    {
+      "tag": "#selflove",
+      "usage_count": 2,
+      "avg_views": 0,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#wellness",
+      "usage_count": 2,
+      "avg_views": 0,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#manicuraperfecta",
+      "usage_count": 2,
+      "avg_views": 2,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#nailstyle",
+      "usage_count": 2,
+      "avg_views": 2,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#esmaltemagnetico",
+      "usage_count": 2,
+      "avg_views": 2,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#u\u00f1ascoj\u00edn",
+      "usage_count": 2,
+      "avg_views": 2,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#breethe",
+      "usage_count": 2,
+      "avg_views": 0,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#wellnessstudio",
+      "usage_count": 2,
+      "avg_views": 0,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#booknow",
+      "usage_count": 2,
+      "avg_views": 0,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#757",
+      "usage_count": 2,
+      "avg_views": 0,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#norfolk",
+      "usage_count": 2,
+      "avg_views": 0,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#757skincare",
+      "usage_count": 2,
+      "avg_views": 0,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#dmv",
+      "usage_count": 2,
+      "avg_views": 0,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#depilacionlaser",
+      "usage_count": 2,
+      "avg_views": 0,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#cuidadodelapiel",
+      "usage_count": 2,
+      "avg_views": 0,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#pielperfecta",
+      "usage_count": 2,
+      "avg_views": 0,
+      "growth_pct": 20
+    }
+  ],
+  "formats": [
+    {
+      "name": "Educational / tips",
+      "trend_pct": 140,
+      "avg_engagement": 66.7,
+      "post_count": 9
+    },
+    {
+      "name": "Challenge / trend",
+      "trend_pct": 60,
+      "avg_engagement": 0.0,
+      "post_count": 1
+    },
+    {
+      "name": "Story time / narrative",
+      "trend_pct": 60,
+      "avg_engagement": 0.0,
+      "post_count": 1
+    }
+  ],
+  "trending_sounds": [],
+  "insights": "Educational / tips content leads with 66.7% avg engagement. Average engagement rate across viral content: 35.2%.",
+  "top_posts": [
+    {
+      "author": "@_mama_magic_",
+      "followers": 0,
+      "caption": "\ud83d\udc93get yourself in check\ud83d\udc93\n\nSpring is here, so are new starts, and good health is to be found with @primalqueenera get your",
+      "hook_format": "other",
+      "views": 0,
+      "likes": 49,
+      "saves": 0,
+      "comments": 79,
+      "engagement_rate": 261.22,
+      "posted_date": "2026-04-05",
+      "hashtags": [
+        "#primalqueen",
+        "#mamablogger",
+        "#lifestyle",
+        "#canadianmama",
+        "#blogger"
+      ],
+      "url": "https://www.instagram.com/p/DWw9XWkFmiu/"
+    },
+    {
+      "author": "@germany.tjkosmetika",
+      "followers": 0,
+      "caption": "\u044d\u0442\u043e \u0431\u043e\u0434\u0438\u2011\u0441\u043f\u0440\u0435\u0439 \u0441 \u0430\u0440\u043e\u043c\u0430\u0442\u043e\u043c \u0434\u043b\u044f \u0442\u0435\u043b\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0434\u043e\u0431\u0430\u0432\u043b\u044f\u0435\u0442 \u0441\u0432\u0435\u0436\u0438\u0439 \u0437\u0430\u043f\u0430\u0445 \u0438 \u043e\u0449\u0443\u0449\u0435\u043d\u0438\u0435 \u043b\u0451\u0433\u043a\u043e\u0441\u0442\u0438 \u043a\u043e\u0436\u0438.\n\u0426\u0435\u043d\u0430 120",
+      "hook_format": "other",
+      "views": 0,
+      "likes": 2,
+      "saves": 0,
+      "comments": 3,
+      "engagement_rate": 250.0,
+      "posted_date": "2026-04-04",
+      "hashtags": [],
+      "url": "https://www.instagram.com/p/DWuJpe8gPyZ/"
+    },
+    {
+      "author": "@sady_badie",
+      "followers": 0,
+      "caption": "\ud83c\udf80Hot Girl Walk for the win! \nI\u2019ve really been struggling moving my body but we got it done today! \nSmall steps! \n\nWalkin",
+      "hook_format": "other",
+      "views": 0,
+      "likes": 1,
+      "saves": 0,
+      "comments": 1,
+      "engagement_rate": 200.0,
+      "posted_date": "2026-04-07",
+      "hashtags": [
+        "#hotgirlwalk",
+        "#movementismedicine",
+        "#selfcare",
+        "#fitness",
+        "#selflove"
+      ],
+      "url": "https://www.instagram.com/p/DWz1tNQEWiu/"
+    },
+    {
+      "author": "@auromaaustralia",
+      "followers": 0,
+      "caption": "\ud83c\udf31 Carrot Seed Essential Oil \n\nNature\u2019s quiet powerhouse for skin & balance\n\nOften overlooked, Carrot Seed (Daucus carota",
+      "hook_format": "other",
+      "views": 0,
+      "likes": 1,
+      "saves": 0,
+      "comments": 1,
+      "engagement_rate": 200.0,
+      "posted_date": "2026-04-07",
+      "hashtags": [
+        "#aromatherapy",
+        "#auromaaustralia",
+        "#massageoils",
+        "#pureessentialoils",
+        "#wellness"
+      ],
+      "url": "https://www.instagram.com/p/DWz1Yq5Dbjh/"
+    },
+    {
+      "author": "@germany.tjkosmetika",
+      "followers": 0,
+      "caption": "\u041a\u043e\u043d\u0441\u0438\u043b\u043b\u0435\u0440 \u0422\u0440\u0435\u043d\u0434 \u0430\u043f\n\u041f\u043e\u043a\u0440\u044b\u0442\u0438\u044f \u043e\u0442\u043b\u0438\u0447\u043d\u043e\u0435\n\u0426\u0435\u043d\u0430:90\u0441\u043c",
+      "hook_format": "other",
+      "views": 0,
+      "likes": 2,
+      "saves": 0,
+      "comments": 1,
+      "engagement_rate": 150.0,
+      "posted_date": "2026-04-02",
+      "hashtags": [],
+      "url": "https://www.instagram.com/p/DWn3RjGgI0Y/"
+    },
+    {
+      "author": "@mfnailsstudio",
+      "followers": 0,
+      "caption": "Obsesionada con los reflejos de esta manicura. Seg\u00fan como le d\u00e9 la luz, parece que las u\u00f1as cobran vida. \ud83d\udcab\n\n#ManicuraPer",
+      "hook_format": "other",
+      "views": 0,
+      "likes": 5,
+      "saves": 0,
+      "comments": 0,
+      "engagement_rate": 100.0,
+      "posted_date": "2026-04-06",
+      "hashtags": [
+        "#ManicuraPerfecta",
+        "#NailStyle",
+        "#EsmalteMagnetico",
+        "#U\u00f1asCoj\u00edn",
+        "#BeautyTips"
+      ],
+      "url": "https://www.instagram.com/p/DWzxMdnFVKp/"
+    },
+    {
+      "author": "@soylodannails",
+      "followers": 0,
+      "caption": "\u2728 Mirada de impacto sin extensiones.\n\u200bLogra pesta\u00f1as m\u00e1s largas, curvas y naturales con nuestro Lash Lifting. Olvida el ",
+      "hook_format": "other",
+      "views": 0,
+      "likes": 1,
+      "saves": 0,
+      "comments": 0,
+      "engagement_rate": 100.0,
+      "posted_date": "2026-04-06",
+      "hashtags": [
+        "#LashLifting",
+        "#Pesta\u00f1asNaturales",
+        "#BeautyTips",
+        "#MiradaPerfecta"
+      ],
+      "url": "https://www.instagram.com/p/DWzsafJIKyn/"
+    },
+    {
+      "author": "@dr_beauty_guasave",
+      "followers": 0,
+      "caption": "Este kit para pigmentar tus cejas te da un acabado natural, f\u00e1cil y r\u00e1pido \ud83d\udc84\nSe acabaron las horas maquill\u00e1ndolas\n\ud83d\udc49\ud83c\udffbVen ",
+      "hook_format": "other",
+      "views": 0,
+      "likes": 9,
+      "saves": 0,
+      "comments": 0,
+      "engagement_rate": 100.0,
+      "posted_date": "2026-04-06",
+      "hashtags": [
+        "#DrBeauty",
+        "#CejasPerfectas",
+        "#BeautyTips",
+        "#MakeupEasy",
+        "#BeautyLovers"
+      ],
+      "url": "https://www.instagram.com/p/DWzrTY8DbFf/"
+    },
+    {
+      "author": "@bigencoloficial",
+      "followers": 0,
+      "caption": "Yo jurando que no me iba a manchar\u2026 \ud83d\udc40termino con media cara pintada \ud83d\ude02\nTranqui, tiene soluci\u00f3n \u2728\nY tip extra: la textura ",
+      "hook_format": "other",
+      "views": 0,
+      "likes": 1,
+      "saves": 0,
+      "comments": 0,
+      "engagement_rate": 100.0,
+      "posted_date": "2026-04-06",
+      "hashtags": [
+        "#Coloraci\u00f3n",
+        "#BeautyTips",
+        "#Cabello",
+        "#TipsDeBelleza"
+      ],
+      "url": "https://www.instagram.com/p/DWzqD1yET1C/"
+    },
+    {
+      "author": "@lasalleskincare",
+      "followers": 0,
+      "caption": "Try our new ultra moisturizing body oils. lasalleskincare.com #SkincareBrand #bodyoil #NaturalBeauty #SkincareAddict #Be",
+      "hook_format": "other",
+      "views": 0,
+      "likes": 1,
+      "saves": 0,
+      "comments": 0,
+      "engagement_rate": 100.0,
+      "posted_date": "2026-04-06",
+      "hashtags": [
+        "#SkincareBrand",
+        "#bodyoil",
+        "#NaturalBeauty",
+        "#SkincareAddict",
+        "#BeautyTips"
+      ],
+      "url": "https://www.instagram.com/p/DWyphxakQ47/"
+    }
+  ]
+}

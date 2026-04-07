@@ -1,0 +1,224 @@
+{
+  "platform": "X (Twitter)",
+  "platform_key": "x",
+  "month": "April",
+  "year": 2026,
+  "niche": "fitness",
+  "generated_at": "2026-04-07T02:30:52.081863",
+  "data_points_analyzed": 50,
+  "viral_posts_found": 50,
+  "hooks": [
+    {
+      "pattern": "Day X of...",
+      "example_count": 1,
+      "trend_pct": 70,
+      "example": "Day 11 of my challenge to make $100k in 100 days as a 15 year old founder building an AI startup."
+    },
+    {
+      "pattern": "3 things I wish I knew...",
+      "example_count": 1,
+      "trend_pct": 70,
+      "example": "5 reasons a cleaning business beats a startup:"
+    },
+    {
+      "pattern": "POV: you just...",
+      "example_count": 1,
+      "trend_pct": 70,
+      "example": "POV: you finally started using Lindy"
+    }
+  ],
+  "best_times": [],
+  "hashtags": [],
+  "formats": [
+    {
+      "name": "Before/after",
+      "trend_pct": 60,
+      "avg_engagement": 100.0,
+      "post_count": 1
+    },
+    {
+      "name": "Educational / tips",
+      "trend_pct": 120,
+      "avg_engagement": 4.1,
+      "post_count": 7
+    },
+    {
+      "name": "Challenge / trend",
+      "trend_pct": 60,
+      "avg_engagement": 3.8,
+      "post_count": 1
+    },
+    {
+      "name": "Question / engagement",
+      "trend_pct": 70,
+      "avg_engagement": 2.7,
+      "post_count": 2
+    },
+    {
+      "name": "Hot take / opinion",
+      "trend_pct": 60,
+      "avg_engagement": 2.5,
+      "post_count": 1
+    },
+    {
+      "name": "Story time / narrative",
+      "trend_pct": 60,
+      "avg_engagement": 1.6,
+      "post_count": 1
+    },
+    {
+      "name": "List / numbered",
+      "trend_pct": 60,
+      "avg_engagement": 1.6,
+      "post_count": 1
+    }
+  ],
+  "trending_sounds": [],
+  "insights": "Before/after content leads with 100.0% avg engagement. The \"Day X of...\" hook format appears in 1 viral posts. Average engagement rate across viral content: 5.3%.",
+  "top_posts": [
+    {
+      "author": "@ana_macko",
+      "followers": 22,
+      "caption": "#entrepreneur #mindset #transformation https://t.co/pLAA7ytoPH",
+      "hook_format": "other",
+      "views": 1,
+      "likes": 1,
+      "saves": 0,
+      "comments": 0,
+      "engagement_rate": 100.0,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [
+        "#entrepreneur",
+        "#mindset",
+        "#transformation"
+      ],
+      "url": "https://x.com/ana_macko/status/2041302059572486446"
+    },
+    {
+      "author": "@tec_sany",
+      "followers": 12206,
+      "caption": "9/ Financial Modeling & Unit Economics\n\nYou are a VP of Finance at a high-growth startup. I need a complete unit economi",
+      "hook_format": "other",
+      "views": 8,
+      "likes": 1,
+      "saves": 0,
+      "comments": 1,
+      "engagement_rate": 25.0,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/tec_sany/status/2041297391601783010"
+    },
+    {
+      "author": "@enrique_goudet",
+      "followers": 326,
+      "caption": "We built an llm knowledge base for our startup. It imports notion, call transcripts, slack and turns it into a wiki that",
+      "hook_format": "other",
+      "views": 19,
+      "likes": 2,
+      "saves": 0,
+      "comments": 0,
+      "engagement_rate": 15.79,
+      "posted_date": "Tue Apr 07",
+      "hashtags": [],
+      "url": "https://x.com/enrique_goudet/status/2041312853236588667"
+    },
+    {
+      "author": "@LindaGrass0",
+      "followers": 171715,
+      "caption": "\ud83d\udc40 Would you trust an influencer who doesn\u2019t actually exist?\n\nScroll your feed and you\u2019ll notice AI-generated influencers",
+      "hook_format": "other",
+      "views": 508,
+      "likes": 34,
+      "saves": 3,
+      "comments": 1,
+      "engagement_rate": 12.01,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/LindaGrass0/status/2041154633389703469"
+    },
+    {
+      "author": "@russellbrunson",
+      "followers": 127144,
+      "caption": "The entrepreneur who tells the best story wins, not the one with the best product.",
+      "hook_format": "other",
+      "views": 1089,
+      "likes": 59,
+      "saves": 8,
+      "comments": 34,
+      "engagement_rate": 9.55,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/russellbrunson/status/2041207312350609576"
+    },
+    {
+      "author": "@JasonBassler1",
+      "followers": 61191,
+      "caption": "Call me crazy but...\n\nMaybe the guy who was Jeffrey Epstein's business partner and preaches about the return of the \"ant",
+      "hook_format": "other",
+      "views": 614895,
+      "likes": 33893,
+      "saves": 2297,
+      "comments": 797,
+      "engagement_rate": 7.82,
+      "posted_date": "Sat Apr 04",
+      "hashtags": [],
+      "url": "https://x.com/JasonBassler1/status/2040467844350283821"
+    },
+    {
+      "author": "@sandykory",
+      "followers": 2843,
+      "caption": ".@sendcutsend might be the most underrated startup in America. It won't be for long. @jimbelosic has built a business th",
+      "hook_format": "other",
+      "views": 384,
+      "likes": 16,
+      "saves": 3,
+      "comments": 5,
+      "engagement_rate": 6.77,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/sandykory/status/2041160696499478836"
+    },
+    {
+      "author": "@calbucci",
+      "followers": 9803,
+      "caption": "6,000+ tech layoffs in Seattle. Amazon, Microsoft, Oracle, Meta.\n\nYou don't need permission to start a company. You don'",
+      "hook_format": "other",
+      "views": 139,
+      "likes": 6,
+      "saves": 0,
+      "comments": 2,
+      "engagement_rate": 6.47,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/calbucci/status/2041280257916104767"
+    },
+    {
+      "author": "@InvestingCanons",
+      "followers": 117471,
+      "caption": "\u201cI learned to go into business only with people whom I like, trust, and admire.\u201d\n\n\u2015 Warren Buffett https://t.co/rUuYKI9H",
+      "hook_format": "other",
+      "views": 15197,
+      "likes": 774,
+      "saves": 111,
+      "comments": 7,
+      "engagement_rate": 6.3,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/InvestingCanons/status/2041002204425748899"
+    },
+    {
+      "author": "@Akintola_steve",
+      "followers": 9260,
+      "caption": "Why your Nigerian startup backend feels like a danfo in Lagos traffic at rush hour.\n\nIt\u2019s not \u201cjust bugs.\u201d\n\nIt\u2019s the bru",
+      "hook_format": "other",
+      "views": 1448,
+      "likes": 32,
+      "saves": 27,
+      "comments": 4,
+      "engagement_rate": 4.83,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/Akintola_steve/status/2041207043344765106"
+    }
+  ]
+}

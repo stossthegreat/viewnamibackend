@@ -1,0 +1,437 @@
+{
+  "platform": "TikTok",
+  "platform_key": "tiktok",
+  "month": "April",
+  "year": 2026,
+  "niche": "fitness",
+  "generated_at": "2026-04-07T02:30:52.081863",
+  "data_points_analyzed": 50,
+  "viral_posts_found": 50,
+  "hooks": [],
+  "best_times": [
+    {
+      "day": "Monday",
+      "time": "0:00",
+      "engagement_avg": 16.0,
+      "sample_size": 5
+    },
+    {
+      "day": "Wednesday",
+      "time": "0:00",
+      "engagement_avg": 12.6,
+      "sample_size": 7
+    },
+    {
+      "day": "Sunday",
+      "time": "0:00",
+      "engagement_avg": 11.6,
+      "sample_size": 6
+    },
+    {
+      "day": "Tuesday",
+      "time": "0:00",
+      "engagement_avg": 11.3,
+      "sample_size": 9
+    },
+    {
+      "day": "Friday",
+      "time": "0:00",
+      "engagement_avg": 8.7,
+      "sample_size": 8
+    },
+    {
+      "day": "Saturday",
+      "time": "0:00",
+      "engagement_avg": 8.7,
+      "sample_size": 6
+    },
+    {
+      "day": "Thursday",
+      "time": "0:00",
+      "engagement_avg": 8.3,
+      "sample_size": 9
+    }
+  ],
+  "hashtags": [
+    {
+      "tag": "#gymtok",
+      "usage_count": 34,
+      "avg_views": 7681829,
+      "growth_pct": 340
+    },
+    {
+      "tag": "#fyp",
+      "usage_count": 18,
+      "avg_views": 9964738,
+      "growth_pct": 180
+    },
+    {
+      "tag": "#fitnesstiktok",
+      "usage_count": 18,
+      "avg_views": 1074050,
+      "growth_pct": 180
+    },
+    {
+      "tag": "#fitness",
+      "usage_count": 10,
+      "avg_views": 2374990,
+      "growth_pct": 100
+    },
+    {
+      "tag": "#fittok",
+      "usage_count": 9,
+      "avg_views": 3751355,
+      "growth_pct": 90
+    },
+    {
+      "tag": "#gym",
+      "usage_count": 8,
+      "avg_views": 11196762,
+      "growth_pct": 80
+    },
+    {
+      "tag": "#workout",
+      "usage_count": 7,
+      "avg_views": 4271657,
+      "growth_pct": 70
+    },
+    {
+      "tag": "#",
+      "usage_count": 5,
+      "avg_views": 5794820,
+      "growth_pct": 50
+    },
+    {
+      "tag": "#fyp\u30b7",
+      "usage_count": 5,
+      "avg_views": 2917920,
+      "growth_pct": 50
+    },
+    {
+      "tag": "#gymlife",
+      "usage_count": 4,
+      "avg_views": 863925,
+      "growth_pct": 40
+    },
+    {
+      "tag": "#foryou",
+      "usage_count": 4,
+      "avg_views": 6425000,
+      "growth_pct": 40
+    },
+    {
+      "tag": "#legday",
+      "usage_count": 4,
+      "avg_views": 4175000,
+      "growth_pct": 40
+    },
+    {
+      "tag": "#djsalmoney",
+      "usage_count": 3,
+      "avg_views": 6500000,
+      "growth_pct": 30
+    },
+    {
+      "tag": "#gymtips",
+      "usage_count": 3,
+      "avg_views": 4000000,
+      "growth_pct": 30
+    },
+    {
+      "tag": "#bodybuilding",
+      "usage_count": 3,
+      "avg_views": 6500000,
+      "growth_pct": 30
+    },
+    {
+      "tag": "#fitnesstips",
+      "usage_count": 3,
+      "avg_views": 939133,
+      "growth_pct": 30
+    },
+    {
+      "tag": "#gymcouple",
+      "usage_count": 2,
+      "avg_views": 2987050,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#mobility",
+      "usage_count": 2,
+      "avg_views": 5400000,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#parati",
+      "usage_count": 2,
+      "avg_views": 25850000,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#fit",
+      "usage_count": 2,
+      "avg_views": 5750000,
+      "growth_pct": 20
+    }
+  ],
+  "formats": [
+    {
+      "name": "Challenge / trend",
+      "trend_pct": 70,
+      "avg_engagement": 11.2,
+      "post_count": 2
+    },
+    {
+      "name": "Educational / tips",
+      "trend_pct": 170,
+      "avg_engagement": 10.1,
+      "post_count": 12
+    },
+    {
+      "name": "Before/after",
+      "trend_pct": 70,
+      "avg_engagement": 9.0,
+      "post_count": 2
+    },
+    {
+      "name": "Story time / narrative",
+      "trend_pct": 70,
+      "avg_engagement": 7.2,
+      "post_count": 2
+    }
+  ],
+  "trending_sounds": [
+    {
+      "name": "sonido original",
+      "usage_count": 2
+    },
+    {
+      "name": "Way 2 Sexy",
+      "usage_count": 2
+    },
+    {
+      "name": "Woman",
+      "usage_count": 1
+    },
+    {
+      "name": "Running Up That Hill (A Deal With God) [2018 Remaster]",
+      "usage_count": 1
+    },
+    {
+      "name": "billionaire",
+      "usage_count": 1
+    },
+    {
+      "name": "luther",
+      "usage_count": 1
+    },
+    {
+      "name": "HISS",
+      "usage_count": 1
+    },
+    {
+      "name": "Genesis - Slowed",
+      "usage_count": 1
+    }
+  ],
+  "insights": "Challenge / trend content leads with 11.2% avg engagement. Average engagement rate across viral content: 10.7%.",
+  "top_posts": [
+    {
+      "author": "@saraiyyah",
+      "followers": 6393,
+      "caption": "26 degrees outside but I dragged myself out of bed and went to the gym #gym #weightlossprogress #weightlossjouney #gymto",
+      "hook_format": "other",
+      "views": 1800000,
+      "likes": 452500,
+      "saves": 46930,
+      "comments": 1020,
+      "engagement_rate": 28.95,
+      "posted_date": "2025-01-13",
+      "hashtags": [
+        "#gym",
+        "#weightlossprogress",
+        "#weightlossjouney",
+        "#gymtok",
+        "#losingweight"
+      ],
+      "url": "https://www.tiktok.com/@saraiyyah/video/7459222867775933742"
+    },
+    {
+      "author": "@taylorhereid",
+      "followers": 289000,
+      "caption": "She provides instant motivation #fyp #gym #gymmemes #gymcouple #fitnessmeme #fitcouple #gymtok #fittok",
+      "hook_format": "other",
+      "views": 5900000,
+      "likes": 1100000,
+      "saves": 42788,
+      "comments": 2331,
+      "engagement_rate": 19.69,
+      "posted_date": "2022-07-04",
+      "hashtags": [
+        "#fyp",
+        "#gym",
+        "#gymmemes",
+        "#gymcouple",
+        "#fitnessmeme"
+      ],
+      "url": "https://www.tiktok.com/@taylorhereid/video/7116633293336137006"
+    },
+    {
+      "author": "@ryanreadthrive",
+      "followers": 1000000,
+      "caption": "1-2inches depending on your height! This will help! Yay! #hipthrust #fitness #fitnesstiktok",
+      "hook_format": "other",
+      "views": 895200,
+      "likes": 130900,
+      "saves": 24357,
+      "comments": 611,
+      "engagement_rate": 18.29,
+      "posted_date": "2020-12-30",
+      "hashtags": [
+        "#hipthrust",
+        "#fitness",
+        "#fitnesstiktok"
+      ],
+      "url": "https://www.tiktok.com/@ryanreadthrive/video/6912121091087437061"
+    },
+    {
+      "author": "@iamtrinitij",
+      "followers": 343400,
+      "caption": "The gym literally changed my life! #trinitij #gymtok #fitness #gymlife ",
+      "hook_format": "other",
+      "views": 1400000,
+      "likes": 210700,
+      "saves": 26198,
+      "comments": 2715,
+      "engagement_rate": 18.02,
+      "posted_date": "2024-12-15",
+      "hashtags": [
+        "#trinitij",
+        "#gymtok",
+        "#fitness",
+        "#gymlife"
+      ],
+      "url": "https://www.tiktok.com/@iamtrinitij/video/7448689878222671150"
+    },
+    {
+      "author": "@fitbodybyashley",
+      "followers": 229500,
+      "caption": "#ColorCustomizer dc: @Tracy Joseph #fitnesstiktok #tiktokfitnessgirl #dancefitness #workoutsforwomen #workoutathome",
+      "hook_format": "other",
+      "views": 4400000,
+      "likes": 735700,
+      "saves": 24825,
+      "comments": 3681,
+      "engagement_rate": 17.44,
+      "posted_date": "2021-09-12",
+      "hashtags": [
+        "#colorcustomizer",
+        "#",
+        "#fitnesstiktok",
+        "#tiktokfitnessgirl",
+        "#dancefitness"
+      ],
+      "url": "https://www.tiktok.com/@fitbodybyashley/video/7007141428736429317"
+    },
+    {
+      "author": "@leanbeefpatty",
+      "followers": 8400000,
+      "caption": "Yuh you got this \ud83d\udcaa\ud83d\udc9c #mobility #stretch #warmups #dynamicstretching #fittok #gymtok #weout #weactive",
+      "hook_format": "other",
+      "views": 2900000,
+      "likes": 351800,
+      "saves": 94222,
+      "comments": 1918,
+      "engagement_rate": 15.6,
+      "posted_date": "2022-06-08",
+      "hashtags": [
+        "#mobility",
+        "#stretch",
+        "#warmups",
+        "#dynamicstretching",
+        "#fittok"
+      ],
+      "url": "https://www.tiktok.com/@leanbeefpatty/video/7106937387611114798"
+    },
+    {
+      "author": "@gajuice",
+      "followers": 12300,
+      "caption": "DRILLS TO IMPROVE SPEED AND MECHANICS\u26a1\ufe0f #fyp #parati #workout #fitnesstiktok #trackandfield #athletics #fyi #footballwor",
+      "hook_format": "other",
+      "views": 1900000,
+      "likes": 212300,
+      "saves": 57535,
+      "comments": 1193,
+      "engagement_rate": 14.82,
+      "posted_date": "2021-06-01",
+      "hashtags": [
+        "#fyp",
+        "#parati",
+        "#workout",
+        "#fitnesstiktok",
+        "#trackandfield"
+      ],
+      "url": "https://www.tiktok.com/@gajuice/video/6968609201958423814"
+    },
+    {
+      "author": "@ana.fitness.vsg",
+      "followers": 590700,
+      "caption": "\ud83e\udd72 I just want to be normal! I never want to feel again like I'm in the way, worrying about if i will fit in a booth, in ",
+      "hook_format": "other",
+      "views": 15500000,
+      "likes": 2100000,
+      "saves": 51972,
+      "comments": 16300,
+      "engagement_rate": 14.03,
+      "posted_date": "2022-06-24",
+      "hashtags": [
+        "#fyp",
+        "#weightloss",
+        "#selflove",
+        "#vsg",
+        "#wls"
+      ],
+      "url": "https://www.tiktok.com/@ana.fitness.vsg/video/7112878731378593070"
+    },
+    {
+      "author": "@__byjohn",
+      "followers": 106400,
+      "caption": "BULGARIAN SPLIT SQUAT (hack) #bulgariansplitsquat #bulgariansplitsquathack #bulgariansplitsquattips #glutes #lunges #leg",
+      "hook_format": "other",
+      "views": 5100000,
+      "likes": 579900,
+      "saves": 93051,
+      "comments": 3221,
+      "engagement_rate": 13.5,
+      "posted_date": "2022-06-11",
+      "hashtags": [
+        "#bulgariansplitsquat",
+        "#bulgariansplitsquathack",
+        "#bulgariansplitsquattips",
+        "#glutes",
+        "#lunges"
+      ],
+      "url": "https://www.tiktok.com/@__byjohn/video/7108007908150988075"
+    },
+    {
+      "author": "@djsalmoney",
+      "followers": 460500,
+      "caption": "\u201cGet the chest over the bar, FIRST!\u201d \u270d\ud83c\udffd\ud83d\udd25 #foryou #fyp #gymtok #djsalmoney #gymtips #bodybuilding #fit #fittok #weightlos",
+      "hook_format": "other",
+      "views": 6400000,
+      "likes": 745200,
+      "saves": 87596,
+      "comments": 1616,
+      "engagement_rate": 13.14,
+      "posted_date": "2022-06-08",
+      "hashtags": [
+        "#foryou",
+        "#fyp",
+        "#gymtok",
+        "#djsalmoney",
+        "#gymtips"
+      ],
+      "url": "https://www.tiktok.com/@djsalmoney/video/7106994279339380014"
+    }
+  ]
+}

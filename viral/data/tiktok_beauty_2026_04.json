@@ -1,0 +1,424 @@
+{
+  "platform": "TikTok",
+  "platform_key": "tiktok",
+  "month": "April",
+  "year": 2026,
+  "niche": "beauty",
+  "generated_at": "2026-04-07T02:30:52.081863",
+  "data_points_analyzed": 50,
+  "viral_posts_found": 50,
+  "hooks": [],
+  "best_times": [
+    {
+      "day": "Friday",
+      "time": "0:00",
+      "engagement_avg": 15.8,
+      "sample_size": 7
+    },
+    {
+      "day": "Sunday",
+      "time": "0:00",
+      "engagement_avg": 13.6,
+      "sample_size": 2
+    },
+    {
+      "day": "Saturday",
+      "time": "0:00",
+      "engagement_avg": 12.7,
+      "sample_size": 2
+    },
+    {
+      "day": "Thursday",
+      "time": "0:00",
+      "engagement_avg": 12.6,
+      "sample_size": 10
+    },
+    {
+      "day": "Tuesday",
+      "time": "0:00",
+      "engagement_avg": 12.1,
+      "sample_size": 9
+    },
+    {
+      "day": "Monday",
+      "time": "0:00",
+      "engagement_avg": 11.7,
+      "sample_size": 11
+    },
+    {
+      "day": "Wednesday",
+      "time": "0:00",
+      "engagement_avg": 11.1,
+      "sample_size": 9
+    }
+  ],
+  "hashtags": [
+    {
+      "tag": "#startup",
+      "usage_count": 32,
+      "avg_views": 11993750,
+      "growth_pct": 320
+    },
+    {
+      "tag": "#smallbusiness",
+      "usage_count": 14,
+      "avg_views": 7183294,
+      "growth_pct": 140
+    },
+    {
+      "tag": "#fyp",
+      "usage_count": 10,
+      "avg_views": 4794673,
+      "growth_pct": 100
+    },
+    {
+      "tag": "#",
+      "usage_count": 9,
+      "avg_views": 18345043,
+      "growth_pct": 90
+    },
+    {
+      "tag": "#tiktokbusinesscampaign",
+      "usage_count": 7,
+      "avg_views": 35303,
+      "growth_pct": 70
+    },
+    {
+      "tag": "#entrepreneur",
+      "usage_count": 6,
+      "avg_views": 10868306,
+      "growth_pct": 60
+    },
+    {
+      "tag": "#foryou",
+      "usage_count": 5,
+      "avg_views": 13300000,
+      "growth_pct": 50
+    },
+    {
+      "tag": "#business",
+      "usage_count": 5,
+      "avg_views": 9563580,
+      "growth_pct": 50
+    },
+    {
+      "tag": "#cartok",
+      "usage_count": 3,
+      "avg_views": 6566666,
+      "growth_pct": 30
+    },
+    {
+      "tag": "#240sx",
+      "usage_count": 3,
+      "avg_views": 10866666,
+      "growth_pct": 30
+    },
+    {
+      "tag": "#jdm",
+      "usage_count": 3,
+      "avg_views": 10866666,
+      "growth_pct": 30
+    },
+    {
+      "tag": "#science",
+      "usage_count": 3,
+      "avg_views": 7435666,
+      "growth_pct": 30
+    },
+    {
+      "tag": "#foryoupage",
+      "usage_count": 3,
+      "avg_views": 5766666,
+      "growth_pct": 30
+    },
+    {
+      "tag": "#tech",
+      "usage_count": 3,
+      "avg_views": 19433333,
+      "growth_pct": 30
+    },
+    {
+      "tag": "#greenscreen",
+      "usage_count": 2,
+      "avg_views": 1853438,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#motivation",
+      "usage_count": 2,
+      "avg_views": 7500000,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#money",
+      "usage_count": 2,
+      "avg_views": 7500000,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#viral",
+      "usage_count": 2,
+      "avg_views": 7500000,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#rich",
+      "usage_count": 2,
+      "avg_views": 7500000,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#s13",
+      "usage_count": 2,
+      "avg_views": 12900000,
+      "growth_pct": 20
+    }
+  ],
+  "formats": [
+    {
+      "name": "Educational / tips",
+      "trend_pct": 120,
+      "avg_engagement": 11.5,
+      "post_count": 7
+    },
+    {
+      "name": "Question / engagement",
+      "trend_pct": 80,
+      "avg_engagement": 11.2,
+      "post_count": 3
+    }
+  ],
+  "trending_sounds": [
+    {
+      "name": "original sound - Ivy Entrepreneurs",
+      "usage_count": 2
+    },
+    {
+      "name": "Levels - Live Session",
+      "usage_count": 2
+    },
+    {
+      "name": "Rolling in the Deep",
+      "usage_count": 1
+    },
+    {
+      "name": "got nothing in my brain",
+      "usage_count": 1
+    },
+    {
+      "name": "Coffee for Your Head",
+      "usage_count": 1
+    },
+    {
+      "name": "Butter",
+      "usage_count": 1
+    },
+    {
+      "name": "Romantic Classical Piano Solo",
+      "usage_count": 1
+    },
+    {
+      "name": "Little Life",
+      "usage_count": 1
+    }
+  ],
+  "insights": "Educational / tips content leads with 11.5% avg engagement. Average engagement rate across viral content: 12.5%.",
+  "top_posts": [
+    {
+      "author": "@x_honeymoon_",
+      "followers": 51700,
+      "caption": "Responder a @sarlra #kdramas #fyp #squidgame #Kdrama #Lovealarm #sweethome #netflix #squidgamenetflix #startupkdrama #st",
+      "hook_format": "other",
+      "views": 4400000,
+      "likes": 996500,
+      "saves": 61576,
+      "comments": 3791,
+      "engagement_rate": 24.24,
+      "posted_date": "2021-09-30",
+      "hashtags": [
+        "#",
+        "#kdramas",
+        "#fyp",
+        "#squidgame",
+        "#kdrama"
+      ],
+      "url": "https://www.tiktok.com/@x_honeymoon_/video/7013860268753177861"
+    },
+    {
+      "author": "@justinkan",
+      "followers": 346800,
+      "caption": "Reply to @kevinbacon18 did we sell too soon?? #greenscreen #twitch #startup",
+      "hook_format": "other",
+      "views": 3700000,
+      "likes": 734400,
+      "saves": 12807,
+      "comments": 4101,
+      "engagement_rate": 20.45,
+      "posted_date": "2021-02-08",
+      "hashtags": [
+        "#",
+        "#greenscreen",
+        "#twitch",
+        "#startup"
+      ],
+      "url": "https://www.tiktok.com/@justinkan/video/6926712137494596870"
+    },
+    {
+      "author": "@jinlvrr",
+      "followers": 515000,
+      "caption": "#thelastempress#goblin#truebeauty#startup#wtwoworlds#kdramaedit#drakor#jinlvrr#kdrama",
+      "hook_format": "other",
+      "views": 9400000,
+      "likes": 1700000,
+      "saves": 147492,
+      "comments": 5467,
+      "engagement_rate": 19.89,
+      "posted_date": "2022-01-07",
+      "hashtags": [
+        "#thelastempress",
+        "#goblin",
+        "#truebeauty",
+        "#startup",
+        "#wtwoworlds"
+      ],
+      "url": "https://www.tiktok.com/@jinlvrr/video/7050572533338279174"
+    },
+    {
+      "author": "@ivyentrepreneurs",
+      "followers": 36500,
+      "caption": "your wings are more capable than you think #fyp #foryou #motivation #money #entrepreneur #startup #viral #rich",
+      "hook_format": "other",
+      "views": 5400000,
+      "likes": 863200,
+      "saves": 124467,
+      "comments": 1222,
+      "engagement_rate": 19.13,
+      "posted_date": "2025-07-26",
+      "hashtags": [
+        "#fyp",
+        "#foryou",
+        "#motivation",
+        "#money",
+        "#entrepreneur"
+      ],
+      "url": "https://www.tiktok.com/@ivyentrepreneurs/video/7531505871126351126"
+    },
+    {
+      "author": "@foxandrobin",
+      "followers": 64500,
+      "caption": "It\u2019s a Gen Z world, I\u2019m just their millennial boss #genz #millenialboss #millenialsoftiktok #startup",
+      "hook_format": "other",
+      "views": 18500000,
+      "likes": 3200000,
+      "saves": 112660,
+      "comments": 19000,
+      "engagement_rate": 18.63,
+      "posted_date": "2022-03-24",
+      "hashtags": [
+        "#genz",
+        "#millenialboss",
+        "#millenialsoftiktok",
+        "#startup"
+      ],
+      "url": "https://www.tiktok.com/@foxandrobin/video/7078464924996881707"
+    },
+    {
+      "author": "@jenuinelyidk",
+      "followers": 15500,
+      "caption": "Okayyyy let\u2019s go #carplayhack #applecarplay #carplay #startup #meme #fyp #trending ",
+      "hook_format": "other",
+      "views": 6200000,
+      "likes": 1000000,
+      "saves": 60192,
+      "comments": 2699,
+      "engagement_rate": 18.61,
+      "posted_date": "2025-07-16",
+      "hashtags": [
+        "#carplayhack",
+        "#applecarplay",
+        "#carplay",
+        "#startup",
+        "#meme"
+      ],
+      "url": "https://www.tiktok.com/@jenuinelyidk/video/7527680592947793207"
+    },
+    {
+      "author": "@jennabees_garage",
+      "followers": 60700,
+      "caption": "Does grandpa have taste? #dodge #classic #restorationprojects #barnfind #fyp #cartok #muscle #classiccar #mopar #moparno",
+      "hook_format": "other",
+      "views": 5800000,
+      "likes": 915400,
+      "saves": 106216,
+      "comments": 2809,
+      "engagement_rate": 18.37,
+      "posted_date": "2023-05-08",
+      "hashtags": [
+        "#dodge",
+        "#classic",
+        "#restorationprojects",
+        "#barnfind",
+        "#fyp"
+      ],
+      "url": "https://www.tiktok.com/@jennabees_garage/video/7230727664670297390"
+    },
+    {
+      "author": "@myglow2",
+      "followers": 301600,
+      "caption": "How we pack our orders. \ud83d\udc8c #smallbusiness #startup #ecommerce #beauty #australia #sidehustle #packingorders",
+      "hook_format": "other",
+      "views": 9000000,
+      "likes": 1600000,
+      "saves": 41690,
+      "comments": 2567,
+      "engagement_rate": 18.34,
+      "posted_date": "2020-06-05",
+      "hashtags": [
+        "#smallbusiness",
+        "#startup",
+        "#ecommerce",
+        "#beauty",
+        "#australia"
+      ],
+      "url": "https://www.tiktok.com/@myglow2/video/6834688155975683334"
+    },
+    {
+      "author": "@allycase1",
+      "followers": 165800,
+      "caption": "Had one full day in SF and this is all I really wanted to do #startup #siliconvalley #layover",
+      "hook_format": "other",
+      "views": 12000000,
+      "likes": 2100000,
+      "saves": 43569,
+      "comments": 7109,
+      "engagement_rate": 18.16,
+      "posted_date": "2021-06-14",
+      "hashtags": [
+        "#startup",
+        "#siliconvalley",
+        "#layover"
+      ],
+      "url": "https://www.tiktok.com/@allycase1/video/6973451463972474117"
+    },
+    {
+      "author": "@ivyentrepreneurs",
+      "followers": 36500,
+      "caption": "the beauty in starting over #fyp #foryou #motivation #money #entrepreneur #startup #viral #rich",
+      "hook_format": "other",
+      "views": 9600000,
+      "likes": 1500000,
+      "saves": 145108,
+      "comments": 2443,
+      "engagement_rate": 17.74,
+      "posted_date": "2025-07-25",
+      "hashtags": [
+        "#fyp",
+        "#foryou",
+        "#motivation",
+        "#money",
+        "#entrepreneur"
+      ],
+      "url": "https://www.tiktok.com/@ivyentrepreneurs/video/7531116376245816598"
+    }
+  ]
+}

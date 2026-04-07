@@ -1,0 +1,190 @@
+{
+  "platform": "X (Twitter)",
+  "platform_key": "x",
+  "month": "April",
+  "year": 2026,
+  "niche": "tech",
+  "generated_at": "2026-04-07T02:30:52.081863",
+  "data_points_analyzed": 50,
+  "viral_posts_found": 50,
+  "hooks": [
+    {
+      "pattern": "Unpopular opinion:",
+      "example_count": 1,
+      "trend_pct": 70,
+      "example": "unpopular opinion: 16GB is plenty if software engineers actually cared about memory efficiency. chrome eating 4GB for 12 tabs is not a hardware problem its a software disgrace. docker consuming 2GB id"
+    }
+  ],
+  "best_times": [],
+  "hashtags": [],
+  "formats": [
+    {
+      "name": "Hot take / opinion",
+      "trend_pct": 60,
+      "avg_engagement": 3.0,
+      "post_count": 1
+    },
+    {
+      "name": "Challenge / trend",
+      "trend_pct": 60,
+      "avg_engagement": 3.0,
+      "post_count": 1
+    },
+    {
+      "name": "Question / engagement",
+      "trend_pct": 60,
+      "avg_engagement": 2.6,
+      "post_count": 1
+    },
+    {
+      "name": "Educational / tips",
+      "trend_pct": 70,
+      "avg_engagement": 1.7,
+      "post_count": 2
+    }
+  ],
+  "trending_sounds": [],
+  "insights": "Hot take / opinion content leads with 3.0% avg engagement. The \"Unpopular opinion:\" hook format appears in 1 viral posts. Average engagement rate across viral content: 4.6%.",
+  "top_posts": [
+    {
+      "author": "@uruto_ai_01",
+      "followers": 3430,
+      "caption": "@serena_ailab \u4eca\u307e\u3067\u306f\u4eba\u9593\u304c\u631f\u307e\u3063\u3066\u305f\u3051\u3069\u305d\u3053\u3092AI\u306b\u5909\u3048\u3066\u3044\u304f\u304c\u4eca\u5e74\u306e\u52d5\u304d\u306a\u3093\u3067\u3059\u306d\u3047\u3002\u3069\u3053\u307e\u3067\u4eca\u5e74\u306f\u9032\u5316\u3059\u308b\u306e\u304b\u697d\u3057\u307f\u3067\u3059\u306d\u3002",
+      "hook_format": "other",
+      "views": 3,
+      "likes": 1,
+      "saves": 0,
+      "comments": 0,
+      "engagement_rate": 33.33,
+      "posted_date": "Tue Apr 07",
+      "hashtags": [],
+      "url": "https://x.com/uruto_ai_01/status/2041309523458338946"
+    },
+    {
+      "author": "@LifeNetwork_AI",
+      "followers": 65862,
+      "caption": "\ud83c\udf10 Community Question: With soaring investment and valuations in AI, is the AI bubble real or a myth?\n\nViewpoint A: The A",
+      "hook_format": "other",
+      "views": 67555,
+      "likes": 3642,
+      "saves": 8,
+      "comments": 10113,
+      "engagement_rate": 24.68,
+      "posted_date": "Sat Mar 28",
+      "hashtags": [],
+      "url": "https://x.com/LifeNetwork_AI/status/2037824518425547135"
+    },
+    {
+      "author": "@_LoloTarot",
+      "followers": 376,
+      "caption": "@Veveeangelous_ Ai amg \u00e9 u\u00f3 quando a gente pega uma marmoteira assim n\u00e9",
+      "hook_format": "other",
+      "views": 10,
+      "likes": 1,
+      "saves": 0,
+      "comments": 1,
+      "engagement_rate": 20.0,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/_LoloTarot/status/2041304298772988342"
+    },
+    {
+      "author": "@ghumare64",
+      "followers": 85688,
+      "caption": "@hasantoxr If someone wants to start from scratch\nhttps://t.co/akCmJxZRAZ",
+      "hook_format": "other",
+      "views": 11,
+      "likes": 1,
+      "saves": 1,
+      "comments": 0,
+      "engagement_rate": 18.18,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/ghumare64/status/2041304877737893899"
+    },
+    {
+      "author": "@riyazmd774",
+      "followers": 112684,
+      "caption": "This is the first time AI feels like a real operator, not a tool.\n\nLindy:\n\u2022 prepares your meetings\n\u2022 sends messages mid-",
+      "hook_format": "other",
+      "views": 102,
+      "likes": 8,
+      "saves": 7,
+      "comments": 0,
+      "engagement_rate": 16.67,
+      "posted_date": "Tue Apr 07",
+      "hashtags": [],
+      "url": "https://x.com/riyazmd774/status/2041309111246348376"
+    },
+    {
+      "author": "@bradcarryvc",
+      "followers": 8774,
+      "caption": "Told my family I\u2019m leaving for a business trip this week \n\nBut really, I checked into a hotel 2 miles away so I could ca",
+      "hook_format": "other",
+      "views": 6,
+      "likes": 1,
+      "saves": 0,
+      "comments": 0,
+      "engagement_rate": 16.67,
+      "posted_date": "Tue Apr 07",
+      "hashtags": [],
+      "url": "https://x.com/bradcarryvc/status/2041310119976202490"
+    },
+    {
+      "author": "@Q_Portal_",
+      "followers": 3092,
+      "caption": "\u91cf\u5b50\u00d7HPC\u3067\u65e5\u4ecf\u9023\u643a\u304c\u52a0\u901f\u3002\n\u65e5\u4ecf\u79d1\u5b66\u6280\u8853\u5354\u529b\u5408\u540c\u59d4\u54e1\u4f1a\u306bR-CCS\u304c\u51fa\u5e2d\u3057\u3001\u91cf\u5b50\u6280\u8853\u3084AI\u5206\u91ce\u306e\u5354\u529b\u3092\u8b70\u8ad6\u3057\u307e\u3057\u305f\u3002\nCEA\u3068\u306e\u9023\u643a\u3084\u91cf\u5b50HPC\u7814\u7a76\u306e\u9032\u5c55\u3001\u56fd\u969b\u5171\u540c\u7814\u7a76\u306e\u53ef\u80fd\u6027\u3092\u5831\u544a\u3002\n\u4eca\u5f8c\u3082\u5148\u7aef\u8a08\u7b97\u79d1\u5b66\u3067\u56fd\u969b\u9023\u643a\u3092\u63a8\u9032\u3057\u307e\u3059\u3002\n\nht",
+      "hook_format": "other",
+      "views": 7,
+      "likes": 1,
+      "saves": 0,
+      "comments": 0,
+      "engagement_rate": 14.29,
+      "posted_date": "Tue Apr 07",
+      "hashtags": [],
+      "url": "https://x.com/Q_Portal_/status/2041310425619591536"
+    },
+    {
+      "author": "@IndianTechGuide",
+      "followers": 923136,
+      "caption": "\ud83d\udea8 Amul becomes first Indian FMCG company to hit Rs 1 trillion turnover. https://t.co/atgI0xEF3s",
+      "hook_format": "other",
+      "views": 102335,
+      "likes": 6533,
+      "saves": 142,
+      "comments": 106,
+      "engagement_rate": 7.06,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/IndianTechGuide/status/2041116225887985990"
+    },
+    {
+      "author": "@TechLayoffLover",
+      "followers": 42027,
+      "caption": "**MICROSOFT JUST BUTCHERED 10,000 WORKERS THEN HIRED THEM BACK AS CONTRACTORS WITHOUT BENEFITS FOR 40% LESS PAY**\n\nSatya",
+      "hook_format": "other",
+      "views": 148449,
+      "likes": 5505,
+      "saves": 528,
+      "comments": 255,
+      "engagement_rate": 6.03,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/TechLayoffLover/status/2040957849631633538"
+    },
+    {
+      "author": "@ZssBecker",
+      "followers": 1348687,
+      "caption": "Metals are done running.\n\nAi stocks are overpriced.\n\nInflation is popping back up.\n\nAnd crypto is hitting turbo main str",
+      "hook_format": "other",
+      "views": 35187,
+      "likes": 1701,
+      "saves": 41,
+      "comments": 227,
+      "engagement_rate": 5.85,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/ZssBecker/status/2041275112662442154"
+    }
+  ]
+}

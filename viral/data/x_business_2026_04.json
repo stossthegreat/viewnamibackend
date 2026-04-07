@@ -1,0 +1,190 @@
+{
+  "platform": "X (Twitter)",
+  "platform_key": "x",
+  "month": "April",
+  "year": 2026,
+  "niche": "business",
+  "generated_at": "2026-04-07T02:30:52.081863",
+  "data_points_analyzed": 50,
+  "viral_posts_found": 50,
+  "hooks": [
+    {
+      "pattern": "3 things I wish I knew...",
+      "example_count": 1,
+      "trend_pct": 70,
+      "example": "5 reasons a cleaning business beats a startup:"
+    }
+  ],
+  "best_times": [],
+  "hashtags": [],
+  "formats": [
+    {
+      "name": "Educational / tips",
+      "trend_pct": 110,
+      "avg_engagement": 2.4,
+      "post_count": 6
+    },
+    {
+      "name": "Story time / narrative",
+      "trend_pct": 60,
+      "avg_engagement": 1.6,
+      "post_count": 1
+    },
+    {
+      "name": "List / numbered",
+      "trend_pct": 60,
+      "avg_engagement": 1.6,
+      "post_count": 1
+    },
+    {
+      "name": "Question / engagement",
+      "trend_pct": 60,
+      "avg_engagement": 0.6,
+      "post_count": 1
+    }
+  ],
+  "trending_sounds": [],
+  "insights": "Educational / tips content leads with 2.4% avg engagement. The \"3 things I wish I knew...\" hook format appears in 1 viral posts. Average engagement rate across viral content: 2.7%.",
+  "top_posts": [
+    {
+      "author": "@tec_sany",
+      "followers": 12206,
+      "caption": "9/ Financial Modeling & Unit Economics\n\nYou are a VP of Finance at a high-growth startup. I need a complete unit economi",
+      "hook_format": "other",
+      "views": 8,
+      "likes": 1,
+      "saves": 0,
+      "comments": 1,
+      "engagement_rate": 25.0,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/tec_sany/status/2041297391601783010"
+    },
+    {
+      "author": "@evielync",
+      "followers": 28345,
+      "caption": "A few people told me if I did a full walkthrough of my AI Chief of Staff setup in Claude Code they would watch it.\n\nSo I",
+      "hook_format": "other",
+      "views": 74,
+      "likes": 4,
+      "saves": 1,
+      "comments": 3,
+      "engagement_rate": 10.81,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/evielync/status/2041303104118005798"
+    },
+    {
+      "author": "@DanDePetris",
+      "followers": 15588,
+      "caption": "Trump\u2019s top two goals in the war: \n\n(1) No Iranian nuclear weapon. \n\n(2) The Strait of Hormuz is open for business.\n\nJus",
+      "hook_format": "other",
+      "views": 987517,
+      "likes": 79701,
+      "saves": 1233,
+      "comments": 959,
+      "engagement_rate": 9.84,
+      "posted_date": "Fri Mar 27",
+      "hashtags": [],
+      "url": "https://x.com/DanDePetris/status/2037660295443669163"
+    },
+    {
+      "author": "@JasonBassler1",
+      "followers": 61189,
+      "caption": "Call me crazy but...\n\nMaybe the guy who was Jeffrey Epstein's business partner and preaches about the return of the \"ant",
+      "hook_format": "other",
+      "views": 614666,
+      "likes": 33895,
+      "saves": 2295,
+      "comments": 797,
+      "engagement_rate": 7.82,
+      "posted_date": "Sat Apr 04",
+      "hashtags": [],
+      "url": "https://x.com/JasonBassler1/status/2040467844350283821"
+    },
+    {
+      "author": "@pcshipp",
+      "followers": 5426,
+      "caption": "1% idea, 99% execution that\u2019s a startup",
+      "hook_format": "other",
+      "views": 6141,
+      "likes": 264,
+      "saves": 19,
+      "comments": 91,
+      "engagement_rate": 6.48,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/pcshipp/status/2041112366038044706"
+    },
+    {
+      "author": "@AfiaDimple_",
+      "followers": 78005,
+      "caption": "Girls are just hitting 35 these days, no marriage, no strong business, no savings just wig and itel phone \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+      "hook_format": "other",
+      "views": 42064,
+      "likes": 1588,
+      "saves": 57,
+      "comments": 174,
+      "engagement_rate": 5.04,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/AfiaDimple_/status/2041132141241676111"
+    },
+    {
+      "author": "@iam_smx",
+      "followers": 171238,
+      "caption": "When BlackRock CEO Larry Fink publicly defended Elon Musk, pushing back against the myths and criticism surrounding Elon",
+      "hook_format": "other",
+      "views": 13520,
+      "likes": 521,
+      "saves": 35,
+      "comments": 30,
+      "engagement_rate": 4.81,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/iam_smx/status/2041122775788572891"
+    },
+    {
+      "author": "@robertoblake",
+      "followers": 116682,
+      "caption": "Studying 100,000 long form YouTube Videos across multiple niches (directly from the official YouTube API) \n\nVideos perfo",
+      "hook_format": "other",
+      "views": 808,
+      "likes": 21,
+      "saves": 9,
+      "comments": 3,
+      "engagement_rate": 4.21,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/robertoblake/status/2041189841417695406"
+    },
+    {
+      "author": "@himanshustwts",
+      "followers": 26248,
+      "caption": "if the recipe for good RL + reasoning is no longer locked inside 5 frontier labs, then a new class of entity might becom",
+      "hook_format": "other",
+      "views": 16319,
+      "likes": 300,
+      "saves": 247,
+      "comments": 20,
+      "engagement_rate": 3.53,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/himanshustwts/status/2041121785807343623"
+    },
+    {
+      "author": "@tomfgoodwin",
+      "followers": 55035,
+      "caption": "Not to be boring. \n\nBut it seems like most things are about double what they cost in 2019, often more \n\nAnd pretty much ",
+      "hook_format": "other",
+      "views": 171131,
+      "likes": 5130,
+      "saves": 139,
+      "comments": 224,
+      "engagement_rate": 3.31,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/tomfgoodwin/status/2041166537495642555"
+    }
+  ]
+}

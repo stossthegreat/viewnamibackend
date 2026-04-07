@@ -1,0 +1,189 @@
+{
+  "platform": "X (Twitter)",
+  "platform_key": "x",
+  "month": "April",
+  "year": 2026,
+  "niche": "finance",
+  "generated_at": "2026-04-07T02:30:52.081863",
+  "data_points_analyzed": 50,
+  "viral_posts_found": 50,
+  "hooks": [],
+  "best_times": [],
+  "hashtags": [],
+  "formats": [
+    {
+      "name": "Story time / narrative",
+      "trend_pct": 60,
+      "avg_engagement": 10.0,
+      "post_count": 1
+    },
+    {
+      "name": "Educational / tips",
+      "trend_pct": 70,
+      "avg_engagement": 6.7,
+      "post_count": 2
+    },
+    {
+      "name": "Question / engagement",
+      "trend_pct": 70,
+      "avg_engagement": 1.2,
+      "post_count": 2
+    },
+    {
+      "name": "Hot take / opinion",
+      "trend_pct": 60,
+      "avg_engagement": 0.8,
+      "post_count": 1
+    },
+    {
+      "name": "Challenge / trend",
+      "trend_pct": 60,
+      "avg_engagement": 0.6,
+      "post_count": 1
+    }
+  ],
+  "trending_sounds": [],
+  "insights": "Story time / narrative content leads with 10.0% avg engagement. Average engagement rate across viral content: 6.1%.",
+  "top_posts": [
+    {
+      "author": "@treyofAFC",
+      "followers": 21,
+      "caption": "@hivorra pls sir I need your help financially I needed some money so badly Sept 2025 I had to borrow some money and I ha",
+      "hook_format": "other",
+      "views": 2,
+      "likes": 1,
+      "saves": 0,
+      "comments": 0,
+      "engagement_rate": 50.0,
+      "posted_date": "Tue Apr 07",
+      "hashtags": [],
+      "url": "https://x.com/treyofAFC/status/2041318266388250983"
+    },
+    {
+      "author": "@GIGME01",
+      "followers": 20407,
+      "caption": "@legbo_ @_yeminiz Making money and fame",
+      "hook_format": "other",
+      "views": 34,
+      "likes": 7,
+      "saves": 0,
+      "comments": 2,
+      "engagement_rate": 26.47,
+      "posted_date": "Tue Apr 07",
+      "hashtags": [],
+      "url": "https://x.com/GIGME01/status/2041317111260188922"
+    },
+    {
+      "author": "@William72324863",
+      "followers": 1719,
+      "caption": "@thehill WAR CRIMINAL!!! THIS SCUMBAG HAS BEEN COMMITTING CRIMES HIS WHOLE LIFE INCLUDING RAPING WOMEN AND PROBABLY 14 Y",
+      "hook_format": "other",
+      "views": 13,
+      "likes": 2,
+      "saves": 0,
+      "comments": 0,
+      "engagement_rate": 23.08,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/William72324863/status/2041303901320659365"
+    },
+    {
+      "author": "@TheStocksKing",
+      "followers": 2729,
+      "caption": "@Brownmoose It has its place but it's not the holy grail especially not in this niche community we have here.\n\nWe put in",
+      "hook_format": "other",
+      "views": 10,
+      "likes": 1,
+      "saves": 0,
+      "comments": 1,
+      "engagement_rate": 20.0,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/TheStocksKing/status/2041303884111483106"
+    },
+    {
+      "author": "@imoneymantra",
+      "followers": 205340,
+      "caption": "Big money is finding you\u2026 \ud83d\udcb8\u2728\n\nNot luck - alignment. Not chance - destiny.\n\nYour bank balance is about to surprise you.\n\n",
+      "hook_format": "other",
+      "views": 175,
+      "likes": 18,
+      "saves": 0,
+      "comments": 7,
+      "engagement_rate": 15.43,
+      "posted_date": "Tue Apr 07",
+      "hashtags": [],
+      "url": "https://x.com/imoneymantra/status/2041314577959493833"
+    },
+    {
+      "author": "@ZubyMusic",
+      "followers": 1291393,
+      "caption": "Nobody is more materialistic and obsessed with money than people who 'hate capitalism'.\n\nAlways talking about money and ",
+      "hook_format": "other",
+      "views": 56935,
+      "likes": 6002,
+      "saves": 112,
+      "comments": 180,
+      "engagement_rate": 12.15,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/ZubyMusic/status/2041183400913244350"
+    },
+    {
+      "author": "@iamannapepe",
+      "followers": 164498,
+      "caption": "signs most likely to receive unexpected money this week:\n\n- Aries\n- Leo\n- Sagittarius \n- Capricorn\n- Libra\n- Taurus",
+      "hook_format": "other",
+      "views": 1121,
+      "likes": 114,
+      "saves": 5,
+      "comments": 2,
+      "engagement_rate": 11.24,
+      "posted_date": "Tue Apr 07",
+      "hashtags": [],
+      "url": "https://x.com/iamannapepe/status/2041308143808893299"
+    },
+    {
+      "author": "@1ssve",
+      "followers": 6234,
+      "caption": "Adulting is so strange. You can avoid spending money for a week and end up spending all the money you saved that week in",
+      "hook_format": "other",
+      "views": 579800,
+      "likes": 51971,
+      "saves": 1572,
+      "comments": 255,
+      "engagement_rate": 11.14,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/1ssve/status/2041147156883714180"
+    },
+    {
+      "author": "@ModernDayInves",
+      "followers": 5032,
+      "caption": "When I was growing up, going to Olive Garden was eating at a Michelin \u2b50\ufe0f restaurant.\n\nBoy was I lied to \ud83e\udd23",
+      "hook_format": "other",
+      "views": 10,
+      "likes": 1,
+      "saves": 0,
+      "comments": 0,
+      "engagement_rate": 10.0,
+      "posted_date": "Tue Apr 07",
+      "hashtags": [],
+      "url": "https://x.com/ModernDayInves/status/2041317774123991451"
+    },
+    {
+      "author": "@baljitsingh",
+      "followers": 213,
+      "caption": "@Etherealize_io Smart Contracts -&gt; Smart World Computer -&gt; Ultrasound Money -&gt; QR Finance System\n\nBasically a m",
+      "hook_format": "other",
+      "views": 23,
+      "likes": 2,
+      "saves": 0,
+      "comments": 0,
+      "engagement_rate": 8.7,
+      "posted_date": "Mon Apr 06",
+      "hashtags": [],
+      "url": "https://x.com/baljitsingh/status/2041304460925059402"
+    }
+  ]
+}

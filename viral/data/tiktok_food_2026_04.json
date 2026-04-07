@@ -1,0 +1,439 @@
+{
+  "platform": "TikTok",
+  "platform_key": "tiktok",
+  "month": "April",
+  "year": 2026,
+  "niche": "food",
+  "generated_at": "2026-04-07T02:30:52.081863",
+  "data_points_analyzed": 50,
+  "viral_posts_found": 50,
+  "hooks": [],
+  "best_times": [
+    {
+      "day": "Monday",
+      "time": "0:00",
+      "engagement_avg": 12.2,
+      "sample_size": 5
+    },
+    {
+      "day": "Saturday",
+      "time": "0:00",
+      "engagement_avg": 10.9,
+      "sample_size": 7
+    },
+    {
+      "day": "Friday",
+      "time": "0:00",
+      "engagement_avg": 10.8,
+      "sample_size": 3
+    },
+    {
+      "day": "Wednesday",
+      "time": "0:00",
+      "engagement_avg": 10.2,
+      "sample_size": 8
+    },
+    {
+      "day": "Tuesday",
+      "time": "0:00",
+      "engagement_avg": 9.8,
+      "sample_size": 10
+    },
+    {
+      "day": "Thursday",
+      "time": "0:00",
+      "engagement_avg": 9.1,
+      "sample_size": 9
+    },
+    {
+      "day": "Sunday",
+      "time": "0:00",
+      "engagement_avg": 9.0,
+      "sample_size": 8
+    }
+  ],
+  "hashtags": [
+    {
+      "tag": "#foodie",
+      "usage_count": 24,
+      "avg_views": 14829595,
+      "growth_pct": 240
+    },
+    {
+      "tag": "#foodtok",
+      "usage_count": 24,
+      "avg_views": 5986125,
+      "growth_pct": 240
+    },
+    {
+      "tag": "#",
+      "usage_count": 10,
+      "avg_views": 8413580,
+      "growth_pct": 100
+    },
+    {
+      "tag": "#food",
+      "usage_count": 9,
+      "avg_views": 19966666,
+      "growth_pct": 90
+    },
+    {
+      "tag": "#foodtiktok",
+      "usage_count": 9,
+      "avg_views": 25300000,
+      "growth_pct": 90
+    },
+    {
+      "tag": "#fyp",
+      "usage_count": 9,
+      "avg_views": 12849855,
+      "growth_pct": 90
+    },
+    {
+      "tag": "#recipes",
+      "usage_count": 6,
+      "avg_views": 7952000,
+      "growth_pct": 60
+    },
+    {
+      "tag": "#viral",
+      "usage_count": 5,
+      "avg_views": 6540000,
+      "growth_pct": 50
+    },
+    {
+      "tag": "#easyrecipes",
+      "usage_count": 5,
+      "avg_views": 7422400,
+      "growth_pct": 50
+    },
+    {
+      "tag": "#mukbangeatingshow",
+      "usage_count": 4,
+      "avg_views": 3804025,
+      "growth_pct": 40
+    },
+    {
+      "tag": "#mukbang",
+      "usage_count": 4,
+      "avg_views": 15188300,
+      "growth_pct": 40
+    },
+    {
+      "tag": "#learnontiktok",
+      "usage_count": 4,
+      "avg_views": 29624675,
+      "growth_pct": 40
+    },
+    {
+      "tag": "#chicken",
+      "usage_count": 3,
+      "avg_views": 7933333,
+      "growth_pct": 30
+    },
+    {
+      "tag": "#fyp\u30b7",
+      "usage_count": 3,
+      "avg_views": 4900000,
+      "growth_pct": 30
+    },
+    {
+      "tag": "#burger",
+      "usage_count": 3,
+      "avg_views": 7333333,
+      "growth_pct": 30
+    },
+    {
+      "tag": "#asmr",
+      "usage_count": 3,
+      "avg_views": 20700000,
+      "growth_pct": 30
+    },
+    {
+      "tag": "#asmrfood",
+      "usage_count": 3,
+      "avg_views": 1769200,
+      "growth_pct": 30
+    },
+    {
+      "tag": "#cooking",
+      "usage_count": 3,
+      "avg_views": 9176000,
+      "growth_pct": 30
+    },
+    {
+      "tag": "#dinnerideas",
+      "usage_count": 2,
+      "avg_views": 9400000,
+      "growth_pct": 20
+    },
+    {
+      "tag": "#nycfood",
+      "usage_count": 2,
+      "avg_views": 1282800,
+      "growth_pct": 20
+    }
+  ],
+  "formats": [
+    {
+      "name": "Story time / narrative",
+      "trend_pct": 60,
+      "avg_engagement": 12.5,
+      "post_count": 1
+    },
+    {
+      "name": "Question / engagement",
+      "trend_pct": 70,
+      "avg_engagement": 9.8,
+      "post_count": 2
+    },
+    {
+      "name": "Educational / tips",
+      "trend_pct": 120,
+      "avg_engagement": 8.8,
+      "post_count": 7
+    },
+    {
+      "name": "Challenge / trend",
+      "trend_pct": 80,
+      "avg_engagement": 5.4,
+      "post_count": 3
+    }
+  ],
+  "trending_sounds": [
+    {
+      "name": "Love You So",
+      "usage_count": 2
+    },
+    {
+      "name": "I only have eyes for you",
+      "usage_count": 1
+    },
+    {
+      "name": "Yonaguni",
+      "usage_count": 1
+    },
+    {
+      "name": "Cute pop comical songs",
+      "usage_count": 1
+    },
+    {
+      "name": "Ghibli-style nostalgic waltz",
+      "usage_count": 1
+    },
+    {
+      "name": "BILLIE EILISH.",
+      "usage_count": 1
+    },
+    {
+      "name": "Selfcare-demo",
+      "usage_count": 1
+    },
+    {
+      "name": "Moonlite Love",
+      "usage_count": 1
+    }
+  ],
+  "insights": "Story time / narrative content leads with 12.5% avg engagement. Average engagement rate across viral content: 10.1%.",
+  "top_posts": [
+    {
+      "author": "@codychows",
+      "followers": 2200000,
+      "caption": "Red Chickz \ud83d\udd25 #chicken #mukbangeatingshow #Foodie #fyp\u30b7 #viral ",
+      "hook_format": "other",
+      "views": 6200000,
+      "likes": 1000000,
+      "saves": 94653,
+      "comments": 4443,
+      "engagement_rate": 23.9,
+      "posted_date": "2026-02-18",
+      "hashtags": [
+        "#chicken",
+        "#mukbangeatingshow",
+        "#foodie",
+        "#fyp\u30b7",
+        "#viral"
+      ],
+      "url": "https://www.tiktok.com/@codychows/video/7608308196406512927"
+    },
+    {
+      "author": "@codychows",
+      "followers": 2200000,
+      "caption": "The best bar food in NJ \ud83c\udf54 #burger #mukbangeatingshow #Foodie #fyp\u30b7 #viral ",
+      "hook_format": "other",
+      "views": 7400000,
+      "likes": 1100000,
+      "saves": 113301,
+      "comments": 4124,
+      "engagement_rate": 21.35,
+      "posted_date": "2026-02-09",
+      "hashtags": [
+        "#burger",
+        "#mukbangeatingshow",
+        "#foodie",
+        "#fyp\u30b7",
+        "#viral"
+      ],
+      "url": "https://www.tiktok.com/@codychows/video/7604970286651297055"
+    },
+    {
+      "author": "@thesapor",
+      "followers": 512100,
+      "caption": "Cowboy butter steak sliders \u2728\ud83c\udf54\n\nIngredients \nSteak\n- 2 pounds ribeye or sirloin steak, sliced into strips\n- 2 tsp Worces",
+      "hook_format": "other",
+      "views": 5000000,
+      "likes": 568000,
+      "saves": 180158,
+      "comments": 969,
+      "engagement_rate": 18.08,
+      "posted_date": "2026-03-28",
+      "hashtags": [
+        "#recipes",
+        "#dinnerideas",
+        "#sliders",
+        "#steakrecipe",
+        "#foodideas"
+      ],
+      "url": "https://www.tiktok.com/@thesapor/video/7622409192434879757"
+    },
+    {
+      "author": "@alexandra_lourdes",
+      "followers": 2700000,
+      "caption": "What if this actually happened \ud83d\ude33\ud83d\ude36 #donut #donutshop #vegas #vegastiktok #food #foodtok #badbunny #smallbusiness #womenow",
+      "hook_format": "other",
+      "views": 4400000,
+      "likes": 763000,
+      "saves": 15976,
+      "comments": 5191,
+      "engagement_rate": 17.92,
+      "posted_date": "2022-03-27",
+      "hashtags": [
+        "#donut",
+        "#donutshop",
+        "#vegas",
+        "#vegastiktok",
+        "#food"
+      ],
+      "url": "https://www.tiktok.com/@alexandra_lourdes/video/7079563178769747246"
+    },
+    {
+      "author": "@karissaeats",
+      "followers": 4800000,
+      "caption": "Chocolate dumplings!!! #nycfood#chinesefood#ramen#dumplings#foodie ",
+      "hook_format": "other",
+      "views": 965600,
+      "likes": 160800,
+      "saves": 4213,
+      "comments": 144,
+      "engagement_rate": 17.18,
+      "posted_date": "2026-04-04",
+      "hashtags": [
+        "#nycfood",
+        "#chinesefood",
+        "#ramen",
+        "#dumplings",
+        "#foodie"
+      ],
+      "url": "https://www.tiktok.com/@karissaeats/video/7625050750082649374"
+    },
+    {
+      "author": "@karissaeats",
+      "followers": 4800000,
+      "caption": "Pesto gnocchi fried chicken! #nycfood#friedchicken#eating#foodie",
+      "hook_format": "other",
+      "views": 1600000,
+      "likes": 231800,
+      "saves": 10339,
+      "comments": 220,
+      "engagement_rate": 15.4,
+      "posted_date": "2026-03-25",
+      "hashtags": [
+        "#nycfood",
+        "#friedchicken",
+        "#eating",
+        "#foodie"
+      ],
+      "url": "https://www.tiktok.com/@karissaeats/video/7621336737318489374"
+    },
+    {
+      "author": "@brittneeciara",
+      "followers": 481000,
+      "caption": "Never buying mayo again. \u201cOh, this? Just a bit of homemade mayo\u201d sounds so extra when in actuality, this took me less th",
+      "hook_format": "other",
+      "views": 15700000,
+      "likes": 1900000,
+      "saves": 415760,
+      "comments": 8257,
+      "engagement_rate": 15.21,
+      "posted_date": "2022-08-08",
+      "hashtags": [
+        "#homemade",
+        "#homecooking",
+        "#homemademayo",
+        "#homemademayonnaise",
+        "#mayorecipe"
+      ],
+      "url": "https://www.tiktok.com/@brittneeciara/video/7129629509506141483"
+    },
+    {
+      "author": "@codychows",
+      "followers": 2200000,
+      "caption": "Dominican smash burgers \ud83c\udf54\ud83d\udd25 #burger #mukbangeatingshow #Foodie #fyp\u30b7 #viral ",
+      "hook_format": "other",
+      "views": 1100000,
+      "likes": 137200,
+      "saves": 16060,
+      "comments": 471,
+      "engagement_rate": 15.18,
+      "posted_date": "2026-03-31",
+      "hashtags": [
+        "#burger",
+        "#mukbangeatingshow",
+        "#foodie",
+        "#fyp\u30b7",
+        "#viral"
+      ],
+      "url": "https://www.tiktok.com/@codychows/video/7623512642161823006"
+    },
+    {
+      "author": "@lizastian",
+      "followers": 5700000,
+      "caption": "I love this idea \ud83d\ude0d\ud83c\udf6c\ud83c\udf6a\ud83c\udf6b#foodtiktok #foodtok #food #candy credit: @fitwaffle",
+      "hook_format": "other",
+      "views": 6300000,
+      "likes": 896900,
+      "saves": 37073,
+      "comments": 2364,
+      "engagement_rate": 14.91,
+      "posted_date": "2022-04-01",
+      "hashtags": [
+        "#foodtiktok",
+        "#foodtok",
+        "#food",
+        "#candy",
+        "#"
+      ],
+      "url": "https://www.tiktok.com/@lizastian/video/7081753864193461510"
+    },
+    {
+      "author": "@chipsinasandwich",
+      "followers": 746200,
+      "caption": "Breakfast biscuits and gravy bombs! Sorry I\u2019ve been so MIA! I\u2019ve been working away on the release of my first cook book ",
+      "hook_format": "other",
+      "views": 23400000,
+      "likes": 2500000,
+      "saves": 564681,
+      "comments": 7170,
+      "engagement_rate": 14.27,
+      "posted_date": "2022-07-14",
+      "hashtags": [
+        "#recipes",
+        "#cookbook",
+        "#fyp",
+        "#foodie",
+        "#primedaydreamdeals"
+      ],
+      "url": "https://www.tiktok.com/@chipsinasandwich/video/7120044900577496366"
+    }
+  ]
+}

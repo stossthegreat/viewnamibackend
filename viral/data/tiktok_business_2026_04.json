@@ -1,0 +1,438 @@
+{
+  "platform": "TikTok",
+  "platform_key": "tiktok",
+  "month": "April",
+  "year": 2026,
+  "niche": "business",
+  "generated_at": "2026-04-07T02:30:52.081863",
+  "data_points_analyzed": 46,
+  "viral_posts_found": 46,
+  "hooks": [
+    {
+      "pattern": "The truth about...",
+      "example_count": 1,
+      "trend_pct": 71,
+      "example": "The truth is\u2026 the best way to GROW your money isn\u2019t as fun or instant as you want it to be \ud83d\udcb8"
+    }
+  ],
+  "best_times": [
+    {
+      "day": "Tuesday",
+      "time": "0:00",
+      "engagement_avg": 14.7,
+      "sample_size": 5
+    },
+    {
+      "day": "Monday",
+      "time": "0:00",
+      "engagement_avg": 11.7,
+      "sample_size": 14
+    },
+    {
+      "day": "Sunday",
+      "time": "0:00",
+      "engagement_avg": 10.8,
+      "sample_size": 9
+    },
+    {
+      "day": "Thursday",
+      "time": "0:00",
+      "engagement_avg": 10.4,
+      "sample_size": 8
+    },
+    {
+      "day": "Friday",
+      "time": "0:00",
+      "engagement_avg": 9.7,
+      "sample_size": 4
+    },
+    {
+      "day": "Saturday",
+      "time": "0:00",
+      "engagement_avg": 9.0,
+      "sample_size": 5
+    }
+  ],
+  "hashtags": [
+    {
+      "tag": "#entrepreneur",
+      "usage_count": 22,
+      "avg_views": 1328459,
+      "growth_pct": 239
+    },
+    {
+      "tag": "#fyp",
+      "usage_count": 12,
+      "avg_views": 632214,
+      "growth_pct": 130
+    },
+    {
+      "tag": "#",
+      "usage_count": 6,
+      "avg_views": 567250,
+      "growth_pct": 65
+    },
+    {
+      "tag": "#motivation",
+      "usage_count": 4,
+      "avg_views": 329079,
+      "growth_pct": 43
+    },
+    {
+      "tag": "#dropshipping",
+      "usage_count": 4,
+      "avg_views": 2350750,
+      "growth_pct": 43
+    },
+    {
+      "tag": "#ecommerce",
+      "usage_count": 4,
+      "avg_views": 2350750,
+      "growth_pct": 43
+    },
+    {
+      "tag": "#business",
+      "usage_count": 4,
+      "avg_views": 159512,
+      "growth_pct": 43
+    },
+    {
+      "tag": "#onlinebusiness",
+      "usage_count": 4,
+      "avg_views": 1604075,
+      "growth_pct": 43
+    },
+    {
+      "tag": "#realestate",
+      "usage_count": 3,
+      "avg_views": 1606100,
+      "growth_pct": 32
+    },
+    {
+      "tag": "#internetmoney",
+      "usage_count": 3,
+      "avg_views": 2189600,
+      "growth_pct": 32
+    },
+    {
+      "tag": "#entrepreneurship",
+      "usage_count": 3,
+      "avg_views": 1547033,
+      "growth_pct": 32
+    },
+    {
+      "tag": "#success",
+      "usage_count": 3,
+      "avg_views": 434985,
+      "growth_pct": 32
+    },
+    {
+      "tag": "#sidehustle",
+      "usage_count": 3,
+      "avg_views": 85900,
+      "growth_pct": 32
+    },
+    {
+      "tag": "#moneytok",
+      "usage_count": 3,
+      "avg_views": 1204433,
+      "growth_pct": 32
+    },
+    {
+      "tag": "#smallbusiness",
+      "usage_count": 3,
+      "avg_views": 985209,
+      "growth_pct": 32
+    },
+    {
+      "tag": "#makemoney",
+      "usage_count": 2,
+      "avg_views": 858600,
+      "growth_pct": 21
+    },
+    {
+      "tag": "#contentcreator",
+      "usage_count": 2,
+      "avg_views": 201358,
+      "growth_pct": 21
+    },
+    {
+      "tag": "#lifeadvice",
+      "usage_count": 2,
+      "avg_views": 7250000,
+      "growth_pct": 21
+    },
+    {
+      "tag": "#ecommercebusiness",
+      "usage_count": 2,
+      "avg_views": 3100000,
+      "growth_pct": 21
+    },
+    {
+      "tag": "#entrepreneurtok",
+      "usage_count": 2,
+      "avg_views": 717300,
+      "growth_pct": 21
+    }
+  ],
+  "formats": [
+    {
+      "name": "Challenge / trend",
+      "trend_pct": 60,
+      "avg_engagement": 22.2,
+      "post_count": 1
+    },
+    {
+      "name": "Hot take / opinion",
+      "trend_pct": 60,
+      "avg_engagement": 14.1,
+      "post_count": 1
+    },
+    {
+      "name": "Story time / narrative",
+      "trend_pct": 60,
+      "avg_engagement": 13.2,
+      "post_count": 1
+    },
+    {
+      "name": "Question / engagement",
+      "trend_pct": 71,
+      "avg_engagement": 10.4,
+      "post_count": 2
+    },
+    {
+      "name": "Educational / tips",
+      "trend_pct": 136,
+      "avg_engagement": 8.8,
+      "post_count": 8
+    }
+  ],
+  "trending_sounds": [
+    {
+      "name": "Trade of Hearts - Instrumental",
+      "usage_count": 1
+    },
+    {
+      "name": "original sound - Evan Carmichael",
+      "usage_count": 1
+    },
+    {
+      "name": "Samuel Snell Young Successful Kid",
+      "usage_count": 1
+    },
+    {
+      "name": "Who You Are (Vocals Only)",
+      "usage_count": 1
+    },
+    {
+      "name": "ominous",
+      "usage_count": 1
+    },
+    {
+      "name": "even the sky doesn't answer",
+      "usage_count": 1
+    },
+    {
+      "name": "Mysterious and sad BGM(1120058)",
+      "usage_count": 1
+    },
+    {
+      "name": "Covered By God",
+      "usage_count": 1
+    }
+  ],
+  "insights": "Challenge / trend content leads with 22.2% avg engagement. The \"The truth about...\" hook format appears in 1 viral posts. Average engagement rate across viral content: 11.0%.",
+  "top_posts": [
+    {
+      "author": "@tysonsmithrei",
+      "followers": 127800,
+      "caption": "The quixkest way to make $20,000 a month WITH your best friend #makemoney #realestate #foryou ",
+      "hook_format": "other",
+      "views": 1700000,
+      "likes": 257400,
+      "saves": 158282,
+      "comments": 3524,
+      "engagement_rate": 29.24,
+      "posted_date": "2024-06-25",
+      "hashtags": [
+        "#makemoney",
+        "#realestate",
+        "#foryou"
+      ],
+      "url": "https://www.tiktok.com/@tysonsmithrei/video/7384468346189663530"
+    },
+    {
+      "author": "@itsevetterenee_",
+      "followers": 13300,
+      "caption": "my first $20K month as a creator \ud83d\ude4c\ud83c\udffe 3 years in the making!\n\n#contentcreator #enterprenuerlife #motivation #softlifedisci",
+      "hook_format": "other",
+      "views": 7217,
+      "likes": 1675,
+      "saves": 60,
+      "comments": 69,
+      "engagement_rate": 25.29,
+      "posted_date": "2026-04-06",
+      "hashtags": [
+        "#contentcreator",
+        "#enterprenuerlife",
+        "#motivation",
+        "#softlifediscipline"
+      ],
+      "url": "https://www.tiktok.com/@itsevetterenee_/video/7625630538367307038"
+    },
+    {
+      "author": "@brezscalesads",
+      "followers": 41900,
+      "caption": "it\u2019s all mental\n@brezscales \n\n#brezscales #youngentrepreneur #internetmoney #motivation #fyp ",
+      "hook_format": "other",
+      "views": 68800,
+      "likes": 13400,
+      "saves": 2761,
+      "comments": 27,
+      "engagement_rate": 24.6,
+      "posted_date": "2026-04-02",
+      "hashtags": [
+        "#",
+        "#brezscales",
+        "#youngentrepreneur",
+        "#internetmoney",
+        "#motivation"
+      ],
+      "url": "https://www.tiktok.com/@brezscalesads/video/7624265516936383766"
+    },
+    {
+      "author": "@jacqueline_vagar",
+      "followers": 291700,
+      "caption": "I hope this reaches the right person \ud83e\udef6\ud83c\udffb#entrepreneur #lifeadvice #lifeadvicetiktok #lifeadviceforwomen #ecommercebusines",
+      "hook_format": "other",
+      "views": 3500000,
+      "likes": 578000,
+      "saves": 227784,
+      "comments": 2245,
+      "engagement_rate": 23.51,
+      "posted_date": "2024-07-29",
+      "hashtags": [
+        "#entrepreneur",
+        "#lifeadvice",
+        "#lifeadvicetiktok",
+        "#lifeadviceforwomen",
+        "#ecommercebusiness"
+      ],
+      "url": "https://www.tiktok.com/@jacqueline_vagar/video/7397145126692326702"
+    },
+    {
+      "author": "@lo_silver",
+      "followers": 241000,
+      "caption": "10 rules rich business owners live by that brokie entrepreneurs hate:\n\n1. solve one problem for one person\ni stopped try",
+      "hook_format": "other",
+      "views": 48900,
+      "likes": 6229,
+      "saves": 3369,
+      "comments": 141,
+      "engagement_rate": 22.18,
+      "posted_date": "2026-03-15",
+      "hashtags": [],
+      "url": "https://www.tiktok.com/@lo_silver/video/7617502677295009055"
+    },
+    {
+      "author": "@siffhaider",
+      "followers": 165200,
+      "caption": "Replying to @nicole desch\u00eanes how to build a multimillion dollar brand. These are the top 5 things I\u2019d recommend everyon",
+      "hook_format": "other",
+      "views": 1200000,
+      "likes": 120600,
+      "saves": 61211,
+      "comments": 1211,
+      "engagement_rate": 15.94,
+      "posted_date": "2024-06-06",
+      "hashtags": [
+        "#",
+        "#",
+        "#entrepreneurship",
+        "#entrepreneurtok",
+        "#careeradvice"
+      ],
+      "url": "https://www.tiktok.com/@siffhaider/video/7377431075812920594"
+    },
+    {
+      "author": "@theschoolofhardknocks",
+      "followers": 6200000,
+      "caption": "The plumbing BILLIONAIRE \ud83e\udd2f I interviewed billionaire entrepreneur @Sir Richard Harpin in London and I asked him how he g",
+      "hook_format": "other",
+      "views": 499200,
+      "likes": 63500,
+      "saves": 10324,
+      "comments": 322,
+      "engagement_rate": 15.31,
+      "posted_date": "2026-04-06",
+      "hashtags": [
+        "#",
+        "#wealth",
+        "#entrepreneur",
+        "#financialfreedom",
+        "#motivation"
+      ],
+      "url": "https://www.tiktok.com/@theschoolofhardknocks/video/7625699632215051550"
+    },
+    {
+      "author": "@evancarmichael",
+      "followers": 1600000,
+      "caption": "Entrepreneurs, This Is What You Need to Hear\nSuccess in business isn\u2019t about your product \u2014 it\u2019s about transformation. P",
+      "hook_format": "other",
+      "views": 741100,
+      "likes": 70800,
+      "saves": 24846,
+      "comments": 1117,
+      "engagement_rate": 14.08,
+      "posted_date": "2025-12-28",
+      "hashtags": [
+        "#motivationalquotes",
+        "#motivation",
+        "#inspirational",
+        "#lifeadvices",
+        "#entrepreneurs"
+      ],
+      "url": "https://www.tiktok.com/@evancarmichael/video/7588722682015862036"
+    },
+    {
+      "author": "@jparkecom",
+      "followers": 120700,
+      "caption": "Here\u2019s exactly how you can start a 6 figure online business #fyp #entrepreneur #dropshipping #ecommerce #success ",
+      "hook_format": "other",
+      "views": 1300000,
+      "likes": 94100,
+      "saves": 71532,
+      "comments": 3394,
+      "engagement_rate": 13.54,
+      "posted_date": "2026-01-03",
+      "hashtags": [
+        "#fyp",
+        "#entrepreneur",
+        "#dropshipping",
+        "#ecommerce",
+        "#success"
+      ],
+      "url": "https://www.tiktok.com/@jparkecom/video/7590937476932341047"
+    },
+    {
+      "author": "@therealbrendenstein",
+      "followers": 174400,
+      "caption": "Create your own story #mentor #wifimoney #richtok #ecommerce #dropshipping #entrepreneur #luxurylife #internetmoney #you",
+      "hook_format": "other",
+      "views": 4500000,
+      "likes": 528300,
+      "saves": 69329,
+      "comments": 2226,
+      "engagement_rate": 13.49,
+      "posted_date": "2023-04-04",
+      "hashtags": [
+        "#mentor",
+        "#wifimoney",
+        "#richtok",
+        "#ecommerce",
+        "#dropshipping"
+      ],
+      "url": "https://www.tiktok.com/@therealbrendenstein/video/7218290569011809542"
+    }
+  ]
+}
