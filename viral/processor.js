@@ -50,8 +50,9 @@ export function processViralData(platformKey, rawPosts, niche = "general") {
   console.log(`   ✅ Normalized: ${normalized.length} posts`);
 
   // 2. Filter — only keep viral posts
-  const viral = filterViral(normalized, config.viralThreshold);
-  console.log(`   ✅ Viral threshold passed: ${viral.length} posts`);
+  // Keep ALL posts — with only 50 per scrape, every post is useful
+  const viral = normalized;
+  console.log(`   ✅ Keeping all ${viral.length} posts (no threshold with small scrapes)`);
 
   // 3. Rank by engagement rate
   const ranked = rankByEngagement(viral);
