@@ -321,8 +321,9 @@ export async function runFullScrape() {
     }
 
     // Normalize
+    const { normalizePost: universalNormalize } = await import('./normalizer.js');
     const normalized = rawPosts
-      .map(p => normalizePost(p, job.platform))
+      .map(p => universalNormalize(p, job.platform))
       .filter(p => p !== null);
 
     // Process
