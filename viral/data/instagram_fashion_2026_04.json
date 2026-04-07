@@ -4,476 +4,458 @@
   "month": "April",
   "year": 2026,
   "niche": "fashion",
-  "generated_at": "2026-04-07T21:19:04.870888",
-  "data_points_analyzed": 100,
-  "viral_posts_found": 100,
-  "hooks": [],
-  "best_times": [
+  "generated_at": "2026-04-07T23:44:53.202256",
+  "data_points_analyzed": 300,
+  "viral_posts_found": 199,
+  "hooks": [
     {
-      "day": "Monday",
-      "time": "Peak",
-      "engagement_avg": 100.0,
-      "sample_size": 3
+      "pattern": "How to",
+      "example_count": 3,
+      "example": "how to style jorts \ud83e\udee1\ud83c\udf31"
     },
     {
-      "day": "Tuesday",
-      "time": "Peak",
-      "engagement_avg": 36.9,
-      "sample_size": 95
+      "pattern": "POV",
+      "example_count": 2,
+      "example": "POV: When you meet someone just as weird as you \ud83d\udc69\ud83c\udffb\u200d\ud83e\udd1d\u200d\ud83d\udc69\ud83c\udffc\ud83e\udd42\u2728"
+    },
+    {
+      "pattern": "X things/tips",
+      "example_count": 1,
+      "example": "16 ways to style White Polin Skirt for spring/summer 2026"
     }
   ],
+  "best_times": [],
   "hashtags": [
     {
-      "tag": "#fashion",
-      "usage_count": 98,
-      "avg_views": 4
-    },
-    {
-      "tag": "#moda",
-      "usage_count": 12,
-      "avg_views": 0
-    },
-    {
-      "tag": "#fyp",
-      "usage_count": 7,
-      "avg_views": 1
-    },
-    {
-      "tag": "#streetwear",
-      "usage_count": 6,
-      "avg_views": 3
-    },
-    {
-      "tag": "#love",
-      "usage_count": 6,
-      "avg_views": 33
-    },
-    {
-      "tag": "#menswear",
-      "usage_count": 6,
-      "avg_views": 0
-    },
-    {
       "tag": "#ootd",
-      "usage_count": 5,
-      "avg_views": 5
+      "usage_count": 104
     },
     {
-      "tag": "#photooftheday",
-      "usage_count": 5,
-      "avg_views": 40
-    },
-    {
-      "tag": "#instagram",
-      "usage_count": 5,
-      "avg_views": 0
-    },
-    {
-      "tag": "#model",
-      "usage_count": 5,
-      "avg_views": 1
+      "tag": "#outfit",
+      "usage_count": 63
     },
     {
       "tag": "#style",
-      "usage_count": 5,
-      "avg_views": 0
+      "usage_count": 48
     },
     {
-      "tag": "#fashionista",
-      "usage_count": 4,
-      "avg_views": 0
+      "tag": "#fashion",
+      "usage_count": 37
     },
     {
-      "tag": "#photography",
-      "usage_count": 4,
-      "avg_views": 1
+      "tag": "#fyp",
+      "usage_count": 14
     },
     {
-      "tag": "#summer",
-      "usage_count": 4,
-      "avg_views": 0
+      "tag": "#grwm",
+      "usage_count": 13
     },
     {
-      "tag": "#foryou",
-      "usage_count": 4,
-      "avg_views": 0
-    },
-    {
-      "tag": "#look",
-      "usage_count": 4,
-      "avg_views": 0
-    },
-    {
-      "tag": "#shopping",
-      "usage_count": 4,
-      "avg_views": 0
-    },
-    {
-      "tag": "#instagood",
-      "usage_count": 3,
-      "avg_views": 65
-    },
-    {
-      "tag": "#zara",
-      "usage_count": 3,
-      "avg_views": 0
+      "tag": "#explore",
+      "usage_count": 13
     },
     {
       "tag": "#outfitinspo",
-      "usage_count": 3,
-      "avg_views": 0
-    },
-    {
-      "tag": "#design",
-      "usage_count": 3,
-      "avg_views": 0
-    },
-    {
-      "tag": "#clothing",
-      "usage_count": 3,
-      "avg_views": 0
-    },
-    {
-      "tag": "#art",
-      "usage_count": 3,
-      "avg_views": 0
+      "usage_count": 11
     },
     {
       "tag": "#trending",
-      "usage_count": 3,
-      "avg_views": 0
+      "usage_count": 11
     },
     {
-      "tag": "#sportswear",
-      "usage_count": 2,
-      "avg_views": 0
-    }
-  ],
-  "formats": [
-    {
-      "name": "Review / recommendation",
-      "avg_engagement": 100.0,
-      "post_count": 1
+      "tag": "#reels",
+      "usage_count": 11
     },
     {
-      "name": "Challenge / trend",
-      "avg_engagement": -16.7,
-      "post_count": 6
+      "tag": "#outfitinspiration",
+      "usage_count": 9
+    },
+    {
+      "tag": "#viral",
+      "usage_count": 9
+    },
+    {
+      "tag": "#outfitoftheday",
+      "usage_count": 8
+    },
+    {
+      "tag": "#outfits",
+      "usage_count": 7
+    },
+    {
+      "tag": "#fashionstyle",
+      "usage_count": 6
+    },
+    {
+      "tag": "#instagram",
+      "usage_count": 6
+    },
+    {
+      "tag": "#instagood",
+      "usage_count": 6
+    },
+    {
+      "tag": "#travel",
+      "usage_count": 5
+    },
+    {
+      "tag": "#fitcheck",
+      "usage_count": 5
+    },
+    {
+      "tag": "#love",
+      "usage_count": 5
+    },
+    {
+      "tag": "#moda",
+      "usage_count": 5
+    },
+    {
+      "tag": "#styleinspo",
+      "usage_count": 5
+    },
+    {
+      "tag": "#outfitideas",
+      "usage_count": 5
+    },
+    {
+      "tag": "#ootdfashion",
+      "usage_count": 5
+    },
+    {
+      "tag": "#inspo",
+      "usage_count": 4
     }
   ],
+  "formats": [],
   "trending_sounds": [],
-  "insights": "Review / recommendation content leads with 100.0% avg engagement. Avg engagement: 40.0%. 100 posts analyzed.",
+  "insights": "199 Instagram reels. Avg 26,325 views, 944 likes.",
   "top_posts": [
     {
-      "author": "@_jakemaskell",
+      "author": "@mingddo_h",
       "followers": 0,
-      "caption": "Per usual",
-      "views": 0,
+      "caption": "In hongkong\ud83c\udded\ud83c\uddf0\n\ud64d\ucf69 ootd \ubaa8\uc74c\uc9d1\u2764\ufe0f\n\n#travel #hongkong #ootd #outfit",
+      "views": 194529,
+      "likes": 6777,
+      "comments": 27,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.5,
+      "hashtags": [
+        "#travel",
+        "#hongkong",
+        "#ootd",
+        "#outfit"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyHKzbEYsa/"
+    },
+    {
+      "author": "@mingddo_h",
+      "followers": 0,
+      "caption": "In hongkong\ud83c\udded\ud83c\uddf0\n\ud64d\ucf69 ootd \ubaa8\uc74c\uc9d1\u2764\ufe0f\n\n#travel #hongkong #ootd #outfit",
+      "views": 194524,
+      "likes": 6777,
+      "comments": 27,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.5,
+      "hashtags": [
+        "#travel",
+        "#hongkong",
+        "#ootd",
+        "#outfit"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyHKzbEYsa/"
+    },
+    {
+      "author": "@elainamich",
+      "followers": 0,
+      "caption": "A few outfits I wore on vacation in Barbados \ud83e\udd0d\ud83c\udf3a\ud83d\udc1a\ud83d\udc59\ud83e\udd65 sorry for the quality the lighting was not the best \ud83e\udee3 which is your fav? \n.\n.\n.\n.\n#outfits #ootd #outfitinspo #vacation #grwm explore\nSummer outfit i",
+      "views": 183563,
       "likes": -1,
-      "comments": 7,
+      "comments": 86,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 600.0,
-      "hashtags": [],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW15dETCIQm/"
-    },
-    {
-      "author": "@adearx_sports",
-      "followers": 0,
-      "caption": "Custom flag football uniforms premium quality sublimation process #sportswear #gymwear #activewear #fashion #fitness",
-      "views": 0,
-      "likes": 1,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 200.0,
+      "engagement_rate": 0.05,
       "hashtags": [
-        "#sportswear",
-        "#gymwear",
-        "#activewear",
-        "#fashion",
-        "#fitness"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW17Fo0jN5Q/"
-    },
-    {
-      "author": "@pelejoez",
-      "followers": 0,
-      "caption": "@warr_____ahmad @jjvear #flanel #fashion #editorial",
-      "views": 0,
-      "likes": 2,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 150.0,
-      "hashtags": [
-        "#flanel",
-        "#fashion",
-        "#editorial"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW17DfXEm8l/"
-    },
-    {
-      "author": "@eleanore.k123",
-      "followers": 0,
-      "caption": "Only Peace\u262e\ufe0f\ud83c\uddef\ud83c\uddf2",
-      "views": 0,
-      "likes": 13,
-      "comments": 3,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 123.08,
-      "hashtags": [],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW16DGCCSCV/"
-    },
-    {
-      "author": "@fashion_beba",
-      "followers": 0,
-      "caption": "\u0627\u0637\u0644\u0627\u0644\u0629 \u062a\u064a\u0645\u0627 \u0639\u0627\u0628\u062f \ud83d\ude0d\u2665\ufe0f \u0648\u0627\u0648 \u0627\u0644\u0627\u062d\u0645\u0631 \u0645\u0627\u064a\u063a\u0631\u0632 \n\u0631\u0627\u064a\u0643\u0645 \u061f\n.\n.\n.\n#\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 #\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0647 #ksa",
-      "views": 0,
-      "likes": 5,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 120.0,
-      "hashtags": [
-        "#\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
-        "#\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0647",
-        "#ksa"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW17G-ojURr/"
-    },
-    {
-      "author": "@itsjust.lemo",
-      "followers": 0,
-      "caption": "I ain\u2019t saying I\u2019m 5\u2b50\ufe0f yet, but I\u2019m getting there\n\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n#fashion#streetwear#explorepage#viral#ootd",
-      "views": 0,
-      "likes": 22,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 104.55,
-      "hashtags": [
-        "#fashion",
-        "#streetwear",
-        "#explorepage",
-        "#viral",
-        "#ootd"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW16V-3ivHs/"
-    },
-    {
-      "author": "@janniely_canafistulla_",
-      "followers": 0,
-      "caption": "Uma pausinha na sua vida rotineira\u2026\ud83d\ude2e\u200d\ud83d\udca8\n\n#love #instagood #photooftheday #fashion #sunset",
-      "views": 0,
-      "likes": 197,
-      "comments": 6,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 103.05,
-      "hashtags": [
-        "#love",
-        "#instagood",
-        "#photooftheday",
-        "#fashion",
-        "#sunset"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW17F69FBxq/"
-    },
-    {
-      "author": "@kuon_myme",
-      "followers": 0,
-      "caption": "\ud83d\udd4a\ufe0f\n\u2061\n\u2061\n\u2061\n\u2061\n\u2061\n\u2061\n\u2061\n\u2061\n\u2061\n\ud83d\udcf8 @kuon_kenchan\n\u2061\n\u2061\n #awaji  #awajishima  #\u6de1\u8def\u5cf6 #fashion  #whitecode",
-      "views": 0,
-      "likes": 37,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 102.7,
-      "hashtags": [
-        "#awaji",
-        "#awajishima",
-        "#\u6de1\u8def\u5cf6",
-        "#fashion",
-        "#whitecode"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-03-24",
-      "url": "https://www.instagram.com/p/DWQzId6gUJe/"
-    },
-    {
-      "author": "@yah.ya___official",
-      "followers": 0,
-      "caption": "\"Sharp looks, sharper mindset\"\ud83d\udda4\ud83d\udc4d\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#fashion#formalwear#somethingnew \n#love #peaceofmind",
-      "views": 0,
-      "likes": 2,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#fashion",
-        "#formalwear",
-        "#somethingnew",
-        "#love",
-        "#peaceofmind"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW17bFpE6NU/"
-    },
-    {
-      "author": "@buti_coco",
-      "followers": 0,
-      "caption": "\u2068\t\u2068\t\u2068\t\u2068\t\u2068\t\u2068\t\u2068\t\u2068\t\u2068\t\u2068\t\u2068\t\u200e\u2068\t\u2068\u2068\t\u2068\t\u2068\t\u2068\t\u2068\t\u2068\t\u2068\t\u2068\t\u2068\t\u2068\t\u2068\t\u2068\t\u2068\ud83e\ude77\u0648\u0631\u0642 \u0628\u0632\u0646\u064a\u062f \ud83e\ude77\u2728\u062c\u062f\u06cc\u062f \u062a\u0631\u06cc\u0646 \u0647\u0627 \u062f\u0631 \u0627\u0633\u062a\u0648\u0631 \u0632\u0627\u0631\u0627 Zar\n\n\u200e\u067e\u0627\u0633\u062e\u06af\u0648\u064a\u0649 \u0648\u0627\u062a\u0633\u0627\u067e \n09126599442\n\n\u067e\u0627\u0633\u062e\u06af\u0648\u064a\u0649 \u062a\u0644\u06af\u0631\u0627\u0645 \n00905358846104\n\n\u200e\u0644\u064a\u0646\u0643 \u062f\u0631 \u0628\u0627\u064a\u0648 \u067e\u064a\u062c \ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb\n\n\u200e\u0627\u0632 \u0647\u0631 \u0627\u064a\u062a\u0645\u0649",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#zara",
-        "#fashion",
-        "#fashionista",
-        "#\u0632\u0627\u0631\u0627",
-        "#zaraturkiye\u2069\u2069\u2069\u2069\u2069"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW17ZSbDmJd/"
-    },
-    {
-      "author": "@sa.dia9614",
-      "followers": 0,
-      "caption": "#photooftheday #fashion",
-      "views": 0,
-      "likes": 2,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#photooftheday",
-        "#fashion"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW17Yj0CGUi/"
-    },
-    {
-      "author": "@kuon_myme",
-      "followers": 0,
-      "caption": "Restart...\n\u2061\n\u2061\n\u2061\n\u2061\n\u2061\n\ud83d\udcf8 @kuon_kenchan\n\u2061\n\u2061\n #fashion  #Hiphop  #rapper  #Kyoto  #yankees",
-      "views": 0,
-      "likes": 20,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#fashion",
-        "#Hiphop",
-        "#rapper",
-        "#Kyoto",
-        "#yankees"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-03-02",
-      "url": "https://www.instagram.com/p/DVZKHVqAbZN/"
-    },
-    {
-      "author": "@kenzo.q_",
-      "followers": 0,
-      "caption": "My photography @kenzo.q_  work for @miramadisonbrand \ud83d\udd76\ufe0f\n\nDiscover a new dimension of vision with the LUMO Collection.\nA new collection that combines style and function in one pair!\n\nPhotographer: me\nA",
-      "views": 0,
-      "likes": 2,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#Photographer",
-        "#Freelance",
-        "#Fashion",
-        "#Portraitphotography",
-        "#fashion"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW17SF9k5eQ/"
-    },
-    {
-      "author": "@style.by.le",
-      "followers": 0,
-      "caption": "\ud83e\udd0e\ud83e\udd65\u2601\ufe0f\u2728\n\n#fashion #outfitidea #outfitinspo #summerfashion #zara",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#fashion",
-        "#outfitidea",
+        "#outfits",
+        "#ootd",
         "#outfitinspo",
-        "#summerfashion",
-        "#zara"
+        "#vacation",
+        "#grwm"
       ],
       "sound": "",
       "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW17ET5jQsl/"
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzHmu1Dhx_/"
     },
     {
-      "author": "@donnatella_moda",
+      "author": "@nurcannksmm",
       "followers": 0,
-      "caption": "Verde com rendas e brilhos\u2026. Toucado e clutch ao tom @donnatella_moda \n\nPara encomendar: envie mensagem para o Whatsapp +351932874920 \n\ud83d\udc8cEnviamos \u00e0 cobran\u00e7a \n\ud83d\udcb0Pagamento por mbway ou transfer\u00eancia banc\u00e1",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
+      "caption": "Renk se\u00e7emedim.. Sonu\u00e7? Dolab\u0131ma fazladan @blackfashion \u00fcr\u00fcnleri eklendi \ud83e\udee3\n#isbirligi \n\n#fashionblogger #style #fashion #reklam",
+      "views": 143766,
+      "likes": 1272,
+      "comments": 81,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 100.0,
+      "engagement_rate": 0.94,
       "hashtags": [
-        "#moda",
-        "#vestidos",
-        "#seguidores",
+        "#isbirligi",
+        "#fashionblogger",
+        "#style",
         "#fashion",
-        "#guimaraes"
+        "#reklam"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzAlqCiF92/"
+    },
+    {
+      "author": "@selfcareglowie_",
+      "followers": 0,
+      "caption": "\ud83d\ude0d\u2728\n\n#fit #clothes #trending #style #igers",
+      "views": 108354,
+      "likes": 2263,
+      "comments": 24,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.11,
+      "hashtags": [
+        "#fit",
+        "#clothes",
+        "#trending",
+        "#style",
+        "#igers"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWy5bQFiRL4/"
+    },
+    {
+      "author": "@vescientia",
+      "followers": 0,
+      "caption": "#stem #science #biochemistry #lab #outfit",
+      "views": 97774,
+      "likes": 2861,
+      "comments": 53,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.98,
+      "hashtags": [
+        "#stem",
+        "#science",
+        "#biochemistry",
+        "#lab",
+        "#outfit"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzaKnyjLqu/"
+    },
+    {
+      "author": "@elite_tarxn",
+      "followers": 0,
+      "caption": "Villain Arc\n\n#explore #lifestyle #outfit #reels #fashion",
+      "views": 91360,
+      "likes": 1573,
+      "comments": 12,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.73,
+      "hashtags": [
+        "#explore",
+        "#lifestyle",
+        "#outfit",
+        "#reels",
+        "#fashion"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-03",
+      "url": "https://www.instagram.com/p/DWr9Go6jiZd/"
+    },
+    {
+      "author": "@thegoddessboys",
+      "followers": 0,
+      "caption": "Get ready with us for Euphoria, with your guidance!!! \ud83c\udf1f\u2764\ufe0f\u2728\n\n#grwm #outfit #outfitinspiration #cute #besties",
+      "views": 90718,
+      "likes": 8478,
+      "comments": 1179,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 10.65,
+      "hashtags": [
+        "#grwm",
+        "#outfit",
+        "#outfitinspiration",
+        "#cute",
+        "#besties"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW17MmrgPPr/"
+      "url": "https://www.instagram.com/p/DW12hAngZSL/"
+    },
+    {
+      "author": "@ashleyaguglielmetti",
+      "followers": 0,
+      "caption": "the way this hit me. so real. \ud83e\ude77\ud83d\ude4f\ud83c\udffb #momof3 #fitcheck #ootd #thisis40 #ootdinspo \n\nHair Scarf @buckle \nTop @tjmaxx \nJeans @levis \nSunnies @stevemadden \nMug @yeti",
+      "views": 85191,
+      "likes": 3563,
+      "comments": 31,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 4.22,
+      "hashtags": [
+        "#momof3",
+        "#fitcheck",
+        "#ootd",
+        "#thisis40",
+        "#ootdinspo"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWza-L_y9pf/"
+    },
+    {
+      "author": "@lisa_nellie_dottiexx",
+      "followers": 0,
+      "caption": "Holy moly!!! \ud83e\udd2d\ud83e\udd0e\n\nThe brown polka dot satin shorts have arrived and they did NOT disappoint!\n\nThe fit is honestly perfect \u2014 not too short and true to size \ud83d\ude4c\ud83c\udffd If you\u2019ve got slimmer legs, you could proba",
+      "views": 82195,
+      "likes": -1,
+      "comments": 59,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.07,
+      "hashtags": [
+        "#mymarks",
+        "#marksandspencer",
+        "#polkadots",
+        "#style",
+        "#mumstyleblogger"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyCINbjNtB/"
+    },
+    {
+      "author": "@j.chepugacheva",
+      "followers": 0,
+      "caption": "\u041d\u043e\u0441\u0438\u0442\u0435 \u0437\u0438\u043f\u043e\u0432\u043a\u0438? - \u044f \u043d\u0430\u0448\u043b\u0430 \u0438\u0434\u0435\u0430\u043b\u044c\u043d\u0443\u044e \u0434\u043b\u044f \u0441\u0435\u0431\u044f. \n\u0412\u0434\u0440\u0443\u0433 \u0438 \u0432\u0430\u043c \u043f\u043e\u043d\u0440\u0430\u0432\u0438\u0442\u0441\u044f, \u0434\u0435\u043b\u044e\u0441\u044c \u043e\u0442 \u0434\u0443\u0448\u0438.\n\n#shopping #fashion #fashionblogger #onlineshopping #style",
+      "views": 81428,
+      "likes": 1951,
+      "comments": 100,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.52,
+      "hashtags": [
+        "#shopping",
+        "#fashion",
+        "#fashionblogger",
+        "#onlineshopping",
+        "#style"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0Qq5lCWEl/"
+    },
+    {
+      "author": "@mai_cqp",
+      "followers": 0,
+      "caption": "@commense.official | Discount Code: mai_cqp_12 (Order over $49)\n\ud83d\udc56Cross-Front Wide-Leg Jeans \ud83d\udd0e OA251014100\n\ud83e\udde5Lace Back Tie Detail Blazer \ud83d\udd0eOA251104016\n\nhttps://thecommense.com\n#ootd #gdwm #grwm #commense",
+      "views": 78357,
+      "likes": 5761,
+      "comments": 377,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 7.83,
+      "hashtags": [
+        "#ootd",
+        "#gdwm",
+        "#grwm",
+        "#commense",
+        "#outfit"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1PN9ggLYb/"
+    },
+    {
+      "author": "@ponyoooer",
+      "followers": 0,
+      "caption": "\ud83c\udf4bspring\n#couplevideos #couple #outfit",
+      "views": 67991,
+      "likes": 6786,
+      "comments": 11,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 10.0,
+      "hashtags": [
+        "#couplevideos",
+        "#couple",
+        "#outfit"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzAGOtBPVc/"
+    },
+    {
+      "author": "@luckylolo212",
+      "followers": 0,
+      "caption": "\ud835\ude73\ud835\ude8a\ud835\udea2 \ud835\ude98\ud835\ude8f\ud835\ude8f \ud80c\udc83 \ud80c\ude12\ud80c\udff8\n\n#baseballgirl #ootd #\u91ce\u7403\u5973\u5b50 #\u5927\u9b6f\u95a3 #\u68d2\u7403",
+      "views": 66558,
+      "likes": 2918,
+      "comments": 27,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 4.42,
+      "hashtags": [
+        "#baseballgirl",
+        "#ootd",
+        "#\u91ce\u7403\u5973\u5b50",
+        "#\u5927\u9b6f\u95a3",
+        "#\u68d2\u7403"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyHtYOD7Tf/"
+    },
+    {
+      "author": "@frasi.incantevoli",
+      "followers": 0,
+      "caption": "#love #frasi #style #beauty #beautiful",
+      "views": 65790,
+      "likes": 1298,
+      "comments": 23,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.01,
+      "hashtags": [
+        "#love",
+        "#frasi",
+        "#style",
+        "#beauty",
+        "#beautiful"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWy04WGD9qi/"
     }
   ]
 }

@@ -4,412 +4,444 @@
   "month": "April",
   "year": 2026,
   "niche": "gaming",
-  "generated_at": "2026-04-07T21:19:04.870888",
-  "data_points_analyzed": 14,
-  "viral_posts_found": 14,
+  "generated_at": "2026-04-07T23:44:53.202256",
+  "data_points_analyzed": 232,
+  "viral_posts_found": 200,
   "hooks": [
     {
-      "pattern": "If you [X]",
+      "pattern": "Don't/Never",
       "example_count": 2,
-      "trend_pct": 335,
-      "example": "If you want free Magic the Gathering cards head over to the link in my profile."
-    }
-  ],
-  "best_times": [
+      "example": "don't choke the ending"
+    },
     {
-      "day": "Tuesday",
-      "time": "Peak",
-      "engagement_avg": 37.7,
-      "sample_size": 14
+      "pattern": "How to",
+      "example_count": 1,
+      "example": "How to Become Thanos EVERY TIME! \ud83d\ude31 #fortnite #fortniteseason2 #fortnitechapter7 #streamer @fortnite #fortniteclips #fort"
+    },
+    {
+      "pattern": "POV",
+      "example_count": 1,
+      "example": "Pov: You collect Videogames and love it \ud83e\udd70\ud83e\udef6"
     }
   ],
+  "best_times": [],
   "hashtags": [
     {
-      "tag": "#gamer",
-      "usage_count": 11,
-      "avg_views": 3
+      "tag": "#gaming",
+      "usage_count": 86
     },
     {
-      "tag": "#nerd",
-      "usage_count": 3,
-      "avg_views": 13
-    },
-    {
-      "tag": "#geek",
-      "usage_count": 3,
-      "avg_views": 0
+      "tag": "#esports",
+      "usage_count": 68
     },
     {
       "tag": "#games",
-      "usage_count": 3,
-      "avg_views": 0
+      "usage_count": 30
     },
     {
-      "tag": "#magicthegathering",
-      "usage_count": 2,
-      "avg_views": 20
+      "tag": "#fyp",
+      "usage_count": 29
     },
     {
-      "tag": "#pooltable",
-      "usage_count": 2,
-      "avg_views": 0
+      "tag": "#viral",
+      "usage_count": 17
     },
     {
-      "tag": "#indian",
-      "usage_count": 2,
-      "avg_views": 0
+      "tag": "#mpls17",
+      "usage_count": 15
     },
     {
-      "tag": "#instagram",
-      "usage_count": 2,
-      "avg_views": 0
+      "tag": "#gamer",
+      "usage_count": 15
     },
     {
       "tag": "#reels",
-      "usage_count": 2,
-      "avg_views": 0
+      "usage_count": 15
     },
     {
-      "tag": "#viralsong",
-      "usage_count": 2,
-      "avg_views": 0
+      "tag": "#cs2",
+      "usage_count": 13
     },
     {
-      "tag": "#\u1d20\u026a\u0280\u1d00\u029f\u1d18\u1d0fs\u1d1b",
-      "usage_count": 2,
-      "avg_views": 0
+      "tag": "#mplid",
+      "usage_count": 13
     },
     {
-      "tag": "#indoor",
-      "usage_count": 2,
-      "avg_views": 0
+      "tag": "#seputargame",
+      "usage_count": 13
     },
     {
-      "tag": "#mario",
-      "usage_count": 2,
-      "avg_views": 0
+      "tag": "#funny",
+      "usage_count": 13
+    },
+    {
+      "tag": "#freefire",
+      "usage_count": 12
+    },
+    {
+      "tag": "#bgmi",
+      "usage_count": 11
+    },
+    {
+      "tag": "#mobilelegends",
+      "usage_count": 11
+    },
+    {
+      "tag": "#leagueoflegends",
+      "usage_count": 10
+    },
+    {
+      "tag": "#twitch",
+      "usage_count": 9
+    },
+    {
+      "tag": "#crimsondesert",
+      "usage_count": 9
+    },
+    {
+      "tag": "#explorepage",
+      "usage_count": 8
+    },
+    {
+      "tag": "#trending",
+      "usage_count": 8
+    },
+    {
+      "tag": "#counterstrike",
+      "usage_count": 6
+    },
+    {
+      "tag": "#cs",
+      "usage_count": 6
+    },
+    {
+      "tag": "#viralreels",
+      "usage_count": 6
+    },
+    {
+      "tag": "#streamer",
+      "usage_count": 5
+    },
+    {
+      "tag": "#freefireindia",
+      "usage_count": 5
     }
   ],
   "formats": [],
   "trending_sounds": [],
-  "insights": "\"If you [X]\" hook appears in 2 viral posts. Avg engagement: 37.7%. 14 posts analyzed.",
+  "insights": "200 Instagram reels. Avg 48,276 views, 1,508 likes.",
   "top_posts": [
     {
-      "author": "@jjbearbeast",
+      "author": "@9v5_0",
       "followers": 0,
-      "caption": "Planet Sickle\n\ud83d\udc80\n\ud83d\udc80\n\ud83d\udc80\nSUB TO MY YOUTUBE\nFOLLOW MY TIKTOK \nBOTH JJBEARBEAST\nLINK IN BIO\n#linkinpark #helldivers2 #videogame",
-      "views": 0,
-      "likes": 8,
-      "comments": 2,
+      "caption": "@tradeit.gg\n\n#cs2 #counterstrike2 #gaming #fps #clutch headshot viral reels",
+      "views": 1087965,
+      "likes": 3195,
+      "comments": 69,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 125.0,
+      "engagement_rate": 0.3,
       "hashtags": [
-        "#linkinpark",
-        "#helldivers2",
-        "#videogame"
+        "#cs2",
+        "#counterstrike2",
+        "#gaming",
+        "#fps",
+        "#clutch"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW18eecCQyc/"
+      "url": "https://www.instagram.com/p/DW0BTd7CAtV/"
     },
     {
-      "author": "@harmlessoffer",
+      "author": "@lolesports",
       "followers": 0,
-      "caption": "If you want free Magic the Gathering cards head over to the link in my profile.\n\nYou can support the project financially through cashapp and Venmo $harmlessoffer\n\nI also have a Patreon if you\u2019d like t",
-      "views": 0,
-      "likes": 40,
-      "comments": 1,
+      "caption": "Heart Rate During This \ud83d\udcc8\ud83d\udcc8\ud83d\udcc8\n\n#lolesports #leagueoflegends #esports",
+      "views": 703424,
+      "likes": 10707,
+      "comments": 41,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 102.5,
+      "engagement_rate": 1.53,
       "hashtags": [
-        "#magicthegathering",
-        "#gamer",
-        "#nerd"
+        "#lolesports",
+        "#leagueoflegends",
+        "#esports"
       ],
       "sound": "",
       "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW18HCQDyjp/"
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWy2dJnF1jI/"
     },
     {
-      "author": "@aactionnew",
+      "author": "@lolesports",
       "followers": 0,
-      "caption": "\ud83c\udfb8\ud83c\udf99\ufe0f Vocaloid - Hatsune Miku \ud83c\udf99\ufe0f\ud83c\udfb8\n\u2728\u27a1 PR\u00c9-VENDA \u2b05\u2728\n\nInforma\u00e7\u00f5es gerais: \u2935\n\n\ud83d\udd39 Vocaloid - Hatsune Miku - 1/7 - Happy 16th Birthday Ver. (Good Smile Company) - PR\u00c9-VENDA\n\n\ud83d\udccf Aprox. 31 cm\n\n\ud83d\udcc5 Lan\u00e7amento: 05/20",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
+      "caption": "Supa not even bothered \ud83e\udd71\n\n#lolesports #leagueoflegends #esports",
+      "views": 493030,
+      "likes": 9793,
+      "comments": 25,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 100.0,
+      "engagement_rate": 1.99,
       "hashtags": [
-        "#nerd",
-        "#geek",
-        "#gamer",
-        "#games",
-        "#colecionadores"
+        "#lolesports",
+        "#leagueoflegends",
+        "#esports"
       ],
       "sound": "",
       "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW19Bm9EdLH/"
+      "posted_date": "2026-04-03",
+      "url": "https://www.instagram.com/p/DWrIHukiQyI/"
     },
     {
-      "author": "@abhisharma0001__",
+      "author": "@k3iki.kr",
       "followers": 0,
-      "caption": "Pool table\u26a1\ufe0f\n\n#pooltable #gamer #indian #instagram #reels #viralsong #\u1d20\u026a\u0280\u1d00\u029f\u1d18\u1d0fs\u1d1b #indoor",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
+      "caption": "\uc4f0\ub808\uae30\n.\n.\n.\n.\n#\uc2a4\ubc30 #\ubc30\ud2c0\uadf8\ub77c\uc6b4\ub4dc #\uc2a4\ud300 #\ubc30\uadf8 #\ubc30\uadf8\ud558\uc774\ub77c\uc774\ud2b8",
+      "views": 368668,
+      "likes": 2558,
+      "comments": 46,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 100.0,
+      "engagement_rate": 0.71,
       "hashtags": [
-        "#pooltable",
-        "#gamer",
-        "#indian",
-        "#instagram",
-        "#reels",
-        "#viralsong",
-        "#\u1d20\u026a\u0280\u1d00\u029f\u1d18\u1d0fs\u1d1b",
-        "#indoor"
+        "#\uc2a4\ubc30",
+        "#\ubc30\ud2c0\uadf8\ub77c\uc6b4\ub4dc",
+        "#\uc2a4\ud300",
+        "#\ubc30\uadf8",
+        "#\ubc30\uadf8\ud558\uc774\ub77c\uc774\ud2b8"
       ],
       "sound": "",
       "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW18SjXjkOK/"
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzpDriTcMb/"
     },
     {
-      "author": "@sierraonlineuniverse",
+      "author": "@omkar_gaming_06",
       "followers": 0,
-      "caption": "\ud83d\udc9a\n\n\ud83d\udc94\n\nEcoQuest 2: Lost Secret of the Rainforest (1993)\n\n#Forest #Heart #EcoQuest #SierraOnLine #SierraGames #Adventure #AdventureGames #AdventureGame #PointAndClick #PointAndClickAdventure #RetroGames",
-      "views": 0,
-      "likes": 4,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#Forest",
-        "#Heart",
-        "#EcoQuest",
-        "#SierraOnLine",
-        "#SierraGames",
-        "#Adventure",
-        "#AdventureGames",
-        "#AdventureGame"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW18QJcjFRv/"
-    },
-    {
-      "author": "@nextimports_ofc",
-      "followers": 0,
-      "caption": "\ud83d\udd25 O futuro dos games! \ud83d\udd25\n\nO Sony PlayStation 5 Digital Edition est\u00e1 dispon\u00edvel na nossa loja \u2014 mais r\u00e1pido, mais potente e totalmente digital \ud83d\ude80\ud83c\udfae\n\n\ud83c\udfae Experi\u00eancia imersiva em 4K HDR\n\u26a1 Carregamentos ultrar",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#ps5",
-        "#playstation5",
-        "#games",
-        "#gamer",
-        "#nextgen"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1701JgEgA/"
-    },
-    {
-      "author": "@vort3d.oficial",
-      "followers": 0,
-      "caption": "\ud83c\udfae\u2728 Para os apaixonados por games!\n\nEsses personagens s\u00e3o perfeitos para presentear, decorar ou colecionar \ud83d\udca5\nCheios de detalhes e personalidade, eles fazem sucesso com crian\u00e7as e adultos!\n\n\ud83d\udca1 Ideal para",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#geek",
-        "#gamer",
-        "#decoracaotematica",
-        "#mario",
-        "#colecionaveis"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW19R-ClUzf/"
-    },
-    {
-      "author": "@bluesmart.sa",
-      "followers": 0,
-      "caption": "\u0623\u0646\u0627 \u0639\u0644\u0649 \u0634\u0627\u0634\u0629 \u0635\u063a\u064a\u0631\u0629: \"\u0645\u0627 \u0634\u0641\u062a \u0625\u064a\u0634 \u0635\u0627\u0631\u061f\u061f\" \ud83d\ude29\ud83d\udcf1\n\u0623\u0646\u0627 \u0639\u0644\u0649 \u0634\u0627\u0634\u0629 Skyworth \u0627\u0644\u0630\u0643\u064a\u0629 \u0645\u0646 Blue Smart:\n\u0643\u0644 \u0634\u064a \u0648\u0627\u0636\u062d\u060c \u0643\u0644 \u062a\u0641\u0635\u064a\u0644\u0629 \u0623\u0645\u0627\u0645\u064a \ud83d\ude0e\ud83d\udd25\n\u0648\u0642\u062a \u0627\u0644\u062a\u0631\u0641\u064a\u0647 \u064a\u062d\u062a\u0627\u062c \u0634\u0627\u0634\u0629 \u0630\u0643\u064a\u0629 \u062a\u0648\u0627\u0643\u0628\u0643 \ud83d\udcfa\u2728\n#\u062c\u0648\u062f\u0629_\u0648\u0630\u0643\u0627\u0621 | bluesmart.sa\n\u062a\u0627\u0642 \u0627\u0644\u0644\u064a \u064a\u0641\u0647\u0645 \u0627\u0644\u0641\u0631",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#\u062c\u0648\u062f\u0629_\u0648\u0630\u0643\u0627\u0621",
-        "#\u0628\u0644\u0648\u0633\u0645\u0627\u0631\u062a",
-        "#BlueSmart",
-        "#Skyworth",
-        "#\u0634\u0627\u0634\u0629_\u0630\u0643\u064a\u0629",
-        "#Smart_TV",
-        "#\u0648\u0642\u062a_\u0627\u0644\u062a\u0631\u0641\u064a\u0647",
-        "#Gaming_TV"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW19P23CWyG/"
-    },
-    {
-      "author": "@wnetsystem",
-      "followers": 0,
-      "caption": "\ud83c\udfae\ud83d\udd25 CHEGA DE LAG! \ud83d\udd25\ud83c\udfae\n\nNada pior do que travar bem na hora da partida, n\u00e9? \ud83d\ude24\nCom a WNET TELECOM, voc\u00ea joga com ping baixo, alta velocidade e conex\u00e3o est\u00e1vel! \u26a1\n\n\ud83d\udca5 Mais desempenho\n\ud83d\udca5 Zero travamentos\n\ud83d\udca5 Mu",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#WNETTelecom",
-        "#SemLag",
-        "#InternetR\u00e1pida",
-        "#Gamer",
-        "#PingBaixo"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW19GTwkfQt/"
-    },
-    {
-      "author": "@abhisharma0001__",
-      "followers": 0,
-      "caption": "Pool table\u26a1\ufe0f\n\n#pooltable #gamer #indian #instagram #reels #viralsong #\u1d20\u026a\u0280\u1d00\u029f\u1d18\u1d0fs\u1d1b #indoor",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#pooltable",
-        "#gamer",
-        "#indian",
-        "#instagram",
-        "#reels",
-        "#viralsong",
-        "#\u1d20\u026a\u0280\u1d00\u029f\u1d18\u1d0fs\u1d1b",
-        "#indoor"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW17vIAjvhp/"
-    },
-    {
-      "author": "@harmlessoffer",
-      "followers": 0,
-      "caption": "If you want free Magic the Gathering cards head over to the link in my profile.\n\nYou can support the project financially through cashapp and Venmo $harmlessoffer\n\nI also have a Patreon if you\u2019d like t",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#magicthegathering",
-        "#gamer",
-        "#nerd"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW18E7qD83Y/"
-    },
-    {
-      "author": "@legacygeektoys",
-      "followers": 0,
-      "caption": "Mega Man 3D\n\ud83d\uded2 Clica no link da bio para adquirir! \u261d\ud83c\udffb\n\n#megamansion #gamer #figureaction #geek #games",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#megamansion",
-        "#gamer",
-        "#figureaction",
-        "#geek",
-        "#games"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW18XWVgYp3/"
-    },
-    {
-      "author": "@dropzone_gamingfr",
-      "followers": 0,
-      "caption": "\ud83c\udfae Game Pass : le plein d'Hades II en avril\n\nLe Xbox Game Pass s'enrichit en avril avec 18 nouveaux titres, dont Hades II, Kiln et Vampire Crawlers. Grand Theft Auto 5 et d'autres jeux quitteront le se",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#Gaming",
-        "#JeuxVideo",
-        "#DropZoneFR",
-        "#GamingNews",
-        "#Gamer",
-        "#JV",
-        "#Actu",
-        "#Xbox"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW18V2eF4D0/"
-    },
-    {
-      "author": "@ringtoss.amiibo",
-      "followers": 0,
-      "caption": "Switch 2 acquired!\n-\n#nintendo #switch #gamer #mario #videogames",
-      "views": 0,
+      "caption": "M590\u274e MP40\u2705\n.\n.\nThanks for watching \n.\n.\n#freefire \n#esports",
+      "views": 262120,
       "likes": -1,
-      "comments": 0,
+      "comments": 66,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": -100.0,
+      "engagement_rate": 0.02,
       "hashtags": [
-        "#nintendo",
-        "#switch",
-        "#gamer",
-        "#mario",
-        "#videogames"
+        "#freefire",
+        "#esports"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-03",
+      "url": "https://www.instagram.com/p/DWq2SdkiJKg/"
+    },
+    {
+      "author": "@mtk_rt1",
+      "followers": 0,
+      "caption": "Guess the track \ud83e\udd14 #esports #f1simracing #f125 #f1 #f125game",
+      "views": 228859,
+      "likes": 3808,
+      "comments": 207,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.75,
+      "hashtags": [
+        "#esports",
+        "#f1simracing",
+        "#f125",
+        "#f1",
+        "#f125game"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwpd2UEeq2/"
+    },
+    {
+      "author": "@lolesports",
+      "followers": 0,
+      "caption": "Naak Nako's Jax is SCARY \ud83d\ude28\n\n#lolesports #leagueoflegends #esports",
+      "views": 225392,
+      "likes": 3203,
+      "comments": 21,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.43,
+      "hashtags": [
+        "#lolesports",
+        "#leagueoflegends",
+        "#esports"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW18Lg8D4Ec/"
+      "url": "https://www.instagram.com/p/DW1bZ3dEYVk/"
+    },
+    {
+      "author": "@ft.giihernandes",
+      "followers": 0,
+      "caption": "Registros sobre a estr\u00e9ia do nosso 20tinho! \nE PLAY em mais uma semana importante, sigo MOTIVADA e FELIZ, pronta pra viver tudo o que DEUS preparou \ud83c\udde7\ud83c\uddf7\ud83e\udef6\ud83c\udffb\n\n\u201cConsagre ao Senhor tudo o que voc\u00ea faz, e os ",
+      "views": 182562,
+      "likes": 11440,
+      "comments": 42,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 6.29,
+      "hashtags": [
+        "#phisyotherapy",
+        "#futsal",
+        "#esports",
+        "#trabalho"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwI3MWjZhU/"
+    },
+    {
+      "author": "@nonf4esports",
+      "followers": 0,
+      "caption": "\u00bfCu\u00e1l fue tu partida m\u00e1s dif\u00edcil?\n\n#gaming #esports #valorant #fortnite #leagueoflegends",
+      "views": 151655,
+      "likes": 16233,
+      "comments": 108,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 10.78,
+      "hashtags": [
+        "#gaming",
+        "#esports",
+        "#valorant",
+        "#fortnite",
+        "#leagueoflegends"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwyLZvj5vr/"
+    },
+    {
+      "author": "@lutzenbacher",
+      "followers": 0,
+      "caption": "Took me a while to notice \ud83d\ude02\n\n#arcraiders #arcraidersfunnymoments #arcraidersclips #arcraidersfunnymoments #gaming #games #arcraidersflashpoint #flashpoint #arcraidersupdate #flashpointupdate #arcraide",
+      "views": 131279,
+      "likes": 1347,
+      "comments": 33,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.05,
+      "hashtags": [
+        "#arcraiders",
+        "#arcraidersfunnymoments",
+        "#arcraidersclips",
+        "#gaming",
+        "#games",
+        "#arcraidersflashpoint",
+        "#flashpoint",
+        "#arcraidersupdate"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWway6MgUrx/"
+    },
+    {
+      "author": "@lolesports",
+      "followers": 0,
+      "caption": "Super Sharp Memory Unlocked \ud83e\udde0\n\n#lolesports #leagueoflegends #esports",
+      "views": 128811,
+      "likes": 2673,
+      "comments": 21,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.09,
+      "hashtags": [
+        "#lolesports",
+        "#leagueoflegends",
+        "#esports"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwRjsmj_4N/"
+    },
+    {
+      "author": "@esports.ku",
+      "followers": 0,
+      "caption": "RRQ Masih melanjutkan trend losestreak mereka, sedangkan Team Liquid berhasil meraih Winstreak ke 4 mereka pada MPL ID Season 17 pada Week 2 Day 3.\n\nYuk bangkit yuk, masih panjang perjalanan \ud83d\udd25\n\nSc: @d",
+      "views": 121421,
+      "likes": 4153,
+      "comments": 145,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.54,
+      "hashtags": [
+        "#rrqhoshi",
+        "#tlid",
+        "#mobilelegendsindonesia",
+        "#MPLID",
+        "#Mpls17"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWv9WcwDLmE/"
+    },
+    {
+      "author": "@efmtanzania",
+      "followers": 0,
+      "caption": "Arajiga amekuwa kama muasi anayetaka kupindua nchi, Mechi za Simba.\n\nCc: @kilumangaa @zuberi_mkalaboko \n\n#ESports",
+      "views": 115997,
+      "likes": 8656,
+      "comments": 202,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 7.64,
+      "hashtags": [
+        "#ESports"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzMYnUjD3u/"
+    },
+    {
+      "author": "@hltvorg",
+      "followers": 0,
+      "caption": "Are NAVI securely the #2 team right now? \ud83e\udd14\n\n#cs2 #esports #counterstrike",
+      "views": 113473,
+      "likes": 2386,
+      "comments": 51,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.15,
+      "hashtags": [
+        "#2",
+        "#cs2",
+        "#esports",
+        "#counterstrike"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyrtYJDYWY/"
+    },
+    {
+      "author": "@efmtanzania",
+      "followers": 0,
+      "caption": "Simba Wamenyimwa penati ya wazi.\n\nCc: @kilumangaa @salumumnolela \n\ud83d\udcbb: @nelsonmbuzi_ \n\n#ESports",
+      "views": 106698,
+      "likes": 10151,
+      "comments": 506,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 9.99,
+      "hashtags": [
+        "#ESports"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwjkXgDOJr/"
     }
   ]
 }

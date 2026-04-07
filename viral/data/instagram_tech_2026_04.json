@@ -4,514 +4,449 @@
   "month": "April",
   "year": 2026,
   "niche": "tech",
-  "generated_at": "2026-04-07T21:19:04.870888",
-  "data_points_analyzed": 100,
-  "viral_posts_found": 100,
-  "hooks": [],
-  "best_times": [
+  "generated_at": "2026-04-07T23:44:53.202256",
+  "data_points_analyzed": 231,
+  "viral_posts_found": 200,
+  "hooks": [
     {
-      "day": "Tuesday",
-      "time": "Peak",
-      "engagement_avg": 33.3,
-      "sample_size": 100
+      "pattern": "X things/tips",
+      "example_count": 1,
+      "example": "5 things I invested in 5 years ago I still use today"
     }
   ],
+  "best_times": [],
   "hashtags": [
     {
       "tag": "#tech",
-      "usage_count": 83,
-      "avg_views": 1
-    },
-    {
-      "tag": "#technology",
-      "usage_count": 19,
-      "avg_views": 4
+      "usage_count": 94
     },
     {
       "tag": "#ai",
-      "usage_count": 15,
-      "avg_views": 1
+      "usage_count": 74
     },
     {
-      "tag": "#programming",
-      "usage_count": 10,
-      "avg_views": 0
-    },
-    {
-      "tag": "#cybersecurity",
-      "usage_count": 10,
-      "avg_views": 0
-    },
-    {
-      "tag": "#artificialintelligence",
-      "usage_count": 9,
-      "avg_views": 1
-    },
-    {
-      "tag": "#startup",
-      "usage_count": 9,
-      "avg_views": 1
+      "tag": "#future",
+      "usage_count": 67
     },
     {
       "tag": "#innovation",
-      "usage_count": 8,
-      "avg_views": 2
+      "usage_count": 67
     },
     {
-      "tag": "#businessowner",
-      "usage_count": 7,
-      "avg_views": 2
+      "tag": "#supersonic",
+      "usage_count": 64
     },
     {
-      "tag": "#entrepreneur",
-      "usage_count": 7,
-      "avg_views": 2
+      "tag": "#japan",
+      "usage_count": 62
     },
     {
-      "tag": "#digitalmarketing",
-      "usage_count": 7,
-      "avg_views": 2
+      "tag": "#technolodgy",
+      "usage_count": 24
     },
     {
-      "tag": "#branding",
-      "usage_count": 7,
-      "avg_views": 2
-    },
-    {
-      "tag": "#apple",
-      "usage_count": 7,
-      "avg_views": 0
-    },
-    {
-      "tag": "#gadgets",
-      "usage_count": 7,
-      "avg_views": 0
-    },
-    {
-      "tag": "#gadget",
-      "usage_count": 6,
-      "avg_views": 1
-    },
-    {
-      "tag": "#fyp",
-      "usage_count": 6,
-      "avg_views": 1
+      "tag": "#reels",
+      "usage_count": 9
     },
     {
       "tag": "#viral",
-      "usage_count": 6,
-      "avg_views": 1
+      "usage_count": 8
     },
     {
-      "tag": "#hacker",
-      "usage_count": 6,
-      "avg_views": 0
+      "tag": "#fyp",
+      "usage_count": 7
     },
     {
-      "tag": "#cyberwithjohann",
-      "usage_count": 6,
-      "avg_views": 0
+      "tag": "#trending",
+      "usage_count": 6
     },
     {
-      "tag": "#networking",
-      "usage_count": 5,
-      "avg_views": 5
+      "tag": "#ia",
+      "usage_count": 6
     },
     {
-      "tag": "#smartgadget",
-      "usage_count": 5,
-      "avg_views": 1
+      "tag": "#explore",
+      "usage_count": 5
     },
     {
-      "tag": "#automation",
-      "usage_count": 4,
-      "avg_views": 4
+      "tag": "#instagram",
+      "usage_count": 4
     },
     {
-      "tag": "#coding",
-      "usage_count": 4,
-      "avg_views": 0
+      "tag": "#artificialintelligence",
+      "usage_count": 3
     },
     {
-      "tag": "#protechassiba",
-      "usage_count": 4,
-      "avg_views": 0
+      "tag": "#funny",
+      "usage_count": 3
     },
     {
-      "tag": "#neverstopexploring",
-      "usage_count": 4,
-      "avg_views": 0
+      "tag": "#startup",
+      "usage_count": 3
+    },
+    {
+      "tag": "#aigenerated",
+      "usage_count": 3
+    },
+    {
+      "tag": "#aitools",
+      "usage_count": 3
+    },
+    {
+      "tag": "#humor",
+      "usage_count": 3
+    },
+    {
+      "tag": "#claude",
+      "usage_count": 3
+    },
+    {
+      "tag": "#lifestyle",
+      "usage_count": 3
+    },
+    {
+      "tag": "#technology",
+      "usage_count": 3
+    },
+    {
+      "tag": "#assam",
+      "usage_count": 3
+    },
+    {
+      "tag": "#guwahati",
+      "usage_count": 3
     }
   ],
-  "formats": [
-    {
-      "name": "Challenge / trend",
-      "avg_engagement": 50.0,
-      "post_count": 2
-    },
-    {
-      "name": "Question / engagement",
-      "avg_engagement": 50.0,
-      "post_count": 4
-    },
-    {
-      "name": "Educational / tips",
-      "avg_engagement": 9.1,
-      "post_count": 11
-    },
-    {
-      "name": "Before/after",
-      "avg_engagement": 0.0,
-      "post_count": 1
-    }
-  ],
+  "formats": [],
   "trending_sounds": [],
-  "insights": "Challenge / trend content leads with 50.0% avg engagement. Avg engagement: 33.3%. 100 posts analyzed.",
+  "insights": "200 Instagram reels. Avg 31,121 views, 846 likes.",
   "top_posts": [
     {
-      "author": "@mis_amulya__",
+      "author": "@artificialintelligence.hub",
       "followers": 0,
-      "caption": "\ud83d\ude18\ud83d\udc8b\u2728\n.\n.#instagramgrowth\n#Engagingcontent\n#comment\n#Explorepage\n#Tech",
-      "views": 0,
-      "likes": 3,
+      "caption": "Someone used AI to reimagine Chuck Norris as the main character in every movie, and the result is hilarious. In each scene, he takes over completely, kicking his way through every other character like",
+      "views": 588039,
+      "likes": 19037,
+      "comments": 263,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.28,
+      "hashtags": [
+        "#ai",
+        "#artificialintelligence",
+        "#chucknorris",
+        "#generativeai",
+        "#funny"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0DavUj0uM/"
+    },
+    {
+      "author": "@arabhardware",
+      "followers": 0,
+      "caption": "\u0631\u0639\u0628 \u062a\u0637\u0648\u0631 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \ud83e\udee3\n\n#AI #tech #SocialMedia #\u0639\u0631\u0628_\u0647\u0627\u0631\u062f\u0648\u064a\u0631",
+      "views": 470837,
+      "likes": 5690,
+      "comments": 101,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.23,
+      "hashtags": [
+        "#AI",
+        "#tech",
+        "#SocialMedia",
+        "#\u0639\u0631\u0628_\u0647\u0627\u0631\u062f\u0648\u064a\u0631"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWy3NB1jyI_/"
+    },
+    {
+      "author": "@meowcatfollow",
+      "followers": 0,
+      "caption": "\u091c\u092c \u0930\u092b\u094d\u0924\u093e\u0930 \u092e\u0948\u0915 1 (\u0932\u0917\u092d\u0917 1330 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e) \u0915\u094b \u091b\u0942 \u0932\u0947, \u0924\u094b \u0938\u092b\u0930 \u091c\u092e\u0940\u0928 \u092a\u0930 \u0928\u0939\u0940\u0902- \u0906\u0935\u093e\u091c\u093c \u0915\u0940 \u0917\u0924\u093f \u092a\u0930 \u0939\u094b\u0924\u093e \u0939\u0948\n\n\u092f\u0939 \u0915\u0949\u0928\u094d\u0938\u0947\u092a\u094d\u091f \u0926\u093f\u0916\u093e\u0924\u093e \u0939\u0948 \u0915\u093f \u0905\u0917\u0930 \u091c\u093e\u092a\u093e\u0928 \u092e\u0947\u0902 \u091f\u094d\u0930\u0947\u0928 \u0938\u0941\u092a\u0930\u0938\u094b\u0928\u093f\u0915 \u0938\u094d\u092a\u0940\u0921 \u0938\u0947 \u0926\u094c\u0921\u093c\u0947, \u0924\u094b \u0905\u0928\u0941\u092d\u0935 \u0915\u0948\u0938\u093e \u0939\u094b\u0917\u093e\u0964 \u092b\u093f\u0932\u0939\u093e\u0932 \u0938\u092c\u0938\u0947 \u0924\u0947",
+      "views": 439661,
+      "likes": -1,
+      "comments": 11,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#tech",
+        "#innvation",
+        "#suparsonic",
+        "#japan",
+        "#future"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0XxxFDSl4/"
+    },
+    {
+      "author": "@universosinsentid0",
+      "followers": 0,
+      "caption": "\"Todo cambi\u00f3 por una mentira\u2026 \ud83d\ude33\ud83d\udcde\"\n\n#vira\u0142post #\u1d18\u1d00\u0280\u1d00\u1d1b\u026a #fyp\u30b7\u309aviral\u30b7fyp\u30b7\u309aviral\u30b7al\u30b7 #foryoupage\u2764\ufe0f\ud83d\ude0d #foryoupage #viralv\u00eddeo \n#drama #novela #historia #plotwist #s\u1d1b\u1d0f\u0280\u028f\u1d1b\u026a\u1d0d\u1d07 \n#relatableposts #parejas #amor #",
+      "views": 269157,
+      "likes": 16415,
+      "comments": 80,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 6.13,
+      "hashtags": [
+        "#vira\u0142post",
+        "#\u1d18\u1d00\u0280\u1d00\u1d1b\u026a",
+        "#fyp\u30b7\u309aviral\u30b7fyp\u30b7\u309aviral\u30b7al\u30b7",
+        "#foryoupage\u2764\ufe0f\ud83d\ude0d",
+        "#foryoupage",
+        "#viralv\u00eddeo",
+        "#drama",
+        "#novela"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzwapZDRQW/"
+    },
+    {
+      "author": "@atlasberry008",
+      "followers": 0,
+      "caption": "The OpenAI cap table just leaked.\n\nMicrosoft. SoftBank. Thrive. a16z. The usual suspects.\n\nThen line 22: Sound Ventures. Ashton Kutcher and Guy Oseary.\n\n$30 million in. $1.3 billion on paper. 43x.\n\nHo",
+      "views": 174258,
+      "likes": 6021,
+      "comments": 83,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.5,
+      "hashtags": [
+        "#founder",
+        "#venturecapital",
+        "#OpenAI",
+        "#AI",
+        "#startup"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyzFDZCVZw/"
+    },
+    {
+      "author": "@ms_dhonii7x",
+      "followers": 0,
+      "caption": "\ud83e\udd7a\ud83c\uddef\ud83c\uddf5 \u091c\u092c \u0930\u092b\u094d\u0924\u093e\u0930 \u092e\u0948\u0915 1 (\u0932\u0917\u092d\u0917 1330 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e) \u0915\u094b \u091b\u0942 \u0932\u0947, \u0924\u094b \u0938\u092b\u0930 \u091c\u092e\u0940\u0928 \u092a\u0930 \u0928\u0939\u0940\u0902\u2014\u0906\u0935\u093e\u091c\u093c \u0915\u0940 \u0917\u0924\u093f \u092a\u0930 \u0939\u094b\u0924\u093e \u0939\u0948 \ud83d\ude80\ud83c\udf0d\n\n\u092f\u0939 \u0915\u0949\u0928\u094d\u0938\u0947\u092a\u094d\u091f \u0926\u093f\u0916\u093e\u0924\u093e \u0939\u0948 \u0915\u093f \u0905\u0917\u0930 \u091c\u093e\u092a\u093e\u0928 \u092e\u0947\u0902 \u091f\u094d\u0930\u0947\u0928 \u0938\u0941\u092a\u0930\u0938\u094b\u0928\u093f\u0915 \u0938\u094d\u092a\u0940\u0921 \u0938\u0947 \u0926\u094c\u0921\u093c\u0947, \u0924\u094b \u0905\u0928\u0941\u092d\u0935 \u0915\u0948\u0938\u093e \u0939\u094b\u0917\u093e\u0964 \u092b\u093f\u0932\u0939\u093e\u0932 \u0938",
+      "views": 153964,
+      "likes": 10668,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 6.93,
+      "hashtags": [
+        "#Tech",
+        "#Innovation",
+        "#SuperSonic",
+        "#Future",
+        "#Japan"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0KWjaDKXm/"
+    },
+    {
+      "author": "@indianfarmer",
+      "followers": 0,
+      "caption": "Follow\u2764\ufe0f\n\n#indianfarmer #raingun #technolodgy #farmer",
+      "views": 144646,
+      "likes": 9924,
+      "comments": 13,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 6.87,
+      "hashtags": [
+        "#indianfarmer",
+        "#raingun",
+        "#technolodgy",
+        "#farmer"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2022-08-10",
+      "url": "https://www.instagram.com/p/ChECtdOpwUA/"
+    },
+    {
+      "author": "@invention",
+      "followers": 0,
+      "caption": "A freshly forged blade is driven straight into the dense core of a banana tree, where moisture and fibrous material immediately begin pulling heat away from the metal. The violent steam and debris you",
+      "views": 136048,
+      "likes": -1,
+      "comments": 27,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.02,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1tIGsEYPf/"
+    },
+    {
+      "author": "@tiagolemosx",
+      "followers": 0,
+      "caption": "Voc\u00ea ainda vai continuar usando o estilo da Disney nas suas anima\u00e7\u00f5es, mesmo podendo explorar dezenas de outros estilos criativos?\n\nA cria\u00e7\u00e3o de conte\u00fado com IA evoluiu. E o primeiro passo para criar ",
+      "views": 119760,
+      "likes": -1,
+      "comments": 630,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.53,
+      "hashtags": [
+        "#tiagolemosx",
+        "#inteligenciaartificial",
+        "#ai",
+        "#promptx"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzCedWEYrz/"
+    },
+    {
+      "author": "@sammyobeid",
+      "followers": 0,
+      "caption": "The fight for LEGOLAND\n\n#standupcomedy #lego #news #iran #ai",
+      "views": 94375,
+      "likes": 11371,
+      "comments": 175,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 12.23,
+      "hashtags": [
+        "#standupcomedy",
+        "#lego",
+        "#news",
+        "#iran",
+        "#ai"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW13T0eCLUY/"
+    },
+    {
+      "author": "@prem_vedya_",
+      "followers": 0,
+      "caption": "\u091c\u092c \u0930\u092b\u094d\u0924\u093e\u0930 \u092e\u0948\u0915 1 (\u0932\u0917\u092d\u0917 1330 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e) \u0915\u094b \u091b\u0942 \u0932\u0947, \u0924\u094b \u0938\u092b\u0930 \u091c\u092e\u0940\u0928 \u092a\u0930 \u0928\u0939\u0940\u0902- \u0906\u0935\u093e\u091c\u093c \u0915\u0940 \u0917\u0924\u093f \u092a\u0930 \u0939\u094b\u0924\u093e \u0939\u0948\n\n\u092f\u0939 \u0915\u0949\u0928\u094d\u0938\u0947\u092a\u094d\u091f \u0926\u093f\u0916\u093e\u0924\u093e \u0939\u0948 \u0915\u093f \u0905\u0917\u0930 \u091c\u093e\u092a\u093e\u0928 \u092e\u0947\u0902 \u091f\u094d\u0930\u0947\u0928 \u0938\u0941\u092a\u0930\u0938\u094b\u0928\u093f\u0915 \u0938\u094d\u092a\u0940\u0921 \u0938\u0947 \u0926\u094c\u0921\u093c\u0947, \u0924\u094b \u0905\u0928\u0941\u092d\u0935 \u0915\u0948\u0938\u093e \u0939\u094b\u0917\u093e\u0964 \u092b\u093f\u0932\u0939\u093e\u0932 \u0938\u092c\u0938\u0947 \u0924\u0947",
+      "views": 88637,
+      "likes": -1,
       "comments": 3,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 200.0,
+      "engagement_rate": 0.0,
       "hashtags": [
-        "#instagramgrowth",
-        "#Engagingcontent",
-        "#comment",
-        "#Explorepage",
-        "#Tech"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW15zHpEoyW/"
-    },
-    {
-      "author": "@stimmekroatiens",
-      "followers": 0,
-      "caption": "\ud83d\ude97\u26a1 Kroatien im Fokus!\n\nDie BMW Group arbeitet gemeinsam mit Rimac Technology an einer neuen Batteriegeneration f\u00fcr den kommenden BMW i7 \ud83d\udd0b\n\n\ud83d\udc49 Mehr Reichweite\n\ud83d\udc49 Schnellere Ladezeiten\n\ud83d\udc49 Made near Zagreb ",
-      "views": 0,
-      "likes": 2,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 150.0,
-      "hashtags": [
-        "#BMW",
-        "#Rimac",
-        "#Elektromobilit\u00e4t",
+        "#Tech",
         "#Innovation",
-        "#Kroatien",
+        "#SuperSonic",
+        "#Future",
+        "#Japan"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0sPplD7pz/"
+    },
+    {
+      "author": "@sanikajadhav.97",
+      "followers": 0,
+      "caption": "Vivo V70 Elite \n\n#vivo #vivov70series #technolodgy #ad #satara",
+      "views": 82057,
+      "likes": 2454,
+      "comments": 26,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.02,
+      "hashtags": [
+        "#vivo",
+        "#vivov70series",
+        "#technolodgy",
+        "#ad",
+        "#satara"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-04",
+      "url": "https://www.instagram.com/p/DWsaW3aD8Ph/"
+    },
+    {
+      "author": "@hyy.sinchem",
+      "followers": 0,
+      "caption": "\u091c\u092c \u0930\u092b\u094d\u0924\u093e\u0930 \u092e\u0948\u0915 1 (\u0932\u0917\u092d\u0917 1330 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e) \u0915\u094b \u091b\u0942 \u0932\u0947, \u0924\u094b \u0938\u092b\u0930 \u091c\u092e\u0940\u0928 \u092a\u0930 \u0928\u0939\u0940\u0902- \u0906\u0935\u093e\u091c\u093c \u0915\u0940 \u0917\u0924\u093f \u092a\u0930 \u0939\u094b\u0924\u093e \u0939\u0948\n\n\u092f\u0939 \u0915\u0949\u0928\u094d\u0938\u0947\u092a\u094d\u091f \u0926\u093f\u0916\u093e\u0924\u093e \u0939\u0948 \u0915\u093f \u0905\u0917\u0930 \u091c\u093e\u092a\u093e\u0928 \u092e\u0947\u0902 \u091f\u094d\u0930\u0947\u0928 \u0938\u0941\u092a\u0930\u0938\u094b\u0928\u093f\u0915 \u0938\u094d\u092a\u0940\u0921 \u0938\u0947 \u0926\u094c\u0921\u093c\u0947, \u0924\u094b \u0905\u0928\u0941\u092d\u0935 \u0915\u0948\u0938\u093e \u0939\u094b\u0917\u093e\u0964 \u092b\u093f\u0932\u0939\u093e\u0932 \u0938\u092c\u0938\u0947 \u0924\u0947",
+      "views": 80564,
+      "likes": -1,
+      "comments": 19,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.02,
+      "hashtags": [
         "#Tech",
-        "#EV",
-        "#Zagreb"
+        "#Innovation",
+        "#SuperSonic",
+        "#Future",
+        "#Japan"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW11W_alh3x/"
+      "url": "https://www.instagram.com/p/DW0wET7EcBN/"
     },
     {
-      "author": "@bbntimesofficial",
+      "author": "@prem_vedya_",
       "followers": 0,
-      "caption": "The Hong Kong Stock Exchange (HKEX) and the Hang Seng Index remain closed on Tuesday, April 7, 2026, as Hong Kong observes an extended Easter holiday period.\n\nRead More: https://www.bbntimes.com/globa",
-      "views": 0,
-      "likes": 2,
-      "comments": 1,
+      "caption": "\u091c\u092c \u0930\u092b\u094d\u0924\u093e\u0930 \u092e\u0948\u0915 1 (\u0932\u0917\u092d\u0917 1330 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e) \u0915\u094b \u091b\u0942 \u0932\u0947, \u0924\u094b \u0938\u092b\u0930 \u091c\u092e\u0940\u0928 \u092a\u0930 \u0928\u0939\u0940\u0902- \u0906\u0935\u093e\u091c\u093c \u0915\u0940 \u0917\u0924\u093f \u092a\u0930 \u0939\u094b\u0924\u093e \u0939\u0948\n\n\u092f\u0939 \u0915\u0949\u0928\u094d\u0938\u0947\u092a\u094d\u091f \u0926\u093f\u0916\u093e\u0924\u093e \u0939\u0948 \u0915\u093f \u0905\u0917\u0930 \u091c\u093e\u092a\u093e\u0928 \u092e\u0947\u0902 \u091f\u094d\u0930\u0947\u0928 \u0938\u0941\u092a\u0930\u0938\u094b\u0928\u093f\u0915 \u0938\u094d\u092a\u0940\u0921 \u0938\u0947 \u0926\u094c\u0921\u093c\u0947, \u0924\u094b \u0905\u0928\u0941\u092d\u0935 \u0915\u0948\u0938\u093e \u0939\u094b\u0917\u093e\u0964 \u092b\u093f\u0932\u0939\u093e\u0932 \u0938\u092c\u0938\u0947 \u0924\u0947",
+      "views": 73379,
+      "likes": -1,
+      "comments": 3,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 150.0,
+      "engagement_rate": 0.0,
       "hashtags": [
-        "#technology",
-        "#tech",
-        "#businessowner",
-        "#entrepreneur",
-        "#digitalmarketing",
-        "#artificialintelligence",
-        "#branding",
-        "#startup"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW108bxDGu5/"
-    },
-    {
-      "author": "@bbntimesofficial",
-      "followers": 0,
-      "caption": "China's SSE Composite Index, which tracks all A-shares and B-shares traded on the Shanghai Stock Exchange, returned to trading on Tuesday, April 7, 2026, following a one-day closure on Monday for the ",
-      "views": 0,
-      "likes": 2,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 150.0,
-      "hashtags": [
-        "#technology",
-        "#tech",
-        "#businessowner",
-        "#entrepreneur",
-        "#digitalmarketing",
-        "#artificialintelligence",
-        "#branding",
-        "#startup"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW100rdjMrJ/"
-    },
-    {
-      "author": "@bbntimesofficial",
-      "followers": 0,
-      "caption": "France's flagship CAC 40 index returned to trading on Tuesday, April 7, 2026, following a four-day Easter holiday break, with the index rising approximately 0.4% to 7,994 points in early trading.\n\nRea",
-      "views": 0,
-      "likes": 2,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 150.0,
-      "hashtags": [
-        "#technology",
-        "#tech",
-        "#businessowner",
-        "#entrepreneur",
-        "#digitalmarketing",
-        "#artificialintelligence",
-        "#branding",
-        "#startup"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW10w1nDEZv/"
-    },
-    {
-      "author": "@bbntimesofficial",
-      "followers": 0,
-      "caption": "Italy's FTSE MIB index resumed trading on Tuesday, April 7, 2026, following the Easter holiday break, as Borsa Italiana \u2014 now part of Euronext Milan \u2014 reopened after the Good Friday and Easter Monday ",
-      "views": 0,
-      "likes": 3,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 133.33,
-      "hashtags": [
-        "#technology",
-        "#tech",
-        "#businessowner",
-        "#entrepreneur",
-        "#digitalmarketing",
-        "#artificialintelligence",
-        "#branding",
-        "#startup"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW11VUFDISr/"
-    },
-    {
-      "author": "@miranemirgulekli",
-      "followers": 0,
-      "caption": "\ud83e\udeea #apple #macbook #tech",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#apple",
-        "#macbook",
-        "#tech"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW163vZCFRd/"
-    },
-    {
-      "author": "@networks.baseline",
-      "followers": 0,
-      "caption": "Day 72: Datacenter Interconnect Guide for Network & Security Engineers\nThanks to all subscribers for the huge support \u2764\ufe0f\u2764\ufe0f\n\n#education #networking #tech #fblifestyle",
-      "views": 0,
-      "likes": 6,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#education",
-        "#networking",
-        "#tech",
-        "#fblifestyle"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW16csEEVsv/"
-    },
-    {
-      "author": "@sterlingvvv",
-      "followers": 0,
-      "caption": "Adore these folks \u2764\ufe0f Just a few more days til opening!\n#manoflamancha @montgomerytheater @theatrephiladelphia #cervantes #donquixote #nonbinary #genderfluid #queer #musical #theatre #tech",
-      "views": 0,
-      "likes": 11,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#manoflamancha",
-        "#cervantes",
-        "#donquixote",
-        "#nonbinary",
-        "#genderfluid",
-        "#queer",
-        "#musical",
-        "#theatre"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW15rJAD9eb/"
-    },
-    {
-      "author": "@techhype.zone",
-      "followers": 0,
-      "caption": "This gadget is the upgrade you didn't know you needed\u26a1\ud83e\udd2f\n\n#technology #smartgadget #gadget #gadgets #tech",
-      "views": 0,
-      "likes": 2,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#technology",
-        "#smartgadget",
-        "#gadget",
-        "#gadgets",
-        "#tech"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW16W2wko6x/"
-    },
-    {
-      "author": "@techhype.zone",
-      "followers": 0,
-      "caption": "This gadget is the upgrade you didn't know you needed\u26a1\ud83e\udd2f\n\n#technology #smartgadget #gadget #gadgets #tech",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#technology",
-        "#smartgadget",
-        "#gadget",
-        "#gadgets",
-        "#tech"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW16TavEvYF/"
-    },
-    {
-      "author": "@zedga_dget",
-      "followers": 0,
-      "caption": "This gadget is the upgrade you didn't know you needed\u26a1\ud83e\udd2f\n\n#technology #smartgadget #gadget #gadgets #tech",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#technology",
-        "#smartgadget",
-        "#gadget",
-        "#gadgets",
-        "#tech"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW16JgaExJU/"
-    },
-    {
-      "author": "@zedga_dget",
-      "followers": 0,
-      "caption": "This gadget is the upgrade you didn't know you needed\u26a1\ud83e\udd2f\n\n#technology #smartgadget #gadget #gadgets #tech",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#technology",
-        "#smartgadget",
-        "#gadget",
-        "#gadgets",
-        "#tech"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW16D1QE2Sn/"
-    },
-    {
-      "author": "@ameeofficiel",
-      "followers": 0,
-      "caption": "\ud83d\udcc5 \ud83d\ude80 Retrouvez l'AMEE du 07 au 09 avril 2026 au @gitexafrica 2026 !\u200b\n\ud83d\udce2 \ud83d\udccd Rejoignez-nous au stand n\u00b0 11D-10 ! Nous serons ravis d'\u00e9changer avec vous et de vous faire b\u00e9n\u00e9ficier d'un pre-diagnostic \u00e9nerg",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#AMEE",
-        "#Efficacit\u00e9Energ\u00e9tique",
-        "#GitexAfrica",
         "#Tech",
-        "#Marrakech",
-        "#Maroc\u200b\u200b"
+        "#Innovation",
+        "#SuperSonic",
+        "#Future",
+        "#Japan"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW15R2vDsRJ/"
+      "url": "https://www.instagram.com/p/DWz--Y1j9Sm/"
     },
     {
-      "author": "@unfoldedai",
+      "author": "@maya_ai2026",
       "followers": 0,
-      "caption": "AI learned to see in 12 years\n\nIn 2014, AI images were rough and unclear. Models could hint at shapes, but nothing close to reality. A cow looked like a blurry guess, not a real animal.\n\nThese systems",
-      "views": 0,
-      "likes": 19,
-      "comments": 0,
+      "caption": "Part 121: \u0627\u062a\u0639\u0631\u0641\u062a \u0639\u0644\u064a\u064a\u0647\u0645 \u0643\u0644\u0647\u0645\ud83d\ude05\ud83d\ude02\ud83d\ude48\n.\n.\n. \n\n.\n.\n.\n #bellydance #dance #dancereels #dancechallenge #AI #aigenerated #klingAI #arabic #morroco #Jordon #Egypt #iran #Syrian #emirates #saudiarabia #dubai #ara",
+      "views": 72713,
+      "likes": 2067,
+      "comments": 77,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 100.0,
+      "engagement_rate": 2.95,
       "hashtags": [
-        "#ai",
-        "#automation",
-        "#tech",
-        "#ainews"
+        "#bellydance",
+        "#dance",
+        "#dancereels",
+        "#dancechallenge",
+        "#AI",
+        "#aigenerated",
+        "#klingAI",
+        "#arabic"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW14z31E1Wf/"
+      "url": "https://www.instagram.com/p/DW1iGYOjoV8/"
     }
   ]
 }

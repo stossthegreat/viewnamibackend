@@ -4,504 +4,446 @@
   "month": "April",
   "year": 2026,
   "niche": "food",
-  "generated_at": "2026-04-07T03:51:42.745109",
-  "data_points_analyzed": 750,
-  "viral_posts_found": 747,
-  "hooks": [],
-  "best_times": [
+  "generated_at": "2026-04-07T23:44:53.202256",
+  "data_points_analyzed": 166,
+  "viral_posts_found": 166,
+  "hooks": [
     {
-      "day": "Monday",
-      "time": "Peak",
-      "engagement_avg": 53.5,
-      "sample_size": 279
+      "pattern": "POV",
+      "example_count": 1,
+      "example": "PoV: \u201cAll you need in this life is ignorance and confidence; then success is sure.\u201d \ud83e\uddff\ud83e\ude77"
     },
     {
-      "day": "Tuesday",
-      "time": "Peak",
-      "engagement_avg": 32.9,
-      "sample_size": 468
+      "pattern": "How to",
+      "example_count": 1,
+      "example": "Have you ever tried chicken feet? Comment RECIPE below and I\u2019ll send you step-by-step instructions on how to make these."
     }
   ],
+  "best_times": [],
   "hashtags": [
     {
       "tag": "#food",
-      "usage_count": 243,
-      "avg_views": 0
-    },
-    {
-      "tag": "#cooking",
-      "usage_count": 174,
-      "avg_views": 0
-    },
-    {
-      "tag": "#homemade",
-      "usage_count": 162,
-      "avg_views": 1
-    },
-    {
-      "tag": "#recipe",
-      "usage_count": 144,
-      "avg_views": 2
-    },
-    {
-      "tag": "#foodporn",
-      "usage_count": 111,
-      "avg_views": 2
+      "usage_count": 100
     },
     {
       "tag": "#foodie",
-      "usage_count": 60,
-      "avg_views": 0
+      "usage_count": 53
     },
     {
-      "tag": "#dinner",
-      "usage_count": 36,
-      "avg_views": 9
-    },
-    {
-      "tag": "#yummy",
-      "usage_count": 30,
-      "avg_views": 2
-    },
-    {
-      "tag": "#delicious",
-      "usage_count": 30,
-      "avg_views": 1
-    },
-    {
-      "tag": "#instafood",
-      "usage_count": 27,
-      "avg_views": 0
-    },
-    {
-      "tag": "#foodphotography",
-      "usage_count": 27,
-      "avg_views": 0
-    },
-    {
-      "tag": "#viral",
-      "usage_count": 24,
-      "avg_views": 0
-    },
-    {
-      "tag": "#homecooking",
-      "usage_count": 24,
-      "avg_views": 0
-    },
-    {
-      "tag": "#pasta",
-      "usage_count": 21,
-      "avg_views": 1
-    },
-    {
-      "tag": "#cookies",
-      "usage_count": 21,
-      "avg_views": 2
-    },
-    {
-      "tag": "#recipes",
-      "usage_count": 21,
-      "avg_views": 2
-    },
-    {
-      "tag": "#baking",
-      "usage_count": 21,
-      "avg_views": 1
-    },
-    {
-      "tag": "#foodstagram",
-      "usage_count": 21,
-      "avg_views": 0
-    },
-    {
-      "tag": "#\u6599\u7406",
-      "usage_count": 21,
-      "avg_views": 4
-    },
-    {
-      "tag": "#foto",
-      "usage_count": 21,
-      "avg_views": 0
+      "tag": "#cooking",
+      "usage_count": 40
     },
     {
       "tag": "#fyp",
-      "usage_count": 18,
-      "avg_views": 1
+      "usage_count": 20
+    },
+    {
+      "tag": "#reels",
+      "usage_count": 15
+    },
+    {
+      "tag": "#recipe",
+      "usage_count": 15
+    },
+    {
+      "tag": "#explore",
+      "usage_count": 10
+    },
+    {
+      "tag": "#viral",
+      "usage_count": 9
+    },
+    {
+      "tag": "#foodlover",
+      "usage_count": 9
+    },
+    {
+      "tag": "#chef",
+      "usage_count": 7
+    },
+    {
+      "tag": "#mealprep",
+      "usage_count": 5
     },
     {
       "tag": "#dessert",
-      "usage_count": 18,
-      "avg_views": 0
+      "usage_count": 4
     },
     {
-      "tag": "#\u6599\u7406\u8a18\u9332",
-      "usage_count": 18,
-      "avg_views": 0
+      "tag": "#kitchen",
+      "usage_count": 4
     },
     {
-      "tag": "#\u81ea\u708a",
-      "usage_count": 18,
-      "avg_views": 0
+      "tag": "#travel",
+      "usage_count": 4
     },
     {
-      "tag": "#eatyourveggies",
-      "usage_count": 15,
-      "avg_views": 0
+      "tag": "#foodies",
+      "usage_count": 4
+    },
+    {
+      "tag": "#instagram",
+      "usage_count": 4
+    },
+    {
+      "tag": "#foodporn",
+      "usage_count": 4
+    },
+    {
+      "tag": "#losangeles",
+      "usage_count": 4
+    },
+    {
+      "tag": "#highprotein",
+      "usage_count": 4
+    },
+    {
+      "tag": "#mukbang",
+      "usage_count": 4
+    },
+    {
+      "tag": "#foodstagram",
+      "usage_count": 4
+    },
+    {
+      "tag": "#healthy",
+      "usage_count": 4
+    },
+    {
+      "tag": "#love",
+      "usage_count": 3
+    },
+    {
+      "tag": "#dinner",
+      "usage_count": 3
+    },
+    {
+      "tag": "#bbq",
+      "usage_count": 3
     }
   ],
-  "formats": [
-    {
-      "name": "Challenge / trend",
-      "avg_engagement": 50.0,
-      "post_count": 18
-    },
-    {
-      "name": "Review / recommendation",
-      "avg_engagement": 33.3,
-      "post_count": 9
-    },
-    {
-      "name": "Question / engagement",
-      "avg_engagement": 0.0,
-      "post_count": 9
-    },
-    {
-      "name": "Educational / tips",
-      "avg_engagement": 0.0,
-      "post_count": 12
-    },
-    {
-      "name": "Story / narrative",
-      "avg_engagement": 0.0,
-      "post_count": 3
-    }
-  ],
+  "formats": [],
   "trending_sounds": [],
-  "insights": "Challenge / trend content leads with 50.0% avg engagement. Avg engagement: 40.6%. Top: 350.0%. 747 posts analyzed.",
+  "insights": "166 Instagram reels. Avg 44,407 views, 1,287 likes.",
   "top_posts": [
     {
-      "author": "@daveamos13",
+      "author": "@piyali_toshniwal",
       "followers": 0,
-      "caption": "Rabbit fricassee. #rabbitfricassee #foodporn #pasta #cooking",
-      "views": 0,
-      "likes": 2,
-      "comments": 5,
+      "caption": "PoV: \u201cAll you need in this life is ignorance and confidence; then success is sure.\u201d \ud83e\uddff\ud83e\ude77\n\nsometimes the magic begins when you stop overthinking. \ud83c\udf0a\u2728\nA little ignorance to the noise, a little confidence i",
+      "views": 1104314,
+      "likes": 13944,
+      "comments": 609,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 350.0,
+      "engagement_rate": 1.32,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0jHMaDPF8/"
+    },
+    {
+      "author": "@itsdlai",
+      "followers": 0,
+      "caption": "Keep thinking y\u2019all friends with these wild animals #food @comedyzonegreensboro April 9th",
+      "views": 382643,
+      "likes": 18320,
+      "comments": 1385,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 5.15,
       "hashtags": [
-        "#rabbitfricassee",
-        "#foodporn",
-        "#pasta",
-        "#cooking"
+        "#food"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzx7NTCarP/"
+      "url": "https://www.instagram.com/p/DWzahMtj7E3/"
     },
     {
-      "author": "@daveamos13",
+      "author": "@estefania_fernandezz",
       "followers": 0,
-      "caption": "Rabbit fricassee. #rabbitfricassee #foodporn #pasta #cooking",
-      "views": 0,
-      "likes": 2,
-      "comments": 5,
+      "caption": "\ud83c\uddf2\ud83c\uddfdEnchiladas Suizas Cremosas \ud83e\udd24\n\nUna receta f\u00e1cil, r\u00e1pida y deliciosa\u2026 \u00a1quedan s\u00faper cremosas y llenas de sabor! \ud83d\ude2e\u200d\ud83d\udd25\n\n\u2e3b\n\n\ud83d\udcdd Ingredientes\n\nPara el pollo:\n\t\u2022\t4 pechugas de pollo\n\t\u2022\t\u00bd cebolla\n\t\u2022\t3 hojas de",
+      "views": 232342,
+      "likes": 5369,
+      "comments": 3,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 350.0,
+      "engagement_rate": 2.31,
       "hashtags": [
-        "#rabbitfricassee",
-        "#foodporn",
-        "#pasta",
-        "#cooking"
+        "#enchiladas",
+        "#enchiladassuizas",
+        "#recetasf\u00e1ciles",
+        "#foodie",
+        "#comidamexicana"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzx7NTCarP/"
+      "url": "https://www.instagram.com/p/DWznXAvjUw0/"
     },
     {
-      "author": "@daveamos13",
+      "author": "@ayseseymabektas",
       "followers": 0,
-      "caption": "Rabbit fricassee. #rabbitfricassee #foodporn #pasta #cooking",
-      "views": 0,
-      "likes": 2,
-      "comments": 5,
+      "caption": "M\u00fckemmel bir tatl\u0131 bunu mutlaka deneyin\ud83d\udcaf\ud83d\ude0b\nVideoyu kaydedip be\u011fenmeyi unutmay\u0131n\u2665\ufe0f\n\nMeyveli borcam pastas\u0131\u2728\nKeki i\u00e7in;\n5 yumurta \n1 su barda\u011f\u0131 toz \u015feker\nYar\u0131m su barda\u011f\u0131 kaynar su\n1 su barda\u011f\u0131 un\nYar\u0131m ",
+      "views": 219779,
+      "likes": 1993,
+      "comments": 24,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 350.0,
+      "engagement_rate": 0.92,
       "hashtags": [
-        "#rabbitfricassee",
-        "#foodporn",
-        "#pasta",
-        "#cooking"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzx7NTCarP/"
-    },
-    {
-      "author": "@bakedby.michelle",
-      "followers": 0,
-      "caption": "Beef and chicken sliders done for a birthday party \n\nYes we cater for micro events \n\nHomemade beef and chicken patties on homemade brioche buns \n398-6823 or 303-8957 for inquiries on how you can order",
-      "views": 0,
-      "likes": 2,
-      "comments": 4,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 300.0,
-      "hashtags": [
-        "#sliders\ud83c\udf54",
-        "#homemade",
-        "#briochebuns",
-        "#viral",
-        "#caterers"
+        "#tatl\u0131",
+        "#dessert",
+        "#reels",
+        "#food",
+        "#global"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz0HkakXml/"
+      "url": "https://www.instagram.com/p/DW104nyDJLw/"
     },
     {
-      "author": "@waystolxve",
+      "author": "@chatpati_.kitchen",
       "followers": 0,
-      "caption": "\ub450\ubc14\uc774\ucd08\ucf54 \ud504\ub9c1\uae00\uc2a4 \ud83c\udf5f\ud83c\udf6b\n#dubaichocolatepringles\n\uc694\uc998 \uc720\ud589\ud558\ub294 \uac83\ub4e4 \ucf5c\ub77c\ubcf4\ub85c \ub9cc\ub4e4\uae30 \n\n\ud53c\uc2a4\ud0c0\uce58\uc624 \uc2a4\ud504\ub808\ub4dc\ub3c4 \uc788\uae38\ub798 \ub450\ubc14\uc774 \ucd08\ucf54 \ub290\ub08c\uc774 \ub0a0\uae4c? \uc2f6\uc5b4\uc11c \ub9cc\ub4e4\uc5b4 \ubcf8 \n\ub108\ubb34 \ub2ec \uac83 \uac19\uc544\uc11c \ub2e4\ud06c\ub85c \ubc14\uafb8\uace0 \uc591\ub3c4 \uc904\uc774\uace0 \ub300\uc2e0 \uc2a4\ud504\ub808\ub4dc\ub791 \uc11e\uc5b4 \ubd24\uc5b4\uc694 ! \n\uc911\ub2f9 \ucd08\ucf5c\ub9bf 5\uc2a4\ud47c \ub123\uace0 \ud53c\uc2a4\ud0c0\uce58\uc624 \uc2a4\ud504\ub808\ub4dc \uc911\uac04\uc5d0 \ud55c \ubc88 \ub123\uace0 \ubc18\ubcf5 \ud83d\udd01\n\n\uc694\uae30\uc11c \ud0a5\uc740 \ud788\ub9d0\ub77c\uc57c",
-      "views": 0,
-      "likes": 1,
-      "comments": 2,
+      "caption": "\ud83e\udd23\ud83d\ude2c\ud83e\udd23 #cooking #kitchen #funny #reach #fyp",
+      "views": 158480,
+      "likes": 778,
+      "comments": 9,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 300.0,
+      "engagement_rate": 0.5,
       "hashtags": [
-        "#dubaichocolatepringles"
+        "#cooking",
+        "#kitchen",
+        "#funny",
+        "#reach",
+        "#fyp"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzucyRk042/"
+      "url": "https://www.instagram.com/p/DWypqKek87d/"
     },
     {
-      "author": "@swefty.recipes",
+      "author": "@aapli_aaji",
       "followers": 0,
-      "caption": "\ud83c\udf53\ud83e\udd68 Strawberry Crackle Salad \u2013 The Ultimate Mother\u2019s Day Sweet Crunch Dessert \ud83d\udc96\u2728\n\nIngredients:\n2 cups crushed pretzels\n1 cup chopped pecans\n1 cup brown sugar\n1 cup butter, melted\n4 cups sliced strawber",
-      "views": 0,
-      "likes": 1,
-      "comments": 2,
+      "caption": "Comment - Link\ud83d\udc47\n\n#food #summer #village #health #healthyfood",
+      "views": 139180,
+      "likes": 1653,
+      "comments": 42,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 300.0,
+      "engagement_rate": 1.22,
       "hashtags": [
-        "#MothersDay",
-        "#StrawberryDessert",
-        "#PretzelDessert",
-        "#viral",
-        "#vira\u0142post",
-        "#trend",
+        "#food",
+        "#summer",
+        "#village",
+        "#health",
+        "#healthyfood"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW08DiBDRjF/"
+    },
+    {
+      "author": "@ulises_cocinero",
+      "followers": 0,
+      "caption": "\u2b07\ufe0f\u2728 EL RELISH PERFECTO \ud83d\ude0b Nivel Perro Caliente Mundial \ud83c\udf2d\ud83e\udd52\n\nSe viene el D\u00eda Mundial del Perro Caliente y les traigo el secreto para que los suyos queden de otro nivel. \ud83e\udd73\ud83c\udf2d Olv\u00eddense de los frascos de s\u00fap",
+      "views": 133121,
+      "likes": 9174,
+      "comments": 313,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 7.13,
+      "hashtags": [
+        "#relish",
+        "#hotdog",
+        "#homemade",
         "#food",
         "#recipe"
       ],
       "sound": "",
       "duration": 0,
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzrpvwDrcT/"
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1QyOngK6b/"
     },
     {
-      "author": "@bakedby.michelle",
+      "author": "@leonilanee",
       "followers": 0,
-      "caption": "Beef and chicken sliders done for a birthday party \n\nYes we cater for micro events \n\nHomemade beef and chicken patties on homemade brioche buns \n398-6823 or 303-8957 for inquiries on how you can order",
-      "views": 0,
-      "likes": 2,
-      "comments": 4,
+      "caption": "Bolo de anivers\u00e1rio \ud83c\udf82\ud83c\udf38\ud83c\udf3f\ud83c\udf53#diy #food #baking #cake #receita",
+      "views": 120128,
+      "likes": 9153,
+      "comments": 76,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 300.0,
+      "engagement_rate": 7.68,
       "hashtags": [
-        "#sliders\ud83c\udf54",
-        "#homemade",
-        "#briochebuns",
-        "#viral",
-        "#caterers"
+        "#diy",
+        "#food",
+        "#baking",
+        "#cake",
+        "#receita"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzhPnzjSBE/"
+    },
+    {
+      "author": "@_byneri",
+      "followers": 0,
+      "caption": "\u2728cremige Hackb\u00e4llchen-Pfanne\u2728\n\n\ud83c\udde9\ud83c\uddeaZutaten\nHackb\u00e4llchen:\n1 kg Hackfleisch \n1 Ei\n1 TL Kreuzk\u00fcmmel\n1 TL Oregano\n1 TL Paprikapulver edels\u00fc\u00df \n1 TL Salz\n0,5 TL Pfeffer\nChiliflocken (optional)\n1 EL Tomatenmar",
+      "views": 111272,
+      "likes": 2148,
+      "comments": 56,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.98,
+      "hashtags": [
+        "#hackb\u00e4llchen",
+        "#food",
+        "#k\u00f6fte",
+        "#foodblogger",
+        "#k\u00f6ftetarifi"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz0HkakXml/"
+      "url": "https://www.instagram.com/p/DW1i87QjJFa/"
     },
     {
-      "author": "@waystolxve",
+      "author": "@sailor_bailey",
       "followers": 0,
-      "caption": "\ub450\ubc14\uc774\ucd08\ucf54 \ud504\ub9c1\uae00\uc2a4 \ud83c\udf5f\ud83c\udf6b\n#dubaichocolatepringles\n\uc694\uc998 \uc720\ud589\ud558\ub294 \uac83\ub4e4 \ucf5c\ub77c\ubcf4\ub85c \ub9cc\ub4e4\uae30 \n\n\ud53c\uc2a4\ud0c0\uce58\uc624 \uc2a4\ud504\ub808\ub4dc\ub3c4 \uc788\uae38\ub798 \ub450\ubc14\uc774 \ucd08\ucf54 \ub290\ub08c\uc774 \ub0a0\uae4c? \uc2f6\uc5b4\uc11c \ub9cc\ub4e4\uc5b4 \ubcf8 \n\ub108\ubb34 \ub2ec \uac83 \uac19\uc544\uc11c \ub2e4\ud06c\ub85c \ubc14\uafb8\uace0 \uc591\ub3c4 \uc904\uc774\uace0 \ub300\uc2e0 \uc2a4\ud504\ub808\ub4dc\ub791 \uc11e\uc5b4 \ubd24\uc5b4\uc694 ! \n\uc911\ub2f9 \ucd08\ucf5c\ub9bf 5\uc2a4\ud47c \ub123\uace0 \ud53c\uc2a4\ud0c0\uce58\uc624 \uc2a4\ud504\ub808\ub4dc \uc911\uac04\uc5d0 \ud55c \ubc88 \ub123\uace0 \ubc18\ubcf5 \ud83d\udd01\n\n\uc694\uae30\uc11c \ud0a5\uc740 \ud788\ub9d0\ub77c\uc57c",
-      "views": 0,
-      "likes": 1,
-      "comments": 2,
+      "caption": "This Green Goddess Chicken Salad is a wonderful change-up from the classic. It\u2019s bright from an herby yogurt dressing and LOTS of crunch from fresh veggies. It\u2019s the perfect spring or summer lunch to ",
+      "views": 109476,
+      "likes": 3087,
+      "comments": 1323,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 300.0,
+      "engagement_rate": 4.03,
       "hashtags": [
-        "#dubaichocolatepringles"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzucyRk042/"
-    },
-    {
-      "author": "@swefty.recipes",
-      "followers": 0,
-      "caption": "\ud83c\udf53\ud83e\udd68 Strawberry Crackle Salad \u2013 The Ultimate Mother\u2019s Day Sweet Crunch Dessert \ud83d\udc96\u2728\n\nIngredients:\n2 cups crushed pretzels\n1 cup chopped pecans\n1 cup brown sugar\n1 cup butter, melted\n4 cups sliced strawber",
-      "views": 0,
-      "likes": 1,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 300.0,
-      "hashtags": [
-        "#MothersDay",
-        "#StrawberryDessert",
-        "#PretzelDessert",
-        "#viral",
-        "#vira\u0142post",
-        "#trend",
+        "#ReadySetCO",
         "#food",
-        "#recipe"
+        "#foodie",
+        "#delicious"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzrpvwDrcT/"
+      "url": "https://www.instagram.com/p/DWytNXmkcFO/"
     },
     {
-      "author": "@bakedby.michelle",
+      "author": "@cocinacomouncrack",
       "followers": 0,
-      "caption": "Beef and chicken sliders done for a birthday party \n\nYes we cater for micro events \n\nHomemade beef and chicken patties on homemade brioche buns \n398-6823 or 303-8957 for inquiries on how you can order",
-      "views": 0,
-      "likes": 2,
-      "comments": 4,
+      "caption": "Menciona al que te tiene que hacer esta groser\u00eda \ud83e\udd24 o env\u00edaselo pa\u2019 que se ponga la 10 \ud83e\udee8\n\u2022\nReceta: \n\n1 pl\u00e1tano maduro \n100g de panela \n100ml de agua \n40g de mantequilla \n\n- Hacer un melado con la panel",
+      "views": 101791,
+      "likes": 6009,
+      "comments": 115,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 300.0,
+      "engagement_rate": 6.02,
       "hashtags": [
-        "#sliders\ud83c\udf54",
-        "#homemade",
-        "#briochebuns",
-        "#viral",
-        "#caterers"
+        "#recetas",
+        "#colombia",
+        "#food",
+        "#recipes",
+        "#parati"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzlXcrgGwq/"
+    },
+    {
+      "author": "@brown_chef_india",
+      "followers": 0,
+      "caption": "You can replace mushrooms with paneer or even Gatta\u2019s , little oil roasted bhindi \ud83d\ude0d , banakar batana kaise bani .. promise ? \ud83d\ude07\n.\n.\n.\n#brownchef #sunnyyvyas #love #food #viral",
+      "views": 95281,
+      "likes": 2620,
+      "comments": 260,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.02,
+      "hashtags": [
+        "#brownchef",
+        "#sunnyyvyas",
+        "#love",
+        "#food",
+        "#viral"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz0HkakXml/"
+      "url": "https://www.instagram.com/p/DW0Qf4iCHp1/"
     },
     {
-      "author": "@waystolxve",
+      "author": "@the_noahnator",
       "followers": 0,
-      "caption": "\ub450\ubc14\uc774\ucd08\ucf54 \ud504\ub9c1\uae00\uc2a4 \ud83c\udf5f\ud83c\udf6b\n#dubaichocolatepringles\n\uc694\uc998 \uc720\ud589\ud558\ub294 \uac83\ub4e4 \ucf5c\ub77c\ubcf4\ub85c \ub9cc\ub4e4\uae30 \n\n\ud53c\uc2a4\ud0c0\uce58\uc624 \uc2a4\ud504\ub808\ub4dc\ub3c4 \uc788\uae38\ub798 \ub450\ubc14\uc774 \ucd08\ucf54 \ub290\ub08c\uc774 \ub0a0\uae4c? \uc2f6\uc5b4\uc11c \ub9cc\ub4e4\uc5b4 \ubcf8 \n\ub108\ubb34 \ub2ec \uac83 \uac19\uc544\uc11c \ub2e4\ud06c\ub85c \ubc14\uafb8\uace0 \uc591\ub3c4 \uc904\uc774\uace0 \ub300\uc2e0 \uc2a4\ud504\ub808\ub4dc\ub791 \uc11e\uc5b4 \ubd24\uc5b4\uc694 ! \n\uc911\ub2f9 \ucd08\ucf5c\ub9bf 5\uc2a4\ud47c \ub123\uace0 \ud53c\uc2a4\ud0c0\uce58\uc624 \uc2a4\ud504\ub808\ub4dc \uc911\uac04\uc5d0 \ud55c \ubc88 \ub123\uace0 \ubc18\ubcf5 \ud83d\udd01\n\n\uc694\uae30\uc11c \ud0a5\uc740 \ud788\ub9d0\ub77c\uc57c",
-      "views": 0,
-      "likes": 1,
-      "comments": 2,
+      "caption": "Stackable Pizza Bread Loaf #recipe #cheesepizza #cooking",
+      "views": 94340,
+      "likes": 463,
+      "comments": 8,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 300.0,
+      "engagement_rate": 0.5,
       "hashtags": [
-        "#dubaichocolatepringles"
+        "#recipe",
+        "#cheesepizza",
+        "#cooking"
       ],
       "sound": "",
       "duration": 0,
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzucyRk042/"
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1o6xECF1K/"
     },
     {
-      "author": "@swefty.recipes",
+      "author": "@bigmeatsfood_",
       "followers": 0,
-      "caption": "\ud83c\udf53\ud83e\udd68 Strawberry Crackle Salad \u2013 The Ultimate Mother\u2019s Day Sweet Crunch Dessert \ud83d\udc96\u2728\n\nIngredients:\n2 cups crushed pretzels\n1 cup chopped pecans\n1 cup brown sugar\n1 cup butter, melted\n4 cups sliced strawber",
-      "views": 0,
-      "likes": 1,
-      "comments": 2,
+      "caption": "Dieser Schweinebraten ist WELTREKORD! \ud83d\ude31 Schaffe ich diese Challenge im \u00e4ltesten Wirthaus der Welt? \ud83d\udd25\n\nIch versuche eine ganze Schweinebrust \ud83d\ude33\n\nDie @gaststaette_roehrl ist das \u00c4lteste Wirtshaus der Wel",
+      "views": 92952,
+      "likes": 2302,
+      "comments": 61,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 300.0,
+      "engagement_rate": 2.54,
       "hashtags": [
-        "#MothersDay",
-        "#StrawberryDessert",
-        "#PretzelDessert",
-        "#viral",
-        "#vira\u0142post",
-        "#trend",
+        "#bigm",
+        "#challenge",
         "#food",
-        "#recipe"
+        "#foodie",
+        "#schweinebraten"
       ],
       "sound": "",
       "duration": 0,
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzrpvwDrcT/"
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW09E10gPaZ/"
     },
     {
-      "author": "@lacucina_dielvira",
+      "author": "@cadena3com",
       "followers": 0,
-      "caption": "\ud83d\ude0dVI PRESENTO IL MIO CASATIELLO NAPOLETANO\ud83d\ude0d\n\nPROTAGONISTA DELLE NOSTRE TAVOLE PASQUALI \nCROCCANTE FUORI E SOFFICE ALL'INTERNO, RICCO DI SALUMI E FORMAGGI, UNA VERA POESIA!\nSPERO ABBIATE PASSATO UNA SER",
-      "views": 0,
-      "likes": 4,
-      "comments": 5,
+      "caption": "\ud83c\udde6\ud83c\uddf7\ud83c\udf7d\ufe0f UNA DE LAS MEJORES MILANESA NAPOLITANA DEL MUNDO \n\n\u00bfPuede una milanesa convertirse en leyenda? En pleno coraz\u00f3n de Bariloche, la cl\u00e1sica La Fonda del T\u00edo lleva d\u00e9cadas sirviendo lo que muchos con",
+      "views": 92246,
+      "likes": 1897,
+      "comments": 40,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 225.0,
+      "engagement_rate": 2.1,
       "hashtags": [
-        "#casatiello",
-        "#napolifoodporn",
-        "#homemade",
-        "#food",
-        "#foodporn"
+        "#CaminosDelSabor",
+        "#Cadena3",
+        "#Bariloche",
+        "#Milanesa",
+        "#Foodie",
+        "#Argentina",
+        "#Viaja"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzyk-OCqPU/"
-    },
-    {
-      "author": "@lacucina_dielvira",
-      "followers": 0,
-      "caption": "\ud83d\ude0dVI PRESENTO IL MIO CASATIELLO NAPOLETANO\ud83d\ude0d\n\nPROTAGONISTA DELLE NOSTRE TAVOLE PASQUALI \nCROCCANTE FUORI E SOFFICE ALL'INTERNO, RICCO DI SALUMI E FORMAGGI, UNA VERA POESIA!\nSPERO ABBIATE PASSATO UNA SER",
-      "views": 0,
-      "likes": 4,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 225.0,
-      "hashtags": [
-        "#casatiello",
-        "#napolifoodporn",
-        "#homemade",
-        "#food",
-        "#foodporn"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzyk-OCqPU/"
-    },
-    {
-      "author": "@lacucina_dielvira",
-      "followers": 0,
-      "caption": "\ud83d\ude0dVI PRESENTO IL MIO CASATIELLO NAPOLETANO\ud83d\ude0d\n\nPROTAGONISTA DELLE NOSTRE TAVOLE PASQUALI \nCROCCANTE FUORI E SOFFICE ALL'INTERNO, RICCO DI SALUMI E FORMAGGI, UNA VERA POESIA!\nSPERO ABBIATE PASSATO UNA SER",
-      "views": 0,
-      "likes": 4,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 225.0,
-      "hashtags": [
-        "#casatiello",
-        "#napolifoodporn",
-        "#homemade",
-        "#food",
-        "#foodporn"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzyk-OCqPU/"
+      "url": "https://www.instagram.com/p/DWznb4-AdHC/"
     }
   ]
 }

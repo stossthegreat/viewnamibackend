@@ -4,494 +4,465 @@
   "month": "April",
   "year": 2026,
   "niche": "fitness",
-  "generated_at": "2026-04-07T03:51:41.723612",
-  "data_points_analyzed": 527,
-  "viral_posts_found": 527,
-  "hooks": [],
-  "best_times": [
+  "generated_at": "2026-04-07T23:44:53.202256",
+  "data_points_analyzed": 209,
+  "viral_posts_found": 200,
+  "hooks": [
     {
-      "day": "Monday",
-      "time": "Peak",
-      "engagement_avg": 38.5,
-      "sample_size": 115
+      "pattern": "Don't/Never",
+      "example_count": 2,
+      "example": "Don\u2019t knock it until you try it \ud83d\udd25"
     },
     {
-      "day": "Tuesday",
-      "time": "Peak",
-      "engagement_avg": 33.5,
-      "sample_size": 408
+      "pattern": "How to",
+      "example_count": 1,
+      "example": "everyone\u2019s talking about fibermaxxing. but nobody\u2019s showing petite women how to eat 25g/day without gaining weight"
     },
     {
-      "day": "Wednesday",
-      "time": "Peak",
-      "engagement_avg": -100.0,
-      "sample_size": 4
+      "pattern": "You need to",
+      "example_count": 1,
+      "example": "Want to build your booty? You need to build strong hamstrings!"
     }
   ],
+  "best_times": [],
   "hashtags": [
     {
       "tag": "#fitness",
-      "usage_count": 220,
-      "avg_views": 0
-    },
-    {
-      "tag": "#gym",
-      "usage_count": 200,
-      "avg_views": 0
-    },
-    {
-      "tag": "#fitnessmotivation",
-      "usage_count": 138,
-      "avg_views": 1
+      "usage_count": 121
     },
     {
       "tag": "#workout",
-      "usage_count": 126,
-      "avg_views": 0
+      "usage_count": 96
     },
     {
-      "tag": "#gymlife",
-      "usage_count": 101,
-      "avg_views": 0
-    },
-    {
-      "tag": "#bodybuilding",
-      "usage_count": 46,
-      "avg_views": 1
+      "tag": "#gym",
+      "usage_count": 65
     },
     {
       "tag": "#gymmotivation",
-      "usage_count": 44,
-      "avg_views": 0
+      "usage_count": 18
     },
     {
-      "tag": "#fit",
-      "usage_count": 32,
-      "avg_views": 0
+      "tag": "#fitnessmotivation",
+      "usage_count": 17
     },
     {
       "tag": "#motivation",
-      "usage_count": 28,
-      "avg_views": 0
-    },
-    {
-      "tag": "#entrenamiento",
-      "usage_count": 28,
-      "avg_views": 0
-    },
-    {
-      "tag": "#hammerstrength",
-      "usage_count": 26,
-      "avg_views": 0
-    },
-    {
-      "tag": "#lifefitness",
-      "usage_count": 26,
-      "avg_views": 0
-    },
-    {
-      "tag": "#exercise",
-      "usage_count": 25,
-      "avg_views": 0
+      "usage_count": 15
     },
     {
       "tag": "#fyp",
-      "usage_count": 20,
-      "avg_views": 0
-    },
-    {
-      "tag": "#3601",
-      "usage_count": 18,
-      "avg_views": 0
-    },
-    {
-      "tag": "#fitnessjourney",
-      "usage_count": 17,
-      "avg_views": 0
+      "usage_count": 11
     },
     {
       "tag": "#viral",
-      "usage_count": 16,
-      "avg_views": 0
+      "usage_count": 11
     },
     {
-      "tag": "#gymrat",
-      "usage_count": 15,
-      "avg_views": 0
+      "tag": "#bodybuilding",
+      "usage_count": 9
     },
     {
-      "tag": "#running",
-      "usage_count": 15,
-      "avg_views": 1
-    },
-    {
-      "tag": "#runner",
-      "usage_count": 10,
-      "avg_views": 2
-    },
-    {
-      "tag": "#wellness",
-      "usage_count": 10,
-      "avg_views": 2
-    },
-    {
-      "tag": "#gymtime",
-      "usage_count": 10,
-      "avg_views": 3
+      "tag": "#explore",
+      "usage_count": 9
     },
     {
       "tag": "#gymgirl",
-      "usage_count": 10,
-      "avg_views": 0
+      "usage_count": 8
     },
     {
-      "tag": "#bodybuilder",
-      "usage_count": 10,
-      "avg_views": 0
+      "tag": "#gymrat",
+      "usage_count": 7
     },
     {
-      "tag": "#muscle",
-      "usage_count": 9,
-      "avg_views": 0
+      "tag": "#fit",
+      "usage_count": 7
+    },
+    {
+      "tag": "#gymlife",
+      "usage_count": 7
+    },
+    {
+      "tag": "#explorepage",
+      "usage_count": 7
+    },
+    {
+      "tag": "#reels",
+      "usage_count": 6
+    },
+    {
+      "tag": "#dieta",
+      "usage_count": 6
+    },
+    {
+      "tag": "#instagood",
+      "usage_count": 6
+    },
+    {
+      "tag": "#lifestyle",
+      "usage_count": 6
+    },
+    {
+      "tag": "#treino",
+      "usage_count": 5
+    },
+    {
+      "tag": "#emagrecimento",
+      "usage_count": 5
+    },
+    {
+      "tag": "#humor",
+      "usage_count": 5
+    },
+    {
+      "tag": "#academia",
+      "usage_count": 5
+    },
+    {
+      "tag": "#workoutmotivation",
+      "usage_count": 4
+    },
+    {
+      "tag": "#challenge",
+      "usage_count": 4
     }
   ],
-  "formats": [
-    {
-      "name": "Review / recommendation",
-      "avg_engagement": 133.3,
-      "post_count": 6
-    },
-    {
-      "name": "Educational / tips",
-      "avg_engagement": 44.8,
-      "post_count": 17
-    },
-    {
-      "name": "Challenge / trend",
-      "avg_engagement": 40.0,
-      "post_count": 15
-    },
-    {
-      "name": "Question / engagement",
-      "avg_engagement": 0.0,
-      "post_count": 2
-    },
-    {
-      "name": "Before/after",
-      "avg_engagement": 0.0,
-      "post_count": 4
-    }
-  ],
+  "formats": [],
   "trending_sounds": [],
-  "insights": "Review / recommendation content leads with 133.3% avg engagement. Avg engagement: 33.5%. Top: 300.0%. 527 posts analyzed.",
+  "insights": "200 Instagram reels. Avg 36,453 views, 1,162 likes.",
   "top_posts": [
     {
-      "author": "@caarlaa_medina._",
+      "author": "@mireiafiguerass",
       "followers": 0,
-      "caption": "\u263a\ufe0f\ud83d\udc99\ud83d\udc9b\ud83d\udd25\ud83e\udd8d.\n\n.\n.\n.\n.\n..\n.\n.\n#gymrat #gymmotivation #fit #fitnessmotivation #gym",
-      "views": 0,
-      "likes": -1,
-      "comments": 4,
+      "caption": "El \u00faltimo lo veo poco en el gym \ud83e\udd72 qui\u00e9n lo hace tambi\u00e9n?\n\n#gym #fitness #workout #gymmotivation #gymrat",
+      "views": 433118,
+      "likes": 9675,
+      "comments": 67,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 300.0,
-      "hashtags": [
-        "#gymrat",
-        "#gymmotivation",
-        "#fit",
-        "#fitnessmotivation",
-        "#gym"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzqEvpjgXr/"
-    },
-    {
-      "author": "@coyslifts",
-      "followers": 0,
-      "caption": "\ud83d\ude92 \n\n#gym #fitness #fit #workout #bodybuilding",
-      "views": 0,
-      "likes": 1,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 300.0,
+      "engagement_rate": 2.25,
       "hashtags": [
         "#gym",
         "#fitness",
-        "#fit",
         "#workout",
-        "#bodybuilding"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz0LM_lLCH/"
-    },
-    {
-      "author": "@caarlaa_medina._",
-      "followers": 0,
-      "caption": "\u263a\ufe0f\ud83d\udc99\ud83d\udc9b\ud83d\udd25\ud83e\udd8d.\n\n.\n.\n.\n.\n..\n.\n.\n#gymrat #gymmotivation #fit #fitnessmotivation #gym",
-      "views": 0,
-      "likes": -1,
-      "comments": 4,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 300.0,
-      "hashtags": [
-        "#gymrat",
         "#gymmotivation",
-        "#fit",
-        "#fitnessmotivation",
-        "#gym"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzqEvpjgXr/"
-    },
-    {
-      "author": "@coyslifts",
-      "followers": 0,
-      "caption": "\ud83d\ude92 \n\n#gym #fitness #fit #workout #bodybuilding",
-      "views": 0,
-      "likes": 1,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 300.0,
-      "hashtags": [
-        "#gym",
-        "#fitness",
-        "#fit",
-        "#workout",
-        "#bodybuilding"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz0LM_lLCH/"
-    },
-    {
-      "author": "@jordan_the_immortal",
-      "followers": 0,
-      "caption": "Good lighting is doing most of the work. And the cigar?\nWell we can\u2019t be too healthy can now we....",
-      "views": 0,
-      "likes": 2,
-      "comments": 3,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 250.0,
-      "hashtags": [],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzzrTtkWTD/"
-    },
-    {
-      "author": "@jordan_the_immortal",
-      "followers": 0,
-      "caption": "Good lighting is doing most of the work. And the cigar?\nWell we can\u2019t be too healthy can now we....",
-      "views": 0,
-      "likes": 2,
-      "comments": 3,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 250.0,
-      "hashtags": [],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzzrTtkWTD/"
-    },
-    {
-      "author": "@perfectposiesbypaige",
-      "followers": 0,
-      "caption": "So I've avoided talking about this, BUT here it is. My gym is closing. I've been a member for 15years, and have been working there for half a year.\n\n It's been my home away from home, a place to exerc",
-      "views": 0,
-      "likes": 0,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 200.0,
-      "hashtags": [
-        "#fitnessforumlondon",
-        "#ffl",
-        "#ldnont",
-        "#fit4less",
         "#gymrat"
       ],
       "sound": "",
       "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz0wSLD9O7/"
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzJYj6jaV5/"
     },
     {
-      "author": "@perfectposiesbypaige",
+      "author": "@sciaudone.matteo",
       "followers": 0,
-      "caption": "So I've avoided talking about this, BUT here it is. My gym is closing. I've been a member for 15years, and have been working there for half a year.\n\n It's been my home away from home, a place to exerc",
-      "views": 0,
-      "likes": 0,
-      "comments": 2,
+      "caption": "\ud83d\udd0d Stai bevendo i semi di chia nel modo SBAGLIATO!\n\nSe anche tu ti forzi a bere quell'acqua gelatinosa con i semi di chia sperando nella pancia piatta... fermati un attimo! \ud83d\ude05\n\n\u274c Il problema: Bere semi ",
+      "views": 275247,
+      "likes": 3392,
+      "comments": 1593,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 200.0,
+      "engagement_rate": 1.81,
       "hashtags": [
-        "#fitnessforumlondon",
-        "#ffl",
-        "#ldnont",
-        "#fit4less",
-        "#gymrat"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz0wSLD9O7/"
-    },
-    {
-      "author": "@skylarrfitness",
-      "followers": 0,
-      "caption": "Happy Monday!!! \ud83c\udf1e\ud83c\udf1f\ud83c\udfcb\ufe0f\u200d\u2640\ufe0f\n\nCame to the gym and walked for an hour to get my steps in, then @gleb_baumann joined me for a chest and triceps lift. Thankful to have someone to push me when I wanna give up.",
-      "views": 0,
-      "likes": 3,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 166.67,
-      "hashtags": [
-        "#gym",
-        "#workout",
+        "#alimentazione",
+        "#benesserepsicologico",
+        "#dimagrimento",
+        "#stiledivitasano",
+        "#salute",
         "#fitness"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz0r0DDdo2/"
+      "url": "https://www.instagram.com/p/DW1m9O3kvU3/"
     },
     {
-      "author": "@skylarrfitness",
+      "author": "@universosinsentid0",
       "followers": 0,
-      "caption": "Happy Monday!!! \ud83c\udf1e\ud83c\udf1f\ud83c\udfcb\ufe0f\u200d\u2640\ufe0f\n\nCame to the gym and walked for an hour to get my steps in, then @gleb_baumann joined me for a chest and triceps lift. Thankful to have someone to push me when I wanna give up.",
-      "views": 0,
-      "likes": 3,
-      "comments": 2,
+      "caption": "\"Todo cambi\u00f3 por una mentira\u2026 \ud83d\ude33\ud83d\udcde\"\n\n#vira\u0142post #\u1d18\u1d00\u0280\u1d00\u1d1b\u026a #fyp\u30b7\u309aviral\u30b7fyp\u30b7\u309aviral\u30b7al\u30b7 #foryoupage\u2764\ufe0f\ud83d\ude0d #foryoupage #viralv\u00eddeo \n#drama #novela #historia #plotwist #s\u1d1b\u1d0f\u0280\u028f\u1d1b\u026a\u1d0d\u1d07 \n#relatableposts #parejas #amor #",
+      "views": 264455,
+      "likes": 16146,
+      "comments": 77,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 166.67,
+      "engagement_rate": 6.13,
       "hashtags": [
+        "#vira\u0142post",
+        "#\u1d18\u1d00\u0280\u1d00\u1d1b\u026a",
+        "#fyp\u30b7\u309aviral\u30b7fyp\u30b7\u309aviral\u30b7al\u30b7",
+        "#foryoupage\u2764\ufe0f\ud83d\ude0d",
+        "#foryoupage",
+        "#viralv\u00eddeo",
+        "#drama",
+        "#novela"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzwapZDRQW/"
+    },
+    {
+      "author": "@emmaleni_fit_2016",
+      "followers": 0,
+      "caption": "Thank You for Your Great Chair Fun Workout @noyandlk Today with my lovely daughter \ud83d\ude0d\n\n#chairworkoutsathome #workout #athomeworkout #hometraining #fitnessover40",
+      "views": 237842,
+      "likes": 4100,
+      "comments": 99,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.77,
+      "hashtags": [
+        "#chairworkoutsathome",
+        "#workout",
+        "#athomeworkout",
+        "#hometraining",
+        "#fitnessover40"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyd7lECM1P/"
+    },
+    {
+      "author": "@amandabiuger",
+      "followers": 0,
+      "caption": "Voc\u00ea tamb\u00e9m comete esse erro na Cadeira Extensora??\n\n\ud83d\udc40Treinar n\u00e3o \u00e9 s\u00f3 levantar peso\u2026 a diferen\u00e7a entre evoluir r\u00e1pido ou ficar estagnada est\u00e1 na t\u00e9cnica. Quando voc\u00ea executa certo, o m\u00fasculo trabalha",
+      "views": 199342,
+      "likes": 3742,
+      "comments": 61,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.91,
+      "hashtags": [
+        "#treino",
+        "#fit",
+        "#fitness",
+        "#hipertrofia",
+        "#reels"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzrzNDgIII/"
+    },
+    {
+      "author": "@dreathomas",
+      "followers": 0,
+      "caption": "The sun, the beach, workouts in a bikini, the heat, & a tan \u2728\ud83c\udf34\n\nSummmmmer is coming \ud83c\udf3a New Challenge for the summer? What do you think? Comment \ud83d\udd25 below \u2b07\ufe0f\n\n#fitnessmotivation #workout",
+      "views": 183516,
+      "likes": 6686,
+      "comments": 56,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.67,
+      "hashtags": [
+        "#fitnessmotivation",
+        "#workout"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DWz30bqDGez/"
+    },
+    {
+      "author": "@paulacworkout",
+      "followers": 0,
+      "caption": "\u00bfPor qu\u00e9 nadie habla de hack para que tus piernas se vean giganteesss?\ud83e\udd2f.\n.\n.\n#workout #fitnessmotivation #gym #gymlife #gymmotivation",
+      "views": 181841,
+      "likes": 5468,
+      "comments": 51,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.04,
+      "hashtags": [
+        "#workout",
+        "#fitnessmotivation",
+        "#gym",
+        "#gymlife",
+        "#gymmotivation"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzBH4djhag/"
+    },
+    {
+      "author": "@mcflurrywoo",
+      "followers": 0,
+      "caption": "Athletic Full Body Workout\n\nAthletically built.\n\nMove smooth . Get stronger. Perform better \n\n\ud83c\udfc0 @johnwall \n\n#strengthtraining #fitness #workout #athletictraining #fullbodyworkout",
+      "views": 170868,
+      "likes": 7184,
+      "comments": 90,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 4.26,
+      "hashtags": [
+        "#strengthtraining",
+        "#fitness",
+        "#workout",
+        "#athletictraining",
+        "#fullbodyworkout"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzAfyMErgv/"
+    },
+    {
+      "author": "@chase_ribordy",
+      "followers": 0,
+      "caption": "@ethanennest\n\nGet your own Public OR Private coaching video, link in bio\ud83d\udcaf\n#GamePlan #fitness #coach #gym #workout #weightlifting #CR",
+      "views": 157411,
+      "likes": 615,
+      "comments": 23,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.41,
+      "hashtags": [
+        "#GamePlan",
+        "#fitness",
+        "#coach",
         "#gym",
         "#workout",
-        "#fitness"
+        "#weightlifting",
+        "#CR"
       ],
       "sound": "",
       "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz0r0DDdo2/"
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWxIS9NksdN/"
     },
     {
-      "author": "@useknfitwear",
+      "author": "@mireiafiguerass",
       "followers": 0,
-      "caption": "Feito pra quem faz acontecer \u2728\n\nO macaquinho Atena azul beb\u00ea chegou pra destacar suas curvas com conforto e qualidade premium.\n\nVoc\u00ea n\u00e3o precisa escolher entre beleza e desempenho: aqui voc\u00ea tem os do",
-      "views": 0,
-      "likes": 2,
-      "comments": 1,
+      "caption": "Tips movilidad \ud83d\udcaa\ud83c\udffd\ud83e\ude77\n\n#gym #fitness #workout #gymrat #gymgirl",
+      "views": 154304,
+      "likes": 3499,
+      "comments": 19,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 150.0,
-      "hashtags": [
-        "#fitnessmotivation",
-        "#roupafitness",
-        "#uberabamg"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz1BNXEVGV/"
-    },
-    {
-      "author": "@priihmelo0",
-      "followers": 0,
-      "caption": "\ud83d\udcab\n\n#gym #treinopesado #girs #grym",
-      "views": 0,
-      "likes": 2,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 150.0,
+      "engagement_rate": 2.28,
       "hashtags": [
         "#gym",
-        "#treinopesado",
-        "#girs",
-        "#grym"
+        "#fitness",
+        "#workout",
+        "#gymrat",
+        "#gymgirl"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz1L8pDNUn/"
+      "url": "https://www.instagram.com/p/DW1sNY-DOuE/"
     },
     {
-      "author": "@useknfitwear",
+      "author": "@mireiafiguerass",
       "followers": 0,
-      "caption": "Feito pra quem faz acontecer \u2728\n\nO macaquinho Atena azul beb\u00ea chegou pra destacar suas curvas com conforto e qualidade premium.\n\nVoc\u00ea n\u00e3o precisa escolher entre beleza e desempenho: aqui voc\u00ea tem os do",
-      "views": 0,
-      "likes": 2,
-      "comments": 1,
+      "caption": "Tips movilidad \ud83d\udcaa\ud83c\udffd\ud83e\ude77\n\n#gym #fitness #workout #gymrat #gymgirl",
+      "views": 154304,
+      "likes": 3500,
+      "comments": 19,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 150.0,
-      "hashtags": [
-        "#fitnessmotivation",
-        "#roupafitness",
-        "#uberabamg"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz1BNXEVGV/"
-    },
-    {
-      "author": "@priihmelo0",
-      "followers": 0,
-      "caption": "\ud83d\udcab\n\n#gym #treinopesado #girs #grym",
-      "views": 0,
-      "likes": 2,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 150.0,
+      "engagement_rate": 2.28,
       "hashtags": [
         "#gym",
-        "#treinopesado",
-        "#girs",
-        "#grym"
+        "#fitness",
+        "#workout",
+        "#gymrat",
+        "#gymgirl"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz1L8pDNUn/"
+      "url": "https://www.instagram.com/p/DW1sNY-DOuE/"
     },
     {
-      "author": "@michael_jsaia",
+      "author": "@aya_monah",
       "followers": 0,
-      "caption": "Just doing what I can with what I\u2019ve got \ud83d\ude4f\ud83c\udffc\n\nGrateful for the journey & everything it\u2019s teaching me\n\nShow Up & Keep Going\n\nTrust Yourself & Fall in Love with the Process \n\n\u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f\n\nLeg Day Workout:\n\nGo",
-      "views": 0,
-      "likes": 5,
-      "comments": 2,
+      "caption": "\u0643\u0648\u0643\u0628 \u0632\u0645\u0631\u062f\u0629 \ud83d\udc97\ud83c\udf53\n\n.\n#\u0627\u0644\u0639\u0631\u0627\u0642 #gym #fitness #fitnessmodel #ayamonah",
+      "views": 141612,
+      "likes": 3208,
+      "comments": 52,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 140.0,
+      "engagement_rate": 2.3,
       "hashtags": [
+        "#\u0627\u0644\u0639\u0631\u0627\u0642",
         "#gym",
-        "#gymmotivation",
-        "#fitnessmotivation",
-        "#legday",
-        "#explorepage"
+        "#fitness",
+        "#fitnessmodel",
+        "#ayamonah"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz0bZViRDs/"
+      "url": "https://www.instagram.com/p/DW18aQqDHqG/"
+    },
+    {
+      "author": "@kaylastnly",
+      "followers": 0,
+      "caption": "hold me accountable baddie\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014-\n@buckedup KAYLASTANLEY20\n@gymshark link in bio\nfollow for more!! @kaylastnly \n\ntags: #gymshark #powerlifting #workout #gymhumor #skit",
+      "views": 102748,
+      "likes": 5399,
+      "comments": 28,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 5.28,
+      "hashtags": [
+        "#gymshark",
+        "#powerlifting",
+        "#workout",
+        "#gymhumor",
+        "#skit"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzPbNRDyKn/"
+    },
+    {
+      "author": "@quan___",
+      "followers": 0,
+      "caption": "Chest day got me moving like Michael Jackson in Thriller\u2026 smooth, sharp, and slightly possessed \ud83e\udddf\u200d\u2642\ufe0f\ud83e\udd23\n\n#workout #workoutmotivation #fitness #pushup #challenge",
+      "views": 101276,
+      "likes": 5727,
+      "comments": 287,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 5.94,
+      "hashtags": [
+        "#workout",
+        "#workoutmotivation",
+        "#fitness",
+        "#pushup",
+        "#challenge"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1zQkHiZHn/"
+    },
+    {
+      "author": "@christiemcfit",
+      "followers": 0,
+      "caption": "The best cardio exercise! Do you agree? \ud83d\ude30\n#fitness #workout #healthylifestyle #workoutadvice #gym",
+      "views": 90605,
+      "likes": 3461,
+      "comments": 97,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.93,
+      "hashtags": [
+        "#fitness",
+        "#workout",
+        "#healthylifestyle",
+        "#workoutadvice",
+        "#gym"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1heXEgGfk/"
     }
   ]
 }

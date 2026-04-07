@@ -4,485 +4,439 @@
   "month": "April",
   "year": 2026,
   "niche": "comedy",
-  "generated_at": "2026-04-07T21:19:04.870888",
-  "data_points_analyzed": 100,
-  "viral_posts_found": 100,
-  "hooks": [],
-  "best_times": [
+  "generated_at": "2026-04-07T23:44:53.202256",
+  "data_points_analyzed": 69,
+  "viral_posts_found": 69,
+  "hooks": [
     {
-      "day": "Tuesday",
-      "time": "Peak",
-      "engagement_avg": 61.2,
-      "sample_size": 99
+      "pattern": "If you",
+      "example_count": 1,
+      "example": "if you ain't first, you're LAST \ud83c\udfc1\ud83d\ude98"
     }
   ],
+  "best_times": [],
   "hashtags": [
     {
-      "tag": "#funny",
-      "usage_count": 97,
-      "avg_views": 7
+      "tag": "#comedy",
+      "usage_count": 32
     },
     {
       "tag": "#memes",
-      "usage_count": 15,
-      "avg_views": 2
-    },
-    {
-      "tag": "#humor",
-      "usage_count": 11,
-      "avg_views": 2
-    },
-    {
-      "tag": "#comedy",
-      "usage_count": 10,
-      "avg_views": 1
-    },
-    {
-      "tag": "#love",
-      "usage_count": 9,
-      "avg_views": 2
-    },
-    {
-      "tag": "#viral",
-      "usage_count": 7,
-      "avg_views": 3
-    },
-    {
-      "tag": "#memesdaily",
-      "usage_count": 7,
-      "avg_views": 3
-    },
-    {
-      "tag": "#fyp",
-      "usage_count": 6,
-      "avg_views": 6
-    },
-    {
-      "tag": "#funnymemes",
-      "usage_count": 6,
-      "avg_views": 4
-    },
-    {
-      "tag": "#instagood",
-      "usage_count": 6,
-      "avg_views": 4
-    },
-    {
-      "tag": "#photooftheday",
-      "usage_count": 6,
-      "avg_views": 4
-    },
-    {
-      "tag": "#trending",
-      "usage_count": 5,
-      "avg_views": 0
-    },
-    {
-      "tag": "#relatable",
-      "usage_count": 5,
-      "avg_views": 0
-    },
-    {
-      "tag": "#fypage",
-      "usage_count": 4,
-      "avg_views": 7
-    },
-    {
-      "tag": "#fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp",
-      "usage_count": 3,
-      "avg_views": 4
-    },
-    {
-      "tag": "#laugh",
-      "usage_count": 3,
-      "avg_views": 5
-    },
-    {
-      "tag": "#satire",
-      "usage_count": 3,
-      "avg_views": 1
-    },
-    {
-      "tag": "#comic",
-      "usage_count": 3,
-      "avg_views": 16
-    },
-    {
-      "tag": "#outfitideas",
-      "usage_count": 3,
-      "avg_views": 0
+      "usage_count": 30
     },
     {
       "tag": "#reels",
-      "usage_count": 3,
-      "avg_views": 8
+      "usage_count": 14
     },
     {
-      "tag": "#goofy",
-      "usage_count": 3,
-      "avg_views": 0
+      "tag": "#funny",
+      "usage_count": 10
     },
     {
-      "tag": "#moment",
-      "usage_count": 3,
-      "avg_views": 0
+      "tag": "#fyp",
+      "usage_count": 9
+    },
+    {
+      "tag": "#viral",
+      "usage_count": 9
+    },
+    {
+      "tag": "#explore",
+      "usage_count": 7
+    },
+    {
+      "tag": "#relatable",
+      "usage_count": 6
+    },
+    {
+      "tag": "#humor",
+      "usage_count": 6
+    },
+    {
+      "tag": "#explorepage",
+      "usage_count": 4
+    },
+    {
+      "tag": "#instagram",
+      "usage_count": 3
     },
     {
       "tag": "#jokes",
-      "usage_count": 3,
-      "avg_views": 0
+      "usage_count": 3
     },
     {
-      "tag": "#dogs",
-      "usage_count": 2,
-      "avg_views": 0
+      "tag": "#explorar",
+      "usage_count": 3
     },
     {
-      "tag": "#dogowner",
-      "usage_count": 2,
-      "avg_views": 0
+      "tag": "#standupcomedy",
+      "usage_count": 2
+    },
+    {
+      "tag": "#standup",
+      "usage_count": 2
+    },
+    {
+      "tag": "#motivation",
+      "usage_count": 2
+    },
+    {
+      "tag": "#dankmemes",
+      "usage_count": 2
+    },
+    {
+      "tag": "#trendingreels",
+      "usage_count": 2
+    },
+    {
+      "tag": "#viralvideos",
+      "usage_count": 2
+    },
+    {
+      "tag": "#viralreels",
+      "usage_count": 2
+    },
+    {
+      "tag": "#video",
+      "usage_count": 2
+    },
+    {
+      "tag": "#meme",
+      "usage_count": 2
+    },
+    {
+      "tag": "#geometrydash",
+      "usage_count": 2
+    },
+    {
+      "tag": "#animation",
+      "usage_count": 2
+    },
+    {
+      "tag": "#reelsinstagram",
+      "usage_count": 2
     }
   ],
-  "formats": [
-    {
-      "name": "Question / engagement",
-      "avg_engagement": 200.0,
-      "post_count": 5
-    },
-    {
-      "name": "Challenge / trend",
-      "avg_engagement": 25.0,
-      "post_count": 8
-    },
-    {
-      "name": "Story / narrative",
-      "avg_engagement": 0.0,
-      "post_count": 2
-    }
-  ],
+  "formats": [],
   "trending_sounds": [],
-  "insights": "Question / engagement content leads with 200.0% avg engagement. Avg engagement: 60.8%. 100 posts analyzed.",
+  "insights": "69 Instagram reels. Avg 21,113 views, 938 likes.",
   "top_posts": [
     {
-      "author": "@baschboygold",
+      "author": "@aminetheleo",
       "followers": 0,
-      "caption": "What do you rate my relaxing position? I hope its 10/10! \n\n#sleepingpuppy #bandana #lazydog #sleepingdog #funny",
-      "views": 0,
-      "likes": 1,
-      "comments": 5,
+      "caption": "\u2068\t\u2068\t\u062c\u064a\u062a \u063a\u064a\u0631 \u0646\u062f\u0648\u0642 \u0648 \u0644\u064a\u062a \u0641\u0645\u0648\u0634\u0643\u064a\u0644 \u0643\u0628\u064a\u0631 \ud83d\ude28\n\n\ud83d\udccdAin sbaa \n\ud83d\udccdBourgogne \n\ud83d\udccdJnane Californie \n\ud83d\udccdOuelfa \n\ud83d\udccdBelv\u00e9d\u00e8re \n\ud83d\udccdMohammedia \n\ud83d\udccdSidi Maarouf \n\ud83d\udccdMarina Mall \n\nEt Mohamedia \ud83d\udccd",
+      "views": 144937,
+      "likes": 5369,
+      "comments": 207,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 600.0,
-      "hashtags": [
-        "#sleepingpuppy",
-        "#bandana",
-        "#lazydog",
-        "#sleepingdog",
-        "#funny"
-      ],
+      "engagement_rate": 3.85,
+      "hashtags": [],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW13_SsEfyg/"
+      "url": "https://www.instagram.com/p/DW1l7IjjZRi/"
     },
     {
-      "author": "@popandtedthreads",
+      "author": "@willburkart",
       "followers": 0,
-      "caption": "What did we miss? \ud83e\udee2\ud83e\udd14\ud83d\udcad\n.\n.\n.\n#dogs #dogowner #dogmum #dogmom #dogmeme #funny \n\n@popandtedthreads and @valepetfoods are sister brands based in the UK. Providing dog walking and eating essentials for all",
-      "views": 0,
-      "likes": -1,
-      "comments": 5,
+      "caption": "TOUR: Phoenix 4/9-11, Stamford CT 4/24-25, Nashville 5/6, Chicago 5/7-10, Tacoma 5/30, Spokane 5/31, Bakersfield 6/5-6, Denver 6/11-13, Toronto 6/18-20, Salt Lake City 7/10-11, Tulsa 8/1, OKC 8/2, Bos",
+      "views": 93147,
+      "likes": 5546,
+      "comments": 45,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 400.0,
+      "engagement_rate": 6.0,
       "hashtags": [
-        "#dogs",
-        "#dogowner",
-        "#dogmum",
-        "#dogmom",
-        "#dogmeme",
-        "#funny"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW13PQgDbZU/"
-    },
-    {
-      "author": "@menetheblackdiamond_45",
-      "followers": 0,
-      "caption": "\u00c8ske nou panse se Nigeria kap antre nan \"Villa des \u00e9limin\u00e9s\" asw\u00e8a? #fyp #viral #trending #funny #StarsEverywhere",
-      "views": 0,
-      "likes": 1,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 200.0,
-      "hashtags": [
-        "#fyp",
-        "#viral",
-        "#trending",
-        "#funny",
-        "#StarsEverywhere"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW14ojtDzwC/"
-    },
-    {
-      "author": "@charliealbarrancomedy",
-      "followers": 0,
-      "caption": "We gonna get WWIII before GTA VI and a Mexico World Cup Quarter Finals Win, for fuck\u2019s sake. \n\n#funny #humor #comedy #trump #ww3",
-      "views": 0,
-      "likes": 3,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 166.67,
-      "hashtags": [
-        "#funny",
-        "#humor",
+        "#standupcomedy",
         "#comedy",
-        "#trump",
-        "#ww3"
+        "#standup"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW168fulqO4/"
+      "url": "https://www.instagram.com/p/DW15SeAEiY0/"
     },
     {
-      "author": "@mehdi_drivar",
+      "author": "@b1gt0ny_",
       "followers": 0,
-      "caption": "Tkhiiiidira \ud83d\ude0e\ud83e\udd47\ud83d\udc51\n\n#fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp #fyp #funny #memes #like",
-      "views": 0,
-      "likes": 11,
-      "comments": 7,
+      "caption": "that was awesome #explore #funny #comedy #hayb #weed",
+      "views": 74618,
+      "likes": 5379,
+      "comments": 28,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 163.64,
+      "engagement_rate": 7.25,
       "hashtags": [
-        "#fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp",
-        "#fyp",
+        "#explore",
         "#funny",
+        "#comedy",
+        "#hayb",
+        "#weed"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1ZOVmjT53/"
+    },
+    {
+      "author": "@sofiyaaaa___",
+      "followers": 0,
+      "caption": "\ud83c\udf81 #motivation #gymlife #sports #memes #bodybuilding",
+      "views": 67664,
+      "likes": 2097,
+      "comments": 50,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.17,
+      "hashtags": [
+        "#motivation",
+        "#gymlife",
+        "#sports",
         "#memes",
-        "#like"
+        "#bodybuilding"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW16OGMDMxN/"
+      "url": "https://www.instagram.com/p/DW1OO-XCJ8p/"
     },
     {
-      "author": "@nguyenandrise",
+      "author": "@peteholmes",
       "followers": 0,
-      "caption": "I thought the @hyroxworld photographers were good \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f \n\n#hyroxhouston2026 #hyrox #funny #fitness #hyroxtraining",
-      "views": 0,
-      "likes": 21,
-      "comments": 11,
+      "caption": "BATMAN FIRES AQUAMAN \ud83d\udd31\n@mccarthyredhead as Aquaman.\nDirected by @orenbrimer \n#peteholmes #batman #aquaman #batcanned #comedy",
+      "views": 64992,
+      "likes": 2678,
+      "comments": 38,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 152.38,
+      "engagement_rate": 4.18,
       "hashtags": [
-        "#hyroxhouston2026",
-        "#hyrox",
-        "#funny",
-        "#fitness",
-        "#hyroxtraining"
+        "#peteholmes",
+        "#batman",
+        "#aquaman",
+        "#batcanned",
+        "#comedy"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW13wN4lOz7/"
+      "url": "https://www.instagram.com/p/DW16XGIBeUC/"
     },
     {
-      "author": "@al._.sallal",
+      "author": "@offbrand_deity",
       "followers": 0,
-      "caption": "\u2764\ufe0f\u200d\ud83d\udd25\ud83e\udd40#\u0627\u0646\u0633\u062a\u0642\u0631\u0627\u0645 #fyp #funny",
-      "views": 0,
-      "likes": 2,
-      "comments": 1,
+      "caption": "7 sec clip shows Jesse Pinkman (played by Aaron Paul) in a heartbreaking moment from Breaking Bad Season 5, Episode 15 (\"Granite State\"). He is restrained and visibly shattered after witnessing a trau",
+      "views": 51016,
+      "likes": 859,
+      "comments": 15,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 150.0,
+      "engagement_rate": 1.71,
       "hashtags": [
-        "#\u0627\u0646\u0633\u062a\u0642\u0631\u0627\u0645",
-        "#fyp",
-        "#funny"
+        "#Memes",
+        "#DankMemes",
+        "#Relatable",
+        "#MemeLife",
+        "#ViralMemes"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW16FuPCLRl/"
+      "url": "https://www.instagram.com/p/DW1R2Dxj-ow/"
     },
     {
-      "author": "@normahenne",
+      "author": "@indiaiconics",
       "followers": 0,
-      "caption": "#nohousework\n#keinehausarbeit",
-      "views": 0,
-      "likes": 2,
-      "comments": 1,
+      "caption": "Badalne wali hai reality shows ki reality. The 50 has got everyone wondering! Starts 1st Feb, on #JioHotstar and #ColorsTV\n#The50 #banijayasia",
+      "views": 48043,
+      "likes": 2879,
+      "comments": 9,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 150.0,
+      "engagement_rate": 6.01,
       "hashtags": [
-        "#nohousework",
-        "#keinehausarbeit"
+        "#JioHotstar",
+        "#ColorsTV",
+        "#The50",
+        "#banijayasia"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW13loujV_w/"
+      "url": "https://www.instagram.com/p/DW2BJUjzSZV/"
     },
     {
-      "author": "@cavapoopupsx2",
+      "author": "@dolla_beal",
       "followers": 0,
-      "caption": "Somebunny told us it\u2019s never too late to show off your Easter cuteness so here we are!\u2728\ud83d\udc30 I hope everybunny had the sweetest Easter filled with love, treats, and happiness \u2026 We were busy being adorable",
-      "views": 0,
-      "likes": 5,
-      "comments": 2,
+      "caption": "It\u2019s something about swimming lessons I can\u2019t get enough of lol \ud83e\udd23. #comedy #boynightout #iaintwakinguntiltuesdsylol",
+      "views": 45793,
+      "likes": 1673,
+      "comments": 35,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 140.0,
+      "engagement_rate": 3.73,
       "hashtags": [
-        "#happyeaster",
-        "#fyp\u30b7\u2764\ufe0f\ud83d\udc9e\u2764\ufe0f",
-        "#cutedog",
-        "#happydog",
-        "#egghunting"
+        "#comedy",
+        "#boynightout",
+        "#iaintwakinguntiltuesdsylol"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW14iLTlnMl/"
+      "url": "https://www.instagram.com/p/DW1T5Bmkczc/"
     },
     {
-      "author": "@timmymonchichi",
+      "author": "@dilkibatein_33",
       "followers": 0,
-      "caption": "\ud83d\ude97\ud83d\udca8 Timmy woke up today and said: \n\u201cToday\u2026 I become FAST & FURIOUS \ud83d\ude0e\u201d \n\n5 minutes later\u2026 \n\ud83d\udca8\ud83d\udca8\ud83d\udca8 speeding like he\u2019s late for snacks \n\nTimmy: \u201cNothing can stop meeee \ud83d\ude06\u201d \n\n\ud83d\udc6e\u200d\u2642\ufe0f\ud83d\ude93 WEEOO WEEOO \nPolice: \u201cSIR. P",
-      "views": 0,
-      "likes": 15,
+      "caption": "\u2705\ud83d\udcaf#corporatememes #memes #trendingreels #reels #corporatecomedy",
+      "views": 36209,
+      "likes": 967,
       "comments": 4,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 126.67,
+      "engagement_rate": 2.68,
       "hashtags": [
-        "#monchhichi",
-        "#funny",
-        "#speedticket",
-        "#police",
-        "#laugh"
+        "#corporatememes",
+        "#memes",
+        "#trendingreels",
+        "#reels",
+        "#corporatecomedy"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW15QJ7jXlT/"
+      "url": "https://www.instagram.com/p/DW1TnUfAghj/"
     },
     {
-      "author": "@thedudehumorreport",
+      "author": "@baconsteve726",
       "followers": 0,
-      "caption": "FLORIDA WOMAN ARRESTED AFTER KIDNAPPING A GENETICIST AND DEMANDING HE USE SECRET GOVERNMENT TECHNOLOGY TO MAKE HER CAT IMMORTAL\n\nOrlando, FL -- A 31-year-old Orange County woman is facing federal kidn",
-      "views": 0,
-      "likes": 4,
-      "comments": 1,
+      "caption": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\n\n#fyp #memes #skyrim #real #reels",
+      "views": 35847,
+      "likes": 3193,
+      "comments": 57,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 125.0,
+      "engagement_rate": 9.07,
       "hashtags": [
-        "#funny",
+        "#fyp",
+        "#memes",
+        "#skyrim",
+        "#real",
+        "#reels"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0n5h5jq4f/"
+    },
+    {
+      "author": "@itsspillinthetee",
+      "followers": 0,
+      "caption": "we're so immature istg #comedy #comedyreels #reels #explorepage #funny",
+      "views": 35005,
+      "likes": 2629,
+      "comments": 21,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 7.57,
+      "hashtags": [
         "#comedy",
-        "#fblifestyle",
-        "#satire",
-        "#FORENTERTAINMENTONLY"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW13-RdFMBn/"
-    },
-    {
-      "author": "@bogroll",
-      "followers": 0,
-      "caption": "and then I'm tired for the rest of the day \ud83d\ude02\n\nYou\u2019ve FINALLY found a page that posts the best British Memes, follow @bogroll \ud83d\udc48\ud83c\udffd\ud83d\ude02\ud83c\uddec\ud83c\udde7 \n\n#British #Memes #Funny #UKMemes",
-      "views": 0,
-      "likes": 4,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 125.0,
-      "hashtags": [
-        "#British",
-        "#Memes",
-        "#Funny",
-        "#UKMemes"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW13MxBDuIc/"
-    },
-    {
-      "author": "@ikillforclothes",
-      "followers": 0,
-      "caption": "\ud83d\ude02#funny \n\nXXL",
-      "views": 0,
-      "likes": 12,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 116.67,
-      "hashtags": [
+        "#comedyreels",
+        "#reels",
+        "#explorepage",
         "#funny"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW14DahGIq6/"
+      "url": "https://www.instagram.com/p/DW19KSVEfsN/"
     },
     {
-      "author": "@espritaquatique",
+      "author": "@sulferexclusive",
       "followers": 0,
-      "caption": "Quelques photos de la comp\u00e9tition qui s\u2019est d\u00e9roul\u00e9e le week-end pass\u00e9 \ud83e\ude75 #swimming #viralreelsvideo\u2764\ufe0flikefollowme #funny #\ud83c\udde9\ud83c\uddff #oran",
-      "views": 0,
-      "likes": 101,
-      "comments": 13,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 112.87,
-      "hashtags": [
-        "#swimming",
-        "#viralreelsvideo\u2764\ufe0flikefollowme",
-        "#funny",
-        "#\ud83c\udde9\ud83c\uddff",
-        "#oran"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW13IMLjFny/"
-    },
-    {
-      "author": "@lashboxjenna",
-      "followers": 0,
-      "caption": "Hello everyone, this is my youngest out of my 3 children\u2026 \u2728Stitch Michael Young \u2728\n\nHe wanted me to share this and let everyone know that @lashboxla came out with a new Botanical Bubble Lash Shampoo to",
-      "views": 0,
-      "likes": 22,
+      "caption": "\ud83c\udfac Via @sulferexclusive\n\nModern Family is the groundbreaking comedy series that uses a mockumentary style to follow the diverse lives of the Pritchett-Dunphy-Delgado family, a large, extended clan base",
+      "views": 33944,
+      "likes": -1,
       "comments": 2,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 109.09,
+      "engagement_rate": 0.0,
       "hashtags": [
-        "#lashboxla",
-        "#funny",
-        "#lashbath",
-        "#lashartist",
-        "#lashextensions"
+        "#explore",
+        "#fyp",
+        "#instagramreels",
+        "#relatable",
+        "#movies",
+        "#moviesmemes",
+        "#memes"
       ],
       "sound": "",
       "duration": 0,
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW120E2jwS0/"
+      "url": "https://www.instagram.com/p/DW05RAmjZuQ/"
+    },
+    {
+      "author": "@dtl_tv",
+      "followers": 0,
+      "caption": "The side flip #awkward #relatable #humor #comedy #sport",
+      "views": 32948,
+      "likes": 898,
+      "comments": 21,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.79,
+      "hashtags": [
+        "#awkward",
+        "#relatable",
+        "#humor",
+        "#comedy",
+        "#sport"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1wZQjIcsA/"
+    },
+    {
+      "author": "@thisismercedesblanche",
+      "followers": 0,
+      "caption": "#comedy",
+      "views": 29741,
+      "likes": 959,
+      "comments": 72,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.47,
+      "hashtags": [
+        "#comedy"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1qJywj5th/"
+    },
+    {
+      "author": "@daniel_dos_audiosofc",
+      "followers": 0,
+      "caption": "Tatuagem nem d\u00f3i tanto assim pow \ud83d\ude22\n\n#viral \n#fyp \n#viralvideos \n#viralreels \n#comedy",
+      "views": 26144,
+      "likes": 788,
+      "comments": 246,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.96,
+      "hashtags": [
+        "#viral",
+        "#fyp",
+        "#viralvideos",
+        "#viralreels",
+        "#comedy"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1XJpqjh_D/"
     }
   ]
 }
