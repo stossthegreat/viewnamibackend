@@ -4,221 +4,499 @@
   "month": "April",
   "year": 2026,
   "niche": "fitness",
-  "generated_at": "2026-04-07T02:30:52.081863",
-  "data_points_analyzed": 50,
-  "viral_posts_found": 50,
+  "generated_at": "2026-04-07T03:22:35.158923",
+  "data_points_analyzed": 1813,
+  "viral_posts_found": 1813,
   "hooks": [
+    {
+      "pattern": "POV: you just...",
+      "example_count": 3,
+      "trend_pct": 53,
+      "example": "POV: You're flying by the Moon."
+    },
+    {
+      "pattern": "X things I wish I knew...",
+      "example_count": 2,
+      "trend_pct": 52,
+      "example": "2 things"
+    },
+    {
+      "pattern": "Unpopular opinion:",
+      "example_count": 1,
+      "trend_pct": 51,
+      "example": "Unpopular opinion: in a new industry, startup\u2019s success depend much more on their industry to succee"
+    },
     {
       "pattern": "Day X of...",
       "example_count": 1,
-      "trend_pct": 70,
+      "trend_pct": 51,
       "example": "Day 11 of my challenge to make $100k in 100 days as a 15 year old founder building an AI startup."
-    },
-    {
-      "pattern": "3 things I wish I knew...",
-      "example_count": 1,
-      "trend_pct": 70,
-      "example": "5 reasons a cleaning business beats a startup:"
-    },
-    {
-      "pattern": "POV: you just...",
-      "example_count": 1,
-      "trend_pct": 70,
-      "example": "POV: you finally started using Lindy"
     }
   ],
   "best_times": [],
-  "hashtags": [],
+  "hashtags": [
+    {
+      "tag": "#startup",
+      "usage_count": 11,
+      "avg_views": 68,
+      "growth_pct": 6
+    },
+    {
+      "tag": "#entrepreneur",
+      "usage_count": 5,
+      "avg_views": 10,
+      "growth_pct": 2
+    },
+    {
+      "tag": "#mufc",
+      "usage_count": 4,
+      "avg_views": 273305,
+      "growth_pct": 2
+    },
+    {
+      "tag": "#buildinpublic",
+      "usage_count": 4,
+      "avg_views": 1619,
+      "growth_pct": 2
+    },
+    {
+      "tag": "#ai",
+      "usage_count": 4,
+      "avg_views": 299,
+      "growth_pct": 2
+    },
+    {
+      "tag": "#rdc",
+      "usage_count": 4,
+      "avg_views": 1292,
+      "growth_pct": 2
+    },
+    {
+      "tag": "#wweraw",
+      "usage_count": 4,
+      "avg_views": 46859,
+      "growth_pct": 2
+    },
+    {
+      "tag": "#startups",
+      "usage_count": 3,
+      "avg_views": 46,
+      "growth_pct": 1
+    },
+    {
+      "tag": "#stockmarket",
+      "usage_count": 3,
+      "avg_views": 41501,
+      "growth_pct": 1
+    },
+    {
+      "tag": "#sotu",
+      "usage_count": 2,
+      "avg_views": 1355,
+      "growth_pct": 1
+    },
+    {
+      "tag": "#cbi",
+      "usage_count": 2,
+      "avg_views": 7248,
+      "growth_pct": 1
+    },
+    {
+      "tag": "#bettertogether",
+      "usage_count": 2,
+      "avg_views": 5814,
+      "growth_pct": 1
+    },
+    {
+      "tag": "#india",
+      "usage_count": 2,
+      "avg_views": 1354,
+      "growth_pct": 1
+    },
+    {
+      "tag": "#business",
+      "usage_count": 2,
+      "avg_views": 24,
+      "growth_pct": 1
+    },
+    {
+      "tag": "#marketing",
+      "usage_count": 2,
+      "avg_views": 7,
+      "growth_pct": 1
+    },
+    {
+      "tag": "#networking",
+      "usage_count": 2,
+      "avg_views": 7,
+      "growth_pct": 1
+    },
+    {
+      "tag": "#businesstips",
+      "usage_count": 2,
+      "avg_views": 29,
+      "growth_pct": 1
+    },
+    {
+      "tag": "#pakistan",
+      "usage_count": 2,
+      "avg_views": 2408,
+      "growth_pct": 1
+    },
+    {
+      "tag": "#tver",
+      "usage_count": 2,
+      "avg_views": 894,
+      "growth_pct": 1
+    },
+    {
+      "tag": "#aa22",
+      "usage_count": 2,
+      "avg_views": 6007,
+      "growth_pct": 1
+    },
+    {
+      "tag": "#claudecode",
+      "usage_count": 2,
+      "avg_views": 14,
+      "growth_pct": 1
+    },
+    {
+      "tag": "#bitcoin",
+      "usage_count": 2,
+      "avg_views": 146940,
+      "growth_pct": 1
+    },
+    {
+      "tag": "#\u30c9\u30ea\u30fc\u30e0\u30a8\u30f3\u30bf",
+      "usage_count": 2,
+      "avg_views": 564,
+      "growth_pct": 1
+    },
+    {
+      "tag": "#connect",
+      "usage_count": 2,
+      "avg_views": 2398,
+      "growth_pct": 1
+    },
+    {
+      "tag": "#gdragon",
+      "usage_count": 2,
+      "avg_views": 30213,
+      "growth_pct": 1
+    }
+  ],
   "formats": [
     {
       "name": "Before/after",
-      "trend_pct": 60,
-      "avg_engagement": 100.0,
-      "post_count": 1
+      "trend_pct": 52,
+      "avg_engagement": 78.2,
+      "post_count": 4
     },
     {
-      "name": "Educational / tips",
-      "trend_pct": 120,
-      "avg_engagement": 4.1,
-      "post_count": 7
+      "name": "Behind the scenes",
+      "trend_pct": 53,
+      "avg_engagement": 50.0,
+      "post_count": 6
     },
     {
-      "name": "Challenge / trend",
-      "trend_pct": 60,
-      "avg_engagement": 3.8,
-      "post_count": 1
-    },
-    {
-      "name": "Question / engagement",
-      "trend_pct": 70,
-      "avg_engagement": 2.7,
-      "post_count": 2
+      "name": "Comparison / vs",
+      "trend_pct": 56,
+      "avg_engagement": 35.0,
+      "post_count": 11
     },
     {
       "name": "Hot take / opinion",
-      "trend_pct": 60,
-      "avg_engagement": 2.5,
-      "post_count": 1
+      "trend_pct": 52,
+      "avg_engagement": 30.6,
+      "post_count": 4
+    },
+    {
+      "name": "Challenge / trend",
+      "trend_pct": 62,
+      "avg_engagement": 26.4,
+      "post_count": 23
+    },
+    {
+      "name": "Question / engagement",
+      "trend_pct": 65,
+      "avg_engagement": 22.5,
+      "post_count": 29
+    },
+    {
+      "name": "Educational / tips",
+      "trend_pct": 85,
+      "avg_engagement": 17.6,
+      "post_count": 65
     },
     {
       "name": "Story time / narrative",
-      "trend_pct": 60,
-      "avg_engagement": 1.6,
-      "post_count": 1
-    },
-    {
-      "name": "List / numbered",
-      "trend_pct": 60,
-      "avg_engagement": 1.6,
-      "post_count": 1
+      "trend_pct": 56,
+      "avg_engagement": 3.8,
+      "post_count": 12
     }
   ],
   "trending_sounds": [],
-  "insights": "Before/after content leads with 100.0% avg engagement. The \"Day X of...\" hook format appears in 1 viral posts. Average engagement rate across viral content: 5.3%.",
+  "insights": "Before/after content leads with 78.2% avg engagement across 4 posts. The \"POV: you just...\" hook appears in 3 viral posts. Average engagement: 16.8%. Top performer: 253.93%. Total viral posts analyzed: 1813.",
   "top_posts": [
     {
-      "author": "@ana_macko",
-      "followers": 22,
-      "caption": "#entrepreneur #mindset #transformation https://t.co/pLAA7ytoPH",
-      "hook_format": "other",
-      "views": 1,
-      "likes": 1,
+      "author": "@BarackObama",
+      "followers": 119290473,
+      "caption": "\"Let\u2019s do more to help the entrepreneurs and small business owners who create most new jobs in America.\" \u2014President Obama #SOTU",
+      "views": 0,
+      "likes": 699,
+      "comments": 99,
+      "shares": 977,
       "saves": 0,
-      "comments": 0,
-      "engagement_rate": 100.0,
-      "posted_date": "Mon Apr 06",
+      "engagement_rate": 253.93,
       "hashtags": [
-        "#entrepreneur",
-        "#mindset",
-        "#transformation"
+        "#SOTU"
       ],
-      "url": "https://x.com/ana_macko/status/2041302059572486446"
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Wed Jan 29",
+      "url": "https://x.com/BarackObama/status/428355180719906816",
+      "hook_format": "other"
     },
     {
-      "author": "@tec_sany",
-      "followers": 12206,
-      "caption": "9/ Financial Modeling & Unit Economics\n\nYou are a VP of Finance at a high-growth startup. I need a complete unit economi",
-      "hook_format": "other",
-      "views": 8,
-      "likes": 1,
+      "author": "@latimes",
+      "followers": 3695372,
+      "caption": "\u201cI quit Fox News after more than a decade as a contributor. So did my business partner and friend Steve Hayes,\u201d writes @jonahdispatch for @latimesopinion. https://t.co/sZjzh18SXc",
+      "views": 0,
+      "likes": 1720,
+      "comments": 1038,
+      "shares": 817,
+      "saves": 185,
+      "engagement_rate": 218.6,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Mon Nov 22",
+      "url": "https://x.com/latimes/status/1462924061269532677",
+      "hook_format": "other"
+    },
+    {
+      "author": "@tirzahmonee",
+      "followers": 9075,
+      "caption": "If you\u2019re a black woman in business share a link to your business in this thread \ud83d\udc4c\ud83c\udffd\u2728\n\nLet\u2019s get y\u2019all some traffic. \ud83d\udcaf",
+      "views": 0,
+      "likes": 1461,
+      "comments": 548,
+      "shares": 849,
+      "saves": 225,
+      "engagement_rate": 211.02,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Mon Feb 03",
+      "url": "https://x.com/tirzahmonee/status/1224349676742168578",
+      "hook_format": "other"
+    },
+    {
+      "author": "@business",
+      "followers": 9939883,
+      "caption": "BREAKING: Japan finds 41 more coronavirus cases from cruise ship off Yokohama. That brings the total of people infected on the ship to at least 61. https://t.co/b6cNQDNXi5 https://t.co/QM7Y1nTdkk",
+      "views": 0,
+      "likes": 1321,
+      "comments": 196,
+      "shares": 1230,
+      "saves": 33,
+      "engagement_rate": 210.45,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Fri Feb 07",
+      "url": "https://x.com/business/status/1225582668038971392",
+      "hook_format": "other"
+    },
+    {
+      "author": "@TheDemocrats",
+      "followers": 2411104,
+      "caption": "Record job creation. \nRecord economic growth. \nRecord new small business creation. \n\nPresident @JoeBiden is building an economy that leaves no one behind.",
+      "views": 0,
+      "likes": 716,
+      "comments": 567,
+      "shares": 211,
+      "saves": 2,
+      "engagement_rate": 208.94,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Tue Nov 23",
+      "url": "https://x.com/TheDemocrats/status/1463174758636343299",
+      "hook_format": "other"
+    },
+    {
+      "author": "@business",
+      "followers": 9940022,
+      "caption": "Thousands of Hong Kong medical professionals voted to begin a five-day strike https://t.co/SXP3qgeW0K",
+      "views": 0,
+      "likes": 1527,
+      "comments": 186,
+      "shares": 1309,
+      "saves": 6,
+      "engagement_rate": 198.3,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Sat Feb 01",
+      "url": "https://x.com/business/status/1223626817246040067",
+      "hook_format": "other"
+    },
+    {
+      "author": "@Wizarab10",
+      "followers": 790903,
+      "caption": "Reputation isonu. This Femi guy was all about the money but I'll leave you to read for yourself. This lady is a good lady. This is her last statement and they will be under the rader. The business wil",
+      "views": 0,
+      "likes": 1635,
+      "comments": 227,
+      "shares": 1072,
+      "saves": 265,
+      "engagement_rate": 195.66,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Sat Nov 27",
+      "url": "https://x.com/Wizarab10/status/1464520294731812864",
+      "hook_format": "other"
+    },
+    {
+      "author": "@BarackObama",
+      "followers": 119290473,
+      "caption": "This is progress: More states and cities are raising the minimum wage, but there's still work to do. http://t.co/oDbD9ojGiu #RaiseTheWage",
+      "views": 0,
+      "likes": 797,
+      "comments": 173,
+      "shares": 576,
       "saves": 0,
-      "comments": 1,
-      "engagement_rate": 25.0,
-      "posted_date": "Mon Apr 06",
-      "hashtags": [],
-      "url": "https://x.com/tec_sany/status/2041297391601783010"
+      "engagement_rate": 193.98,
+      "hashtags": [
+        "#RaiseTheWage"
+      ],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Mon May 19",
+      "url": "https://x.com/BarackObama/status/468485121528455168",
+      "hook_format": "other"
     },
     {
-      "author": "@enrique_goudet",
-      "followers": 326,
-      "caption": "We built an llm knowledge base for our startup. It imports notion, call transcripts, slack and turns it into a wiki that",
-      "hook_format": "other",
-      "views": 19,
-      "likes": 2,
+      "author": "@business",
+      "followers": 9940019,
+      "caption": "BREAKING: JPMorgan CEO Jamie Dimon says he regrets and \"should not have made\" a quip that his bank is likely to outlast China's Communist Party https://t.co/V807PqxrsO https://t.co/XarZFb7o82",
+      "views": 0,
+      "likes": 855,
+      "comments": 388,
+      "shares": 304,
+      "saves": 57,
+      "engagement_rate": 187.6,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Wed Nov 24",
+      "url": "https://x.com/business/status/1463492508424544260",
+      "hook_format": "other"
+    },
+    {
+      "author": "@NickKristof",
+      "followers": 1790574,
+      "caption": "President Trump and some business leaders are in awe of Xi Jinping's China, but the coronavirus underscores a downside of Xi's authoritarianism. When the outbreak started, the police went after doctor",
+      "views": 0,
+      "likes": 1096,
+      "comments": 65,
+      "shares": 872,
+      "saves": 12,
+      "engagement_rate": 186.59,
+      "hashtags": [],
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Thu Jan 30",
+      "url": "https://x.com/NickKristof/status/1222710568815079424",
+      "hook_format": "other"
+    },
+    {
+      "author": "@BarackObama",
+      "followers": 119290473,
+      "caption": "Big news: More than 200 U.S. companies are supporting the President's plan to cut carbon pollution from power plants. http://t.co/z93e2NQcTN",
+      "views": 0,
+      "likes": 982,
+      "comments": 152,
+      "shares": 644,
       "saves": 0,
-      "comments": 0,
-      "engagement_rate": 15.79,
-      "posted_date": "Tue Apr 07",
+      "engagement_rate": 181.06,
       "hashtags": [],
-      "url": "https://x.com/enrique_goudet/status/2041312853236588667"
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Wed Dec 03",
+      "url": "https://x.com/BarackObama/status/540224048274231296",
+      "hook_format": "other"
     },
     {
-      "author": "@LindaGrass0",
-      "followers": 171715,
-      "caption": "\ud83d\udc40 Would you trust an influencer who doesn\u2019t actually exist?\n\nScroll your feed and you\u2019ll notice AI-generated influencers",
-      "hook_format": "other",
-      "views": 508,
-      "likes": 34,
-      "saves": 3,
-      "comments": 1,
-      "engagement_rate": 12.01,
-      "posted_date": "Mon Apr 06",
+      "author": "@localrkyt",
+      "followers": 436303,
+      "caption": "Thread pasar malaaaaaammmm!\n\nReply tweet ni dgn business/ public event universiti/hebahan kerja dll. Jangan reply benda merapu.\n\nSo yang scroll thread ni pun harap aware kot kot ada yang jual benda rm",
+      "views": 0,
+      "likes": 1000,
+      "comments": 339,
+      "shares": 380,
+      "saves": 55,
+      "engagement_rate": 177.4,
       "hashtags": [],
-      "url": "https://x.com/LindaGrass0/status/2041154633389703469"
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Fri Feb 07",
+      "url": "https://x.com/localrkyt/status/1225626208705990658",
+      "hook_format": "other"
     },
     {
-      "author": "@russellbrunson",
-      "followers": 127144,
-      "caption": "The entrepreneur who tells the best story wins, not the one with the best product.",
-      "hook_format": "other",
-      "views": 1089,
-      "likes": 59,
-      "saves": 8,
-      "comments": 34,
-      "engagement_rate": 9.55,
-      "posted_date": "Mon Apr 06",
+      "author": "@JohnCornyn",
+      "followers": 413346,
+      "caption": "Weekly jobless claims plunge to 199,000, the lowest level in more than 50 years https://t.co/bnyAsFdnop",
+      "views": 0,
+      "likes": 4629,
+      "comments": 2360,
+      "shares": 1116,
+      "saves": 50,
+      "engagement_rate": 176.17,
       "hashtags": [],
-      "url": "https://x.com/russellbrunson/status/2041207312350609576"
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Thu Nov 25",
+      "url": "https://x.com/JohnCornyn/status/1463860970309267456",
+      "hook_format": "other"
     },
     {
-      "author": "@JasonBassler1",
-      "followers": 61191,
-      "caption": "Call me crazy but...\n\nMaybe the guy who was Jeffrey Epstein's business partner and preaches about the return of the \"ant",
-      "hook_format": "other",
-      "views": 614895,
-      "likes": 33893,
-      "saves": 2297,
-      "comments": 797,
-      "engagement_rate": 7.82,
-      "posted_date": "Sat Apr 04",
-      "hashtags": [],
-      "url": "https://x.com/JasonBassler1/status/2040467844350283821"
-    },
-    {
-      "author": "@sandykory",
-      "followers": 2843,
-      "caption": ".@sendcutsend might be the most underrated startup in America. It won't be for long. @jimbelosic has built a business th",
-      "hook_format": "other",
-      "views": 384,
-      "likes": 16,
-      "saves": 3,
-      "comments": 5,
-      "engagement_rate": 6.77,
-      "posted_date": "Mon Apr 06",
-      "hashtags": [],
-      "url": "https://x.com/sandykory/status/2041160696499478836"
-    },
-    {
-      "author": "@calbucci",
-      "followers": 9803,
-      "caption": "6,000+ tech layoffs in Seattle. Amazon, Microsoft, Oracle, Meta.\n\nYou don't need permission to start a company. You don'",
-      "hook_format": "other",
-      "views": 139,
-      "likes": 6,
+      "author": "@BarackObama",
+      "followers": 119290473,
+      "caption": "\"Congress left town for five full weeks\u2014and they left behind a stack of unfinished business.\" \u2014President Obama http://t.co/Cnv8PFW4De",
+      "views": 0,
+      "likes": 1799,
+      "comments": 577,
+      "shares": 790,
       "saves": 0,
-      "comments": 2,
-      "engagement_rate": 6.47,
-      "posted_date": "Mon Apr 06",
+      "engagement_rate": 175.99,
       "hashtags": [],
-      "url": "https://x.com/calbucci/status/2041280257916104767"
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Sat Aug 22",
+      "url": "https://x.com/BarackObama/status/635129238128062464",
+      "hook_format": "other"
     },
     {
-      "author": "@InvestingCanons",
-      "followers": 117471,
-      "caption": "\u201cI learned to go into business only with people whom I like, trust, and admire.\u201d\n\n\u2015 Warren Buffett https://t.co/rUuYKI9H",
-      "hook_format": "other",
-      "views": 15197,
-      "likes": 774,
-      "saves": 111,
-      "comments": 7,
-      "engagement_rate": 6.3,
-      "posted_date": "Mon Apr 06",
+      "author": "@TheEconomist",
+      "followers": 25981463,
+      "caption": "The Beatles split up after a mere seven years at the top, while the Rolling Stones are still going. One startup flashed brightly and burned out; the other established itself as a long-running corporat",
+      "views": 0,
+      "likes": 658,
+      "comments": 177,
+      "shares": 260,
+      "saves": 29,
+      "engagement_rate": 170.82,
       "hashtags": [],
-      "url": "https://x.com/InvestingCanons/status/2041002204425748899"
-    },
-    {
-      "author": "@Akintola_steve",
-      "followers": 9260,
-      "caption": "Why your Nigerian startup backend feels like a danfo in Lagos traffic at rush hour.\n\nIt\u2019s not \u201cjust bugs.\u201d\n\nIt\u2019s the bru",
-      "hook_format": "other",
-      "views": 1448,
-      "likes": 32,
-      "saves": 27,
-      "comments": 4,
-      "engagement_rate": 4.83,
-      "posted_date": "Mon Apr 06",
-      "hashtags": [],
-      "url": "https://x.com/Akintola_steve/status/2041207043344765106"
+      "sound": "",
+      "duration": 0,
+      "posted_date": "Sun Jan 13",
+      "url": "https://x.com/TheEconomist/status/1084264474071187456",
+      "hook_format": "other"
     }
   ]
 }

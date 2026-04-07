@@ -4,18 +4,25 @@
   "month": "April",
   "year": 2026,
   "niche": "fitness",
-  "generated_at": "2026-04-07T03:10:24.274977",
+  "generated_at": "2026-04-07T03:22:22.887413",
   "data_points_analyzed": 6,
   "viral_posts_found": 6,
   "hooks": [],
-  "best_times": [],
+  "best_times": [
+    {
+      "day": "Tuesday",
+      "time": "Peak",
+      "engagement_avg": 137.1,
+      "sample_size": 4
+    }
+  ],
   "hashtags": [],
   "formats": [],
   "trending_sounds": [],
-  "insights": "6 viral Facebook fitness posts analyzed.",
+  "insights": "Average engagement: 133.5%. Top performer: 200.0%. Total viral posts analyzed: 6.",
   "top_posts": [
     {
-      "author": "MensHealth",
+      "author": "@MensHealth",
       "followers": 0,
       "caption": "Want Stronger, Safer Lifts? You Need to 'Break the Bar'.",
       "views": 0,
@@ -32,7 +39,7 @@
       "hook_format": "other"
     },
     {
-      "author": "MensHealth",
+      "author": "@MensHealth",
       "followers": 0,
       "caption": "I Lost 55 Pounds and Built Muscle While Stationed on an Oil Rig",
       "views": 0,
@@ -49,7 +56,7 @@
       "hook_format": "other"
     },
     {
-      "author": "bodybuilding",
+      "author": "@bodybuilding",
       "followers": 0,
       "caption": "Nobody look at me",
       "views": 0,
@@ -66,7 +73,7 @@
       "hook_format": "other"
     },
     {
-      "author": "bodybuilding",
+      "author": "@bodybuilding",
       "followers": 0,
       "caption": "mad respect",
       "views": 0,
@@ -83,7 +90,7 @@
       "hook_format": "other"
     },
     {
-      "author": "bodybuilding",
+      "author": "@bodybuilding",
       "followers": 0,
       "caption": "wearing non-gym clothes to look normal but you still can't hide your gains.",
       "views": 0,
@@ -100,7 +107,7 @@
       "hook_format": "other"
     },
     {
-      "author": "MensHealth",
+      "author": "@MensHealth",
       "followers": 0,
       "caption": "A Penis Curve? 'DTF St. Louis' Puts Peyronie's Disease Front and Center.",
       "views": 0,
