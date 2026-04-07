@@ -70,9 +70,9 @@ function buildPrompt(platform, niche, language) {
       postsSection += `   "${p.caption}"\n`;
       postsSection += `   ${(p.views||0).toLocaleString()} views | ${(p.likes||0).toLocaleString()} likes | ${p.engagement_rate||0}% engagement\n`;
       postsSection += `   Posted: ${p.posted_date || 'recently'}\n`;
-      postsSection += `   Link: ${p.url || 'N/A'}\n`;
+      postsSection += `   Clickable link: [Watch this post](${p.url || ''})\n`;
     });
-    postsSection += `\nWhen referencing these posts, ALWAYS include the link so the user can go watch them. Say "Go study this one" or "Watch how they do it" and give the link.\n`;
+    postsSection += `\nWhen referencing these posts, ALWAYS use clickable markdown links like [Watch this post](url). NEVER output raw URLs. Every creator reference MUST have a clickable link.\n`;
   }
 
   return `You are ViewNami — a viral social media intelligence engine. Today is ${months[now.getMonth()]} ${now.getDate()}, ${now.getFullYear()}.
