@@ -70,9 +70,9 @@ function buildPrompt(platform, niche, language) {
       postsSection += `   "${p.caption}"\n`;
       postsSection += `   ${(p.views||0).toLocaleString()} views | ${(p.likes||0).toLocaleString()} likes | ${p.engagement_rate||0}% engagement\n`;
       postsSection += `   Posted: ${p.posted_date || 'recently'}\n`;
-      postsSection += `   Clickable link: [Watch this post](${p.url || ''})\n`;
+      postsSection += `   LINK (you MUST include this exact URL in your response): ${p.url}\n`;
     });
-    postsSection += `\nWhen referencing these posts, ALWAYS use clickable markdown links like [Watch this post](url). NEVER output raw URLs. Every creator reference MUST have a clickable link.\n`;
+    postsSection += `\nCRITICAL: When you mention a creator from the list above, you MUST include their actual URL as a markdown link like this: [Watch @username's post](https://actual-url-from-above). Copy the EXACT URL from the data above. Do NOT write placeholder links. Do NOT skip the URL. Every single creator mention needs a real clickable link.\n`;
   }
 
   return `You are ViewNami — a viral social media intelligence engine. Today is ${months[now.getMonth()]} ${now.getDate()}, ${now.getFullYear()}.
