@@ -8,6 +8,7 @@ dotenv.config();
 import http from "http";
 import app from "./app.js";
 import { initRedis, closeRedis } from "./config/redis.js";
+import { initRAG } from "./viral/ragEngine.js";
 
 // ===== ENV & CONSTANTS =====
 const PORT = process.env.PORT || 3000;
@@ -38,6 +39,9 @@ async function startServer() {
         err.message
       );
     }
+
+    // Init RAG engine (non-blocking — runs in background)
+    initRAG().catch(err => console.error("RAG init failed:", err.message));
 
     if (!process.env.OPENAI_API_KEY) {
       console.warn(

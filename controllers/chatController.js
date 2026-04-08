@@ -1,120 +1,47 @@
+// ============================================================
+//   CHAT CONTROLLER — RAG-POWERED VIRAL INTELLIGENCE
+// ============================================================
+
 import { AppError } from "../utils/errors.js";
 import { createChatCompletion } from "../services/openaiService.js";
+import { buildChatRAGContext } from "../viral/ragPromptBuilder.js";
+import { isRAGReady, getPostCount } from "../viral/ragEngine.js";
 
-let getViralData = () => null;
-let buildViralContext = () => "";
-let PLATFORMS = {};
-try {
-  const store = await import("../viral/store.js");
-  getViralData = store.getViralData;
-  buildViralContext = store.buildViralContext;
-  PLATFORMS = store.PLATFORMS;
-} catch (e) {}
-
-function detectFromText(text) {
-  const lower = text.toLowerCase();
-  let platform = null;
-  const platMap = {
-    tiktok:["tiktok","tik tok","tt ","fyp"],instagram:["instagram","insta","ig ","reels","carousel"],
-    x:["twitter","x.com","tweet","thread"],youtube:["youtube","yt ","shorts"],
-    linkedin:["linkedin"],facebook:["facebook","fb "],reddit:["reddit"],
-  };
-  for (const [p,kws] of Object.entries(platMap)) {
-    if (kws.some(k => lower.includes(k))) { platform = p; break; }
-  }
-  let niche = null;
-  const nicheMap = {
-    fitness:["fitness","gym","workout","muscle","exercise"],food:["food","cook","recipe","baking","meal","restaurant"],
-    beauty:["beauty","skincare","makeup","grwm"],business:["business","entrepreneur","startup","marketing"],
-    tech:["tech","coding","ai","software","developer"],finance:["money","invest","finance","stock","crypto"],
-    comedy:["funny","comedy","humor"],motivation:["motivation","mindset","discipline"],
-    fashion:["fashion","outfit","style","ootd"],travel:["travel","vacation","adventure"],
-  };
-  for (const [n,kws] of Object.entries(nicheMap)) {
-    if (kws.some(k => lower.includes(k))) { niche = n; break; }
-  }
-  return { platform, niche };
-}
-
-function buildPrompt(platform, niche, language) {
+function buildSystemPrompt(ragContext, language) {
   const now = new Date();
   const months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
 
-  // Load the right viral data
-  let viralContext = "";
-  let topPosts = [];
-  
-  const keys = [];
-  if (platform && niche) keys.push(`${platform}_${niche}`);
-  if (platform) keys.push(platform);
-  if (niche) {
-    for (const p of ['tiktok','instagram','x','youtube']) keys.push(`${p}_${niche}`);
-  }
-  keys.push('tiktok_fitness');
-  
-  for (const key of keys) {
-    const data = getViralData(key);
-    if (data) {
-      viralContext = buildViralContext(key);
-      topPosts = data.top_posts || [];
-      break;
-    }
-  }
-
-  // Build the top posts section with REAL links
-  let postsSection = "";
-  if (topPosts.length > 0) {
-    postsSection = `\n\nREAL VIRAL POSTS YOU MUST REFERENCE (these are real, with real URLs — share them):\n`;
-    topPosts.slice(0, 10).forEach((p, i) => {
-      postsSection += `\n${i+1}. ${p.author} (${(p.followers||0).toLocaleString()} followers)\n`;
-      postsSection += `   "${p.caption}"\n`;
-      postsSection += `   ${(p.views||0).toLocaleString()} views | ${(p.likes||0).toLocaleString()} likes | ${p.engagement_rate||0}% engagement\n`;
-      postsSection += `   Posted: ${p.posted_date || 'recently'}\n`;
-      postsSection += `   LINK (you MUST include this exact URL in your response): ${p.url}\n`;
-    });
-    postsSection += `\nCRITICAL: When you mention a creator from the list above, you MUST include their actual URL as a markdown link like this: [Watch @username's post](https://actual-url-from-above). Copy the EXACT URL from the data above. Do NOT write placeholder links. Do NOT skip the URL. Every single creator mention needs a real clickable link.\n`;
-  }
-
   return `You are ViewNami — a viral social media intelligence engine. Today is ${months[now.getMonth()]} ${now.getDate()}, ${now.getFullYear()}.
 
-You have REAL scraped data from this month. You are NOT using old training data. Everything you reference below is REAL and CURRENT.
+You have access to REAL scraped viral data from this month. ${getPostCount().toLocaleString()} posts analyzed across TikTok, Instagram, YouTube, and X.
 
-HOW YOU TALK (THIS IS CRITICAL):
-- Like a sharp strategist texting a friend. Not formal. Not corporate. Not dry.
-- USE EMOJIS naturally — 🔥 for hot trends, 📊 for data points, ⏰ for timing, 🎯 for actions, 💡 for insights, 🏆 for top creators. But use them INLINE in sentences, not as bullet headers.
-- Make links clickable using markdown: [Watch this post](url)
-- When referencing a creator post, format it as a mini card:
-  🏆 **@creator** (followers) — *"caption"* — 🔥 X views, X% engagement\n  👉 [Study this post](url)
-- Short punchy paragraphs. Mix short and medium sentences.
-- Use real numbers naturally in your sentences — don't list them in bullet points.
-- When you reference a creator, make it feel like a recommendation: "Go watch @creator's post — they hit 4.2M views doing exactly this. Link: [url]"
-- Give the user something to DO, not just information to read.
-- Be opinionated. "This works. That doesn't. Here's why."
-- Sound like you've been studying this data all day and you're excited to share what you found.
+HOW YOU RESPOND:
+- Sharp, confident, data-driven. Like a strategist who just spent 6 hours analyzing the data.
+- Short paragraphs, 2-3 sentences max each.
+- Use real numbers naturally: views, engagement rates, percentages.
+- When you reference a creator, ALWAYS include a clickable markdown link: [Watch @name's post](url)
+- Be opinionated: "Do this. Not that. Here's the data."
+- Include posting time and hashtag recommendations when relevant.
 
-WHAT TO INCLUDE IN EVERY RESPONSE:
-1. What's actually working right now — be specific, use numbers
-2. Real creators doing it well — name them, link their posts, tell the user to go study them
-3. WHY it works — the psychology in one or two sentences, not an essay
-4. What the user should do TODAY — specific action, not vague advice
+STRUCTURE:
+Write in flowing prose with headers. End with Sources.
 
-WHAT TO AVOID:
-- Bullet point walls
-- "Here are some tips" style responses
-- Academic tone
-- Saying the same generic advice everyone knows
-- Headers without substance under them
-- Repeating the same creator twice
+**What's working**
+Paragraph with inline data...
 
-End with a Sources section — keep it clean:
+**Why it works**
+Psychology in 2 sentences...
+
+**What to do**
+Specific action...
 
 **Sources**
-[1] TikTok fitness data — April 2026, 1,045 posts
+[1] Platform data — month year, X posts
 [2] @creator — views, engagement
 
-${viralContext}
-${postsSection}
-${language && language !== "auto" && language !== "en" ? `Respond in ${language}.` : ""}`;
+${ragContext}
+
+${language && language !== "auto" && language !== "en" ? `Respond in ${language}. Citations in English.` : ""}`;
 }
 
 export async function chat(req, res, next) {
@@ -125,10 +52,18 @@ export async function chat(req, res, next) {
       throw new AppError("Messages array is required.", 400);
     }
 
+    // Get all user text for RAG context
     const allUserText = messages.filter(m => m.role === "user").map(m => m.content).join(" ");
-    const { platform, niche } = detectFromText(allUserText);
-    
-    const systemPrompt = buildPrompt(platform, niche, language);
+
+    // Build RAG context — searches vector DB for relevant posts
+    let ragContext = "";
+    try {
+      ragContext = await buildChatRAGContext(allUserText);
+    } catch (e) {
+      console.warn("RAG context failed:", e.message);
+    }
+
+    const systemPrompt = buildSystemPrompt(ragContext, language);
     const openaiMessages = [{ role: "system", content: systemPrompt }];
 
     for (const msg of messages.slice(-20)) {
@@ -138,11 +73,22 @@ export async function chat(req, res, next) {
     }
 
     const reply = await createChatCompletion({
-      messages: openaiMessages, temperature: 0.75, maxTokens: 1500, model: model || "gpt4mini",
+      messages: openaiMessages,
+      temperature: 0.75,
+      maxTokens: 1500,
+      model: model || "gpt4mini",
     });
 
-    return res.json({ reply, sources: [], model: model || "gpt4mini", duration_ms: Date.now() - start });
-  } catch (err) { return next(err); }
+    return res.json({
+      reply,
+      sources: [],
+      model: model || "gpt4mini",
+      duration_ms: Date.now() - start,
+      rag_ready: isRAGReady(),
+    });
+  } catch (err) {
+    return next(err);
+  }
 }
 
 export default { chat };
