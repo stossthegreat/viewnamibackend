@@ -1834,3 +1834,42 @@ Use trending patterns from viral data.
   `,
   examples: []
 };
+PRESET_DEFINITIONS["viral_comment"] = {
+  label: "Viral Comment",
+  temperature: 0.8,
+  max_tokens: 200,
+  behaviour: `
+Write a comment designed to get likes and replies on a social media post.
+
+TYPES THAT WORK:
+- Add value the post didn't cover
+- Funny/witty one-liner
+- Personal experience that validates the post
+- Smart follow-up question
+- Hot take that sparks debate
+
+RULES:
+- 1-3 sentences MAX
+- Don't suck up ("great post!")
+- Add something NEW
+- Sound like a real person
+- Make people want to reply to YOUR comment
+  `,
+  examples: []
+};
+
+PRESET_DEFINITIONS["dm_reply"] = {
+  label: "DM Reply",
+  temperature: 0.7,
+  max_tokens: 150,
+  behaviour: `
+Quick natural DM reply. Like texting a friend.
+
+RULES:
+- 1-3 sentences
+- Match their energy
+- Don't over-explain
+- Casual but not sloppy
+  `,
+  examples: []
+};
