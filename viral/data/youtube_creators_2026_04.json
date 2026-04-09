@@ -4,13 +4,13 @@
   "month": "April",
   "year": 2026,
   "niche": "creators",
-  "generated_at": "2026-04-09T02:49:35.025830",
-  "data_points_analyzed": 29,
-  "viral_posts_found": 29,
+  "generated_at": "2026-04-09T02:53:28.305892",
+  "data_points_analyzed": 32,
+  "viral_posts_found": 32,
   "hooks": [
     {
       "pattern": "How to",
-      "example_count": 4,
+      "example_count": 5,
       "example": "How to Grow an Audience if You Have 0 Followers"
     },
     {
@@ -33,7 +33,7 @@
   "hashtags": [],
   "formats": [],
   "trending_sounds": [],
-  "insights": "29 YouTube videos. Avg 310,347 views.",
+  "insights": "32 videos. Avg 323,428 views.",
   "top_posts": [
     {
       "author": "Alex Hormozi",
@@ -47,7 +47,7 @@
       "engagement_rate": 4.24,
       "hashtags": [],
       "duration": "00:06:53",
-      "posted_date": "2022-08-30",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=7ITff1fIbSc"
     },
     {
@@ -62,8 +62,23 @@
       "engagement_rate": 4.62,
       "hashtags": [],
       "duration": "00:20:43",
-      "posted_date": "2025-04-23",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=h_yQswsXwhY"
+    },
+    {
+      "author": "Vanessa Lau",
+      "followers": 0,
+      "caption": "How Instagram Algorithm works | How to grow on Instagram",
+      "views": 868359,
+      "likes": 58000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 6.68,
+      "hashtags": [],
+      "duration": "00:00:31",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/b2GeZ73ilK4"
     },
     {
       "author": "GaryVee Video Experience",
@@ -77,7 +92,7 @@
       "engagement_rate": 4.61,
       "hashtags": [],
       "duration": "00:00:45",
-      "posted_date": "2022-08-11",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/X_FY5FoS6_8"
     },
     {
@@ -92,7 +107,7 @@
       "engagement_rate": 3.07,
       "hashtags": [],
       "duration": "00:00:46",
-      "posted_date": "2023-11-01",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/XDK88OQoxzQ"
     },
     {
@@ -107,7 +122,7 @@
       "engagement_rate": 3.45,
       "hashtags": [],
       "duration": "00:11:08",
-      "posted_date": "2023-11-28",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=q9nYIa8b-6c"
     },
     {
@@ -122,7 +137,7 @@
       "engagement_rate": 3.37,
       "hashtags": [],
       "duration": "00:25:08",
-      "posted_date": "2025-10-18",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=dMZ-n2KSlxE"
     },
     {
@@ -137,7 +152,7 @@
       "engagement_rate": 1.45,
       "hashtags": [],
       "duration": "00:00:09",
-      "posted_date": "2024-03-14",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/3JArpbBZ8Kk"
     },
     {
@@ -152,8 +167,23 @@
       "engagement_rate": 5.95,
       "hashtags": [],
       "duration": "00:01:00",
-      "posted_date": "2022-11-30",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/v0Iy5NaBpbA"
+    },
+    {
+      "author": "instagrowup",
+      "followers": 0,
+      "caption": "\ud83d\udea8How to Start an Art Account on Instagram and Grow Fast (2025) #instaalgorithm",
+      "views": 293677,
+      "likes": 6100,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.08,
+      "hashtags": [],
+      "duration": "00:00:18",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/Nirf39GQP_8"
     },
     {
       "author": "The Social Shells",
@@ -167,7 +197,7 @@
       "engagement_rate": 2.83,
       "hashtags": [],
       "duration": "00:00:19",
-      "posted_date": "2023-09-27",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/XgUvyWfLsrY"
     },
     {
@@ -182,7 +212,7 @@
       "engagement_rate": 6.61,
       "hashtags": [],
       "duration": "00:00:46",
-      "posted_date": "2023-04-28",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/XSMNLuUdVQY"
     },
     {
@@ -197,8 +227,23 @@
       "engagement_rate": 4.12,
       "hashtags": [],
       "duration": "00:15:47",
-      "posted_date": "2023-05-14",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=-jbjQW6XuDs"
+    },
+    {
+      "author": "Stiles Productions",
+      "followers": 0,
+      "caption": "How Instagram Algorithm REALLY Works",
+      "views": 187576,
+      "likes": 3600,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.92,
+      "hashtags": [],
+      "duration": "00:00:24",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/3-eOwu52yL0"
     },
     {
       "author": "Neil Patel",
@@ -212,7 +257,7 @@
       "engagement_rate": 2.07,
       "hashtags": [],
       "duration": "00:00:20",
-      "posted_date": "2024-07-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/605Ssvr-vTE"
     },
     {
@@ -227,7 +272,7 @@
       "engagement_rate": 4.64,
       "hashtags": [],
       "duration": "00:18:37",
-      "posted_date": "2023-08-30",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=UpdUHFkh22o"
     },
     {
@@ -242,7 +287,7 @@
       "engagement_rate": 2.42,
       "hashtags": [],
       "duration": "00:55:15",
-      "posted_date": "2025-03-12",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=e07AGICvnds&t=45s"
     },
     {
@@ -257,7 +302,7 @@
       "engagement_rate": 5.73,
       "hashtags": [],
       "duration": "00:20:44",
-      "posted_date": "2023-07-26",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=XAc9_qg161U"
     },
     {
@@ -272,7 +317,7 @@
       "engagement_rate": 5.29,
       "hashtags": [],
       "duration": "00:13:57",
-      "posted_date": "2024-09-16",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=71oNb0HPf5E"
     },
     {
@@ -287,7 +332,7 @@
       "engagement_rate": 6.07,
       "hashtags": [],
       "duration": "00:15:58",
-      "posted_date": "2024-09-11",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=VXX8nIqbzyE"
     },
     {
@@ -302,7 +347,7 @@
       "engagement_rate": 3.15,
       "hashtags": [],
       "duration": "00:00:55",
-      "posted_date": "2023-01-19",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/aQg0cYivuKo"
     },
     {
@@ -317,7 +362,7 @@
       "engagement_rate": 3.94,
       "hashtags": [],
       "duration": "00:17:54",
-      "posted_date": "2025-12-10",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=lHiLwmfv8mE"
     },
     {
@@ -332,7 +377,7 @@
       "engagement_rate": 4.24,
       "hashtags": [],
       "duration": "00:00:25",
-      "posted_date": "2023-08-09",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/KsbTSg_cb08"
     },
     {
@@ -347,7 +392,7 @@
       "engagement_rate": 4.11,
       "hashtags": [],
       "duration": "00:15:39",
-      "posted_date": "2025-10-31",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=R_tWmWv3EvM"
     },
     {
@@ -362,7 +407,7 @@
       "engagement_rate": 4.72,
       "hashtags": [],
       "duration": "00:11:41",
-      "posted_date": "2023-07-02",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=ACAzCVFIw9o"
     },
     {
@@ -377,7 +422,7 @@
       "engagement_rate": 3.4,
       "hashtags": [],
       "duration": "00:41:43",
-      "posted_date": "2025-09-16",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=lnYzjOdSPV4"
     },
     {
@@ -392,7 +437,7 @@
       "engagement_rate": 2.92,
       "hashtags": [],
       "duration": "00:00:51",
-      "posted_date": "2023-03-24",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/cVf0v5ENPrk"
     },
     {
@@ -407,7 +452,7 @@
       "engagement_rate": 6.39,
       "hashtags": [],
       "duration": "00:16:14",
-      "posted_date": "2023-10-27",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=myUBA5tbCQc"
     },
     {
@@ -422,7 +467,7 @@
       "engagement_rate": 4.11,
       "hashtags": [],
       "duration": "00:09:51",
-      "posted_date": "2025-09-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=rsfHZtCQQQQ"
     },
     {
@@ -437,7 +482,7 @@
       "engagement_rate": 5.31,
       "hashtags": [],
       "duration": "00:16:17",
-      "posted_date": "2025-07-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=SolnAdlwryo"
     },
     {
@@ -452,7 +497,7 @@
       "engagement_rate": 7.69,
       "hashtags": [],
       "duration": "00:00:54",
-      "posted_date": "2023-05-26",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/oKq3T6E8GgI"
     },
     {
@@ -467,7 +512,7 @@
       "engagement_rate": 4.82,
       "hashtags": [],
       "duration": "00:01:00",
-      "posted_date": "2023-06-03",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/wcJ0Ds3KPFI"
     }
   ]

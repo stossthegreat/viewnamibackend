@@ -4,9 +4,9 @@
   "month": "April",
   "year": 2026,
   "niche": "tech",
-  "generated_at": "2026-04-09T02:49:35.025830",
-  "data_points_analyzed": 83,
-  "viral_posts_found": 83,
+  "generated_at": "2026-04-09T02:53:28.305892",
+  "data_points_analyzed": 88,
+  "viral_posts_found": 88,
   "hooks": [
     {
       "pattern": "How to",
@@ -19,9 +19,9 @@
       "example": "Top 3 Smartphone gadgets under \u20b950"
     },
     {
-      "pattern": "Review/Honest",
-      "example_count": 4,
-      "example": "Hyper-realistic Robot at CES 2025! #robot #ai #shorts"
+      "pattern": "Secret/Truth",
+      "example_count": 2,
+      "example": "Starbucks Has A Secret \ud83d\ude31 (EXPLAINED)"
     },
     {
       "pattern": "Beginner/Guide",
@@ -38,8 +38,23 @@
   "hashtags": [],
   "formats": [],
   "trending_sounds": [],
-  "insights": "83 YouTube videos. Avg 2,934,260 views.",
+  "insights": "88 videos. Avg 7,766,233 views.",
   "top_posts": [
+    {
+      "author": "PR PRESENTS",
+      "followers": 0,
+      "caption": "The End \ud83d\ude02\ud83d\ude02 |Indian family #shorts #indian #relatable #chotabhai #school",
+      "views": 398913607,
+      "likes": 3500000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.88,
+      "hashtags": [],
+      "duration": "00:00:42",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/e6PwUOEZoaU"
+    },
     {
       "author": "Zack D. Films",
       "followers": 0,
@@ -52,7 +67,7 @@
       "engagement_rate": 3.86,
       "hashtags": [],
       "duration": "00:00:27",
-      "posted_date": "2022-03-14",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/XbJQrIayE5I"
     },
     {
@@ -67,7 +82,7 @@
       "engagement_rate": 3.96,
       "hashtags": [],
       "duration": "00:00:30",
-      "posted_date": "2024-10-31",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/lj1o8gqCKmQ"
     },
     {
@@ -82,7 +97,7 @@
       "engagement_rate": 3.34,
       "hashtags": [],
       "duration": "00:00:21",
-      "posted_date": "2023-03-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/maYYCw_vHcA"
     },
     {
@@ -97,7 +112,7 @@
       "engagement_rate": 1.37,
       "hashtags": [],
       "duration": "00:00:39",
-      "posted_date": "2025-01-19",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/Uy8R_3aWdJo"
     },
     {
@@ -112,7 +127,7 @@
       "engagement_rate": 5.23,
       "hashtags": [],
       "duration": "00:00:12",
-      "posted_date": "2022-08-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/8ij4ihEJ1kI"
     },
     {
@@ -127,8 +142,23 @@
       "engagement_rate": 2.41,
       "hashtags": [],
       "duration": "00:00:17",
-      "posted_date": "2022-09-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/_pcumyHPmkQ"
+    },
+    {
+      "author": "BoltMotivation",
+      "followers": 0,
+      "caption": "Shark Tank Rejected Him... Then He Became a Billionaire\ud83e\udd76\ud83d\udcb0",
+      "views": 14946427,
+      "likes": 848000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 5.67,
+      "hashtags": [],
+      "duration": "00:00:40",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/IXm_yWpFbiM"
     },
     {
       "author": "Oscar Owen Magic",
@@ -142,8 +172,38 @@
       "engagement_rate": 0.91,
       "hashtags": [],
       "duration": "00:00:26",
-      "posted_date": "2022-06-23",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/rV76gkaFF_E"
+    },
+    {
+      "author": "Danny Gonzalez",
+      "followers": 0,
+      "caption": "Billionaire's Son Trying To Be Relatable",
+      "views": 13938064,
+      "likes": 450000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.23,
+      "hashtags": [],
+      "duration": "00:19:21",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=wrr9J7BJ6vE"
+    },
+    {
+      "author": "Inspirational ideas",
+      "followers": 0,
+      "caption": "Jack Ma,  Nothing is free nothing is easy.#jackma #founder #ceo  #billionaire",
+      "views": 13719133,
+      "likes": 561000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 4.09,
+      "hashtags": [],
+      "duration": "00:00:52",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/T9nC1XePMPE"
     },
     {
       "author": "Atlas Explorer By Atlys",
@@ -157,7 +217,7 @@
       "engagement_rate": 2.48,
       "hashtags": [],
       "duration": "00:00:58",
-      "posted_date": "2025-05-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/vhTvcA-mBr4"
     },
     {
@@ -172,7 +232,7 @@
       "engagement_rate": 5.32,
       "hashtags": [],
       "duration": "00:00:53",
-      "posted_date": "2025-01-24",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/9vHjDKZt4k4"
     },
     {
@@ -187,7 +247,7 @@
       "engagement_rate": 1.9,
       "hashtags": [],
       "duration": "00:00:18",
-      "posted_date": "2024-05-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/DA1EpcOocOY"
     },
     {
@@ -202,7 +262,7 @@
       "engagement_rate": 1.83,
       "hashtags": [],
       "duration": "00:00:22",
-      "posted_date": "2025-07-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/PRM2OjUBNhY"
     },
     {
@@ -217,7 +277,7 @@
       "engagement_rate": 0.69,
       "hashtags": [],
       "duration": "00:28:22",
-      "posted_date": "2025-08-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=Z34V_z5g3i8"
     },
     {
@@ -232,7 +292,7 @@
       "engagement_rate": 2.51,
       "hashtags": [],
       "duration": "00:00:17",
-      "posted_date": "2022-12-21",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/qIZPk1WGHhw"
     },
     {
@@ -247,7 +307,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:28",
-      "posted_date": "2024-12-10",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/ewmRD0MacxI"
     },
     {
@@ -262,7 +322,7 @@
       "engagement_rate": 0.68,
       "hashtags": [],
       "duration": "00:00:08",
-      "posted_date": "2023-01-30",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/vRCJFsocpy0"
     },
     {
@@ -277,7 +337,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:38",
-      "posted_date": "2025-04-21",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/nRc4jN505dA"
     },
     {
@@ -292,23 +352,8 @@
       "engagement_rate": 0.7,
       "hashtags": [],
       "duration": "00:20:00",
-      "posted_date": "2023-12-26",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=PfwSHC2J5NI"
-    },
-    {
-      "author": "Rich Roll",
-      "followers": 0,
-      "caption": "BRAIN HEALTH EXPERT: Change Your Brain, Change Your Life | Dr. Daniel Amen X Rich Roll Podcast",
-      "views": 2918461,
-      "likes": 70000,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 2.4,
-      "hashtags": [],
-      "duration": "01:56:58",
-      "posted_date": "2024-04-01",
-      "url": "https://www.youtube.com/watch?v=0SPC_Q7-k40"
     },
     {
       "author": "GREAT WITH AI",
@@ -322,7 +367,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:46",
-      "posted_date": "2024-09-26",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/eK6hunmJkmg"
     },
     {
@@ -337,7 +382,7 @@
       "engagement_rate": 0.37,
       "hashtags": [],
       "duration": "01:01:29",
-      "posted_date": "2025-09-10",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=Bw2-lNAKEss"
     },
     {
@@ -352,7 +397,7 @@
       "engagement_rate": 1.5,
       "hashtags": [],
       "duration": "00:00:22",
-      "posted_date": "2024-06-21",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/XYrCvlestaY"
     },
     {
@@ -367,7 +412,7 @@
       "engagement_rate": 3.58,
       "hashtags": [],
       "duration": "00:00:43",
-      "posted_date": "2025-07-25",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/mFcnxm8P0iM"
     },
     {
@@ -382,7 +427,7 @@
       "engagement_rate": 6.77,
       "hashtags": [],
       "duration": "00:02:03",
-      "posted_date": "2025-10-31",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=LY90-tEmTX0"
     },
     {
@@ -397,7 +442,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:19",
-      "posted_date": "2025-04-18",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/NUkp6hyuthM"
     },
     {
@@ -412,7 +457,7 @@
       "engagement_rate": 2.52,
       "hashtags": [],
       "duration": "00:00:41",
-      "posted_date": "2024-01-20",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/Fu86B_bs7SU"
     },
     {
@@ -427,7 +472,7 @@
       "engagement_rate": 8.27,
       "hashtags": [],
       "duration": "00:01:00",
-      "posted_date": "2023-03-13",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/O43etudFDBc"
     },
     {
@@ -442,8 +487,23 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:31",
-      "posted_date": "2026-04-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/UTX0JW5Tk70"
+    },
+    {
+      "author": "The Shorts Podcast",
+      "followers": 0,
+      "caption": "How To Become a Billionaire \ud83d\udcaf",
+      "views": 956974,
+      "likes": 47000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 4.91,
+      "hashtags": [],
+      "duration": "00:00:35",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/qHlyz8D-vX8"
     },
     {
       "author": "Itz Galaxia",
@@ -457,7 +517,7 @@
       "engagement_rate": 5.81,
       "hashtags": [],
       "duration": "00:00:13",
-      "posted_date": "2025-01-26",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/feibXPz9lww"
     },
     {
@@ -472,7 +532,7 @@
       "engagement_rate": 2.0,
       "hashtags": [],
       "duration": "00:00:28",
-      "posted_date": "2024-03-30",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/QL3XcH1kdmI"
     },
     {
@@ -487,7 +547,22 @@
       "engagement_rate": 1.1,
       "hashtags": [],
       "duration": "00:18:03",
-      "posted_date": "2025-07-26",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=jihH_IIcN38"
+    },
+    {
+      "author": "ZTH Training",
+      "followers": 0,
+      "caption": "Football Expert Reacts To Viral Training Tiktoks",
+      "views": 780845,
+      "likes": 8600,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.1,
+      "hashtags": [],
+      "duration": "00:18:03",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=jihH_IIcN38"
     },
     {
@@ -502,7 +577,7 @@
       "engagement_rate": 0.87,
       "hashtags": [],
       "duration": "00:00:09",
-      "posted_date": "2025-01-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/Tlp-KjFBVU4"
     },
     {
@@ -517,7 +592,7 @@
       "engagement_rate": 1.89,
       "hashtags": [],
       "duration": "00:00:15",
-      "posted_date": "2024-08-28",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/MFkhQhQYOJc"
     },
     {
@@ -532,7 +607,7 @@
       "engagement_rate": 2.93,
       "hashtags": [],
       "duration": "00:00:41",
-      "posted_date": "2025-03-01",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/mrs48sXvti8"
     },
     {
@@ -547,8 +622,23 @@
       "engagement_rate": 2.54,
       "hashtags": [],
       "duration": "00:00:22",
-      "posted_date": "2024-09-08",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/xA-2vgPPgZo"
+    },
+    {
+      "author": "The Calum Johnson Show",
+      "followers": 0,
+      "caption": "Four WOMEN Explain How They Went From Nothing To Wealthy | The Calum Johnson Show",
+      "views": 565013,
+      "likes": 18000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.19,
+      "hashtags": [],
+      "duration": "00:29:13",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=DNKnrlTcLO4"
     },
     {
       "author": "MrBison",
@@ -562,7 +652,7 @@
       "engagement_rate": 1.23,
       "hashtags": [],
       "duration": "00:00:16",
-      "posted_date": "2023-06-17",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/sDpUhMUAgqo"
     },
     {
@@ -577,7 +667,7 @@
       "engagement_rate": 3.31,
       "hashtags": [],
       "duration": "00:09:46",
-      "posted_date": "2024-03-16",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=Kc2ZoCDKVJM"
     },
     {
@@ -592,7 +682,7 @@
       "engagement_rate": 1.87,
       "hashtags": [],
       "duration": "00:00:15",
-      "posted_date": "2025-07-14",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/z0Rwk0lwcxM"
     },
     {
@@ -607,38 +697,8 @@
       "engagement_rate": 1.85,
       "hashtags": [],
       "duration": "00:00:12",
-      "posted_date": "2025-06-27",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/kOZ_NM7w7Ac"
-    },
-    {
-      "author": "TechhFire",
-      "followers": 0,
-      "caption": "How to clip your best gaming moments #techtips #pctips #pc #pcsetup",
-      "views": 391220,
-      "likes": 3300,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.84,
-      "hashtags": [],
-      "duration": "00:00:09",
-      "posted_date": "2023-04-01",
-      "url": "https://www.youtube.com/shorts/EjuaEr5CzNU"
-    },
-    {
-      "author": "WClipMedia",
-      "followers": 0,
-      "caption": "Rakai Remembers His First Viral Clip w/Alicia Keys Song \ud83e\udd79",
-      "views": 378629,
-      "likes": 5800,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 1.53,
-      "hashtags": [],
-      "duration": "00:00:17",
-      "posted_date": "2025-10-09",
-      "url": "https://www.youtube.com/shorts/dY6DCfCYDS0"
     },
     {
       "author": "Money Degree",
@@ -652,7 +712,7 @@
       "engagement_rate": 3.25,
       "hashtags": [],
       "duration": "00:30:34",
-      "posted_date": "2025-09-24",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=amw4TbluzAs"
     },
     {
@@ -667,7 +727,7 @@
       "engagement_rate": 4.5,
       "hashtags": [],
       "duration": "00:07:10",
-      "posted_date": "2025-11-26",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=pKU4DQ8aQL4"
     },
     {
@@ -682,23 +742,8 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:50",
-      "posted_date": "2025-05-03",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/_s8tCSwAl8k"
-    },
-    {
-      "author": "BurntPeanut Daily",
-      "followers": 0,
-      "caption": "TheBurntPeanut's MOST VIRAL Arc Raiders Clips This Month",
-      "views": 271603,
-      "likes": 4200,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 1.55,
-      "hashtags": [],
-      "duration": "00:14:57",
-      "posted_date": "2025-11-10",
-      "url": "https://www.youtube.com/watch?v=YPzxgiJnJcI"
     },
     {
       "author": "Smart Tech Tips",
@@ -712,7 +757,7 @@
       "engagement_rate": 1.37,
       "hashtags": [],
       "duration": "00:00:23",
-      "posted_date": "2024-09-11",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/emnysqQtPnc"
     },
     {
@@ -727,7 +772,7 @@
       "engagement_rate": 0.42,
       "hashtags": [],
       "duration": "00:00:28",
-      "posted_date": "2025-09-18",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/2i7KMTleURE"
     },
     {
@@ -742,7 +787,7 @@
       "engagement_rate": 3.95,
       "hashtags": [],
       "duration": "00:05:33",
-      "posted_date": "2025-10-26",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=3JeKXrfPfLc"
     },
     {
@@ -757,7 +802,7 @@
       "engagement_rate": 3.95,
       "hashtags": [],
       "duration": "00:05:33",
-      "posted_date": "2025-10-26",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=3JeKXrfPfLc"
     },
     {
@@ -772,7 +817,7 @@
       "engagement_rate": 0.81,
       "hashtags": [],
       "duration": "00:12:34",
-      "posted_date": "2023-05-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=ZrSKPoZtZQE"
     },
     {
@@ -787,7 +832,7 @@
       "engagement_rate": 2.37,
       "hashtags": [],
       "duration": "00:12:29",
-      "posted_date": "2025-11-23",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=buULgoqXluQ"
     },
     {
@@ -802,7 +847,7 @@
       "engagement_rate": 6.93,
       "hashtags": [],
       "duration": "00:02:47",
-      "posted_date": "2025-04-10",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/zE6JjzyN7dk"
     },
     {
@@ -817,7 +862,7 @@
       "engagement_rate": 5.0,
       "hashtags": [],
       "duration": "00:32:39",
-      "posted_date": "2025-12-03",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=lFZqix5c25k"
     },
     {
@@ -832,7 +877,7 @@
       "engagement_rate": 3.86,
       "hashtags": [],
       "duration": "00:12:17",
-      "posted_date": "2025-09-01",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=M77uDuKrBLU"
     },
     {
@@ -847,7 +892,7 @@
       "engagement_rate": 0.56,
       "hashtags": [],
       "duration": "00:00:16",
-      "posted_date": "2026-04-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/x-jMAL7EWeE"
     },
     {
@@ -862,7 +907,7 @@
       "engagement_rate": 1.08,
       "hashtags": [],
       "duration": "00:19:17",
-      "posted_date": "2026-04-02",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=fZLBjsFdcJs"
     },
     {
@@ -877,7 +922,7 @@
       "engagement_rate": 1.11,
       "hashtags": [],
       "duration": "00:01:00",
-      "posted_date": "2025-08-29",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/Y4x4GlgfhNw"
     },
     {
@@ -892,7 +937,7 @@
       "engagement_rate": 3.61,
       "hashtags": [],
       "duration": "00:09:59",
-      "posted_date": "2025-10-26",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=b8zw9nrgr3E"
     },
     {
@@ -907,7 +952,7 @@
       "engagement_rate": 1.55,
       "hashtags": [],
       "duration": "00:19:04",
-      "posted_date": "2026-04-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=EEUYlZbWdoc"
     },
     {
@@ -922,7 +967,7 @@
       "engagement_rate": 4.13,
       "hashtags": [],
       "duration": "00:00:39",
-      "posted_date": "2025-06-03",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/91yaPW2pfGI"
     },
     {
@@ -937,7 +982,7 @@
       "engagement_rate": 3.74,
       "hashtags": [],
       "duration": "00:05:31",
-      "posted_date": "2025-12-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=e1VP6HBPH3M"
     },
     {
@@ -952,7 +997,7 @@
       "engagement_rate": 3.6,
       "hashtags": [],
       "duration": "00:08:09",
-      "posted_date": "2026-02-11",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=QnKofhJIrHE"
     },
     {
@@ -967,7 +1012,7 @@
       "engagement_rate": 2.84,
       "hashtags": [],
       "duration": "00:00:42",
-      "posted_date": "2024-02-25",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/UhwWh212-IQ"
     },
     {
@@ -982,7 +1027,7 @@
       "engagement_rate": 3.25,
       "hashtags": [],
       "duration": "00:21:11",
-      "posted_date": "2025-12-09",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=rVAYjovhJc8"
     },
     {
@@ -997,7 +1042,7 @@
       "engagement_rate": 0.4,
       "hashtags": [],
       "duration": "00:00:15",
-      "posted_date": "2026-04-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/mhhLxArn_tI"
     },
     {
@@ -1012,8 +1057,23 @@
       "engagement_rate": 2.28,
       "hashtags": [],
       "duration": "00:04:29",
-      "posted_date": "2026-01-22",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=lKi_Taj49Ck"
+    },
+    {
+      "author": "Ayuuu Podcast!",
+      "followers": 0,
+      "caption": "\"Trun Your Ego Into Income: From Zero To 3 Lakhs!\"\ud83d\udcb8\ud83d\udcc8 | #shorts | #viral | #ipl | #iphone | #fyp",
+      "views": 21117,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [],
+      "duration": "00:00:56",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/iTWLTaEqFyU"
     },
     {
       "author": "iam4t",
@@ -1027,7 +1087,7 @@
       "engagement_rate": 3.04,
       "hashtags": [],
       "duration": "00:07:59",
-      "posted_date": "2026-02-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=trr-6JPqrMw"
     },
     {
@@ -1042,7 +1102,7 @@
       "engagement_rate": 3.74,
       "hashtags": [],
       "duration": "00:18:08",
-      "posted_date": "2025-08-27",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=HayDuRP0Wko"
     },
     {
@@ -1057,7 +1117,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:53",
-      "posted_date": "2024-10-28",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/-3MYuWUDtqo"
     },
     {
@@ -1072,7 +1132,7 @@
       "engagement_rate": 4.94,
       "hashtags": [],
       "duration": "00:11:56",
-      "posted_date": "2026-03-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=PPBcaYCYWJ8"
     },
     {
@@ -1087,7 +1147,7 @@
       "engagement_rate": 3.85,
       "hashtags": [],
       "duration": "00:15:14",
-      "posted_date": "2025-12-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=ThlPqAswIF8"
     },
     {
@@ -1102,7 +1162,7 @@
       "engagement_rate": 0.37,
       "hashtags": [],
       "duration": "00:00:14",
-      "posted_date": "2026-04-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/2SCoa38iM7E"
     },
     {
@@ -1117,8 +1177,23 @@
       "engagement_rate": 1.57,
       "hashtags": [],
       "duration": "00:00:22",
-      "posted_date": "2026-04-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/QcXEktQbTQk"
+    },
+    {
+      "author": "Nero and Erika",
+      "followers": 0,
+      "caption": "Just Us 4 Against The World",
+      "views": 3720,
+      "likes": 190,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 5.11,
+      "hashtags": [],
+      "duration": "00:00:12",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=43hRpaXXHnE"
     },
     {
       "author": "AI Lucky Videos ",
@@ -1132,7 +1207,7 @@
       "engagement_rate": 0.58,
       "hashtags": [],
       "duration": "00:00:15",
-      "posted_date": "2026-04-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/DL_2x5vlP14"
     },
     {
@@ -1147,7 +1222,7 @@
       "engagement_rate": 2.48,
       "hashtags": [],
       "duration": "00:47:48",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=TdRCb29eIJw"
     },
     {
@@ -1162,7 +1237,7 @@
       "engagement_rate": 0.65,
       "hashtags": [],
       "duration": "00:03:54",
-      "posted_date": "2023-05-23",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=VFOsR9Jqt0A"
     },
     {
@@ -1177,7 +1252,7 @@
       "engagement_rate": 2.21,
       "hashtags": [],
       "duration": "00:13:44",
-      "posted_date": "2021-12-28",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=hEwFKWoXEc8"
     },
     {
@@ -1192,23 +1267,23 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:59:46",
-      "posted_date": "2022-06-16",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=PitOhkZgwg8"
     },
     {
-      "author": "BrokenFaithxYT",
+      "author": "Youtube express3131",
       "followers": 0,
-      "caption": "Insane clips against streamer\ud83e\udd75\ud83e\udd75#pubgemulator #pubgmobile #pubgmobilelobbyedit #pubgmobileedit4k",
-      "views": 112,
-      "likes": 5,
+      "caption": "Itni Khoobsurati Dekhi Hai Kabhi? \ud83d\ude33\ud83c\udf38 #shortsfeed #viral",
+      "views": 52,
+      "likes": 0,
       "comments": 0,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 4.46,
+      "engagement_rate": 0.0,
       "hashtags": [],
-      "duration": "00:00:58",
-      "posted_date": "2026-04-07",
-      "url": "https://www.youtube.com/shorts/zdYwqqRdPc8"
+      "duration": "00:00:14",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=A8ep_ZH73v8"
     },
     {
       "author": "Inspiring Circle",
@@ -1222,7 +1297,7 @@
       "engagement_rate": 13.64,
       "hashtags": [],
       "duration": "00:05:41",
-      "posted_date": "2024-08-31",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=kwu0Gqag4Qw"
     },
     {
@@ -1237,7 +1312,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:14:45",
-      "posted_date": "2026-03-27",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=1YX1-pKIEgs"
     },
     {
@@ -1252,7 +1327,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:42",
-      "posted_date": "2026-04-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/axOYwCLqu8Q"
     },
     {
@@ -1267,7 +1342,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:01:20",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/A6UGdTeryGU"
     },
     {
@@ -1282,7 +1357,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:02:27",
-      "posted_date": "2023-08-10",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=eQlKo0Idd80"
     }
   ]

@@ -4,18 +4,18 @@
   "month": "April",
   "year": 2026,
   "niche": "food",
-  "generated_at": "2026-04-09T02:49:35.025830",
-  "data_points_analyzed": 177,
-  "viral_posts_found": 177,
+  "generated_at": "2026-04-09T02:53:28.305892",
+  "data_points_analyzed": 191,
+  "viral_posts_found": 191,
   "hooks": [
     {
       "pattern": "How to",
-      "example_count": 27,
+      "example_count": 28,
       "example": "How to make donuts diffrently - foodiebeats tiktok trend - fun for kids - short video"
     },
     {
       "pattern": "Ultimate/Best of",
-      "example_count": 22,
+      "example_count": 27,
       "example": "Best of Bayashi Foods"
     },
     {
@@ -34,14 +34,14 @@
       "example": "3 Tips to get started as a Content Creator"
     },
     {
-      "pattern": "Review/Honest",
-      "example_count": 2,
-      "example": "\ub9ac\uc5bc\uba39\ubc29:) \ud584\uc9c0's \uc694\ub9ac\ubaa8\uc74c\ud83d\udd2a 2\ud0c4!!!\u3163PART 2\u2605HAMZY\u2019s Cooking COMPILATIONS \u3163REAL SOUND\u3163ASMR MUKBANG\u3163EATING SHOW\u3163"
-    },
-    {
       "pattern": "What/Nobody",
       "example_count": 1,
       "example": "Eating Only What I Hunt for 24 Hours Straight!"
+    },
+    {
+      "pattern": "Secret/Truth",
+      "example_count": 1,
+      "example": "the secret to content creation I wish I knew sooner"
     },
     {
       "pattern": "Beginner/Guide",
@@ -53,7 +53,7 @@
   "hashtags": [],
   "formats": [],
   "trending_sounds": [],
-  "insights": "177 YouTube videos. Avg 12,910,309 views.",
+  "insights": "191 videos. Avg 12,446,447 views.",
   "top_posts": [
     {
       "author": "albert_cancook",
@@ -67,7 +67,7 @@
       "engagement_rate": 1.52,
       "hashtags": [],
       "duration": "00:00:48",
-      "posted_date": "2024-11-29",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/TOOq4qLIX5k"
     },
     {
@@ -82,7 +82,7 @@
       "engagement_rate": 0.73,
       "hashtags": [],
       "duration": "00:00:09",
-      "posted_date": "2022-11-08",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/6C_xFde9_lc"
     },
     {
@@ -97,7 +97,7 @@
       "engagement_rate": 0.47,
       "hashtags": [],
       "duration": "00:13:42",
-      "posted_date": "2023-10-11",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=kwwuNHZXJv8"
     },
     {
@@ -112,7 +112,7 @@
       "engagement_rate": 4.55,
       "hashtags": [],
       "duration": "00:00:20",
-      "posted_date": "2023-10-30",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/zPxQjuFoUBc"
     },
     {
@@ -127,7 +127,7 @@
       "engagement_rate": 1.94,
       "hashtags": [],
       "duration": "00:00:33",
-      "posted_date": "2022-04-15",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/eqxk2rVPbdA"
     },
     {
@@ -142,7 +142,7 @@
       "engagement_rate": 1.37,
       "hashtags": [],
       "duration": "01:05:49",
-      "posted_date": "2024-01-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=5ndZQPGgEx4"
     },
     {
@@ -157,8 +157,23 @@
       "engagement_rate": 1.38,
       "hashtags": [],
       "duration": "00:00:35",
-      "posted_date": "2025-07-08",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/u45R5wnJuS4"
+    },
+    {
+      "author": "Tina Mini Cooking",
+      "followers": 0,
+      "caption": "Recipes For Seafood Lovers \ud83d\udc19 Miniature Japanese Spicy Fry Tiny Octopus Karaage \ud83c\udfee Tina Mini Cooking",
+      "views": 41500109,
+      "likes": 606000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.46,
+      "hashtags": [],
+      "duration": "01:05:22",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=PhB9rPtZmbE"
     },
     {
       "author": "BaRaDa",
@@ -172,7 +187,7 @@
       "engagement_rate": 0.3,
       "hashtags": [],
       "duration": "00:23:59",
-      "posted_date": "2023-09-25",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=u3nFhwxaPzI"
     },
     {
@@ -187,7 +202,7 @@
       "engagement_rate": 1.54,
       "hashtags": [],
       "duration": "00:08:04",
-      "posted_date": "2021-04-15",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=PdU6ul9fDCM"
     },
     {
@@ -202,7 +217,7 @@
       "engagement_rate": 0.99,
       "hashtags": [],
       "duration": "00:25:37",
-      "posted_date": "2024-10-12",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=oFFdtWnZ5Jk"
     },
     {
@@ -217,7 +232,7 @@
       "engagement_rate": 2.97,
       "hashtags": [],
       "duration": "00:01:00",
-      "posted_date": "2024-09-23",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/0g8BcjZdW78"
     },
     {
@@ -232,7 +247,7 @@
       "engagement_rate": 4.3,
       "hashtags": [],
       "duration": "00:01:00",
-      "posted_date": "2023-11-03",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/VoaXkzJVtIo"
     },
     {
@@ -247,7 +262,7 @@
       "engagement_rate": 0.84,
       "hashtags": [],
       "duration": "00:10:15",
-      "posted_date": "2020-02-14",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=3G0l4vddIgE"
     },
     {
@@ -262,7 +277,7 @@
       "engagement_rate": 0.61,
       "hashtags": [],
       "duration": "00:06:09",
-      "posted_date": "2017-08-30",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=piBGiH85QM8"
     },
     {
@@ -277,7 +292,7 @@
       "engagement_rate": 2.55,
       "hashtags": [],
       "duration": "00:00:14",
-      "posted_date": "2025-06-20",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/7NYTUbNzKek"
     },
     {
@@ -292,7 +307,7 @@
       "engagement_rate": 1.31,
       "hashtags": [],
       "duration": "00:22:47",
-      "posted_date": "2025-11-29",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=TBL74Wsfbig"
     },
     {
@@ -307,7 +322,7 @@
       "engagement_rate": 1.46,
       "hashtags": [],
       "duration": "00:08:47",
-      "posted_date": "2024-10-14",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=AUMpaYtV19M"
     },
     {
@@ -322,7 +337,7 @@
       "engagement_rate": 1.0,
       "hashtags": [],
       "duration": "00:29:19",
-      "posted_date": "2020-10-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=WWw5kw2kbW8"
     },
     {
@@ -337,7 +352,7 @@
       "engagement_rate": 1.63,
       "hashtags": [],
       "duration": "00:23:05",
-      "posted_date": "2025-06-22",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=mLivzfKJlu4"
     },
     {
@@ -352,7 +367,7 @@
       "engagement_rate": 0.4,
       "hashtags": [],
       "duration": "00:12:08",
-      "posted_date": "2024-07-18",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=So02-G9BKUs"
     },
     {
@@ -367,7 +382,7 @@
       "engagement_rate": 5.82,
       "hashtags": [],
       "duration": "00:00:55",
-      "posted_date": "2023-05-01",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/eq-si6QwZJw"
     },
     {
@@ -382,7 +397,7 @@
       "engagement_rate": 0.19,
       "hashtags": [],
       "duration": "01:03:49",
-      "posted_date": "2023-11-27",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=-0kFrBx1TsI"
     },
     {
@@ -397,7 +412,22 @@
       "engagement_rate": 0.52,
       "hashtags": [],
       "duration": "01:03:39",
-      "posted_date": "2023-09-09",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=lxBhIfW4Z6U"
+    },
+    {
+      "author": "Bayashi TV",
+      "followers": 0,
+      "caption": "Best of Bayashi Foods | MUKBANG | COOKING | ASMR #10",
+      "views": 16282693,
+      "likes": 84000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.52,
+      "hashtags": [],
+      "duration": "01:03:39",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=lxBhIfW4Z6U"
     },
     {
@@ -412,7 +442,7 @@
       "engagement_rate": 4.72,
       "hashtags": [],
       "duration": "00:00:27",
-      "posted_date": "2023-02-18",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/1g_1Wt5MtAk"
     },
     {
@@ -427,7 +457,7 @@
       "engagement_rate": 5.72,
       "hashtags": [],
       "duration": "00:00:59",
-      "posted_date": "2023-06-28",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/JnEkheSMQcA"
     },
     {
@@ -442,7 +472,7 @@
       "engagement_rate": 0.42,
       "hashtags": [],
       "duration": "01:01:12",
-      "posted_date": "2023-03-26",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=cOkow_WO1uY"
     },
     {
@@ -457,7 +487,7 @@
       "engagement_rate": 6.33,
       "hashtags": [],
       "duration": "00:00:59",
-      "posted_date": "2024-10-27",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/qGBJx-GPEUQ"
     },
     {
@@ -472,7 +502,22 @@
       "engagement_rate": 0.55,
       "hashtags": [],
       "duration": "00:15:07",
-      "posted_date": "2023-04-01",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=OhQiyyTuzXA"
+    },
+    {
+      "author": "Zach Choi",
+      "followers": 0,
+      "caption": "ASMR Cooking & Eating Compilation: Best of Zach Choi Food #2",
+      "views": 13157795,
+      "likes": 72000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.55,
+      "hashtags": [],
+      "duration": "00:15:07",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=OhQiyyTuzXA"
     },
     {
@@ -487,7 +532,7 @@
       "engagement_rate": 0.65,
       "hashtags": [],
       "duration": "00:12:30",
-      "posted_date": "2022-11-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=X3GXPySyL1I"
     },
     {
@@ -502,7 +547,7 @@
       "engagement_rate": 0.43,
       "hashtags": [],
       "duration": "00:33:50",
-      "posted_date": "2025-07-21",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=qlybgn1HtPU"
     },
     {
@@ -517,7 +562,7 @@
       "engagement_rate": 2.1,
       "hashtags": [],
       "duration": "00:33:52",
-      "posted_date": "2023-10-17",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=iWT0kl1k32M"
     },
     {
@@ -532,7 +577,7 @@
       "engagement_rate": 4.12,
       "hashtags": [],
       "duration": "00:22:58",
-      "posted_date": "2023-12-09",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=zdVEBeJrvcs"
     },
     {
@@ -547,7 +592,7 @@
       "engagement_rate": 0.49,
       "hashtags": [],
       "duration": "00:17:50",
-      "posted_date": "2025-11-13",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=l6JWet-VW3g"
     },
     {
@@ -562,7 +607,7 @@
       "engagement_rate": 0.55,
       "hashtags": [],
       "duration": "00:14:24",
-      "posted_date": "2022-12-17",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=UtijkIHtKbc"
     },
     {
@@ -577,7 +622,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:33",
-      "posted_date": "2023-11-09",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/pSgzTEI-ksI"
     },
     {
@@ -592,7 +637,22 @@
       "engagement_rate": 0.76,
       "hashtags": [],
       "duration": "00:23:28",
-      "posted_date": "2023-03-14",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=Y9p5YLvNt50"
+    },
+    {
+      "author": "Zach Choi",
+      "followers": 0,
+      "caption": "The Ultimate ASMR Cooking Compilation",
+      "views": 11027731,
+      "likes": 84000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.76,
+      "hashtags": [],
+      "duration": "00:23:28",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=Y9p5YLvNt50"
     },
     {
@@ -607,7 +667,7 @@
       "engagement_rate": 0.29,
       "hashtags": [],
       "duration": "00:49:58",
-      "posted_date": "2024-12-14",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=5br6NoeSSQA"
     },
     {
@@ -622,7 +682,7 @@
       "engagement_rate": 1.5,
       "hashtags": [],
       "duration": "00:11:03",
-      "posted_date": "2025-12-29",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=VHFAX4-L58k"
     },
     {
@@ -637,7 +697,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:37",
-      "posted_date": "2024-11-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/oDh58oNhJLs"
     },
     {
@@ -652,7 +712,7 @@
       "engagement_rate": 0.85,
       "hashtags": [],
       "duration": "01:32:17",
-      "posted_date": "2024-08-02",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=0dIeFXDb_sk"
     },
     {
@@ -667,7 +727,7 @@
       "engagement_rate": 1.27,
       "hashtags": [],
       "duration": "00:34:44",
-      "posted_date": "2025-04-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=Oiq_s41JmYA"
     },
     {
@@ -682,7 +742,7 @@
       "engagement_rate": 0.47,
       "hashtags": [],
       "duration": "00:45:52",
-      "posted_date": "2024-03-26",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=BCEZrasP27s"
     },
     {
@@ -697,7 +757,7 @@
       "engagement_rate": 1.38,
       "hashtags": [],
       "duration": "00:34:59",
-      "posted_date": "2023-12-20",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=CtZ0MXc_g4U"
     },
     {
@@ -712,7 +772,7 @@
       "engagement_rate": 1.73,
       "hashtags": [],
       "duration": "00:10:02",
-      "posted_date": "2026-03-25",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=WZ__yQwULeo"
     },
     {
@@ -727,7 +787,7 @@
       "engagement_rate": 0.58,
       "hashtags": [],
       "duration": "02:52:23",
-      "posted_date": "2024-05-18",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=pyWZXA57VS8"
     },
     {
@@ -742,7 +802,7 @@
       "engagement_rate": 1.7,
       "hashtags": [],
       "duration": "00:46:33",
-      "posted_date": "2025-08-31",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=MOTPMbYNDl8"
     },
     {
@@ -757,7 +817,7 @@
       "engagement_rate": 0.46,
       "hashtags": [],
       "duration": "00:41:27",
-      "posted_date": "2023-09-17",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=bsztKG34YbI"
     },
     {
@@ -772,7 +832,7 @@
       "engagement_rate": 2.13,
       "hashtags": [],
       "duration": "00:34:47",
-      "posted_date": "2025-10-26",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=f9jePqf6qms"
     },
     {
@@ -787,7 +847,7 @@
       "engagement_rate": 1.29,
       "hashtags": [],
       "duration": "00:23:45",
-      "posted_date": "2022-05-01",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=f8o9n-bKeQM"
     },
     {
@@ -802,7 +862,7 @@
       "engagement_rate": 0.96,
       "hashtags": [],
       "duration": "00:17:15",
-      "posted_date": "2025-04-30",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=cGxt4JqzrNw"
     },
     {
@@ -817,7 +877,7 @@
       "engagement_rate": 1.4,
       "hashtags": [],
       "duration": "00:00:16",
-      "posted_date": "2025-08-16",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/dMKE6Cz6WcE"
     },
     {
@@ -832,7 +892,7 @@
       "engagement_rate": 0.98,
       "hashtags": [],
       "duration": "00:08:02",
-      "posted_date": "2020-11-14",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=ej8CqADs41c"
     },
     {
@@ -847,7 +907,7 @@
       "engagement_rate": 0.75,
       "hashtags": [],
       "duration": "00:19:36",
-      "posted_date": "2024-12-24",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=hypdu5tLQ_A"
     },
     {
@@ -862,7 +922,7 @@
       "engagement_rate": 4.94,
       "hashtags": [],
       "duration": "00:00:16",
-      "posted_date": "2024-06-26",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/B7KMM09c8Ow"
     },
     {
@@ -877,7 +937,7 @@
       "engagement_rate": 3.28,
       "hashtags": [],
       "duration": "00:00:35",
-      "posted_date": "2025-06-20",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/DBmq18buMIo"
     },
     {
@@ -892,7 +952,7 @@
       "engagement_rate": 0.44,
       "hashtags": [],
       "duration": "00:31:04",
-      "posted_date": "2025-05-19",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=u-nrdkufWm0"
     },
     {
@@ -907,7 +967,7 @@
       "engagement_rate": 0.78,
       "hashtags": [],
       "duration": "00:09:52",
-      "posted_date": "2022-12-19",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=KytDu5nZCKE"
     },
     {
@@ -922,7 +982,7 @@
       "engagement_rate": 0.59,
       "hashtags": [],
       "duration": "00:20:26",
-      "posted_date": "2025-11-16",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=goimSgeJDvU"
     },
     {
@@ -937,7 +997,7 @@
       "engagement_rate": 1.39,
       "hashtags": [],
       "duration": "00:00:35",
-      "posted_date": "2025-07-29",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/EWaHicI-0TY"
     },
     {
@@ -952,7 +1012,7 @@
       "engagement_rate": 8.3,
       "hashtags": [],
       "duration": "00:00:45",
-      "posted_date": "2021-12-22",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/X70AzNEMYJk"
     },
     {
@@ -967,7 +1027,7 @@
       "engagement_rate": 1.71,
       "hashtags": [],
       "duration": "00:00:15",
-      "posted_date": "2022-01-29",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/Gb8_plPdJgc"
     },
     {
@@ -982,7 +1042,7 @@
       "engagement_rate": 0.45,
       "hashtags": [],
       "duration": "00:44:28",
-      "posted_date": "2024-12-21",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=l6ai5xyg36g"
     },
     {
@@ -997,7 +1057,7 @@
       "engagement_rate": 1.32,
       "hashtags": [],
       "duration": "00:40:29",
-      "posted_date": "2025-08-19",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=6x_edHR1Nqg"
     },
     {
@@ -1012,7 +1072,7 @@
       "engagement_rate": 1.3,
       "hashtags": [],
       "duration": "00:16:38",
-      "posted_date": "2023-02-03",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=0WF9NXZ0O-A"
     },
     {
@@ -1027,7 +1087,7 @@
       "engagement_rate": 0.32,
       "hashtags": [],
       "duration": "02:05:10",
-      "posted_date": "2025-01-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=y7t0GG0cA7Y"
     },
     {
@@ -1042,7 +1102,7 @@
       "engagement_rate": 1.81,
       "hashtags": [],
       "duration": "00:21:35",
-      "posted_date": "2022-12-25",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=O6zBjd90EV4"
     },
     {
@@ -1057,7 +1117,7 @@
       "engagement_rate": 0.92,
       "hashtags": [],
       "duration": "00:05:51",
-      "posted_date": "2021-07-30",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=Ut9WP9jL4s4"
     },
     {
@@ -1072,7 +1132,7 @@
       "engagement_rate": 2.24,
       "hashtags": [],
       "duration": "00:00:56",
-      "posted_date": "2025-08-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/W4_pKugq8dM"
     },
     {
@@ -1087,7 +1147,7 @@
       "engagement_rate": 0.25,
       "hashtags": [],
       "duration": "03:55:15",
-      "posted_date": "2025-08-30",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=wWs94k385Uw"
     },
     {
@@ -1102,7 +1162,7 @@
       "engagement_rate": 1.31,
       "hashtags": [],
       "duration": "01:25:39",
-      "posted_date": "2025-02-25",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=-YKV64SWIwI"
     },
     {
@@ -1117,7 +1177,22 @@
       "engagement_rate": 0.65,
       "hashtags": [],
       "duration": "00:33:55",
-      "posted_date": "2025-05-02",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=BXJqLxLZi5g"
+    },
+    {
+      "author": "Lazy Pot Noodle",
+      "followers": 0,
+      "caption": "30 Minutes of Cooking in my Room | Lazy Pot Noodle",
+      "views": 3864188,
+      "likes": 25000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.65,
+      "hashtags": [],
+      "duration": "00:33:55",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=BXJqLxLZi5g"
     },
     {
@@ -1132,7 +1207,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:13",
-      "posted_date": "2025-04-30",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/oRxa8HM6KsQ"
     },
     {
@@ -1147,7 +1222,7 @@
       "engagement_rate": 1.02,
       "hashtags": [],
       "duration": "00:19:24",
-      "posted_date": "2025-12-18",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=CL4864WWhXA"
     },
     {
@@ -1162,7 +1237,7 @@
       "engagement_rate": 0.39,
       "hashtags": [],
       "duration": "00:39:29",
-      "posted_date": "2025-10-19",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=epS84YMo2k8"
     },
     {
@@ -1177,7 +1252,7 @@
       "engagement_rate": 0.82,
       "hashtags": [],
       "duration": "00:00:12",
-      "posted_date": "2023-09-09",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/_RC2m-VGdP0"
     },
     {
@@ -1192,7 +1267,7 @@
       "engagement_rate": 2.36,
       "hashtags": [],
       "duration": "00:42:10",
-      "posted_date": "2025-08-14",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=Vd1pwpjuC-g"
     },
     {
@@ -1207,7 +1282,7 @@
       "engagement_rate": 2.92,
       "hashtags": [],
       "duration": "00:33:06",
-      "posted_date": "2025-12-21",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=RTBkm_Eywfc"
     },
     {
@@ -1222,7 +1297,7 @@
       "engagement_rate": 1.42,
       "hashtags": [],
       "duration": "00:19:39",
-      "posted_date": "2025-08-23",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=pkfnMeWmcbo"
     },
     {
@@ -1237,7 +1312,7 @@
       "engagement_rate": 2.92,
       "hashtags": [],
       "duration": "00:15:15",
-      "posted_date": "2021-06-16",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=qLo3UWh-BN4"
     },
     {
@@ -1252,7 +1327,7 @@
       "engagement_rate": 1.37,
       "hashtags": [],
       "duration": "01:19:12",
-      "posted_date": "2024-03-21",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=9cDo_JdiCPM"
     },
     {
@@ -1267,7 +1342,7 @@
       "engagement_rate": 0.82,
       "hashtags": [],
       "duration": "00:00:57",
-      "posted_date": "2025-05-27",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/rf3D-7SwAG8"
     },
     {
@@ -1282,7 +1357,7 @@
       "engagement_rate": 0.82,
       "hashtags": [],
       "duration": "00:21:10",
-      "posted_date": "2025-11-20",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=EWEZD2VYynI"
     },
     {
@@ -1297,7 +1372,7 @@
       "engagement_rate": 0.84,
       "hashtags": [],
       "duration": "02:06:00",
-      "posted_date": "2025-02-22",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=_GxP_qr75pw"
     },
     {
@@ -1312,8 +1387,38 @@
       "engagement_rate": 1.22,
       "hashtags": [],
       "duration": "00:08:32",
-      "posted_date": "2024-04-12",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=gmHg08gfinY"
+    },
+    {
+      "author": "Men With The Pot",
+      "followers": 0,
+      "caption": "THE ULTIMATE BEEF QUESADILLA | Relaxing Cooking with ASMR",
+      "views": 1796051,
+      "likes": 22000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.22,
+      "hashtags": [],
+      "duration": "00:08:32",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=gmHg08gfinY"
+    },
+    {
+      "author": "Men With The Pot",
+      "followers": 0,
+      "caption": "BBQ Meats Smoked to PERFECTION | ASMR Wilderness Cooking",
+      "views": 1717515,
+      "likes": 15000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.87,
+      "hashtags": [],
+      "duration": "00:36:43",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=q2mdxYXzPIk"
     },
     {
       "author": "Men With The Pot",
@@ -1327,7 +1432,7 @@
       "engagement_rate": 0.87,
       "hashtags": [],
       "duration": "00:36:43",
-      "posted_date": "2025-05-01",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=q2mdxYXzPIk"
     },
     {
@@ -1342,7 +1447,7 @@
       "engagement_rate": 3.08,
       "hashtags": [],
       "duration": "00:00:36",
-      "posted_date": "2023-12-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/3XW9A2cB0uI"
     },
     {
@@ -1357,7 +1462,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:11",
-      "posted_date": "2023-04-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/-85jyla-gK4"
     },
     {
@@ -1372,7 +1477,22 @@
       "engagement_rate": 0.8,
       "hashtags": [],
       "duration": "00:30:02",
-      "posted_date": "2025-05-19",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=RsGJHNeDSjE"
+    },
+    {
+      "author": "Lazy Pot Noodle",
+      "followers": 0,
+      "caption": "30 Minutes of Cooking in my Room Fast Food Edition | Lazy Pot Noodle",
+      "views": 1500933,
+      "likes": 12000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.8,
+      "hashtags": [],
+      "duration": "00:30:02",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=RsGJHNeDSjE"
     },
     {
@@ -1387,7 +1507,7 @@
       "engagement_rate": 0.64,
       "hashtags": [],
       "duration": "01:00:58",
-      "posted_date": "2024-05-30",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=KlOmfL3NRL0"
     },
     {
@@ -1402,7 +1522,7 @@
       "engagement_rate": 0.29,
       "hashtags": [],
       "duration": "01:51:34",
-      "posted_date": "2025-08-02",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=naHsRbHafU0&t=3857s"
     },
     {
@@ -1417,7 +1537,7 @@
       "engagement_rate": 1.41,
       "hashtags": [],
       "duration": "00:19:32",
-      "posted_date": "2025-10-25",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=2ZgVrHE_NUg"
     },
     {
@@ -1432,7 +1552,7 @@
       "engagement_rate": 0.54,
       "hashtags": [],
       "duration": "00:23:57",
-      "posted_date": "2025-12-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=WVppa7XlW3E"
     },
     {
@@ -1447,7 +1567,7 @@
       "engagement_rate": 1.0,
       "hashtags": [],
       "duration": "01:16:34",
-      "posted_date": "2024-03-08",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=m2DrLy9H_Wo"
     },
     {
@@ -1462,7 +1582,22 @@
       "engagement_rate": 0.91,
       "hashtags": [],
       "duration": "00:30:20",
-      "posted_date": "2025-10-13",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=zWPC9Wsy98g"
+    },
+    {
+      "author": "Lazy Pot Noodle",
+      "followers": 0,
+      "caption": "Best of Cooking in my Room Videos #12",
+      "views": 1101565,
+      "likes": 10000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.91,
+      "hashtags": [],
+      "duration": "00:30:20",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=zWPC9Wsy98g"
     },
     {
@@ -1477,7 +1612,7 @@
       "engagement_rate": 5.9,
       "hashtags": [],
       "duration": "00:00:45",
-      "posted_date": "2023-06-08",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/iuxERgFH_H8"
     },
     {
@@ -1492,7 +1627,7 @@
       "engagement_rate": 0.96,
       "hashtags": [],
       "duration": "00:14:48",
-      "posted_date": "2025-04-30",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=4HlvyGdXywM"
     },
     {
@@ -1507,7 +1642,7 @@
       "engagement_rate": 3.87,
       "hashtags": [],
       "duration": "00:49:35",
-      "posted_date": "2024-01-10",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=lQEWAE3sU2w"
     },
     {
@@ -1522,7 +1657,7 @@
       "engagement_rate": 0.29,
       "hashtags": [],
       "duration": "00:24:18",
-      "posted_date": "2025-12-25",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=ZVcNzTFNl-g"
     },
     {
@@ -1537,7 +1672,7 @@
       "engagement_rate": 2.48,
       "hashtags": [],
       "duration": "00:00:28",
-      "posted_date": "2024-07-08",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/3KHhluhDW3k"
     },
     {
@@ -1552,7 +1687,7 @@
       "engagement_rate": 2.49,
       "hashtags": [],
       "duration": "00:14:56",
-      "posted_date": "2020-09-09",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=stjp3h38HCM"
     },
     {
@@ -1567,7 +1702,7 @@
       "engagement_rate": 5.16,
       "hashtags": [],
       "duration": "11:54:39",
-      "posted_date": "2025-03-13",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=XCov718gxXg"
     },
     {
@@ -1582,7 +1717,7 @@
       "engagement_rate": 2.48,
       "hashtags": [],
       "duration": "00:07:43",
-      "posted_date": "2022-06-25",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=-HrfqfDyqCQ"
     },
     {
@@ -1597,7 +1732,7 @@
       "engagement_rate": 2.48,
       "hashtags": [],
       "duration": "00:07:43",
-      "posted_date": "2022-06-25",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=-HrfqfDyqCQ"
     },
     {
@@ -1612,7 +1747,7 @@
       "engagement_rate": 8.94,
       "hashtags": [],
       "duration": "00:00:59",
-      "posted_date": "2024-02-08",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/FnXHoIWmym8"
     },
     {
@@ -1627,7 +1762,7 @@
       "engagement_rate": 4.08,
       "hashtags": [],
       "duration": "00:25:24",
-      "posted_date": "2024-07-03",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=1WTD-V2F_N8"
     },
     {
@@ -1642,7 +1777,7 @@
       "engagement_rate": 0.88,
       "hashtags": [],
       "duration": "00:30:00",
-      "posted_date": "2025-05-22",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=sECkgOfDXaU"
     },
     {
@@ -1657,7 +1792,7 @@
       "engagement_rate": 6.73,
       "hashtags": [],
       "duration": "00:01:00",
-      "posted_date": "2023-04-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/XzvrX7el-R0"
     },
     {
@@ -1672,7 +1807,7 @@
       "engagement_rate": 4.02,
       "hashtags": [],
       "duration": "00:00:36",
-      "posted_date": "2024-06-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/07gK7RwyEQQ"
     },
     {
@@ -1687,7 +1822,7 @@
       "engagement_rate": 1.22,
       "hashtags": [],
       "duration": "01:14:32",
-      "posted_date": "2025-07-11",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=y7Yo9gVlW-s"
     },
     {
@@ -1702,7 +1837,7 @@
       "engagement_rate": 5.84,
       "hashtags": [],
       "duration": "00:12:25",
-      "posted_date": "2022-05-29",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=bJCb8e-Z-u8"
     },
     {
@@ -1717,7 +1852,7 @@
       "engagement_rate": 4.25,
       "hashtags": [],
       "duration": "00:00:59",
-      "posted_date": "2024-03-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/PvpCD368_mg"
     },
     {
@@ -1732,7 +1867,7 @@
       "engagement_rate": 2.26,
       "hashtags": [],
       "duration": "00:00:53",
-      "posted_date": "2025-07-30",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/OxA7LUSRsek"
     },
     {
@@ -1747,7 +1882,7 @@
       "engagement_rate": 1.28,
       "hashtags": [],
       "duration": "00:00:13",
-      "posted_date": "2025-10-12",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/EQLhVOJedMw"
     },
     {
@@ -1762,7 +1897,7 @@
       "engagement_rate": 4.43,
       "hashtags": [],
       "duration": "00:00:36",
-      "posted_date": "2023-06-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/1v3WDkBNFAs"
     },
     {
@@ -1777,7 +1912,7 @@
       "engagement_rate": 8.11,
       "hashtags": [],
       "duration": "00:13:31",
-      "posted_date": "2024-05-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=zjHECpSVZVA"
     },
     {
@@ -1792,7 +1927,7 @@
       "engagement_rate": 2.49,
       "hashtags": [],
       "duration": "00:00:22",
-      "posted_date": "2025-07-28",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/gxbKPQqKmmQ"
     },
     {
@@ -1807,7 +1942,7 @@
       "engagement_rate": 2.63,
       "hashtags": [],
       "duration": "00:18:38",
-      "posted_date": "2022-03-03",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=H6m9OO_ce18"
     },
     {
@@ -1822,7 +1957,7 @@
       "engagement_rate": 2.64,
       "hashtags": [],
       "duration": "00:10:17",
-      "posted_date": "2024-07-12",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=pyNOR5BSN9I"
     },
     {
@@ -1837,7 +1972,7 @@
       "engagement_rate": 4.42,
       "hashtags": [],
       "duration": "00:40:44",
-      "posted_date": "2026-03-30",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=DlwyO4NzTPQ"
     },
     {
@@ -1852,7 +1987,7 @@
       "engagement_rate": 5.67,
       "hashtags": [],
       "duration": "03:05:10",
-      "posted_date": "2026-01-15",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=EwVfILFo1wQ"
     },
     {
@@ -1867,7 +2002,7 @@
       "engagement_rate": 5.8,
       "hashtags": [],
       "duration": "00:19:44",
-      "posted_date": "2025-12-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=KUq7JzfnL9M"
     },
     {
@@ -1882,7 +2017,7 @@
       "engagement_rate": 5.81,
       "hashtags": [],
       "duration": "00:16:16",
-      "posted_date": "2024-01-27",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=ZNqrXtl5pH8"
     },
     {
@@ -1897,7 +2032,7 @@
       "engagement_rate": 1.71,
       "hashtags": [],
       "duration": "00:00:10",
-      "posted_date": "2022-09-19",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/rAtoS-iy9NU"
     },
     {
@@ -1912,7 +2047,7 @@
       "engagement_rate": 1.6,
       "hashtags": [],
       "duration": "00:31:24",
-      "posted_date": "2026-03-15",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=kFLAxqZYBOo"
     },
     {
@@ -1927,7 +2062,7 @@
       "engagement_rate": 2.17,
       "hashtags": [],
       "duration": "00:00:26",
-      "posted_date": "2024-12-24",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/htJ_ph1QXik"
     },
     {
@@ -1942,7 +2077,7 @@
       "engagement_rate": 5.09,
       "hashtags": [],
       "duration": "00:25:40",
-      "posted_date": "2025-01-29",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=YD4S1gowwNs"
     },
     {
@@ -1957,7 +2092,7 @@
       "engagement_rate": 4.86,
       "hashtags": [],
       "duration": "00:00:21",
-      "posted_date": "2022-08-02",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/mXt0XePyzwM"
     },
     {
@@ -1972,7 +2107,7 @@
       "engagement_rate": 1.97,
       "hashtags": [],
       "duration": "00:00:10",
-      "posted_date": "2022-07-08",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/-e5gSAjslHY"
     },
     {
@@ -1987,7 +2122,7 @@
       "engagement_rate": 2.92,
       "hashtags": [],
       "duration": "00:11:17",
-      "posted_date": "2025-10-24",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=vKPwiNCXk9c"
     },
     {
@@ -2002,7 +2137,7 @@
       "engagement_rate": 2.2,
       "hashtags": [],
       "duration": "00:00:35",
-      "posted_date": "2024-01-27",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/SU_6c9nhR84"
     },
     {
@@ -2017,7 +2152,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:28",
-      "posted_date": "2023-05-26",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/YrHUqBN-wjs"
     },
     {
@@ -2032,7 +2167,7 @@
       "engagement_rate": 5.75,
       "hashtags": [],
       "duration": "00:01:30",
-      "posted_date": "2026-02-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=m9HHCBC7RqQ"
     },
     {
@@ -2047,8 +2182,23 @@
       "engagement_rate": 3.63,
       "hashtags": [],
       "duration": "00:22:09",
-      "posted_date": "2023-08-29",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=ymixzOQ59S8"
+    },
+    {
+      "author": "Dan Martell",
+      "followers": 0,
+      "caption": "How to Grow Your Business SO Fast it Feels Like CHEATING",
+      "views": 195637,
+      "likes": 5800,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.96,
+      "hashtags": [],
+      "duration": "00:16:18",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=UlB6VAD78kM"
     },
     {
       "author": "SouthernFrugalMomma",
@@ -2062,7 +2212,7 @@
       "engagement_rate": 3.77,
       "hashtags": [],
       "duration": "00:45:17",
-      "posted_date": "2023-03-11",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=-Ozs-kIdyVo"
     },
     {
@@ -2077,7 +2227,7 @@
       "engagement_rate": 1.83,
       "hashtags": [],
       "duration": "00:00:24",
-      "posted_date": "2023-02-25",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/SLs6GbhIrnY"
     },
     {
@@ -2092,7 +2242,7 @@
       "engagement_rate": 1.89,
       "hashtags": [],
       "duration": "00:06:54",
-      "posted_date": "2023-04-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=c1JTouiu9fU"
     },
     {
@@ -2107,7 +2257,7 @@
       "engagement_rate": 2.03,
       "hashtags": [],
       "duration": "00:00:18",
-      "posted_date": "2022-09-25",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/D1or7V1Rhx4"
     },
     {
@@ -2122,7 +2272,7 @@
       "engagement_rate": 0.57,
       "hashtags": [],
       "duration": "00:30:18",
-      "posted_date": "2025-10-24",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=y2argMc8vuY"
     },
     {
@@ -2137,7 +2287,7 @@
       "engagement_rate": 3.46,
       "hashtags": [],
       "duration": "00:21:37",
-      "posted_date": "2026-01-27",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=9-k_Sp14wco"
     },
     {
@@ -2152,7 +2302,7 @@
       "engagement_rate": 4.26,
       "hashtags": [],
       "duration": "00:30:36",
-      "posted_date": "2025-06-25",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=ctrLp3b0tPo"
     },
     {
@@ -2167,7 +2317,7 @@
       "engagement_rate": 1.97,
       "hashtags": [],
       "duration": "00:00:18",
-      "posted_date": "2023-05-18",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/dtdgQRPzcsM"
     },
     {
@@ -2182,7 +2332,7 @@
       "engagement_rate": 4.12,
       "hashtags": [],
       "duration": "00:20:29",
-      "posted_date": "2025-03-03",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=ZjerqaTgIe8"
     },
     {
@@ -2197,7 +2347,7 @@
       "engagement_rate": 1.87,
       "hashtags": [],
       "duration": "00:01:00",
-      "posted_date": "2022-08-10",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/eXmFufyQclc"
     },
     {
@@ -2212,7 +2362,7 @@
       "engagement_rate": 1.25,
       "hashtags": [],
       "duration": "00:00:05",
-      "posted_date": "2024-02-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/xEyvp_xttW0"
     },
     {
@@ -2227,7 +2377,7 @@
       "engagement_rate": 3.31,
       "hashtags": [],
       "duration": "00:09:19",
-      "posted_date": "2024-04-26",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=q3CIfAg25E8"
     },
     {
@@ -2242,7 +2392,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:41",
-      "posted_date": "2026-04-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/1YIcr0Az4Fk"
     },
     {
@@ -2257,7 +2407,7 @@
       "engagement_rate": 5.82,
       "hashtags": [],
       "duration": "00:13:14",
-      "posted_date": "2026-03-12",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=BnerSDRGon0"
     },
     {
@@ -2272,7 +2422,7 @@
       "engagement_rate": 2.11,
       "hashtags": [],
       "duration": "00:19:20",
-      "posted_date": "2026-04-02",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=k_kGpvhB8L8"
     },
     {
@@ -2287,7 +2437,7 @@
       "engagement_rate": 1.46,
       "hashtags": [],
       "duration": "00:00:17",
-      "posted_date": "2023-08-31",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/HLVDgD0kdX4"
     },
     {
@@ -2302,7 +2452,7 @@
       "engagement_rate": 5.67,
       "hashtags": [],
       "duration": "00:01:41",
-      "posted_date": "2025-04-21",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/hQOL2Fc952g"
     },
     {
@@ -2317,7 +2467,7 @@
       "engagement_rate": 4.31,
       "hashtags": [],
       "duration": "00:12:07",
-      "posted_date": "2026-03-19",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=feN4QzD8f74"
     },
     {
@@ -2332,7 +2482,7 @@
       "engagement_rate": 4.62,
       "hashtags": [],
       "duration": "00:00:25",
-      "posted_date": "2024-03-22",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/aIwyv2yhkC0"
     },
     {
@@ -2347,7 +2497,7 @@
       "engagement_rate": 3.62,
       "hashtags": [],
       "duration": "00:07:37",
-      "posted_date": "2026-02-15",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=b_5-tYoC2mI"
     },
     {
@@ -2362,7 +2512,7 @@
       "engagement_rate": 3.64,
       "hashtags": [],
       "duration": "00:00:25",
-      "posted_date": "2024-05-23",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/TmlzlARBoxk"
     },
     {
@@ -2377,7 +2527,7 @@
       "engagement_rate": 6.42,
       "hashtags": [],
       "duration": "00:11:45",
-      "posted_date": "2025-05-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=DcM8iOjQ8wo"
     },
     {
@@ -2392,7 +2542,7 @@
       "engagement_rate": 3.5,
       "hashtags": [],
       "duration": "00:12:11",
-      "posted_date": "2025-03-19",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=gMT80ZTeqng"
     },
     {
@@ -2407,7 +2557,7 @@
       "engagement_rate": 8.52,
       "hashtags": [],
       "duration": "00:01:24",
-      "posted_date": "2025-02-17",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/qW3gqOl8U7Q"
     },
     {
@@ -2422,7 +2572,7 @@
       "engagement_rate": 1.04,
       "hashtags": [],
       "duration": "00:01:25",
-      "posted_date": "2016-01-01",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=Gloa9Rcm7T0"
     },
     {
@@ -2437,7 +2587,7 @@
       "engagement_rate": 3.63,
       "hashtags": [],
       "duration": "00:01:00",
-      "posted_date": "2024-07-01",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/saV8EJpeFAI"
     },
     {
@@ -2452,7 +2602,7 @@
       "engagement_rate": 0.88,
       "hashtags": [],
       "duration": "00:09:59",
-      "posted_date": "2026-04-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=3AHWe_Crq9E"
     },
     {
@@ -2467,7 +2617,7 @@
       "engagement_rate": 2.76,
       "hashtags": [],
       "duration": "00:12:49",
-      "posted_date": "2025-11-24",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=EiCiZvC3UJg"
     },
     {
@@ -2482,7 +2632,7 @@
       "engagement_rate": 0.97,
       "hashtags": [],
       "duration": "00:10:00",
-      "posted_date": "2026-04-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=QCDJSd6b_Xs"
     },
     {
@@ -2497,7 +2647,7 @@
       "engagement_rate": 3.39,
       "hashtags": [],
       "duration": "00:08:06",
-      "posted_date": "2026-01-31",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=pJFigTEQ5RM"
     },
     {
@@ -2512,7 +2662,7 @@
       "engagement_rate": 0.47,
       "hashtags": [],
       "duration": "00:04:56",
-      "posted_date": "2026-04-02",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=M3zcwNCXW0k"
     },
     {
@@ -2527,7 +2677,7 @@
       "engagement_rate": 2.14,
       "hashtags": [],
       "duration": "00:01:00",
-      "posted_date": "2023-04-18",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/OpM7hKavmqA"
     },
     {
@@ -2542,7 +2692,7 @@
       "engagement_rate": 2.13,
       "hashtags": [],
       "duration": "00:35:25",
-      "posted_date": "2026-04-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=2NiNMKIy-GQ"
     },
     {
@@ -2557,7 +2707,7 @@
       "engagement_rate": 3.62,
       "hashtags": [],
       "duration": "00:09:56",
-      "posted_date": "2024-04-20",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=k9rezZIbDws"
     },
     {
@@ -2572,7 +2722,7 @@
       "engagement_rate": 1.33,
       "hashtags": [],
       "duration": "00:20:33",
-      "posted_date": "2026-04-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=HdWxHD_dhpQ"
     },
     {
@@ -2587,7 +2737,7 @@
       "engagement_rate": 0.95,
       "hashtags": [],
       "duration": "00:32:47",
-      "posted_date": "2026-04-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=JmBsw_ZDZss"
     },
     {
@@ -2602,7 +2752,7 @@
       "engagement_rate": 4.28,
       "hashtags": [],
       "duration": "00:23:54",
-      "posted_date": "2026-04-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=5syC-TMAvcM"
     },
     {
@@ -2617,7 +2767,7 @@
       "engagement_rate": 7.99,
       "hashtags": [],
       "duration": "00:23:20",
-      "posted_date": "2023-03-23",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=fN0Rck46Odo"
     },
     {
@@ -2632,7 +2782,7 @@
       "engagement_rate": 4.86,
       "hashtags": [],
       "duration": "00:04:55",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=gGO6Amrg0UI"
     },
     {
@@ -2647,8 +2797,23 @@
       "engagement_rate": 1.94,
       "hashtags": [],
       "duration": "00:14:16",
-      "posted_date": "2024-11-10",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=ODyyzHlqwIQ"
+    },
+    {
+      "author": "Cookout Confessions",
+      "followers": 0,
+      "caption": "BUCEES SEVIERVILLE REVIEW #bucees #springbreak #food #shorts #funny",
+      "views": 1331,
+      "likes": 54,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 4.06,
+      "hashtags": [],
+      "duration": "00:00:25",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/zZXkc2FUn3E"
     },
     {
       "author": "Rural Food",
@@ -2662,8 +2827,23 @@
       "engagement_rate": 2.87,
       "hashtags": [],
       "duration": "00:08:31",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=SV8Al-UkSf8"
+    },
+    {
+      "author": "Cookout Confessions",
+      "followers": 0,
+      "caption": "I FOUND THEBURNTPEANUT IRL? #theburntpeanut #springbreak #food #shorts #funny",
+      "views": 750,
+      "likes": 17,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.27,
+      "hashtags": [],
+      "duration": "00:00:23",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/f9nsHE5Ya-I"
     },
     {
       "author": "Mental Wealth TV by WMHI",
@@ -2677,8 +2857,23 @@
       "engagement_rate": 3.88,
       "hashtags": [],
       "duration": "00:05:47",
-      "posted_date": "2023-03-23",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=xhJrlzmiMZA"
+    },
+    {
+      "author": "Brandon S. Eskridge",
+      "followers": 0,
+      "caption": "A Day in My Life: Cooking Adventures #relatable #viral #fok",
+      "views": 292,
+      "likes": 7,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.4,
+      "hashtags": [],
+      "duration": "00:02:57",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/yHpvECVwJTI"
     },
     {
       "author": "Sage Psychologist",
@@ -2692,8 +2887,23 @@
       "engagement_rate": 4.07,
       "hashtags": [],
       "duration": "00:06:19",
-      "posted_date": "2023-10-03",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=8NAonZ7uRUc"
+    },
+    {
+      "author": "Isha Gupta",
+      "followers": 0,
+      "caption": "\ud83c\udf80Cute Day Out Vlog\ud83c\udf80: Shopping, Food & Endless Fun!\ud83e\udd29ft: @jiyapant28 \ud83d\udc97| Zudio Summer collection\u201926 \ud83c\udf24\ufe0f",
+      "views": 106,
+      "likes": 15,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 14.15,
+      "hashtags": [],
+      "duration": "00:14:23",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=wZJdE2eEbRU"
     },
     {
       "author": "Viral Podcasts",
@@ -2707,7 +2917,7 @@
       "engagement_rate": 5.56,
       "hashtags": [],
       "duration": "00:19:10",
-      "posted_date": "2025-04-25",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=V9mwtkP-68o"
     }
   ]

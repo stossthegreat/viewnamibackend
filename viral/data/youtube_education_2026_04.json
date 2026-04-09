@@ -4,19 +4,24 @@
   "month": "April",
   "year": 2026,
   "niche": "education",
-  "generated_at": "2026-04-09T02:49:35.025830",
-  "data_points_analyzed": 79,
-  "viral_posts_found": 79,
+  "generated_at": "2026-04-09T02:53:28.305892",
+  "data_points_analyzed": 80,
+  "viral_posts_found": 80,
   "hooks": [
     {
       "pattern": "How to",
-      "example_count": 50,
+      "example_count": 48,
       "example": "How To See Germs Spread Experiment (Coronavirus)"
     },
     {
-      "pattern": "Review/Honest",
+      "pattern": "Secret/Truth",
       "example_count": 3,
       "example": "Most SECRET Henry Danger Behind The Scenes Facts!"
+    },
+    {
+      "pattern": "I tried/tested",
+      "example_count": 1,
+      "example": "I Ate School Lunch From Every Country"
     },
     {
       "pattern": "What/Nobody",
@@ -24,17 +29,32 @@
       "example": "What Is A Virus ?"
     },
     {
-      "pattern": "Ultimate/Best of",
+      "pattern": "Challenge/X days",
       "example_count": 1,
-      "example": "Top 5 Most Beautiful Places In India"
+      "example": "Grading Ray\u2019s test\u2026 #asmr #school #teacher #test #quiz #emojichallenge"
     }
   ],
   "best_times": [],
   "hashtags": [],
   "formats": [],
   "trending_sounds": [],
-  "insights": "79 YouTube videos. Avg 3,374,245 views.",
+  "insights": "80 videos. Avg 4,049,057 views.",
   "top_posts": [
+    {
+      "author": "Nick DiGiovanni",
+      "followers": 0,
+      "caption": "I Ate School Lunch From Every Country",
+      "views": 46910948,
+      "likes": 589000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.26,
+      "hashtags": [],
+      "duration": "00:37:31",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=yyw_GTNzXFc"
+    },
     {
       "author": "Remus Bujor",
       "followers": 0,
@@ -47,7 +67,7 @@
       "engagement_rate": 2.28,
       "hashtags": [],
       "duration": "00:00:14",
-      "posted_date": "2021-08-22",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/ZNHnEE2fPgU"
     },
     {
@@ -62,7 +82,7 @@
       "engagement_rate": 1.76,
       "hashtags": [],
       "duration": "00:08:37",
-      "posted_date": "2020-03-18",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=I5-dI74zxPg"
     },
     {
@@ -77,7 +97,7 @@
       "engagement_rate": 2.83,
       "hashtags": [],
       "duration": "00:00:28",
-      "posted_date": "2023-05-15",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/14kST-0HI2o"
     },
     {
@@ -92,7 +112,7 @@
       "engagement_rate": 2.85,
       "hashtags": [],
       "duration": "00:00:21",
-      "posted_date": "2025-01-23",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/nq2bn1TCTUE"
     },
     {
@@ -107,7 +127,7 @@
       "engagement_rate": 5.17,
       "hashtags": [],
       "duration": "00:00:45",
-      "posted_date": "2023-05-29",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/Xv-_c3WtY8M"
     },
     {
@@ -122,7 +142,7 @@
       "engagement_rate": 5.87,
       "hashtags": [],
       "duration": "00:00:47",
-      "posted_date": "2023-03-08",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/Yvf25cXbWt4"
     },
     {
@@ -137,7 +157,7 @@
       "engagement_rate": 1.52,
       "hashtags": [],
       "duration": "00:38:09",
-      "posted_date": "2021-02-28",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=IuTDuvYr7f0"
     },
     {
@@ -152,7 +172,7 @@
       "engagement_rate": 0.33,
       "hashtags": [],
       "duration": "00:04:22",
-      "posted_date": "2017-12-29",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=YS7vsBgWszI"
     },
     {
@@ -167,8 +187,23 @@
       "engagement_rate": 0.42,
       "hashtags": [],
       "duration": "00:06:38",
-      "posted_date": "2021-07-29",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=Gaz93rd9iFU"
+    },
+    {
+      "author": "Brydell Cocky",
+      "followers": 0,
+      "caption": "The feeling of the last day of each grade #viral #relatable #school",
+      "views": 6904458,
+      "likes": 476000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 6.89,
+      "hashtags": [],
+      "duration": "00:00:44",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/0SWmt70Vsdc"
     },
     {
       "author": "Learn Bright",
@@ -182,7 +217,7 @@
       "engagement_rate": 0.06,
       "hashtags": [],
       "duration": "00:05:49",
-      "posted_date": "2022-03-29",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=wOulvIK-brM"
     },
     {
@@ -197,7 +232,7 @@
       "engagement_rate": 1.31,
       "hashtags": [],
       "duration": "00:00:28",
-      "posted_date": "2024-02-12",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/7zseGj19dX0"
     },
     {
@@ -212,7 +247,7 @@
       "engagement_rate": 0.29,
       "hashtags": [],
       "duration": "00:11:22",
-      "posted_date": "2022-08-23",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=e8YzKyot4Pc"
     },
     {
@@ -227,7 +262,7 @@
       "engagement_rate": 4.6,
       "hashtags": [],
       "duration": "00:00:32",
-      "posted_date": "2024-08-27",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/1HY6CbRpJBQ"
     },
     {
@@ -242,7 +277,7 @@
       "engagement_rate": 0.34,
       "hashtags": [],
       "duration": "00:13:20",
-      "posted_date": "2019-07-11",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=qM7B2nwpV1M"
     },
     {
@@ -257,7 +292,7 @@
       "engagement_rate": 0.68,
       "hashtags": [],
       "duration": "00:06:37",
-      "posted_date": "2019-12-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=sM3FDsMAMdc"
     },
     {
@@ -272,8 +307,23 @@
       "engagement_rate": 2.79,
       "hashtags": [],
       "duration": "00:08:44",
-      "posted_date": "2025-04-01",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=rNxC16mlO60"
+    },
+    {
+      "author": "Nonstop",
+      "followers": 0,
+      "caption": "The High School GPAs Of NBA Stars!",
+      "views": 2856348,
+      "likes": 145000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 5.08,
+      "hashtags": [],
+      "duration": "00:00:39",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/gMdAVH0k7ZQ"
     },
     {
       "author": "Peekaboo Kidz",
@@ -287,7 +337,7 @@
       "engagement_rate": 1.04,
       "hashtags": [],
       "duration": "00:06:30",
-      "posted_date": "2020-01-17",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=UXsomnDkntI"
     },
     {
@@ -302,7 +352,7 @@
       "engagement_rate": 0.99,
       "hashtags": [],
       "duration": "00:05:33",
-      "posted_date": "2019-08-30",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=VX6BnTRq8Fs"
     },
     {
@@ -317,7 +367,7 @@
       "engagement_rate": 0.27,
       "hashtags": [],
       "duration": "00:06:10",
-      "posted_date": "2022-06-14",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=rnIUFrx0DjI"
     },
     {
@@ -332,7 +382,7 @@
       "engagement_rate": 4.82,
       "hashtags": [],
       "duration": "00:09:41",
-      "posted_date": "2024-06-18",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=gEQ0BLyVJhY"
     },
     {
@@ -347,7 +397,7 @@
       "engagement_rate": 2.24,
       "hashtags": [],
       "duration": "00:00:17",
-      "posted_date": "2024-10-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/HqCXljMo5js"
     },
     {
@@ -362,7 +412,7 @@
       "engagement_rate": 0.79,
       "hashtags": [],
       "duration": "00:04:40",
-      "posted_date": "2019-03-01",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=BqOaG9VuP_I"
     },
     {
@@ -377,8 +427,23 @@
       "engagement_rate": 0.35,
       "hashtags": [],
       "duration": "00:07:12",
-      "posted_date": "2022-03-08",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=TD3XSIE4ymo"
+    },
+    {
+      "author": "Nonstop",
+      "followers": 0,
+      "caption": "How A Viral High School Star Is DOMINATING The NBA",
+      "views": 1761623,
+      "likes": 18000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.02,
+      "hashtags": [],
+      "duration": "00:28:24",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=nz78A37ggZE"
     },
     {
       "author": "aldc_edits",
@@ -392,7 +457,7 @@
       "engagement_rate": 1.24,
       "hashtags": [],
       "duration": "00:00:10",
-      "posted_date": "2024-08-25",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/UGpiJAQoxnI"
     },
     {
@@ -407,7 +472,7 @@
       "engagement_rate": 5.45,
       "hashtags": [],
       "duration": "00:13:54",
-      "posted_date": "2022-06-03",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=lYj7Mouw-dc"
     },
     {
@@ -422,8 +487,23 @@
       "engagement_rate": 6.33,
       "hashtags": [],
       "duration": "00:00:31",
-      "posted_date": "2023-06-09",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/ikYg5fX2KII"
+    },
+    {
+      "author": "Teacher Tim",
+      "followers": 0,
+      "caption": "Grading Ray\u2019s test\u2026 #asmr #school #teacher #test #quiz #emojichallenge",
+      "views": 1242403,
+      "likes": 29000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.33,
+      "hashtags": [],
+      "duration": "00:00:56",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/58ObmKvWkCM"
     },
     {
       "author": "Think Media Podcast",
@@ -437,23 +517,8 @@
       "engagement_rate": 2.6,
       "hashtags": [],
       "duration": "00:00:20",
-      "posted_date": "2023-05-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/aKVM2_wtVJc"
-    },
-    {
-      "author": "Amazing World Facts",
-      "followers": 0,
-      "caption": "Top 5 Most Beautiful Places In India | AmazingWorldFacts",
-      "views": 981729,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [],
-      "duration": "00:00:22",
-      "posted_date": "2023-03-26",
-      "url": "https://www.youtube.com/shorts/lYF1deJVf58"
     },
     {
       "author": "Learn Bright",
@@ -467,7 +532,7 @@
       "engagement_rate": 0.4,
       "hashtags": [],
       "duration": "00:06:13",
-      "posted_date": "2023-05-18",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=jlLpZ9S2slQ"
     },
     {
@@ -482,23 +547,8 @@
       "engagement_rate": 3.18,
       "hashtags": [],
       "duration": "00:00:22",
-      "posted_date": "2023-05-29",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/QXxSK8RuJGQ"
-    },
-    {
-      "author": "Vanessa Lau",
-      "followers": 0,
-      "caption": "How Instagram Algorithm works | How to grow on Instagram",
-      "views": 868359,
-      "likes": 58000,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 6.68,
-      "hashtags": [],
-      "duration": "00:00:31",
-      "posted_date": "2022-11-11",
-      "url": "https://www.youtube.com/shorts/b2GeZ73ilK4"
     },
     {
       "author": "Ashmit Shahi",
@@ -512,7 +562,7 @@
       "engagement_rate": 1.75,
       "hashtags": [],
       "duration": "00:00:20",
-      "posted_date": "2024-02-02",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/xCGZu2FGz2s"
     },
     {
@@ -527,7 +577,7 @@
       "engagement_rate": 2.55,
       "hashtags": [],
       "duration": "00:00:37",
-      "posted_date": "2024-06-12",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/ds4PptsC3NU"
     },
     {
@@ -542,7 +592,7 @@
       "engagement_rate": 2.07,
       "hashtags": [],
       "duration": "00:00:35",
-      "posted_date": "2024-08-02",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/J93fe2V2ztw"
     },
     {
@@ -557,7 +607,7 @@
       "engagement_rate": 1.31,
       "hashtags": [],
       "duration": "00:00:21",
-      "posted_date": "2023-04-27",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/poRzgDXLoMk"
     },
     {
@@ -572,7 +622,7 @@
       "engagement_rate": 4.46,
       "hashtags": [],
       "duration": "00:00:30",
-      "posted_date": "2021-08-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/iHn9Bc6Kl5E"
     },
     {
@@ -587,7 +637,7 @@
       "engagement_rate": 2.37,
       "hashtags": [],
       "duration": "00:00:18",
-      "posted_date": "2024-07-12",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/X-26yndmUFY"
     },
     {
@@ -602,23 +652,8 @@
       "engagement_rate": 3.49,
       "hashtags": [],
       "duration": "00:00:24",
-      "posted_date": "2023-12-27",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/aupN1Wm7tI0"
-    },
-    {
-      "author": "instagrowup",
-      "followers": 0,
-      "caption": "\ud83d\udea8How to Start an Art Account on Instagram and Grow Fast (2025) #instaalgorithm",
-      "views": 293677,
-      "likes": 6100,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 2.08,
-      "hashtags": [],
-      "duration": "00:00:18",
-      "posted_date": "2025-07-08",
-      "url": "https://www.youtube.com/shorts/Nirf39GQP_8"
     },
     {
       "author": "Neil Patel",
@@ -632,7 +667,7 @@
       "engagement_rate": 3.11,
       "hashtags": [],
       "duration": "00:17:42",
-      "posted_date": "2025-04-01",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=E6ZSIZ89Ekg"
     },
     {
@@ -647,7 +682,7 @@
       "engagement_rate": 4.93,
       "hashtags": [],
       "duration": "00:11:16",
-      "posted_date": "2024-07-23",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=IPW-MF8Kp0I"
     },
     {
@@ -662,7 +697,7 @@
       "engagement_rate": 4.94,
       "hashtags": [],
       "duration": "00:00:31",
-      "posted_date": "2024-01-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/r85tr-fPwoM"
     },
     {
@@ -677,7 +712,7 @@
       "engagement_rate": 2.81,
       "hashtags": [],
       "duration": "00:00:52",
-      "posted_date": "2024-01-01",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/nFUoz_0qi74"
     },
     {
@@ -692,7 +727,7 @@
       "engagement_rate": 3.92,
       "hashtags": [],
       "duration": "00:31:53",
-      "posted_date": "2025-01-11",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=x-2gTyL6-ws"
     },
     {
@@ -707,7 +742,7 @@
       "engagement_rate": 5.58,
       "hashtags": [],
       "duration": "00:09:30",
-      "posted_date": "2026-02-21",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=LkC0rkA0sxo"
     },
     {
@@ -722,23 +757,8 @@
       "engagement_rate": 2.94,
       "hashtags": [],
       "duration": "00:01:00",
-      "posted_date": "2024-03-16",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/2A2IpR_Ni2M"
-    },
-    {
-      "author": "Ryazeki",
-      "followers": 0,
-      "caption": "How to edit whiffs out of your Valorant clips",
-      "views": 172763,
-      "likes": 2100,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 1.22,
-      "hashtags": [],
-      "duration": "00:00:15",
-      "posted_date": "2021-09-07",
-      "url": "https://www.youtube.com/shorts/Xo4zHUyg1q4"
     },
     {
       "author": "Motionize",
@@ -752,7 +772,7 @@
       "engagement_rate": 2.08,
       "hashtags": [],
       "duration": "00:00:18",
-      "posted_date": "2025-04-20",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/O9O1MlFnKQs"
     },
     {
@@ -767,7 +787,7 @@
       "engagement_rate": 4.83,
       "hashtags": [],
       "duration": "00:09:27",
-      "posted_date": "2025-10-22",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=194CiKY7jiI"
     },
     {
@@ -782,7 +802,7 @@
       "engagement_rate": 4.83,
       "hashtags": [],
       "duration": "00:09:27",
-      "posted_date": "2025-10-22",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=194CiKY7jiI"
     },
     {
@@ -797,7 +817,7 @@
       "engagement_rate": 3.46,
       "hashtags": [],
       "duration": "00:17:32",
-      "posted_date": "2025-01-10",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=L2W3JzHobjU"
     },
     {
@@ -812,7 +832,7 @@
       "engagement_rate": 2.79,
       "hashtags": [],
       "duration": "00:09:51",
-      "posted_date": "2025-12-23",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=Gv5hZgLmz9Q"
     },
     {
@@ -827,7 +847,7 @@
       "engagement_rate": 4.08,
       "hashtags": [],
       "duration": "00:10:39",
-      "posted_date": "2025-11-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=mBrn8ana84w"
     },
     {
@@ -842,7 +862,7 @@
       "engagement_rate": 3.85,
       "hashtags": [],
       "duration": "00:09:57",
-      "posted_date": "2026-02-08",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=6h4JINYRB8A"
     },
     {
@@ -857,7 +877,7 @@
       "engagement_rate": 0.78,
       "hashtags": [],
       "duration": "00:00:14",
-      "posted_date": "2026-04-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/QhYTIyN3xDM"
     },
     {
@@ -872,7 +892,7 @@
       "engagement_rate": 3.06,
       "hashtags": [],
       "duration": "00:09:34",
-      "posted_date": "2026-02-23",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=cmjnWFdA83o"
     },
     {
@@ -887,7 +907,7 @@
       "engagement_rate": 3.09,
       "hashtags": [],
       "duration": "00:00:28",
-      "posted_date": "2023-12-02",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/yustRpjH1xg"
     },
     {
@@ -902,7 +922,7 @@
       "engagement_rate": 3.82,
       "hashtags": [],
       "duration": "00:00:32",
-      "posted_date": "2026-04-01",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/8-VAqhddpmA"
     },
     {
@@ -917,7 +937,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:15",
-      "posted_date": "2026-04-02",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/o8_LzWGNgdc"
     },
     {
@@ -932,7 +952,7 @@
       "engagement_rate": 3.61,
       "hashtags": [],
       "duration": "00:19:39",
-      "posted_date": "2025-03-10",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=D_cbRyjCDm4"
     },
     {
@@ -947,7 +967,7 @@
       "engagement_rate": 2.2,
       "hashtags": [],
       "duration": "00:00:31",
-      "posted_date": "2022-10-26",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/vp2c3RRnSCw"
     },
     {
@@ -962,7 +982,7 @@
       "engagement_rate": 2.49,
       "hashtags": [],
       "duration": "00:08:03",
-      "posted_date": "2023-08-28",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=VEJHwmlhMzU"
     },
     {
@@ -977,7 +997,7 @@
       "engagement_rate": 3.66,
       "hashtags": [],
       "duration": "00:00:55",
-      "posted_date": "2025-10-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/4S9NmP_tAAc"
     },
     {
@@ -992,7 +1012,7 @@
       "engagement_rate": 5.74,
       "hashtags": [],
       "duration": "00:08:13",
-      "posted_date": "2025-10-25",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=n_ypUqlMdV8"
     },
     {
@@ -1007,7 +1027,7 @@
       "engagement_rate": 4.53,
       "hashtags": [],
       "duration": "00:05:59",
-      "posted_date": "2025-12-27",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=fVuJ6ynFcKw"
     },
     {
@@ -1022,7 +1042,7 @@
       "engagement_rate": 3.25,
       "hashtags": [],
       "duration": "00:06:16",
-      "posted_date": "2025-11-14",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=Xu5nlP3iEMM"
     },
     {
@@ -1037,7 +1057,7 @@
       "engagement_rate": 0.9,
       "hashtags": [],
       "duration": "00:05:08",
-      "posted_date": "2023-10-11",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=pdwxFp5k0z4"
     },
     {
@@ -1052,7 +1072,7 @@
       "engagement_rate": 3.56,
       "hashtags": [],
       "duration": "00:14:00",
-      "posted_date": "2026-02-13",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=HKFsNj0eCVg"
     },
     {
@@ -1067,7 +1087,7 @@
       "engagement_rate": 5.4,
       "hashtags": [],
       "duration": "00:11:20",
-      "posted_date": "2026-03-24",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=xDjQxVFfWkg"
     },
     {
@@ -1082,7 +1102,7 @@
       "engagement_rate": 1.45,
       "hashtags": [],
       "duration": "00:03:43",
-      "posted_date": "2023-07-19",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=Wb6Im7SYjCk"
     },
     {
@@ -1097,7 +1117,7 @@
       "engagement_rate": 3.09,
       "hashtags": [],
       "duration": "00:06:43",
-      "posted_date": "2022-06-17",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=zdnL1Xsq8Wo"
     },
     {
@@ -1112,7 +1132,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:55",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=4v580q2Bg0M"
     },
     {
@@ -1127,7 +1147,7 @@
       "engagement_rate": 2.21,
       "hashtags": [],
       "duration": "00:52:06",
-      "posted_date": "2023-06-30",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=g0DYjDoGquQ"
     },
     {
@@ -1142,7 +1162,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:05",
-      "posted_date": "2026-04-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=IYEwrIeINKg"
     },
     {
@@ -1157,7 +1177,7 @@
       "engagement_rate": 8.96,
       "hashtags": [],
       "duration": "00:05:34",
-      "posted_date": "2026-03-18",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=sbcDeep8tXE"
     },
     {
@@ -1172,7 +1192,7 @@
       "engagement_rate": 7.14,
       "hashtags": [],
       "duration": "00:02:48",
-      "posted_date": "2026-04-01",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=IgP-o72-U8I"
     },
     {
@@ -1187,7 +1207,7 @@
       "engagement_rate": 10.0,
       "hashtags": [],
       "duration": "00:01:20",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/38kVYdVDjm0"
     },
     {
@@ -1202,7 +1222,7 @@
       "engagement_rate": 14.29,
       "hashtags": [],
       "duration": "00:05:04",
-      "posted_date": "2026-03-29",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=4K2DTTOjez4"
     },
     {
@@ -1217,7 +1237,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:13:32",
-      "posted_date": "2025-08-23",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=7h0uno4EogQ"
     }
   ]

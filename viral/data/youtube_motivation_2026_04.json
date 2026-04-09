@@ -4,13 +4,13 @@
   "month": "April",
   "year": 2026,
   "niche": "motivation",
-  "generated_at": "2026-04-09T02:49:35.025830",
-  "data_points_analyzed": 111,
-  "viral_posts_found": 111,
+  "generated_at": "2026-04-09T02:53:28.305892",
+  "data_points_analyzed": 152,
+  "viral_posts_found": 152,
   "hooks": [
     {
       "pattern": "Ultimate/Best of",
-      "example_count": 8,
+      "example_count": 10,
       "example": "NO EXCUSES - Best Motivational Video"
     },
     {
@@ -19,7 +19,7 @@
       "example": "How to Stay Focused and Disciplined"
     },
     {
-      "pattern": "Review/Honest",
+      "pattern": "Secret/Truth",
       "example_count": 3,
       "example": "David Goggins Mindset- Hard truths"
     },
@@ -39,6 +39,11 @@
       "example": "7 Days Challenge \u2660\ufe0f #motivation #discipline #quotes #mindset #consistent #hardwork #viralshort"
     },
     {
+      "pattern": "What/Nobody",
+      "example_count": 1,
+      "example": "What Is Your Dream Life?\ud83d\udcc8#entrepreneur #motivation #millionaire #mindset #success #shorts"
+    },
+    {
       "pattern": "X things/tips/best",
       "example_count": 1,
       "example": "5 Tips To Boost Your Mental Health #mentalhealth  #motivation #healthy#energy#mindset #viral#video"
@@ -48,7 +53,7 @@
   "hashtags": [],
   "formats": [],
   "trending_sounds": [],
-  "insights": "111 YouTube videos. Avg 2,481,226 views.",
+  "insights": "152 videos. Avg 3,687,255 views.",
   "top_posts": [
     {
       "author": "Ben Lionel Scott",
@@ -62,8 +67,68 @@
       "engagement_rate": 2.68,
       "hashtags": [],
       "duration": "00:03:20",
-      "posted_date": "2018-06-11",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=wnHW6o8WMas"
+    },
+    {
+      "author": "Ben Lionel Scott",
+      "followers": 0,
+      "caption": "NO EXCUSES - Best Motivational Video",
+      "views": 78340067,
+      "likes": 2100000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.68,
+      "hashtags": [],
+      "duration": "00:03:20",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=wnHW6o8WMas"
+    },
+    {
+      "author": "AlexKaltsMotivation",
+      "followers": 0,
+      "caption": "WATCH THIS EVERYDAY AND CHANGE YOUR LIFE - Denzel Washington Motivational Speech",
+      "views": 67273989,
+      "likes": 1300000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.93,
+      "hashtags": [],
+      "duration": "00:10:05",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=tbnzAVRZ9Xc"
+    },
+    {
+      "author": "Mateusz M",
+      "followers": 0,
+      "caption": "Dream - Motivational Video",
+      "views": 66445520,
+      "likes": 715000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.08,
+      "hashtags": [],
+      "duration": "00:06:20",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=g-jwWYX7Jlo&list=RDg-jwWYX7Jlo&start_radio=1"
+    },
+    {
+      "author": "MotivationHub",
+      "followers": 0,
+      "caption": "Arnold Schwarzenegger Leaves the Audience SPEECHLESS | One of the Best Motivational Speeches Ever",
+      "views": 21058460,
+      "likes": 529000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.51,
+      "hashtags": [],
+      "duration": "00:10:01",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=1bumPyvzCyo"
     },
     {
       "author": "UNSTOPPABLE",
@@ -77,7 +142,7 @@
       "engagement_rate": 2.05,
       "hashtags": [],
       "duration": "00:00:13",
-      "posted_date": "2025-09-12",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/fHyQSQd6fQ4"
     },
     {
@@ -92,7 +157,7 @@
       "engagement_rate": 1.95,
       "hashtags": [],
       "duration": "00:10:18",
-      "posted_date": "2018-07-11",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=ft_DXwgUXB0"
     },
     {
@@ -107,7 +172,22 @@
       "engagement_rate": 1.41,
       "hashtags": [],
       "duration": "00:31:30",
-      "posted_date": "2018-04-04",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=dww3Oo8ropA"
+    },
+    {
+      "author": "Motiversity",
+      "followers": 0,
+      "caption": "FAILURE - Best Motivational Video Speeches Compilation for Success, Students & Entrepreneurs",
+      "views": 11391108,
+      "likes": 161000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.41,
+      "hashtags": [],
+      "duration": "00:31:30",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=dww3Oo8ropA"
     },
     {
@@ -122,7 +202,22 @@
       "engagement_rate": 1.89,
       "hashtags": [],
       "duration": "00:18:26",
-      "posted_date": "2024-12-08",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=vCIu7Ja_TE0"
+    },
+    {
+      "author": "Alpha Mentors",
+      "followers": 0,
+      "caption": "Simon Sinek's Advice Will Leave You SPEECHLESS 2.0 (MUST WATCH)",
+      "views": 9934789,
+      "likes": 188000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.89,
+      "hashtags": [],
+      "duration": "00:18:26",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=vCIu7Ja_TE0"
     },
     {
@@ -137,7 +232,7 @@
       "engagement_rate": 3.78,
       "hashtags": [],
       "duration": "00:00:10",
-      "posted_date": "2024-10-26",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/toamvmz7Vcw"
     },
     {
@@ -152,7 +247,7 @@
       "engagement_rate": 1.91,
       "hashtags": [],
       "duration": "00:00:12",
-      "posted_date": "2025-08-08",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/CPUb9kK14kk"
     },
     {
@@ -167,7 +262,7 @@
       "engagement_rate": 2.43,
       "hashtags": [],
       "duration": "00:00:17",
-      "posted_date": "2025-07-14",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/yvrl_PINTxo"
     },
     {
@@ -182,7 +277,7 @@
       "engagement_rate": 2.52,
       "hashtags": [],
       "duration": "00:12:29",
-      "posted_date": "2021-09-12",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=dTRBnHtHehQ"
     },
     {
@@ -197,7 +292,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:12",
-      "posted_date": "2025-03-08",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/bS0WwcHI7QY"
     },
     {
@@ -212,7 +307,7 @@
       "engagement_rate": 2.14,
       "hashtags": [],
       "duration": "00:04:08",
-      "posted_date": "2021-02-15",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=JV8mIfjwPeM"
     },
     {
@@ -227,7 +322,7 @@
       "engagement_rate": 5.76,
       "hashtags": [],
       "duration": "00:00:11",
-      "posted_date": "2024-02-10",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/Pg-XjnaXvu8"
     },
     {
@@ -242,7 +337,7 @@
       "engagement_rate": 2.63,
       "hashtags": [],
       "duration": "00:00:10",
-      "posted_date": "2025-10-02",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/i4D_3IF35C0"
     },
     {
@@ -257,8 +352,23 @@
       "engagement_rate": 4.21,
       "hashtags": [],
       "duration": "00:00:10",
-      "posted_date": "2023-12-22",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/-93Ut7iJ4iM"
+    },
+    {
+      "author": "Ascendra ",
+      "followers": 0,
+      "caption": "Teen Builds a $500K Donut Business #motivation #inspiration #mindset #quotes #billionaire #shorts",
+      "views": 6051770,
+      "likes": 119000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.97,
+      "hashtags": [],
+      "duration": "00:01:11",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/sPwz91bmdUY"
     },
     {
       "author": "Warriormentality",
@@ -272,7 +382,7 @@
       "engagement_rate": 2.03,
       "hashtags": [],
       "duration": "00:00:08",
-      "posted_date": "2025-03-16",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/JSFqxCsUwos"
     },
     {
@@ -287,7 +397,7 @@
       "engagement_rate": 4.22,
       "hashtags": [],
       "duration": "00:00:11",
-      "posted_date": "2024-10-19",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/JtPpp3Ep6nA"
     },
     {
@@ -302,7 +412,7 @@
       "engagement_rate": 2.12,
       "hashtags": [],
       "duration": "00:00:10",
-      "posted_date": "2025-01-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/2liO8zHVGBs"
     },
     {
@@ -317,7 +427,7 @@
       "engagement_rate": 5.74,
       "hashtags": [],
       "duration": "00:00:11",
-      "posted_date": "2024-04-18",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/AO3vWcMQu_0"
     },
     {
@@ -332,8 +442,38 @@
       "engagement_rate": 2.14,
       "hashtags": [],
       "duration": "00:36:11",
-      "posted_date": "2021-06-21",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=V_ukiT_QNsQ"
+    },
+    {
+      "author": "MotivationHub",
+      "followers": 0,
+      "caption": "THE MINDSET OF HIGH ACHIEVERS #4 - Powerful Motivational Video for Success",
+      "views": 4296010,
+      "likes": 92000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.14,
+      "hashtags": [],
+      "duration": "00:36:11",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=V_ukiT_QNsQ"
+    },
+    {
+      "author": "RUMIEN",
+      "followers": 0,
+      "caption": "Aura \ud83d\uddff\ud83d\udd25 #entrepreneur #motivation #success",
+      "views": 3768995,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [],
+      "duration": "00:00:12",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/NNpJHqwCtGA"
     },
     {
       "author": "Starreman",
@@ -347,7 +487,7 @@
       "engagement_rate": 2.53,
       "hashtags": [],
       "duration": "00:00:10",
-      "posted_date": "2025-02-15",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/iT-_7hjEw6M"
     },
     {
@@ -362,8 +502,38 @@
       "engagement_rate": 1.8,
       "hashtags": [],
       "duration": "00:19:08",
-      "posted_date": "2025-03-14",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=X4nGU4DZUwE"
+    },
+    {
+      "author": "Motiversity",
+      "followers": 0,
+      "caption": "I CAN DO IT - Powerful Motivational Speech Video (Featuring Lisa Nichols)",
+      "views": 3329169,
+      "likes": 87000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.61,
+      "hashtags": [],
+      "duration": "00:11:40",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=tj7utbR4rMc"
+    },
+    {
+      "author": "Motivation4lines ",
+      "followers": 0,
+      "caption": "Sigma rule \ud83d\udd25\ud83d\ude0e~ motivational quotes #shorts #success #trending #youtubevideo #motivation #fyp",
+      "views": 3207181,
+      "likes": 82000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.56,
+      "hashtags": [],
+      "duration": "00:00:15",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/VqtZNQW6qzg"
     },
     {
       "author": "Elevate Start",
@@ -377,7 +547,7 @@
       "engagement_rate": 4.6,
       "hashtags": [],
       "duration": "00:00:16",
-      "posted_date": "2024-02-12",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/BsblgcBB17A"
     },
     {
@@ -392,7 +562,7 @@
       "engagement_rate": 1.72,
       "hashtags": [],
       "duration": "00:10:25",
-      "posted_date": "2024-10-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=jnIOLO6dpj0"
     },
     {
@@ -407,7 +577,7 @@
       "engagement_rate": 3.17,
       "hashtags": [],
       "duration": "00:09:32",
-      "posted_date": "2020-09-28",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=hUYd8ifsWAg"
     },
     {
@@ -422,7 +592,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:11",
-      "posted_date": "2025-06-28",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/wFNtN_XTroA"
     },
     {
@@ -437,7 +607,7 @@
       "engagement_rate": 4.25,
       "hashtags": [],
       "duration": "00:16:51",
-      "posted_date": "2025-09-24",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=6zOyOglWGw4"
     },
     {
@@ -452,7 +622,7 @@
       "engagement_rate": 2.37,
       "hashtags": [],
       "duration": "01:20:52",
-      "posted_date": "2023-01-19",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=ufQEqi4LUZ4"
     },
     {
@@ -467,7 +637,7 @@
       "engagement_rate": 2.37,
       "hashtags": [],
       "duration": "01:20:52",
-      "posted_date": "2023-01-19",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=ufQEqi4LUZ4"
     },
     {
@@ -482,8 +652,23 @@
       "engagement_rate": 2.97,
       "hashtags": [],
       "duration": "00:00:10",
-      "posted_date": "2024-11-16",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/48BnYG54694"
+    },
+    {
+      "author": "Team Fearless",
+      "followers": 0,
+      "caption": "Entrepreneur [ the Self Made ] Epic Motivational Speech",
+      "views": 2294759,
+      "likes": 35000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.53,
+      "hashtags": [],
+      "duration": "00:04:35",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=3AkjzDHuWKM"
     },
     {
       "author": "Raj Shamani Clips",
@@ -497,7 +682,7 @@
       "engagement_rate": 3.16,
       "hashtags": [],
       "duration": "00:17:46",
-      "posted_date": "2024-07-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=NNH-RLNyzoM"
     },
     {
@@ -512,8 +697,23 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:08",
-      "posted_date": "2024-09-18",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/u4KFTFcN0qU"
+    },
+    {
+      "author": "Key To Discipline",
+      "followers": 0,
+      "caption": "Remember This When Life Gets Hard - Chris Williamson Motivation",
+      "views": 1961029,
+      "likes": 36000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.84,
+      "hashtags": [],
+      "duration": "00:00:12",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/XnjiprcNurg"
     },
     {
       "author": "Motivate_me",
@@ -527,7 +727,7 @@
       "engagement_rate": 5.19,
       "hashtags": [],
       "duration": "00:00:11",
-      "posted_date": "2024-07-17",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/uMKNhS8BDuE"
     },
     {
@@ -542,7 +742,7 @@
       "engagement_rate": 2.65,
       "hashtags": [],
       "duration": "00:00:13",
-      "posted_date": "2025-11-15",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/Y-0ltdtyfwY"
     },
     {
@@ -557,7 +757,7 @@
       "engagement_rate": 2.89,
       "hashtags": [],
       "duration": "00:08:20",
-      "posted_date": "2024-03-08",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=kBJwE9h2qNA"
     },
     {
@@ -572,7 +772,7 @@
       "engagement_rate": 3.32,
       "hashtags": [],
       "duration": "00:00:13",
-      "posted_date": "2025-09-01",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/rExXIUcYVdM"
     },
     {
@@ -587,7 +787,7 @@
       "engagement_rate": 4.92,
       "hashtags": [],
       "duration": "00:00:26",
-      "posted_date": "2023-05-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/osoHY-AUn04"
     },
     {
@@ -602,7 +802,7 @@
       "engagement_rate": 2.43,
       "hashtags": [],
       "duration": "00:15:14",
-      "posted_date": "2020-08-27",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=1c9RzgBFBPk"
     },
     {
@@ -617,7 +817,7 @@
       "engagement_rate": 3.6,
       "hashtags": [],
       "duration": "00:00:24",
-      "posted_date": "2025-08-18",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/uB8BdIfxO4c"
     },
     {
@@ -632,8 +832,23 @@
       "engagement_rate": 2.43,
       "hashtags": [],
       "duration": "00:07:36",
-      "posted_date": "2024-03-12",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=CU8pKyCs4_o"
+    },
+    {
+      "author": "The Billionaire's Diary",
+      "followers": 0,
+      "caption": "Success..\ud83d\udcc8\ud83d\udcb8  #motivation #inspiration #success #quotes #billionaire #millionaire #mindset #money",
+      "views": 963348,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [],
+      "duration": "00:00:10",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/wjIEbvAdYVA"
     },
     {
       "author": "FirstlyMotivate",
@@ -647,7 +862,7 @@
       "engagement_rate": 1.79,
       "hashtags": [],
       "duration": "00:29:00",
-      "posted_date": "2024-09-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=NDeHsUtUOB4"
     },
     {
@@ -662,7 +877,7 @@
       "engagement_rate": 5.0,
       "hashtags": [],
       "duration": "00:00:32",
-      "posted_date": "2024-12-10",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/S0pYBB8uB20"
     },
     {
@@ -677,7 +892,7 @@
       "engagement_rate": 5.38,
       "hashtags": [],
       "duration": "00:00:22",
-      "posted_date": "2025-01-14",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/40a_ukXkqPs"
     },
     {
@@ -692,7 +907,7 @@
       "engagement_rate": 2.45,
       "hashtags": [],
       "duration": "00:00:20",
-      "posted_date": "2023-05-18",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/t3-RhD2SxiM"
     },
     {
@@ -707,7 +922,7 @@
       "engagement_rate": 1.46,
       "hashtags": [],
       "duration": "00:18:15",
-      "posted_date": "2025-05-30",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=8U7TcyOkqjc"
     },
     {
@@ -722,8 +937,23 @@
       "engagement_rate": 5.57,
       "hashtags": [],
       "duration": "00:00:29",
-      "posted_date": "2024-04-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/AznnfLqSpro"
+    },
+    {
+      "author": "TheBillionaireMind (Official)",
+      "followers": 0,
+      "caption": "Mindset \ud83d\udcc8\ud83e\udd11\ud83d\udd25| Iman Gadzhi Motivational Quotes Status | #motivation #imangadzhi #billionaire #viral",
+      "views": 835229,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [],
+      "duration": "00:00:11",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/tqMgjiYn2mE"
     },
     {
       "author": "@ijaass fan club ",
@@ -737,7 +967,7 @@
       "engagement_rate": 2.11,
       "hashtags": [],
       "duration": "00:00:18",
-      "posted_date": "2026-03-29",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/LDkJ-aJ6r4M"
     },
     {
@@ -752,8 +982,23 @@
       "engagement_rate": 3.76,
       "hashtags": [],
       "duration": "00:00:15",
-      "posted_date": "2025-01-23",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/AHBg_QZDW8I"
+    },
+    {
+      "author": "Mehul Jain",
+      "followers": 0,
+      "caption": "Why to take Risk In Life Gautam Adani | #shots #motivation",
+      "views": 775309,
+      "likes": 29000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.74,
+      "hashtags": [],
+      "duration": "00:00:32",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/z0nu05vnuBY"
     },
     {
       "author": "InspiredMotivation ",
@@ -767,8 +1012,23 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:05:25",
-      "posted_date": "2025-01-20",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=-nMxwlqdl7I"
+    },
+    {
+      "author": "Ash Talks",
+      "followers": 0,
+      "caption": "I am having fun most of the time, I just show the producive aspect of my day \ud83d\ude2d\ud83d\ude2d\ud83c\udf80 #study #goals",
+      "views": 696393,
+      "likes": 6500,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.93,
+      "hashtags": [],
+      "duration": "00:00:08",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/xgpduYBg7EU"
     },
     {
       "author": "Champions Mentality 365",
@@ -782,7 +1042,7 @@
       "engagement_rate": 6.2,
       "hashtags": [],
       "duration": "00:00:46",
-      "posted_date": "2025-09-10",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/SDtqisuxYWE"
     },
     {
@@ -797,7 +1057,7 @@
       "engagement_rate": 4.49,
       "hashtags": [],
       "duration": "00:00:46",
-      "posted_date": "2023-04-22",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/mNZrHcjUG5s"
     },
     {
@@ -812,8 +1072,53 @@
       "engagement_rate": 2.46,
       "hashtags": [],
       "duration": "00:00:13",
-      "posted_date": "2023-05-15",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/ob5bqO89mNE"
+    },
+    {
+      "author": "Millionaire Mindset",
+      "followers": 0,
+      "caption": "Plan A Or B? \ud83d\udcb0\ud83d\udcca #entrepreneur #mindset #millionaire #motivation #success #shorts",
+      "views": 607434,
+      "likes": 19000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.13,
+      "hashtags": [],
+      "duration": "00:00:10",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/lkJDLSLlcJ4"
+    },
+    {
+      "author": "Millionaire Vision",
+      "followers": 0,
+      "caption": "What Is Your Dream Life?\ud83d\udcc8#entrepreneur #motivation #millionaire #mindset #success #shorts",
+      "views": 528840,
+      "likes": 16000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.03,
+      "hashtags": [],
+      "duration": "00:00:09",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/HLwr-zV5erE"
+    },
+    {
+      "author": "LORE BALOS EXPLAINS",
+      "followers": 0,
+      "caption": "ONE RULE FOR SUCCESS -  Inspired By Jack Ma",
+      "views": 444866,
+      "likes": 9400,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.11,
+      "hashtags": [],
+      "duration": "00:08:49",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=1KzuVaPL1h8"
     },
     {
       "author": "PVM",
@@ -827,7 +1132,7 @@
       "engagement_rate": 2.67,
       "hashtags": [],
       "duration": "00:06:46",
-      "posted_date": "2024-10-27",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=kiwmnDSgIiY"
     },
     {
@@ -842,7 +1147,7 @@
       "engagement_rate": 3.62,
       "hashtags": [],
       "duration": "00:00:16",
-      "posted_date": "2025-10-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/AqF21ZpUB1M"
     },
     {
@@ -857,7 +1162,7 @@
       "engagement_rate": 1.86,
       "hashtags": [],
       "duration": "00:31:11",
-      "posted_date": "2024-10-13",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=o-pilyxebHo"
     },
     {
@@ -872,7 +1177,7 @@
       "engagement_rate": 3.78,
       "hashtags": [],
       "duration": "00:05:53",
-      "posted_date": "2025-05-10",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=aX0vDsrWtmA"
     },
     {
@@ -887,8 +1192,23 @@
       "engagement_rate": 3.07,
       "hashtags": [],
       "duration": "00:00:13",
-      "posted_date": "2025-10-09",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/1XIAeaTDBbE"
+    },
+    {
+      "author": "ANUP - GADZHI",
+      "followers": 0,
+      "caption": "DAVIE FOGARTY - A MULTI MILLIONAIRE   #motivation #success #trend #millionaire #1%",
+      "views": 241034,
+      "likes": 8100,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.36,
+      "hashtags": [],
+      "duration": "00:00:23",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/Kb57st_l_QI"
     },
     {
       "author": "DiscplineArc",
@@ -902,8 +1222,23 @@
       "engagement_rate": 5.89,
       "hashtags": [],
       "duration": "00:00:18",
-      "posted_date": "2026-01-31",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/K3K1_XzVfuw"
+    },
+    {
+      "author": "Business Motiversity",
+      "followers": 0,
+      "caption": "START INVESTING IN YOURSELF - Motivational Speech",
+      "views": 209331,
+      "likes": 4900,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.34,
+      "hashtags": [],
+      "duration": "00:00:24",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/WLHCrYwiRyA"
     },
     {
       "author": "GaryVee",
@@ -917,7 +1252,7 @@
       "engagement_rate": 2.63,
       "hashtags": [],
       "duration": "00:00:17",
-      "posted_date": "2023-08-23",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/8J6Cavi3Dmc"
     },
     {
@@ -932,8 +1267,23 @@
       "engagement_rate": 2.11,
       "hashtags": [],
       "duration": "00:30:48",
-      "posted_date": "2025-10-27",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=KZKwWKvyYio"
+    },
+    {
+      "author": "Business Motiversity",
+      "followers": 0,
+      "caption": "Hustler Mentality - Powerful Motivational Video for Success",
+      "views": 101944,
+      "likes": 2100,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.06,
+      "hashtags": [],
+      "duration": "00:09:41",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=nXSF5rEMLmA"
     },
     {
       "author": "Paradox _ Sizux !",
@@ -947,7 +1297,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:23",
-      "posted_date": "2026-04-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/pVhty_gQupE"
     },
     {
@@ -962,7 +1312,7 @@
       "engagement_rate": 5.13,
       "hashtags": [],
       "duration": "00:00:18",
-      "posted_date": "2026-02-20",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/1XXHQYlvJws"
     },
     {
@@ -977,7 +1327,7 @@
       "engagement_rate": 3.95,
       "hashtags": [],
       "duration": "00:00:15",
-      "posted_date": "2025-11-26",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/BIZxWVlo2g8"
     },
     {
@@ -992,7 +1342,7 @@
       "engagement_rate": 1.11,
       "hashtags": [],
       "duration": "00:00:07",
-      "posted_date": "2026-04-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/4-35hezMbpg"
     },
     {
@@ -1007,7 +1357,7 @@
       "engagement_rate": 1.47,
       "hashtags": [],
       "duration": "00:00:15",
-      "posted_date": "2025-09-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/pB0K1-qtsHg"
     },
     {
@@ -1022,7 +1372,7 @@
       "engagement_rate": 1.67,
       "hashtags": [],
       "duration": "00:00:05",
-      "posted_date": "2025-03-31",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/PIJscShtHlQ"
     },
     {
@@ -1037,8 +1387,23 @@
       "engagement_rate": 1.53,
       "hashtags": [],
       "duration": "02:52:35",
-      "posted_date": "2025-05-29",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=ag-TDa15OKg"
+    },
+    {
+      "author": "Ascendra ",
+      "followers": 0,
+      "caption": "The Hidden Cost of Earning #motivation #inspiration #mindset #quotes #billionaire #facts #shorts",
+      "views": 51100,
+      "likes": 650,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.27,
+      "hashtags": [],
+      "duration": "00:00:55",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/DUW7BKrsVvc"
     },
     {
       "author": "Rise Mentality",
@@ -1052,8 +1417,23 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:05",
-      "posted_date": "2026-04-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/tmf1u_RCd_I"
+    },
+    {
+      "author": "VINAOY GVK ",
+      "followers": 0,
+      "caption": "Poor to Rich Mindset #telugu #motivational #inspirational #inspiregoals #viral #millionaire #mindset",
+      "views": 40198,
+      "likes": 1500,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.73,
+      "hashtags": [],
+      "duration": "00:00:20",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/vcyOOP0A6sA"
     },
     {
       "author": "DEADLYMOTIVATER ",
@@ -1067,7 +1447,7 @@
       "engagement_rate": 0.45,
       "hashtags": [],
       "duration": "00:00:06",
-      "posted_date": "2025-08-02",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/EZy_4Cf5h00"
     },
     {
@@ -1082,7 +1462,7 @@
       "engagement_rate": 0.54,
       "hashtags": [],
       "duration": "00:00:06",
-      "posted_date": "2026-04-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/-k2ePLpmCt4"
     },
     {
@@ -1097,7 +1477,7 @@
       "engagement_rate": 3.05,
       "hashtags": [],
       "duration": "00:00:13",
-      "posted_date": "2025-05-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/tPXqyKUnqfE"
     },
     {
@@ -1112,7 +1492,7 @@
       "engagement_rate": 2.1,
       "hashtags": [],
       "duration": "00:00:26",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/dCmyvB4-7F4"
     },
     {
@@ -1127,8 +1507,53 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:06",
-      "posted_date": "2025-10-13",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/g-VooYsmzNQ"
+    },
+    {
+      "author": "Saamir Mithwani",
+      "followers": 0,
+      "caption": "Different Mindset #shorts #success #motivation #trending #fyp #saamirclipping",
+      "views": 25079,
+      "likes": 461,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.84,
+      "hashtags": [],
+      "duration": "00:00:12",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/kD418GtmlYE"
+    },
+    {
+      "author": "Saamir Clips",
+      "followers": 0,
+      "caption": "Different Mindset #shorts #success #motivation #trending #fyp #saamirclipping",
+      "views": 25066,
+      "likes": 433,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.73,
+      "hashtags": [],
+      "duration": "00:00:14",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/anWSyEz7i54"
+    },
+    {
+      "author": "Saamir Mithwani ",
+      "followers": 0,
+      "caption": "Millionaire at 21\ud83d\udc80\ud83d\udcaa#shorts #success #motivation #trending #fyp #saamirclipping",
+      "views": 24454,
+      "likes": 541,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.21,
+      "hashtags": [],
+      "duration": "00:00:13",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/n08dWAFdaB0"
     },
     {
       "author": "Distinctmindset2137",
@@ -1142,7 +1567,7 @@
       "engagement_rate": 3.3,
       "hashtags": [],
       "duration": "00:00:08",
-      "posted_date": "2025-06-22",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/ye2t8fG9EdI"
     },
     {
@@ -1157,7 +1582,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:15",
-      "posted_date": "2024-07-15",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/eniYGYb3Hbs"
     },
     {
@@ -1172,8 +1597,38 @@
       "engagement_rate": 6.65,
       "hashtags": [],
       "duration": "00:00:18",
-      "posted_date": "2026-02-08",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/PuV4vyt_rNw"
+    },
+    {
+      "author": "Saamir Mithwani",
+      "followers": 0,
+      "caption": "Money is Powerful \ud83d\udcb8#shorts #success #motivation #trending #fyp #saamirclipping",
+      "views": 22524,
+      "likes": 406,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.8,
+      "hashtags": [],
+      "duration": "00:00:14",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/FyypPfx_fXk"
+    },
+    {
+      "author": "Saamir Mithwani",
+      "followers": 0,
+      "caption": "We Own The Company #shorts #success #motivation #fyp #saamirclipping",
+      "views": 22458,
+      "likes": 781,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.48,
+      "hashtags": [],
+      "duration": "00:00:14",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/_TBpWJew2QA"
     },
     {
       "author": "DiscplineArc",
@@ -1187,7 +1642,7 @@
       "engagement_rate": 3.73,
       "hashtags": [],
       "duration": "00:00:24",
-      "posted_date": "2025-08-31",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/e24o68NPC7c"
     },
     {
@@ -1202,7 +1657,7 @@
       "engagement_rate": 3.45,
       "hashtags": [],
       "duration": "00:00:15",
-      "posted_date": "2025-09-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/mrzrePZHuuc"
     },
     {
@@ -1217,7 +1672,7 @@
       "engagement_rate": 6.56,
       "hashtags": [],
       "duration": "00:00:18",
-      "posted_date": "2026-04-03",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/JHPVutA20ks"
     },
     {
@@ -1232,8 +1687,38 @@
       "engagement_rate": 5.45,
       "hashtags": [],
       "duration": "00:00:21",
-      "posted_date": "2026-04-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/Cx7sHtt6lJY"
+    },
+    {
+      "author": "Saamir Mithwani ",
+      "followers": 0,
+      "caption": "Meanwhile My choice \ud83e\udd71\ud83d\udcaa#shorts #success #motivation #trending #fyp #saamirclipping",
+      "views": 18029,
+      "likes": 428,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.37,
+      "hashtags": [],
+      "duration": "00:00:17",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/RN9pWMGoxW0"
+    },
+    {
+      "author": "Saamir Mithwani Clips ",
+      "followers": 0,
+      "caption": "Only billionaires can \ud83d\ude0f\ud83d\ude09#shorts #success #motivation #trending #fyp #saamirclipping",
+      "views": 16692,
+      "likes": 232,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.39,
+      "hashtags": [],
+      "duration": "00:00:11",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/FAnfbicRjFo"
     },
     {
       "author": "GrzzEdit",
@@ -1247,8 +1732,23 @@
       "engagement_rate": 7.3,
       "hashtags": [],
       "duration": "00:00:20",
-      "posted_date": "2026-04-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/0CPONbRhLt0"
+    },
+    {
+      "author": "Saamir Mithwani ",
+      "followers": 0,
+      "caption": "Meanwhile me and you\ud83d\udcaa\ud83d\ude0f#shorts #success #motivation #trending #fyp #saamirclipping",
+      "views": 16242,
+      "likes": 487,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.0,
+      "hashtags": [],
+      "duration": "00:00:18",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/D17czZHHOLs"
     },
     {
       "author": "Rise Mentality",
@@ -1262,7 +1762,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:05",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/SnKqwFsSt40"
     },
     {
@@ -1277,7 +1777,7 @@
       "engagement_rate": 4.12,
       "hashtags": [],
       "duration": "00:00:15",
-      "posted_date": "2025-10-21",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/RbIXPtr0PJs"
     },
     {
@@ -1292,7 +1792,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:21",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/y2xoYADKZKY"
     },
     {
@@ -1307,7 +1807,7 @@
       "engagement_rate": 2.58,
       "hashtags": [],
       "duration": "00:00:13",
-      "posted_date": "2024-10-14",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/t_M6gC4I_GM"
     },
     {
@@ -1322,7 +1822,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:10",
-      "posted_date": "2025-01-08",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/uXHzRFkwfUU"
     },
     {
@@ -1337,8 +1837,23 @@
       "engagement_rate": 7.53,
       "hashtags": [],
       "duration": "00:00:38",
-      "posted_date": "2026-04-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/CFxeUOC880E"
+    },
+    {
+      "author": "BillionairTriumph",
+      "followers": 0,
+      "caption": "Read the caption\ud83d\ude80 #entrepreneur #motivation #mindset #escapethematrix #mentality #viral",
+      "views": 9270,
+      "likes": 204,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.2,
+      "hashtags": [],
+      "duration": "00:00:13",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/mPLCsKk3Szc"
     },
     {
       "author": "Sparc Radiant ",
@@ -1352,8 +1867,23 @@
       "engagement_rate": 14.23,
       "hashtags": [],
       "duration": "00:00:07",
-      "posted_date": "2025-03-03",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/ISKPNoGfjv8"
+    },
+    {
+      "author": "Iman Gadzhi Motivation",
+      "followers": 0,
+      "caption": "BECOMING AN ENTREPRENEUR - IMAN GADZHI (MOTIVATIONAL SPEECH)",
+      "views": 7795,
+      "likes": 120,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.54,
+      "hashtags": [],
+      "duration": "00:07:49",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=hMkPlXCBQ-0"
     },
     {
       "author": "ViralQuots",
@@ -1367,7 +1897,7 @@
       "engagement_rate": 4.04,
       "hashtags": [],
       "duration": "00:00:09",
-      "posted_date": "2024-04-18",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/T6Y91CXY77k"
     },
     {
@@ -1382,7 +1912,7 @@
       "engagement_rate": 5.72,
       "hashtags": [],
       "duration": "00:00:21",
-      "posted_date": "2024-03-27",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/_sHqoyYaz1k"
     },
     {
@@ -1397,7 +1927,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:15",
-      "posted_date": "2026-04-03",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/-KbcyIzHXzE"
     },
     {
@@ -1412,7 +1942,7 @@
       "engagement_rate": 5.03,
       "hashtags": [],
       "duration": "00:00:23",
-      "posted_date": "2026-04-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/cbLqTa7ofVo"
     },
     {
@@ -1427,8 +1957,23 @@
       "engagement_rate": 6.25,
       "hashtags": [],
       "duration": "00:00:19",
-      "posted_date": "2026-04-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/I8Vumg1Ux0U"
+    },
+    {
+      "author": "Saamir Mithwani",
+      "followers": 0,
+      "caption": "Different Mindset #shorts #success #motivation #trending #fyp #saamirclipping",
+      "views": 5816,
+      "likes": 375,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 6.45,
+      "hashtags": [],
+      "duration": "00:00:14",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/rb7z6CwtiX8"
     },
     {
       "author": "Rise & Talk",
@@ -1442,7 +1987,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:13",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/ba2PCIOgn6w"
     },
     {
@@ -1457,7 +2002,7 @@
       "engagement_rate": 2.16,
       "hashtags": [],
       "duration": "00:00:58",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/PMA5wsqqfPo"
     },
     {
@@ -1472,7 +2017,7 @@
       "engagement_rate": 6.34,
       "hashtags": [],
       "duration": "00:00:08",
-      "posted_date": "2024-03-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/0ofdHTvfZug"
     },
     {
@@ -1487,8 +2032,23 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:17",
-      "posted_date": "2026-04-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/oC4Q9cFAvKc"
+    },
+    {
+      "author": "Sradha Unscripted \ud83e\udee0",
+      "followers": 0,
+      "caption": "An aspirant\ud83c\udfaf #youtube #youtubeshorts #video #shortvideo #viral #trending #shorts #motivation #fyp\u30b7",
+      "views": 2403,
+      "likes": 109,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 4.54,
+      "hashtags": [],
+      "duration": "00:04:13",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=7DYaycx0CRQ"
     },
     {
       "author": "Dr Miri Georgiou",
@@ -1502,7 +2062,7 @@
       "engagement_rate": 9.15,
       "hashtags": [],
       "duration": "00:05:06",
-      "posted_date": "2024-06-16",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=mEIZC8dm9ss"
     },
     {
@@ -1517,7 +2077,7 @@
       "engagement_rate": 2.74,
       "hashtags": [],
       "duration": "00:00:53",
-      "posted_date": "2025-10-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=eP4_3xZz6-U"
     },
     {
@@ -1532,7 +2092,7 @@
       "engagement_rate": 1.32,
       "hashtags": [],
       "duration": "00:00:06",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/ELOOqE52XO8"
     },
     {
@@ -1547,8 +2107,38 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:20",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/Hg3npfpcbFc"
+    },
+    {
+      "author": "jyoti vlogs ",
+      "followers": 0,
+      "caption": "\u092e\u093e\u0901 \u092d\u0940 \u0938\u094d\u0924\u094d\u0930\u0940 \u0939\u0948\u0902 \u0914\u0930 \u0938\u093e\u0938 \u092d\u0940 \u0938\u094d\u0924\u094d\u0930\u0940 \u0939\u0948 \u092e\u093e\u0901 \u092c\u0947\u091f\u0940 \u0915\u093e \u0926\u0941\u0916 \u0928\u0939\u0940\u0902 \u0926\u0947\u0916 \u092a\u093e\u0924\u0940 \u0914\u0930 \u0938\u093e\u0938..\ud83e\udef5#motivational #ytshorts",
+      "views": 1204,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [],
+      "duration": "00:00:14",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=iMV7w0xygxg"
+    },
+    {
+      "author": "Words Before Dawn",
+      "followers": 0,
+      "caption": "If you're starting a company #shorts #motivation #quotes #youtubeshorts #viral #reels #mindset #fyp",
+      "views": 1074,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [],
+      "duration": "00:00:44",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/3RNDK4Bwqj4"
     },
     {
       "author": "Dervezz Mindset",
@@ -1562,7 +2152,7 @@
       "engagement_rate": 4.31,
       "hashtags": [],
       "duration": "00:00:15",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/CT2W78pLXUo"
     },
     {
@@ -1577,7 +2167,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:22",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/RD3-pPsmAfw"
     },
     {
@@ -1592,8 +2182,23 @@
       "engagement_rate": 5.43,
       "hashtags": [],
       "duration": "00:00:39",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/ZsRvvQkr5WY"
+    },
+    {
+      "author": "Saamir Mithwani Edits ",
+      "followers": 0,
+      "caption": "Became a billionaire \ud83e\udd71\ud83d\udcb8#shorts #success #motivation #trending #fyp #saamirclipping",
+      "views": 709,
+      "likes": 15,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.12,
+      "hashtags": [],
+      "duration": "00:00:13",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/xIuQo1Jc8wc"
     },
     {
       "author": "Mind Restart",
@@ -1607,7 +2212,7 @@
       "engagement_rate": 3.34,
       "hashtags": [],
       "duration": "00:00:05",
-      "posted_date": "2023-04-21",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/l-r-HSdRGqg"
     },
     {
@@ -1622,7 +2227,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:12",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/Rhd85agvEfk"
     },
     {
@@ -1637,8 +2242,23 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:02:11",
-      "posted_date": "2025-10-11",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=MQCaWE983jw"
+    },
+    {
+      "author": "Millionairementality",
+      "followers": 0,
+      "caption": "\ud83d\udfe2 why join wifi university\u2753\ud83d\udcda #entrepreneur #motivation #mindset #success #viral #wifimoney  #hustle",
+      "views": 7,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [],
+      "duration": "00:00:26",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=T8dWlmm6cco"
     },
     {
       "author": "RHMOTIVATION ",
@@ -1652,7 +2272,7 @@
       "engagement_rate": 33.33,
       "hashtags": [],
       "duration": "00:03:14",
-      "posted_date": "2023-07-26",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=9Eo0Nmsjrl4"
     },
     {
@@ -1667,7 +2287,7 @@
       "engagement_rate": 25.0,
       "hashtags": [],
       "duration": "00:01:21",
-      "posted_date": "2023-03-01",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=fWJCJRJ8O4U"
     },
     {
@@ -1682,7 +2302,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:02:20",
-      "posted_date": "2025-01-20",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=jkiJ-IQ7Mjc"
     },
     {
@@ -1697,7 +2317,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:01:03",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/9sVfG_pmTWY"
     },
     {
@@ -1712,7 +2332,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:10:08",
-      "posted_date": "2026-03-01",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=3I7wg7M3fn0"
     }
   ]

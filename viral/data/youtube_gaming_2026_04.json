@@ -4,21 +4,21 @@
   "month": "April",
   "year": 2026,
   "niche": "gaming",
-  "generated_at": "2026-04-09T02:49:35.025830",
-  "data_points_analyzed": 39,
-  "viral_posts_found": 39,
+  "generated_at": "2026-04-09T02:53:28.305892",
+  "data_points_analyzed": 37,
+  "viral_posts_found": 37,
   "hooks": [
     {
       "pattern": "Ultimate/Best of",
-      "example_count": 2,
-      "example": "I Got BEST FORTNITE CLIP Ever. \ud83d\ude2e"
+      "example_count": 1,
+      "example": "We found the BEST Fortnite montage..."
     }
   ],
   "best_times": [],
   "hashtags": [],
   "formats": [],
   "trending_sounds": [],
-  "insights": "39 YouTube videos. Avg 5,551,636 views.",
+  "insights": "37 videos. Avg 4,503,343 views.",
   "top_posts": [
     {
       "author": "Tonde Gamer",
@@ -32,23 +32,8 @@
       "engagement_rate": 5.11,
       "hashtags": [],
       "duration": "00:00:19",
-      "posted_date": "2023-05-22",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/Kcb7QDcmEHQ"
-    },
-    {
-      "author": "Full Squad Gaming",
-      "followers": 0,
-      "caption": "the RENDEZOOK reaction | Gaming Clip Hall of Fame",
-      "views": 46998229,
-      "likes": 2300000,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 4.89,
-      "hashtags": [],
-      "duration": "00:00:18",
-      "posted_date": "2021-08-10",
-      "url": "https://www.youtube.com/shorts/8pWNZm-uhVg"
     },
     {
       "author": "Carbon Gaming",
@@ -62,38 +47,8 @@
       "engagement_rate": 2.13,
       "hashtags": [],
       "duration": "00:00:14",
-      "posted_date": "2023-04-30",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/A9iN9Z2uaO0"
-    },
-    {
-      "author": "Pxlarized",
-      "followers": 0,
-      "caption": "I Got BEST FORTNITE CLIP Ever. \ud83d\ude2e",
-      "views": 5319456,
-      "likes": 173000,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 3.25,
-      "hashtags": [],
-      "duration": "00:00:12",
-      "posted_date": "2023-04-26",
-      "url": "https://www.youtube.com/shorts/n5N2-2I3u8M"
-    },
-    {
-      "author": "TV Vlog",
-      "followers": 0,
-      "caption": "fortnite clips on #shorts #youtube #youtubeshorts #fortnite",
-      "views": 4544089,
-      "likes": 107000,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 2.35,
-      "hashtags": [],
-      "duration": "00:00:09",
-      "posted_date": "2021-08-04",
-      "url": "https://www.youtube.com/shorts/RNs129oykJg"
     },
     {
       "author": "RuPaul's Drag Race",
@@ -107,8 +62,23 @@
       "engagement_rate": 1.43,
       "hashtags": [],
       "duration": "00:33:32",
-      "posted_date": "2021-12-18",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=V6ZMh9bJ_nQ"
+    },
+    {
+      "author": "Astro",
+      "followers": 0,
+      "caption": "grox #grox #fyp #viral #minecraft #cod #callofduty #tf2 #roblox #freefire #apexlegends #usa #uk",
+      "views": 4009381,
+      "likes": 66000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.65,
+      "hashtags": [],
+      "duration": "00:00:11",
+      "posted_date": "",
+      "url": "https://www.youtube.com/shorts/U8-PuElevtg"
     },
     {
       "author": "Arsh",
@@ -122,8 +92,23 @@
       "engagement_rate": 2.85,
       "hashtags": [],
       "duration": "00:00:25",
-      "posted_date": "2023-02-14",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/I_G7wQkStMk"
+    },
+    {
+      "author": "Fireship",
+      "followers": 0,
+      "caption": "Tragic mistake... Anthropic leaks Claude\u2019s source code",
+      "views": 2964023,
+      "likes": 96000,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.24,
+      "hashtags": [],
+      "duration": "00:07:22",
+      "posted_date": "",
+      "url": "https://www.youtube.com/watch?v=mBHRPeg8zPU"
     },
     {
       "author": "Saturday Night Live",
@@ -137,7 +122,7 @@
       "engagement_rate": 1.26,
       "hashtags": [],
       "duration": "00:05:58",
-      "posted_date": "2026-04-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=tUUYzk1ejA0"
     },
     {
@@ -152,7 +137,7 @@
       "engagement_rate": 2.3,
       "hashtags": [],
       "duration": "00:00:20",
-      "posted_date": "2023-06-25",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/_Mc6GGP02Fk"
     },
     {
@@ -167,7 +152,7 @@
       "engagement_rate": 3.16,
       "hashtags": [],
       "duration": "00:00:09",
-      "posted_date": "2022-07-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/k2KmLc2l_es"
     },
     {
@@ -182,7 +167,7 @@
       "engagement_rate": 4.39,
       "hashtags": [],
       "duration": "00:00:52",
-      "posted_date": "2025-08-25",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/MXhnOgcgfjE"
     },
     {
@@ -197,7 +182,7 @@
       "engagement_rate": 3.29,
       "hashtags": [],
       "duration": "00:00:18",
-      "posted_date": "2023-01-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/PzAmUnyEJW0"
     },
     {
@@ -212,7 +197,7 @@
       "engagement_rate": 0.73,
       "hashtags": [],
       "duration": "00:00:14",
-      "posted_date": "2024-05-28",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/ogKdYUnNwTc"
     },
     {
@@ -227,7 +212,7 @@
       "engagement_rate": 0.9,
       "hashtags": [],
       "duration": "00:09:59",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=MgUy_T98_s8"
     },
     {
@@ -242,7 +227,7 @@
       "engagement_rate": 3.24,
       "hashtags": [],
       "duration": "00:00:18",
-      "posted_date": "2021-10-01",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/aEMcgvvF7IE"
     },
     {
@@ -257,7 +242,7 @@
       "engagement_rate": 6.17,
       "hashtags": [],
       "duration": "00:06:58",
-      "posted_date": "2020-05-25",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=57azbqwdcqM"
     },
     {
@@ -272,7 +257,7 @@
       "engagement_rate": 0.79,
       "hashtags": [],
       "duration": "00:09:59",
-      "posted_date": "2026-04-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=BxV-H9T5l3I"
     },
     {
@@ -287,7 +272,7 @@
       "engagement_rate": 0.94,
       "hashtags": [],
       "duration": "00:10:00",
-      "posted_date": "2026-04-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=1dazllbl_tE"
     },
     {
@@ -302,7 +287,7 @@
       "engagement_rate": 0.9,
       "hashtags": [],
       "duration": "00:09:59",
-      "posted_date": "2026-04-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=1O4Hex3JDoE"
     },
     {
@@ -317,7 +302,7 @@
       "engagement_rate": 4.84,
       "hashtags": [],
       "duration": "00:00:13",
-      "posted_date": "2026-04-02",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/wSV4SoXQhgw"
     },
     {
@@ -332,7 +317,7 @@
       "engagement_rate": 0.81,
       "hashtags": [],
       "duration": "00:09:59",
-      "posted_date": "2026-04-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=lnbUF7nzaCQ"
     },
     {
@@ -347,7 +332,7 @@
       "engagement_rate": 0.8,
       "hashtags": [],
       "duration": "00:09:59",
-      "posted_date": "2026-04-04",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=KhTEcYpNaf4"
     },
     {
@@ -362,7 +347,7 @@
       "engagement_rate": 1.24,
       "hashtags": [],
       "duration": "00:09:59",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=LLMj5_sp7Xk"
     },
     {
@@ -377,7 +362,7 @@
       "engagement_rate": 0.29,
       "hashtags": [],
       "duration": "00:00:05",
-      "posted_date": "2026-04-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/I_DyznnTRWQ"
     },
     {
@@ -392,7 +377,7 @@
       "engagement_rate": 0.85,
       "hashtags": [],
       "duration": "00:09:59",
-      "posted_date": "2026-04-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=3ZSVsEJ4u9M"
     },
     {
@@ -407,7 +392,7 @@
       "engagement_rate": 0.8,
       "hashtags": [],
       "duration": "00:09:59",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=sRNLx4jDz28"
     },
     {
@@ -422,7 +407,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:16",
-      "posted_date": "2026-04-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/YDg8dvhUAmM"
     },
     {
@@ -437,7 +422,7 @@
       "engagement_rate": 0.41,
       "hashtags": [],
       "duration": "00:00:21",
-      "posted_date": "2026-04-05",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/IvfnEZk0KxI"
     },
     {
@@ -452,7 +437,7 @@
       "engagement_rate": 0.47,
       "hashtags": [],
       "duration": "00:00:18",
-      "posted_date": "2026-04-03",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/nKxtLeQEs0I"
     },
     {
@@ -467,23 +452,8 @@
       "engagement_rate": 0.59,
       "hashtags": [],
       "duration": "00:00:12",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/-NrJ8GTNsI0"
-    },
-    {
-      "author": "BigJ_Gaming",
-      "followers": 0,
-      "caption": "#ytshorts #csgo #fps #counterstrike #wtfcsgo #reels #gaming #cs2 #yt #video #clips",
-      "views": 1744,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [],
-      "duration": "00:00:18",
-      "posted_date": "2026-04-07",
-      "url": "https://www.youtube.com/shorts/Hu8hZHYkzWc"
     },
     {
       "author": "Gaming (CT)",
@@ -497,7 +467,7 @@
       "engagement_rate": 1.14,
       "hashtags": [],
       "duration": "00:00:15",
-      "posted_date": "2026-04-06",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/e5Y9huflS8k"
     },
     {
@@ -512,7 +482,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:01:55",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=DE4DGExJG0s"
     },
     {
@@ -527,7 +497,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:19",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/7kuM7l8L930"
     },
     {
@@ -542,7 +512,7 @@
       "engagement_rate": 0.0,
       "hashtags": [],
       "duration": "00:00:24",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/o1IeaoTdQlg"
     },
     {
@@ -557,7 +527,7 @@
       "engagement_rate": 0.3,
       "hashtags": [],
       "duration": "00:01:43",
-      "posted_date": "2026-04-07",
+      "posted_date": "",
       "url": "https://www.youtube.com/shorts/OXkKpEZNYQM"
     },
     {
@@ -572,7 +542,7 @@
       "engagement_rate": 7.55,
       "hashtags": [],
       "duration": "00:02:31",
-      "posted_date": "2026-03-10",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=gl8RzDtdeIc"
     },
     {
@@ -587,7 +557,7 @@
       "engagement_rate": 8.33,
       "hashtags": [],
       "duration": "00:03:50",
-      "posted_date": "2026-03-15",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=U8W3UTgIK8E"
     },
     {
@@ -602,7 +572,7 @@
       "engagement_rate": 27.78,
       "hashtags": [],
       "duration": "00:03:17",
-      "posted_date": "2026-03-11",
+      "posted_date": "",
       "url": "https://www.youtube.com/watch?v=ifkUjy9eaA4"
     }
   ]
