@@ -4,272 +4,1924 @@
   "month": "April",
   "year": 2026,
   "niche": "fitness",
-  "generated_at": "2026-04-07T03:51:44.261262",
-  "data_points_analyzed": 1050,
-  "viral_posts_found": 1045,
-  "hooks": [],
-  "best_times": [
+  "generated_at": "2026-04-09T01:56:28.407143",
+  "data_points_analyzed": 100,
+  "viral_posts_found": 99,
+  "hooks": [
     {
-      "day": "Monday",
-      "time": "Peak",
-      "engagement_avg": 12.0,
-      "sample_size": 185
-    },
+      "pattern": "If you",
+      "example_count": 1,
+      "example": "If you put up with the rhythm, join the link in my bio \ud83d\udeb4\ud83d\ude09"
+    }
+  ],
+  "best_times": [
     {
       "day": "Tuesday",
       "time": "Peak",
-      "engagement_avg": 11.5,
-      "sample_size": 150
-    },
-    {
-      "day": "Sunday",
-      "time": "Peak",
-      "engagement_avg": 10.8,
-      "sample_size": 151
+      "engagement_avg": 12.2,
+      "sample_size": 24
     },
     {
       "day": "Saturday",
       "time": "Peak",
-      "engagement_avg": 10.4,
-      "sample_size": 127
+      "engagement_avg": 11.9,
+      "sample_size": 10
     },
     {
-      "day": "Friday",
+      "day": "Sunday",
       "time": "Peak",
-      "engagement_avg": 10.3,
-      "sample_size": 134
+      "engagement_avg": 11.9,
+      "sample_size": 14
     },
     {
       "day": "Thursday",
       "time": "Peak",
-      "engagement_avg": 10.1,
-      "sample_size": 139
+      "engagement_avg": 11.7,
+      "sample_size": 16
+    },
+    {
+      "day": "Monday",
+      "time": "Peak",
+      "engagement_avg": 10.6,
+      "sample_size": 14
+    },
+    {
+      "day": "Friday",
+      "time": "Peak",
+      "engagement_avg": 10.2,
+      "sample_size": 10
     },
     {
       "day": "Wednesday",
       "time": "Peak",
-      "engagement_avg": 9.9,
-      "sample_size": 159
+      "engagement_avg": 10.2,
+      "sample_size": 11
     }
   ],
   "hashtags": [
     {
       "tag": "#gymtok",
-      "usage_count": 595,
-      "avg_views": 3759287
+      "usage_count": 91
     },
     {
       "tag": "#gym",
-      "usage_count": 386,
-      "avg_views": 4532536
+      "usage_count": 43
     },
     {
       "tag": "#fyp",
-      "usage_count": 332,
-      "avg_views": 4534552
-    },
-    {
-      "tag": "#fitness",
-      "usage_count": 247,
-      "avg_views": 5530225
+      "usage_count": 35
     },
     {
       "tag": "#gymmotivation",
-      "usage_count": 163,
-      "avg_views": 4625722
+      "usage_count": 17
     },
     {
-      "tag": "#workout",
-      "usage_count": 155,
-      "avg_views": 5110873
-    },
-    {
-      "tag": "#gymgirl",
-      "usage_count": 75,
-      "avg_views": 1713158
-    },
-    {
-      "tag": "#motivation",
-      "usage_count": 69,
-      "avg_views": 4446813
-    },
-    {
-      "tag": "#bodybuilding",
-      "usage_count": 67,
-      "avg_views": 4707798
-    },
-    {
-      "tag": "#foryou",
-      "usage_count": 62,
-      "avg_views": 3890965
-    },
-    {
-      "tag": "#fittok",
-      "usage_count": 59,
-      "avg_views": 4277408
-    },
-    {
-      "tag": "#fitnesstiktok",
-      "usage_count": 48,
-      "avg_views": 903820
-    },
-    {
-      "tag": "#viral",
-      "usage_count": 47,
-      "avg_views": 4219949
-    },
-    {
-      "tag": "#gymlife",
-      "usage_count": 43,
-      "avg_views": 3743500
-    },
-    {
-      "tag": "#foryoupage",
-      "usage_count": 41,
-      "avg_views": 5709304
-    },
-    {
-      "tag": "#gymhumor",
-      "usage_count": 40,
-      "avg_views": 2233110
-    },
-    {
-      "tag": "#fitnesstips",
-      "usage_count": 40,
-      "avg_views": 7446928
-    },
-    {
-      "tag": "#abs",
-      "usage_count": 38,
-      "avg_views": 12238265
-    },
-    {
-      "tag": "#fyp\u30b7",
-      "usage_count": 34,
-      "avg_views": 5435739
-    },
-    {
-      "tag": "#homeworkout",
-      "usage_count": 32,
-      "avg_views": 8277064
-    },
-    {
-      "tag": "#fitnessmotivation",
-      "usage_count": 30,
-      "avg_views": 2612780
-    },
-    {
-      "tag": "#gymtips",
-      "usage_count": 25,
-      "avg_views": 3091309
-    },
-    {
-      "tag": "#trending",
-      "usage_count": 23,
-      "avg_views": 4230043
-    },
-    {
-      "tag": "#girlswholift",
-      "usage_count": 22,
-      "avg_views": 11512146
-    },
-    {
-      "tag": "#relatable",
-      "usage_count": 21,
-      "avg_views": 3248916
-    }
-  ],
-  "formats": [
-    {
-      "name": "Story / narrative",
-      "avg_engagement": 11.2,
-      "post_count": 17
-    },
-    {
-      "name": "Before/after",
-      "avg_engagement": 11.2,
-      "post_count": 47
-    },
-    {
-      "name": "Challenge / trend",
-      "avg_engagement": 10.8,
-      "post_count": 51
-    },
-    {
-      "name": "Educational / tips",
-      "avg_engagement": 10.1,
-      "post_count": 108
-    },
-    {
-      "name": "Review / recommendation",
-      "avg_engagement": 9.7,
-      "post_count": 9
-    },
-    {
-      "name": "Question / engagement",
-      "avg_engagement": 8.9,
-      "post_count": 21
-    },
-    {
-      "name": "Hot take / opinion",
-      "avg_engagement": 8.1,
-      "post_count": 4
-    }
-  ],
-  "trending_sounds": [
-    {
-      "name": "original sound",
-      "usage_count": 426
-    },
-    {
-      "name": "sonido original",
-      "usage_count": 24
-    },
-    {
-      "name": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0432\u0443\u043a",
-      "usage_count": 23
-    },
-    {
-      "name": "som original",
-      "usage_count": 22
-    },
-    {
-      "name": "Originalton",
-      "usage_count": 15
-    },
-    {
-      "name": "son original",
-      "usage_count": 12
-    },
-    {
-      "name": "Zombie - Extended Mix",
+      "tag": "#fitness",
       "usage_count": 9
     },
     {
-      "name": "AURA",
+      "tag": "#fittok",
+      "usage_count": 7
+    },
+    {
+      "tag": "#motivation",
+      "usage_count": 7
+    },
+    {
+      "tag": "#gymhumor",
       "usage_count": 6
     },
     {
-      "name": "suono originale",
+      "tag": "#workout",
+      "usage_count": 6
+    },
+    {
+      "tag": "#foryou",
       "usage_count": 5
     },
     {
-      "name": "Nothing Can Be Explained",
+      "tag": "#bodybuilding",
       "usage_count": 5
+    },
+    {
+      "tag": "#gymtips",
+      "usage_count": 5
+    },
+    {
+      "tag": "#gymgirl",
+      "usage_count": 5
+    },
+    {
+      "tag": "#girlswholift",
+      "usage_count": 4
+    },
+    {
+      "tag": "#fyp\u30b7",
+      "usage_count": 4
+    },
+    {
+      "tag": "#legday",
+      "usage_count": 4
+    },
+    {
+      "tag": "#bigdawg",
+      "usage_count": 4
+    },
+    {
+      "tag": "#gymtime",
+      "usage_count": 4
+    },
+    {
+      "tag": "#dwefit",
+      "usage_count": 4
+    },
+    {
+      "tag": "#viral",
+      "usage_count": 4
+    },
+    {
+      "tag": "#foryoupage",
+      "usage_count": 3
+    },
+    {
+      "tag": "#gymlife",
+      "usage_count": 3
+    },
+    {
+      "tag": "#djsalmoney",
+      "usage_count": 3
+    },
+    {
+      "tag": "#biceps",
+      "usage_count": 3
+    },
+    {
+      "tag": "#natty",
+      "usage_count": 3
     }
   ],
-  "insights": "Story / narrative content leads with 11.2% avg engagement. Avg engagement: 10.8%. Top: 41.2%. 1045 posts analyzed.",
+  "formats": [],
+  "trending_sounds": [],
+  "insights": "99 posts analyzed. Avg 2,867,134 views.",
   "top_posts": [
     {
+      "author": "@kaelalaws",
+      "followers": 72700,
+      "caption": "Like gworl what- \n\n#gymtok #gyminteractions #weirdgyminteractions #girlswholift #thatgirl #publicgyms #gymencounters #gymencounter #publicgymproblems ",
+      "views": 32400000,
+      "likes": 3700000,
+      "comments": 0,
+      "shares": 77000,
+      "saves": 167250,
+      "engagement_rate": 12.17,
+      "hashtags": [
+        "#gymtok",
+        "#gyminteractions",
+        "#weirdgyminteractions",
+        "#girlswholift",
+        "#thatgirl",
+        "#publicgyms",
+        "#gymencounters",
+        "#gymencounter"
+      ],
+      "posted_date": "2023-04-29",
+      "url": "https://www.tiktok.com/@kaelalaws/video/7227565118689643781"
+    },
+    {
+      "author": "@alicheeser",
+      "followers": 1900000,
+      "caption": "Did She Say Cardio? \ud83d\ude33\ud83d\udeab #fyp #prank #fyp\u30b7 #foryoupage #gymtok #fitness #lol ",
+      "views": 21700000,
+      "likes": 1900000,
+      "comments": 4019,
+      "shares": 26400,
+      "saves": 157688,
+      "engagement_rate": 9.62,
+      "hashtags": [
+        "#fyp",
+        "#prank",
+        "#fyp\u30b7",
+        "#foryoupage",
+        "#gymtok",
+        "#fitness",
+        "#lol"
+      ],
+      "posted_date": "2024-12-20",
+      "url": "https://www.tiktok.com/@alicheeser/video/7450628530603298079"
+    },
+    {
+      "author": "@ana.fitness.vsg",
+      "followers": 590600,
+      "caption": "\ud83e\udd72 I just want to be normal! I never want to feel again like I'm in the way, worrying about if i will fit in a booth, in a seat, or just in this world! I DONT WANT MY WEIGHT TO DEFINE MY WORTH ANYMORE ",
+      "views": 15500000,
+      "likes": 2100000,
+      "comments": 16400,
+      "shares": 6321,
+      "saves": 51972,
+      "engagement_rate": 14.03,
+      "hashtags": [
+        "#fyp",
+        "#weightloss",
+        "#selflove",
+        "#vsg",
+        "#wls",
+        "#weightlossmotivation",
+        "#gym",
+        "#gymtok"
+      ],
+      "posted_date": "2022-06-24",
+      "url": "https://www.tiktok.com/@ana.fitness.vsg/video/7112878731378593070"
+    },
+    {
+      "author": "@thuhoaigymer",
+      "followers": 204700,
+      "caption": "g\u00e1i t\u00e2p gym eo thon d\u00e1ng \u0111\u1eb9p \u0111\u00f4ng l\u01b0c m\u1ed7i ng\u00e0y #gymlife #gymtok #gymrat #gymmotivation ",
+      "views": 13400000,
+      "likes": 535300,
+      "comments": 4549,
+      "shares": 122900,
+      "saves": 48847,
+      "engagement_rate": 5.31,
+      "hashtags": [
+        "#gymlife",
+        "#gymtok",
+        "#gymrat",
+        "#gymmotivation"
+      ],
+      "posted_date": "2026-01-26",
+      "url": "https://www.tiktok.com/@thuhoaigymer/video/7599643662464634130"
+    },
+    {
+      "author": "@sarahmoffa",
+      "followers": 59500,
+      "caption": "caught this while recording today. i was just minding my own business, personally id rather be doing too much than not enough.. thank you very much\ud83e\udd72\ud83d\udc95 #gymcommunity #caught #caughtoncamera #gymcomedy #",
+      "views": 9700000,
+      "likes": 579800,
+      "comments": 8127,
+      "shares": 3357,
+      "saves": 13450,
+      "engagement_rate": 6.23,
+      "hashtags": [
+        "#gymcommunity",
+        "#caught",
+        "#caughtoncamera",
+        "#gymcomedy",
+        "#gymcamera",
+        "#mindingmyownbusiness",
+        "#theaudacity",
+        "#gymhumor"
+      ],
+      "posted_date": "2023-08-18",
+      "url": "https://www.tiktok.com/@sarahmoffa/video/7268732251062471978"
+    },
+    {
+      "author": "@bellaanya",
+      "followers": 309900,
+      "caption": "For my gym anxiety gals #fyp #workout #squats #squat #squatrack #squatracktips #greenscreenvideo #greenscreen #gymgirls #gymtok",
+      "views": 9000000,
+      "likes": 1100000,
+      "comments": 1013,
+      "shares": 1113,
+      "saves": 73217,
+      "engagement_rate": 13.06,
+      "hashtags": [
+        "#fyp",
+        "#workout",
+        "#squats",
+        "#squat",
+        "#squatrack",
+        "#squatracktips",
+        "#greenscreenvideo",
+        "#greenscreen"
+      ],
+      "posted_date": "2022-06-21",
+      "url": "https://www.tiktok.com/@bellaanya/video/7111798235991264558"
+    },
+    {
+      "author": "@drdavidabbasi",
+      "followers": 468400,
+      "caption": "#gym #gymtok #clean #squat #medicaltiktok ",
+      "views": 8900000,
+      "likes": 192000,
+      "comments": 1294,
+      "shares": 3583,
+      "saves": 16043,
+      "engagement_rate": 2.39,
+      "hashtags": [
+        "#gym",
+        "#gymtok",
+        "#clean",
+        "#squat",
+        "#medicaltiktok"
+      ],
+      "posted_date": "2023-05-22",
+      "url": "https://www.tiktok.com/@drdavidabbasi/video/7236099423976066346"
+    },
+    {
+      "author": "@ag_crissy",
+      "followers": 54400,
+      "caption": "only 4 more days \ud83e\udd79 the fact that I could get even one of you guys to join me in this challenge means the world, I appreciate all y\u2019all! #fittok #fitchallenge #fitcheckchallenge #fitcheck #fitnesschall",
+      "views": 8700000,
+      "likes": 745200,
+      "comments": 827,
+      "shares": 16500,
+      "saves": 144140,
+      "engagement_rate": 10.42,
+      "hashtags": [
+        "#fittok",
+        "#fitchallenge",
+        "#fitcheckchallenge",
+        "#fitcheck",
+        "#fitnesschallenge",
+        "#fitness",
+        "#challenge",
+        "#challenges"
+      ],
+      "posted_date": "2022-06-10",
+      "url": "https://www.tiktok.com/@ag_crissy/video/7107407359856643370"
+    },
+    {
+      "author": "@thejoeyswoll",
+      "followers": 8000000,
+      "caption": "\u201cIt\u2019s not a bump, it\u2019s a blessing.\u201d A reminder to women that your bodies are beautiful and literally a miracle. #gymtok #gym #fyp @Lils ",
+      "views": 8400000,
+      "likes": 817200,
+      "comments": 2377,
+      "shares": 36200,
+      "saves": 60933,
+      "engagement_rate": 10.91,
+      "hashtags": [
+        "#gymtok",
+        "#gym",
+        "#fyp",
+        "#"
+      ],
+      "posted_date": "2025-10-18",
+      "url": "https://www.tiktok.com/@thejoeyswoll/video/7562715402166406431"
+    },
+    {
+      "author": "@ajmassive",
+      "followers": 49000,
+      "caption": "Try this out. #backpain #backpainrelief #healthadepopit #fyp #trending #gymtok",
+      "views": 8200000,
+      "likes": 799100,
+      "comments": 3438,
+      "shares": 20600,
+      "saves": 158258,
+      "engagement_rate": 11.97,
+      "hashtags": [
+        "#backpain",
+        "#backpainrelief",
+        "#healthadepopit",
+        "#fyp",
+        "#trending",
+        "#gymtok"
+      ],
+      "posted_date": "2022-06-29",
+      "url": "https://www.tiktok.com/@ajmassive/video/7114510152757153067"
+    },
+    {
+      "author": "@djsalmoney",
+      "followers": 460500,
+      "caption": "\u201cPicking the CHEST UP!\u201d \u270d\ud83c\udffd\ud83d\udd25 #foryou #fyp #fyp\u30b7 #gymtok #bodybuilding #gains #djsalmoney #chestday #pecfly #gymtips #fitnesstips #fittok #weightlifting #lifting #weightloss #weightlosstips #gymtips #fi",
+      "views": 8000000,
+      "likes": 868300,
+      "comments": 1501,
+      "shares": 6203,
+      "saves": 104801,
+      "engagement_rate": 12.26,
+      "hashtags": [
+        "#foryou",
+        "#fyp",
+        "#fyp\u30b7",
+        "#gymtok",
+        "#bodybuilding",
+        "#gains",
+        "#djsalmoney",
+        "#chestday"
+      ],
+      "posted_date": "2022-06-23",
+      "url": "https://www.tiktok.com/@djsalmoney/video/7112525560626171182"
+    },
+    {
+      "author": "@brittanycatesfitness",
+      "followers": 451600,
+      "caption": "\ud83d\udc09\ud83d\udc09 #gymtok #fittokkk #pistolsquat #dragonsquat #ninjamode",
+      "views": 6800000,
+      "likes": 751100,
+      "comments": 5519,
+      "shares": 17300,
+      "saves": 31719,
+      "engagement_rate": 11.85,
+      "hashtags": [
+        "#gymtok",
+        "#fittokkk",
+        "#pistolsquat",
+        "#dragonsquat",
+        "#ninjamode"
+      ],
+      "posted_date": "2022-06-10",
+      "url": "https://www.tiktok.com/@brittanycatesfitness/video/7107610906812550442"
+    },
+    {
+      "author": "@djsalmoney",
+      "followers": 460500,
+      "caption": "\u201cGet the chest over the bar, FIRST!\u201d \u270d\ud83c\udffd\ud83d\udd25 #foryou #fyp #gymtok #djsalmoney #gymtips #bodybuilding #fit #fittok #weightloss #gymtips #fitnesstips #fit #gains #sandiego #triceps #benchpress #tricepsworko",
+      "views": 6400000,
+      "likes": 745200,
+      "comments": 1627,
+      "shares": 6261,
+      "saves": 87597,
+      "engagement_rate": 13.14,
+      "hashtags": [
+        "#foryou",
+        "#fyp",
+        "#gymtok",
+        "#djsalmoney",
+        "#gymtips",
+        "#bodybuilding",
+        "#fit",
+        "#fittok"
+      ],
+      "posted_date": "2022-06-08",
+      "url": "https://www.tiktok.com/@djsalmoney/video/7106994279339380014"
+    },
+    {
+      "author": "@zena_wwe",
+      "followers": 122500,
+      "caption": "That\u2019s how they grow. SET: @aybl  #quads #legday #legs #quadzilla #fyp #foryoupage #foryou #fyp\u30b7 #gym #gymtok #gymlife #fitness #fittok #workout #health #gymrat #gymotivation #strongwomen #fitcheck #g",
+      "views": 6200000,
+      "likes": 684100,
+      "comments": 3029,
+      "shares": 5191,
+      "saves": 32102,
+      "engagement_rate": 11.68,
+      "hashtags": [
+        "#",
+        "#quads",
+        "#legday",
+        "#legs",
+        "#quadzilla",
+        "#fyp",
+        "#foryoupage",
+        "#foryou"
+      ],
+      "posted_date": "2022-06-09",
+      "url": "https://www.tiktok.com/@zena_wwe/video/7107227793301245230"
+    },
+    {
+      "author": "@taylorhereid",
+      "followers": 289100,
+      "caption": "She provides instant motivation #fyp #gym #gymmemes #gymcouple #fitnessmeme #fitcouple #gymtok #fittok",
+      "views": 5900000,
+      "likes": 1100000,
+      "comments": 2347,
+      "shares": 16400,
+      "saves": 42788,
+      "engagement_rate": 19.69,
+      "hashtags": [
+        "#fyp",
+        "#gym",
+        "#gymmemes",
+        "#gymcouple",
+        "#fitnessmeme",
+        "#fitcouple",
+        "#gymtok",
+        "#fittok"
+      ],
+      "posted_date": "2022-07-04",
+      "url": "https://www.tiktok.com/@taylorhereid/video/7116633293336137006"
+    },
+    {
+      "author": "@__byjohn",
+      "followers": 106400,
+      "caption": "BULGARIAN SPLIT SQUAT (hack) #bulgariansplitsquat #bulgariansplitsquathack #bulgariansplitsquattips #glutes #lunges #legworkouts #fitness #gymtok #fittok #foryou #viral",
+      "views": 5100000,
+      "likes": 579900,
+      "comments": 3246,
+      "shares": 12100,
+      "saves": 93046,
+      "engagement_rate": 13.5,
+      "hashtags": [
+        "#bulgariansplitsquat",
+        "#bulgariansplitsquathack",
+        "#bulgariansplitsquattips",
+        "#glutes",
+        "#lunges",
+        "#legworkouts",
+        "#fitness",
+        "#gymtok"
+      ],
+      "posted_date": "2022-06-11",
+      "url": "https://www.tiktok.com/@__byjohn/video/7108007908150988075"
+    },
+    {
+      "author": "@nutritionbabe",
+      "followers": 2000000,
+      "caption": "Food i would never buy as a #dietiitan  have high standards #nutrition #fitness #fit #fittok #gym #gymtok #tips #viral",
+      "views": 5100000,
+      "likes": 601000,
+      "comments": 997,
+      "shares": 2560,
+      "saves": 7486,
+      "engagement_rate": 12.0,
+      "hashtags": [
+        "#dietiitan",
+        "#nutrition",
+        "#fitness",
+        "#fit",
+        "#fittok",
+        "#gym",
+        "#gymtok",
+        "#tips"
+      ],
+      "posted_date": "2022-06-26",
+      "url": "https://www.tiktok.com/@nutritionbabe/video/7113656665492294955"
+    },
+    {
+      "author": "@djsalmoney",
+      "followers": 460500,
+      "caption": "\u201cShoulders relaxed, Ribs crushed, CURL!\u201d \u270d\ud83c\udffd\ud83d\udd25 #fyp #foryou #fyp\u30b7 #gymtok #bodybuilding #gains #djsalmoney #biceps #gymtips #curls #hammercurls #sandiego #weightloss #weightlosstips #fit #fittok #biceps",
+      "views": 5100000,
+      "likes": 481700,
+      "comments": 1031,
+      "shares": 1923,
+      "saves": 35351,
+      "engagement_rate": 10.2,
+      "hashtags": [
+        "#fyp",
+        "#foryou",
+        "#fyp\u30b7",
+        "#gymtok",
+        "#bodybuilding",
+        "#gains",
+        "#djsalmoney",
+        "#biceps"
+      ],
+      "posted_date": "2022-06-14",
+      "url": "https://www.tiktok.com/@djsalmoney/video/7109172700102364458"
+    },
+    {
+      "author": "@wiilliamli",
+      "followers": 3600000,
+      "caption": "LEARNED THIS FROM @Chris Bumstead #workout #tip #gym #lifting #workouts #gymtok #gymtips #shoulders #shoulderworkout #delts #lateralraise #workoutmotivation ",
+      "views": 5000000,
+      "likes": 446600,
+      "comments": 762,
+      "shares": 4461,
+      "saves": 53552,
+      "engagement_rate": 10.11,
+      "hashtags": [
+        "#",
+        "#workout",
+        "#tip",
+        "#gym",
+        "#lifting",
+        "#workouts",
+        "#gymtok",
+        "#gymtips"
+      ],
+      "posted_date": "2022-11-10",
+      "url": "https://www.tiktok.com/@wiilliamli/video/7164535317066829062"
+    },
+    {
+      "author": "@k3vin.b37",
+      "followers": 154200,
+      "caption": "@Gymshark code KVN10 #08 #gym #gymtok ",
+      "views": 4900000,
+      "likes": 723800,
+      "comments": 2686,
+      "shares": 119400,
+      "saves": 64382,
+      "engagement_rate": 18.58,
+      "hashtags": [
+        "#",
+        "#08",
+        "#gym",
+        "#gymtok"
+      ],
+      "posted_date": "2026-03-03",
+      "url": "https://www.tiktok.com/@k3vin.b37/video/7613111621401234710"
+    },
+    {
+      "author": "@tdensss",
+      "followers": 24700,
+      "caption": "This audio makes me feel like I could run through a brick wall \n\n#gymtok #gymmotivation #stairmaster ",
+      "views": 4300000,
+      "likes": 559900,
+      "comments": 2086,
+      "shares": 18900,
+      "saves": 109585,
+      "engagement_rate": 16.06,
+      "hashtags": [
+        "#gymtok",
+        "#gymmotivation",
+        "#stairmaster"
+      ],
+      "posted_date": "2025-02-04",
+      "url": "https://www.tiktok.com/@tdensss/video/7467436829042543902"
+    },
+    {
+      "author": "@60scilps",
+      "followers": 6220,
+      "caption": "The Top 10 Gym Exercises of All Time (Scientific Ranking) #gymtok #gym #gymbro #exercises #fyp ",
+      "views": 4100000,
+      "likes": 434200,
+      "comments": 526,
+      "shares": 39900,
+      "saves": 184061,
+      "engagement_rate": 16.07,
+      "hashtags": [
+        "#gymtok",
+        "#gym",
+        "#gymbro",
+        "#exercises",
+        "#fyp"
+      ],
+      "posted_date": "2026-03-05",
+      "url": "https://www.tiktok.com/@60scilps/video/7613561887199907094"
+    },
+    {
+      "author": "@larisa.sarbu",
+      "followers": 50300,
+      "caption": "\ud83d\udda4 #GymTok #gymoutifitcheck #girlswholift ",
+      "views": 4000000,
+      "likes": 371300,
+      "comments": 2669,
+      "shares": 107000,
+      "saves": 46595,
+      "engagement_rate": 13.19,
+      "hashtags": [
+        "#gymtok",
+        "#gymoutifitcheck",
+        "#girlswholift"
+      ],
+      "posted_date": "2026-02-18",
+      "url": "https://www.tiktok.com/@larisa.sarbu/video/7608187473532882198"
+    },
+    {
+      "author": "@dwefit",
+      "followers": 153700,
+      "caption": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 maybe he sharing knowledge \ud83e\udd14 #GymTok #bigdawg #gymhumor #gymtime #dwefit ",
+      "views": 4000000,
+      "likes": 436800,
+      "comments": 671,
+      "shares": 24300,
+      "saves": 39110,
+      "engagement_rate": 12.52,
+      "hashtags": [
+        "#gymtok",
+        "#bigdawg",
+        "#gymhumor",
+        "#gymtime",
+        "#dwefit"
+      ],
+      "posted_date": "2026-02-11",
+      "url": "https://www.tiktok.com/@dwefit/video/7605740118569192718"
+    },
+    {
+      "author": "@harleyalexander.fit",
+      "followers": 318500,
+      "caption": "@AYBL Black Friday sale LIVE! Code \u201cHARLEY\u201d for EXTRA 10% off! \n\nDm me if you use my code so I can personally thank you \u2764\ufe0f\n\n#gymmotivation #natty #gymtok ",
+      "views": 3800000,
+      "likes": 227000,
+      "comments": 1376,
+      "shares": 19100,
+      "saves": 19203,
+      "engagement_rate": 7.02,
+      "hashtags": [
+        "#",
+        "#gymmotivation",
+        "#natty",
+        "#gymtok"
+      ],
+      "posted_date": "2025-11-14",
+      "url": "https://www.tiktok.com/@harleyalexander.fit/video/7572641095121685782"
+    },
+    {
+      "author": "@dailybarbell",
+      "followers": 73700,
+      "caption": "The energy in this video was insane. @The Tren Twins @Haddy\u2002Abdel \n\n#gymtok #gymmotivation #gymedit #trentwins #diamondgym ",
+      "views": 3400000,
+      "likes": 439500,
+      "comments": 627,
+      "shares": 7473,
+      "saves": 41055,
+      "engagement_rate": 14.37,
+      "hashtags": [
+        "#",
+        "#",
+        "#gymtok",
+        "#gymmotivation",
+        "#gymedit",
+        "#trentwins",
+        "#diamondgym"
+      ],
+      "posted_date": "2025-10-25",
+      "url": "https://www.tiktok.com/@dailybarbell/video/7565196790828371214"
+    },
+    {
+      "author": "@leanbeefpatty",
+      "followers": 8400000,
+      "caption": "Yuh you got this \ud83d\udcaa\ud83d\udc9c #mobility #stretch #warmups #dynamicstretching #fittok #gymtok #weout #weactive",
+      "views": 2900000,
+      "likes": 351800,
+      "comments": 1925,
+      "shares": 4566,
+      "saves": 94220,
+      "engagement_rate": 15.6,
+      "hashtags": [
+        "#mobility",
+        "#stretch",
+        "#warmups",
+        "#dynamicstretching",
+        "#fittok",
+        "#gymtok",
+        "#weout",
+        "#weactive"
+      ],
+      "posted_date": "2022-06-08",
+      "url": "https://www.tiktok.com/@leanbeefpatty/video/7106937387611114798"
+    },
+    {
+      "author": "@bodybuilder.jp",
+      "followers": 52300,
+      "caption": "7 Shoulder Tips For 3D Delts - Part 1/2#gym #GymTok #training #fyp",
+      "views": 2900000,
+      "likes": 271800,
+      "comments": 419,
+      "shares": 12400,
+      "saves": 93919,
+      "engagement_rate": 13.05,
+      "hashtags": [
+        "#gym",
+        "#gymtok",
+        "#training",
+        "#fyp"
+      ],
+      "posted_date": "2025-12-01",
+      "url": "https://www.tiktok.com/@bodybuilder.jp/video/7578906277061987597"
+    },
+    {
+      "author": "@swolenate",
+      "followers": 68000,
+      "caption": "Reply to @montrellja Save this Vid to your Gym Tip Vault \ud83d\udd25 #gymtips #persoanltrainer #gymtok #gymworkout #gymworkouts #hiddentips #secret #trap #traps #trapworkout #shoulders #shoulderworkout #workout",
+      "views": 2800000,
+      "likes": 128400,
+      "comments": 2872,
+      "shares": 4602,
+      "saves": 13236,
+      "engagement_rate": 5.33,
+      "hashtags": [
+        "#",
+        "#gymtips",
+        "#persoanltrainer",
+        "#gymtok",
+        "#gymworkout",
+        "#gymworkouts",
+        "#hiddentips",
+        "#secret"
+      ],
+      "posted_date": "2022-06-26",
+      "url": "https://www.tiktok.com/@swolenate/video/7113343551584472363"
+    },
+    {
+      "author": "@levi245",
+      "followers": 1773,
+      "caption": "My worst fear- #fyp #gym #relatable #gymtok #oops",
+      "views": 2500000,
+      "likes": 115400,
+      "comments": 283,
+      "shares": 400,
+      "saves": 3883,
+      "engagement_rate": 4.8,
+      "hashtags": [
+        "#fyp",
+        "#gym",
+        "#relatable",
+        "#gymtok",
+        "#oops"
+      ],
+      "posted_date": "2025-11-30",
+      "url": "https://www.tiktok.com/@levi245/video/7578615623047990559"
+    },
+    {
+      "author": "@tbowtrains",
+      "followers": 105300,
+      "caption": "#gymtok #physique #fyp",
+      "views": 2500000,
+      "likes": 391900,
+      "comments": 889,
+      "shares": 20400,
+      "saves": 47153,
+      "engagement_rate": 18.41,
+      "hashtags": [
+        "#gymtok",
+        "#physique",
+        "#fyp"
+      ],
+      "posted_date": "2025-10-19",
+      "url": "https://www.tiktok.com/@tbowtrains/video/7562968405846854967"
+    },
+    {
+      "author": "@dyl_sayers",
+      "followers": 367500,
+      "caption": "Problem solver. #gym #gymlife #gymtok #quotes #gymmotivation #fyp ",
+      "views": 2400000,
+      "likes": 172300,
+      "comments": 865,
+      "shares": 12200,
+      "saves": 28677,
+      "engagement_rate": 8.92,
+      "hashtags": [
+        "#gym",
+        "#gymlife",
+        "#gymtok",
+        "#quotes",
+        "#gymmotivation",
+        "#fyp"
+      ],
+      "posted_date": "2025-04-29",
+      "url": "https://www.tiktok.com/@dyl_sayers/video/7498772115106123016"
+    },
+    {
+      "author": "@imdaniel.lee",
+      "followers": 3090,
+      "caption": "the dark side of the gym \ud83d\ude05 #gym #gymmotivation #gymtok #gymstorytime #gymtips ",
+      "views": 2400000,
+      "likes": 385300,
+      "comments": 2006,
+      "shares": 66700,
+      "saves": 30062,
+      "engagement_rate": 20.17,
+      "hashtags": [
+        "#gym",
+        "#gymmotivation",
+        "#gymtok",
+        "#gymstorytime",
+        "#gymtips"
+      ],
+      "posted_date": "2026-01-06",
+      "url": "https://www.tiktok.com/@imdaniel.lee/video/7592381641822129438"
+    },
+    {
+      "author": "@blahblablahhhhh3",
+      "followers": 455,
+      "caption": "#magazinedreams #edit #radiohead #gymtok #jonathanmajors ",
+      "views": 2100000,
+      "likes": 350500,
+      "comments": 469,
+      "shares": 9733,
+      "saves": 38773,
+      "engagement_rate": 19.02,
+      "hashtags": [
+        "#magazinedreams",
+        "#edit",
+        "#radiohead",
+        "#gymtok",
+        "#jonathanmajors"
+      ],
+      "posted_date": "2026-03-23",
+      "url": "https://www.tiktok.com/@blahblablahhhhh3/video/7620295659484171550"
+    },
+    {
+      "author": "@stefiguerreiro_",
+      "followers": 28500,
+      "caption": "I still feel the shakes from this one\ud83d\udd25 went lighter with the weight but more till failure.. full deets on my IG\ud83d\udc81\ud83c\udffc\u200d\u2640\ufe0f #gymtok #legday #workout #legdayworkout #fittok #fitgirlsmotivation #fitspiration",
+      "views": 2000000,
+      "likes": 79500,
+      "comments": 181,
+      "shares": 515,
+      "saves": 9923,
+      "engagement_rate": 4.51,
+      "hashtags": [
+        "#gymtok",
+        "#legday",
+        "#workout",
+        "#legdayworkout",
+        "#fittok",
+        "#fitgirlsmotivation",
+        "#fitspiration"
+      ],
+      "posted_date": "2022-06-12",
+      "url": "https://www.tiktok.com/@stefiguerreiro_/video/7108492474670124330"
+    },
+    {
+      "author": "@jandelgym",
+      "followers": 1699,
+      "caption": "#gymmotivation #foryoupage #GymTok #gym\n#progress",
+      "views": 2000000,
+      "likes": 170100,
+      "comments": 1203,
+      "shares": 11800,
+      "saves": 14423,
+      "engagement_rate": 9.88,
+      "hashtags": [
+        "#gymmotivation",
+        "#foryoupage",
+        "#gymtok",
+        "#gym",
+        "#progress"
+      ],
+      "posted_date": "2026-03-07",
+      "url": "https://www.tiktok.com/@jandelgym/video/7614536234374827295"
+    },
+    {
+      "author": "@nq2falcon",
+      "followers": 83500,
+      "caption": "Oh me oh my #gymtok #muscularback #back #fy #fyp #gym #muscular #muscularguy #biceps #muscularbrunette #workout #gymbody #veins #bicep #muscularphysique ",
+      "views": 2000000,
+      "likes": 152600,
+      "comments": 1123,
+      "shares": 68300,
+      "saves": 25270,
+      "engagement_rate": 12.36,
+      "hashtags": [
+        "#gymtok",
+        "#muscularback",
+        "#back",
+        "#fy",
+        "#fyp",
+        "#gym",
+        "#muscular",
+        "#muscularguy"
+      ],
+      "posted_date": "2025-03-11",
+      "url": "https://www.tiktok.com/@nq2falcon/video/7480653370110299414"
+    },
+    {
+      "author": "@huneycutt_fit",
+      "followers": 42200,
+      "caption": "#gymtok #gymmotivation #gymaudio #fyp ",
+      "views": 1900000,
+      "likes": 222600,
+      "comments": 669,
+      "shares": 4430,
+      "saves": 68360,
+      "engagement_rate": 15.58,
+      "hashtags": [
+        "#gymtok",
+        "#gymmotivation",
+        "#gymaudio",
+        "#fyp"
+      ],
+      "posted_date": "2024-09-10",
+      "url": "https://www.tiktok.com/@huneycutt_fit/video/7412818448943697183"
+    },
+    {
+      "author": "@dwefit",
+      "followers": 153700,
+      "caption": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 double trouble bigdawg #GymTok #bigdawg #gymhumour #gymtime #dwefit ",
+      "views": 1900000,
+      "likes": 283800,
+      "comments": 624,
+      "shares": 24300,
+      "saves": 33084,
+      "engagement_rate": 17.99,
+      "hashtags": [
+        "#gymtok",
+        "#bigdawg",
+        "#gymhumour",
+        "#gymtime",
+        "#dwefit"
+      ],
+      "posted_date": "2026-01-24",
+      "url": "https://www.tiktok.com/@dwefit/video/7598749984720260407"
+    },
+    {
+      "author": "@jenigym",
+      "followers": 347800,
+      "caption": "What do you prefer... a good yoga stretch or a full-body workout with me?\nI want to hear from you in the comments!\n#GymTok #streching #flexibility #workout\nmenos",
+      "views": 1700000,
+      "likes": 112800,
+      "comments": 381,
+      "shares": 15300,
+      "saves": 13000,
+      "engagement_rate": 8.32,
+      "hashtags": [
+        "#gymtok",
+        "#streching",
+        "#flexibility",
+        "#workout"
+      ],
+      "posted_date": "2026-02-04",
+      "url": "https://www.tiktok.com/@jenigym/video/7602862461770894623"
+    },
+    {
+      "author": "@mike_thurston",
+      "followers": 594300,
+      "caption": "Great exercise.. only when done right, so take some notes and save it for later! #gymtok #fitnesstips #fitnessadvice #gymadvice ",
+      "views": 1700000,
+      "likes": 50600,
+      "comments": 344,
+      "shares": 3843,
+      "saves": 11597,
+      "engagement_rate": 3.9,
+      "hashtags": [
+        "#gymtok",
+        "#fitnesstips",
+        "#fitnessadvice",
+        "#gymadvice"
+      ],
+      "posted_date": "2025-07-28",
+      "url": "https://www.tiktok.com/@mike_thurston/video/7532077837868616981"
+    },
+    {
+      "author": "@.focus.hub",
+      "followers": 8507,
+      "caption": "Hold 2x if you dopamine is cooked. Top 10 gym songs of all time which songs did I miss? From david laid edits, 2022 winter arc edits and even old head bodybuilding edits #davidlaid #gym #fyp #viral #g",
+      "views": 1700000,
+      "likes": 91000,
+      "comments": 727,
+      "shares": 2555,
+      "saves": 29269,
+      "engagement_rate": 7.27,
+      "hashtags": [
+        "#davidlaid",
+        "#gym",
+        "#fyp",
+        "#viral",
+        "#gymbro",
+        "#gymtok",
+        "#bodybuilding"
+      ],
+      "posted_date": "2025-07-16",
+      "url": "https://www.tiktok.com/@.focus.hub/video/7527734529835011359"
+    },
+    {
+      "author": "@gisselle.giron",
+      "followers": 570300,
+      "caption": "the workout routine I SWEAR by || @AYBL dc GISSELLE #armworkout #upperbodyworkout #beginnergymworkout #shoulder #gymtok ",
+      "views": 1600000,
+      "likes": 200000,
+      "comments": 179,
+      "shares": 7428,
+      "saves": 92303,
+      "engagement_rate": 18.74,
+      "hashtags": [
+        "#",
+        "#armworkout",
+        "#upperbodyworkout",
+        "#beginnergymworkout",
+        "#shoulder",
+        "#gymtok"
+      ],
+      "posted_date": "2026-02-10",
+      "url": "https://www.tiktok.com/@gisselle.giron/video/7605316709058120974"
+    },
+    {
+      "author": "@fitwithstefi",
+      "followers": 481000,
+      "caption": "Lower Belly & Love Handles Workout \ud83d\udd25 Keep your core engaged throughout the workout! \n#lovehandles #bellyfat #abs #fitness #dumbbells #gymtok #fyp\u30b7 ",
+      "views": 1600000,
+      "likes": 80200,
+      "comments": 245,
+      "shares": 15400,
+      "saves": 81626,
+      "engagement_rate": 11.09,
+      "hashtags": [
+        "#lovehandles",
+        "#bellyfat",
+        "#abs",
+        "#fitness",
+        "#dumbbells",
+        "#gymtok",
+        "#fyp\u30b7"
+      ],
+      "posted_date": "2025-04-03",
+      "url": "https://www.tiktok.com/@fitwithstefi/video/7488906980132687135"
+    },
+    {
+      "author": "@zazalifts_",
+      "followers": 8342,
+      "caption": "we did our own version\ud83d\ude2d\n#fyp #trending #gymtok",
+      "views": 1400000,
+      "likes": 179300,
+      "comments": 729,
+      "shares": 16400,
+      "saves": 21424,
+      "engagement_rate": 15.56,
+      "hashtags": [
+        "#fyp",
+        "#trending",
+        "#gymtok"
+      ],
+      "posted_date": "2026-03-11",
+      "url": "https://www.tiktok.com/@zazalifts_/video/7616093980828257567"
+    },
+    {
+      "author": "@dwefit",
+      "followers": 153700,
+      "caption": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 bru snoring heavy\n#GymTok #bigdawg #gymhumor #gymtime #dwefit ",
+      "views": 1300000,
+      "likes": 190800,
+      "comments": 343,
+      "shares": 9894,
+      "saves": 17146,
+      "engagement_rate": 16.78,
+      "hashtags": [
+        "#gymtok",
+        "#bigdawg",
+        "#gymhumor",
+        "#gymtime",
+        "#dwefit"
+      ],
+      "posted_date": "2026-02-16",
+      "url": "https://www.tiktok.com/@dwefit/video/7607578677613759757"
+    },
+    {
+      "author": "@tyce_lifts",
+      "followers": 31900,
+      "caption": "Time. #gym #gymtok #fyp #benchpress #real ",
+      "views": 1200000,
+      "likes": 191100,
+      "comments": 794,
+      "shares": 12200,
+      "saves": 16300,
+      "engagement_rate": 18.37,
+      "hashtags": [
+        "#gym",
+        "#gymtok",
+        "#fyp",
+        "#benchpress",
+        "#real"
+      ],
+      "posted_date": "2025-12-07",
+      "url": "https://www.tiktok.com/@tyce_lifts/video/7581192820648725815"
+    },
+    {
+      "author": "@user070516203401",
+      "followers": 1096,
+      "caption": "Make a change! #GymTok #transformation #motivation #fyp #gym ",
+      "views": 1100000,
+      "likes": 102800,
+      "comments": 529,
+      "shares": 3389,
+      "saves": 5326,
+      "engagement_rate": 10.19,
+      "hashtags": [
+        "#gymtok",
+        "#transformation",
+        "#motivation",
+        "#fyp",
+        "#gym"
+      ],
+      "posted_date": "2026-01-27",
+      "url": "https://www.tiktok.com/@user070516203401/video/7599890457446960414"
+    },
+    {
+      "author": "@noah.jay_",
+      "followers": 240300,
+      "caption": "Would you pay $4,000 a month to live at the gym?! @Life Time includes gym membership to all locals, meal prep, daycare and your apartment! #fitness #bodybuilding #lifetime #gymtok #apartment ",
+      "views": 1100000,
+      "likes": 66400,
+      "comments": 2193,
+      "shares": 25500,
+      "saves": 6962,
+      "engagement_rate": 9.19,
+      "hashtags": [
+        "#",
+        "#fitness",
+        "#bodybuilding",
+        "#lifetime",
+        "#gymtok",
+        "#apartment"
+      ],
+      "posted_date": "2026-02-10",
+      "url": "https://www.tiktok.com/@noah.jay_/video/7605233616532163853"
+    },
+    {
+      "author": "@dwefit",
+      "followers": 153700,
+      "caption": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 bru too hyper #GymTok #bigdawg #gymhumor #gymtime #dwefit ",
+      "views": 1100000,
+      "likes": 195900,
+      "comments": 414,
+      "shares": 12800,
+      "saves": 17527,
+      "engagement_rate": 20.6,
+      "hashtags": [
+        "#gymtok",
+        "#bigdawg",
+        "#gymhumor",
+        "#gymtime",
+        "#dwefit"
+      ],
+      "posted_date": "2026-02-13",
+      "url": "https://www.tiktok.com/@dwefit/video/7606171013641964813"
+    },
+    {
+      "author": "@yusnakius",
+      "followers": 2782,
+      "caption": "ngilangin rasa cape dengan cara yang lebih cape\ud83e\udd79#CapCut #fyppppppppppppppppppppppp #gym #gymtok #gymmotivation ",
+      "views": 1100000,
+      "likes": 44900,
+      "comments": 120,
+      "shares": 1670,
+      "saves": 13117,
+      "engagement_rate": 5.44,
+      "hashtags": [
+        "#CapCut",
+        "#fyppppppppppppppppppppppp",
+        "#gym",
+        "#gymtok",
+        "#gymmotivation"
+      ],
+      "posted_date": "2025-02-04",
+      "url": "https://www.tiktok.com/@yusnakius/video/7467414442033171719"
+    },
+    {
+      "author": "@the.hole.motivati",
+      "followers": 1703,
+      "caption": "\u201cYou could have been that guy\u201d \n#tomplatz #gym #motivation #edit #gymtok ",
+      "views": 1000000,
+      "likes": 138300,
+      "comments": 233,
+      "shares": 8325,
+      "saves": 21971,
+      "engagement_rate": 16.88,
+      "hashtags": [
+        "#tomplatz",
+        "#gym",
+        "#motivation",
+        "#edit",
+        "#gymtok"
+      ],
+      "posted_date": "2026-02-02",
+      "url": "https://www.tiktok.com/@the.hole.motivati/video/7602091911091866893"
+    },
+    {
+      "author": "@issasharara",
+      "followers": 7726,
+      "caption": "After 500 years what will you have #gymtok #gymshark #davidlaid_motivation #fyp FUAHHHH",
+      "views": 993500,
+      "likes": 80300,
+      "comments": 528,
+      "shares": 5211,
+      "saves": 7729,
+      "engagement_rate": 9.44,
+      "hashtags": [
+        "#gymtok",
+        "#gymshark",
+        "#davidlaid_motivation",
+        "#fyp"
+      ],
+      "posted_date": "2025-10-22",
+      "url": "https://www.tiktok.com/@issasharara/video/7564060200534084919"
+    },
+    {
+      "author": "@_theknightfallprotocol_",
+      "followers": 27300,
+      "caption": "or maybe mortal kombat? #girlswholift #musclemami \n#musclemommy #gymtok #animephysique ",
+      "views": 993100,
+      "likes": 36800,
+      "comments": 1157,
+      "shares": 3953,
+      "saves": 11377,
+      "engagement_rate": 5.37,
+      "hashtags": [
+        "#girlswholift",
+        "#musclemami",
+        "#musclemommy",
+        "#gymtok",
+        "#animephysique"
+      ],
+      "posted_date": "2025-12-18",
+      "url": "https://www.tiktok.com/@_theknightfallprotocol_/video/7585259019384737038"
+    },
+    {
+      "author": "@s.i.ena",
+      "followers": 6903,
+      "caption": "gym=safeplace #fyp #gym #gymtok #viral #sadgymtok ",
+      "views": 939100,
+      "likes": 156200,
+      "comments": 134,
+      "shares": 5279,
+      "saves": 17023,
+      "engagement_rate": 19.02,
+      "hashtags": [
+        "#fyp",
+        "#gym",
+        "#gymtok",
+        "#viral",
+        "#sadgymtok"
+      ],
+      "posted_date": "2025-11-09",
+      "url": "https://www.tiktok.com/@s.i.ena/video/7570698760490110230"
+    },
+    {
+      "author": "@twofacefitness",
+      "followers": 792,
+      "caption": "#gym #gymtok #fyp #trendiing ",
+      "views": 931700,
+      "likes": 29100,
+      "comments": 84,
+      "shares": 408,
+      "saves": 702,
+      "engagement_rate": 3.25,
+      "hashtags": [
+        "#gym",
+        "#gymtok",
+        "#fyp",
+        "#trendiing"
+      ],
+      "posted_date": "2026-02-13",
+      "url": "https://www.tiktok.com/@twofacefitness/video/7606447135843749142"
+    },
+    {
+      "author": "@sonyaegon",
+      "followers": 415600,
+      "caption": "\u2728your snatched future self will thank me later\ud83d\ude4f@AYBL code sonyaegon\ud83e\udd0d lmk if you got any questions!!\n\n#GymTok #gymgirl #hourglass #workoutroutine #gymcouple ",
+      "views": 922600,
+      "likes": 71000,
+      "comments": 75,
+      "shares": 1813,
+      "saves": 19990,
+      "engagement_rate": 10.07,
+      "hashtags": [
+        "#",
+        "#GymTok",
+        "#gymgirl",
+        "#hourglass",
+        "#workoutroutine",
+        "#gymcouple"
+      ],
+      "posted_date": "2026-01-19",
+      "url": "https://www.tiktok.com/@sonyaegon/video/7597197032062766358"
+    },
+    {
+      "author": "@dariusworkout",
+      "followers": 328300,
+      "caption": "which one ? #fyp #gym #gymtok #fitness ",
+      "views": 887800,
+      "likes": 22300,
+      "comments": 276,
+      "shares": 1161,
+      "saves": 3126,
+      "engagement_rate": 3.03,
+      "hashtags": [
+        "#fyp",
+        "#gym",
+        "#gymtok",
+        "#fitness"
+      ],
+      "posted_date": "2024-09-25",
+      "url": "https://www.tiktok.com/@dariusworkout/video/7418582142772464928"
+    },
+    {
+      "author": "@cotzofficial",
+      "followers": 6197,
+      "caption": "Back #gym #gymtok #trend #toji #motivation || @Proden use code \u201dCotz\u201d for 40% off!!!",
+      "views": 863400,
+      "likes": 132500,
+      "comments": 520,
+      "shares": 16200,
+      "saves": 17219,
+      "engagement_rate": 19.28,
+      "hashtags": [
+        "#gym",
+        "#gymtok",
+        "#trend",
+        "#toji",
+        "#motivation",
+        "#"
+      ],
+      "posted_date": "2026-03-10",
+      "url": "https://www.tiktok.com/@cotzofficial/video/7615701557090487575"
+    },
+    {
+      "author": "@hellokddd",
+      "followers": 3779,
+      "caption": "just things i don\u2019t like to do as a girl in the gym #gymgirlies #gymtok #gymgirls ",
+      "views": 813800,
+      "likes": 128500,
+      "comments": 852,
+      "shares": 451,
+      "saves": 4917,
+      "engagement_rate": 16.55,
+      "hashtags": [
+        "#gymgirlies",
+        "#gymtok",
+        "#gymgirls"
+      ],
+      "posted_date": "2026-02-05",
+      "url": "https://www.tiktok.com/@hellokddd/video/7603209130303687966"
+    },
+    {
+      "author": "@nq2falcon",
+      "followers": 83500,
+      "caption": "Abs | Videocredits: @elijahholmann #fyp #physique #muscularbody #muscles #aesthetics #GymTok #motivation #gym #biceps #veins #abs #vline #tattoo #armmuscles ",
+      "views": 768900,
+      "likes": 21100,
+      "comments": 106,
+      "shares": 7971,
+      "saves": 3934,
+      "engagement_rate": 4.31,
+      "hashtags": [
+        "#",
+        "#fyp",
+        "#physique",
+        "#muscularbody",
+        "#muscles",
+        "#aesthetics",
+        "#gymtok",
+        "#motivation"
+      ],
+      "posted_date": "2025-07-08",
+      "url": "https://www.tiktok.com/@nq2falcon/video/7524773276510407968"
+    },
+    {
+      "author": "@jrstrength",
+      "followers": 30000,
+      "caption": "121\n\n#gym #gymaudio #gymplaylist #gymreal #gymdemons #gymtok ",
+      "views": 715700,
+      "likes": 95700,
+      "comments": 216,
+      "shares": 1762,
+      "saves": 21662,
+      "engagement_rate": 16.67,
+      "hashtags": [
+        "#gym",
+        "#gymaudio",
+        "#gymplaylist",
+        "#gymreal",
+        "#gymdemons",
+        "#gymtok"
+      ],
+      "posted_date": "2025-07-05",
+      "url": "https://www.tiktok.com/@jrstrength/video/7523492086109179191"
+    },
+    {
+      "author": "@nq2falcon",
+      "followers": 83500,
+      "caption": "Bicep curls | Videocredits: @Brody #muscles #back #aesthetics #GymTok #biceps #muscularbody #armmuscles ",
+      "views": 630000,
+      "likes": 26300,
+      "comments": 62,
+      "shares": 10600,
+      "saves": 4608,
+      "engagement_rate": 6.6,
+      "hashtags": [
+        "#",
+        "#muscles",
+        "#back",
+        "#aesthetics",
+        "#gymtok",
+        "#biceps",
+        "#muscularbody",
+        "#armmuscles"
+      ],
+      "posted_date": "2025-07-22",
+      "url": "https://www.tiktok.com/@nq2falcon/video/7530000023015263521"
+    },
+    {
+      "author": "@iamtrinitij",
+      "followers": 343400,
+      "caption": "Preferably, I like to go as soon as I wake but sometimes, I wake up late lol so \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f then i enjoy night sessions too! Idk \ud83e\udd26\ud83c\udffe\u200d\u2640\ufe0f @ashleydalton #gymtok #greenscreenvideo ",
+      "views": 627200,
+      "likes": 43300,
+      "comments": 1950,
+      "shares": 6223,
+      "saves": 4939,
+      "engagement_rate": 8.99,
+      "hashtags": [
+        "#gymtok",
+        "#greenscreenvideo"
+      ],
+      "posted_date": "2025-01-09",
+      "url": "https://www.tiktok.com/@iamtrinitij/video/7457964608331124014"
+    },
+    {
+      "author": "@bigjoegk",
+      "followers": 1100000,
+      "caption": "Which are you? #gym #gymtok #gymhumor #fyp ",
+      "views": 619700,
+      "likes": 89800,
+      "comments": 374,
+      "shares": 4250,
+      "saves": 3268,
+      "engagement_rate": 15.76,
+      "hashtags": [
+        "#gym",
+        "#gymtok",
+        "#gymhumor",
+        "#fyp"
+      ],
+      "posted_date": "2026-03-20",
+      "url": "https://www.tiktok.com/@bigjoegk/video/7619433365183171853"
+    },
+    {
+      "author": "@repetition_every_day",
+      "followers": 118800,
+      "caption": "Make them respect where you come from. \n\n#diamondgym #gymmotivation #gymtok #discipline #creatorsearchinsights ",
+      "views": 607400,
+      "likes": 94500,
+      "comments": 98,
+      "shares": 2152,
+      "saves": 13275,
+      "engagement_rate": 18.11,
+      "hashtags": [
+        "#diamondgym",
+        "#gymmotivation",
+        "#gymtok",
+        "#discipline",
+        "#creatorsearchinsights"
+      ],
+      "posted_date": "2026-02-10",
+      "url": "https://www.tiktok.com/@repetition_every_day/video/7605302013856992542"
+    },
+    {
+      "author": "@elinawallroth",
+      "followers": 63800,
+      "caption": "Get upppp #gymtok #gymmotivation ",
+      "views": 584700,
+      "likes": 29500,
+      "comments": 69,
+      "shares": 587,
+      "saves": 4312,
+      "engagement_rate": 5.89,
+      "hashtags": [
+        "#gymtok",
+        "#gymmotivation"
+      ],
+      "posted_date": "2024-11-14",
+      "url": "https://www.tiktok.com/@elinawallroth/video/7437174226722852118"
+    },
+    {
+      "author": "@johanvillanuevaci",
+      "followers": 16500,
+      "caption": "Answering all comments \ud83e\udee1 Also been thinking about going live#gymmotivation #fitness #motivation #gymtok #creatorsearchinsights ",
+      "views": 550500,
+      "likes": 53700,
+      "comments": 188,
+      "shares": 1239,
+      "saves": 12495,
+      "engagement_rate": 12.28,
+      "hashtags": [
+        "#gymmotivation",
+        "#fitness",
+        "#motivation",
+        "#gymtok",
+        "#creatorsearchinsights"
+      ],
+      "posted_date": "2026-02-12",
+      "url": "https://www.tiktok.com/@johanvillanuevaci/video/7606091129267703053"
+    },
+    {
+      "author": "@fitnessclub0004",
+      "followers": 193400,
+      "caption": "#jessicajones #jessica #jones #jessica #fitnessclub0004 Gym workout #thighworkout #gim #gimlovers #gimmotivation #gimworkout  #greenscreenvideo #gimmotivacion\ud83d\udd25\ud83d\udcaf #gymgirl #gym #Fitness #gymmotivation #",
+      "views": 535600,
+      "likes": 2735,
+      "comments": 27,
+      "shares": 299,
+      "saves": 812,
+      "engagement_rate": 0.72,
+      "hashtags": [
+        "#jessicajones",
+        "#jessica",
+        "#jones",
+        "#jessica",
+        "#fitnessclub0004",
+        "#thighworkout",
+        "#gim",
+        "#gimlovers"
+      ],
+      "posted_date": "2026-02-19",
+      "url": "https://www.tiktok.com/@fitnessclub0004/video/7608368411185401119"
+    },
+    {
+      "author": "@waleriiiya",
+      "followers": 9177,
+      "caption": "#gym#gymtok#motivation#gymgirl#sports ",
+      "views": 487500,
+      "likes": 23600,
+      "comments": 178,
+      "shares": 5499,
+      "saves": 4032,
+      "engagement_rate": 6.83,
+      "hashtags": [
+        "#gym",
+        "#gymtok",
+        "#motivation",
+        "#gymgirl",
+        "#sports"
+      ],
+      "posted_date": "2026-02-21",
+      "url": "https://www.tiktok.com/@waleriiiya/video/7609299074134691092"
+    },
+    {
+      "author": "@issa.mars",
+      "followers": 314,
+      "caption": "Do it for yourself babe \ud83e\uddd8\ud83c\udffd\u200d\u2640\ufe0f  #gym #fy #xyzbca #paratiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii #gymtok ",
+      "views": 459500,
+      "likes": 89400,
+      "comments": 43,
+      "shares": 3559,
+      "saves": 12747,
+      "engagement_rate": 23.01,
+      "hashtags": [
+        "#gym",
+        "#fy",
+        "#xyzbca",
+        "#paratiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+        "#gymtok"
+      ],
+      "posted_date": "2026-03-19",
+      "url": "https://www.tiktok.com/@issa.mars/video/7618771246712507678"
+    },
+    {
+      "author": "@ktpeaa",
+      "followers": 18300,
+      "caption": "My client (and sissy) \ud83e\udd79\nIn 6 months we absolutely smashed her goals \u2714\ufe0f\n#transformation #clienttransformation #gymmotivation\ud83c\udfcb\ufe0f\u200d\u2640\ufe0f @Amy Phillips ",
+      "views": 378600,
+      "likes": 8336,
+      "comments": 69,
+      "shares": 449,
+      "saves": 1892,
+      "engagement_rate": 2.84,
+      "hashtags": [
+        "#transformation",
+        "#clienttransformation",
+        "#gymmotivation\ud83c\udfcb\ufe0f\u200d\u2640\ufe0f",
+        "#"
+      ],
+      "posted_date": "2025-12-30",
+      "url": "https://www.tiktok.com/@ktpeaa/video/7589605805377293590"
+    },
+    {
+      "author": "@ozzy82545",
+      "followers": 4143,
+      "caption": "I rather D!E. #motivation #gymtok #gymmotivation #diamondgym #unc ",
+      "views": 346600,
+      "likes": 78000,
+      "comments": 159,
+      "shares": 4107,
+      "saves": 12614,
+      "engagement_rate": 27.37,
+      "hashtags": [
+        "#motivation",
+        "#gymtok",
+        "#gymmotivation",
+        "#diamondgym",
+        "#unc"
+      ],
+      "posted_date": "2026-03-26",
+      "url": "https://www.tiktok.com/@ozzy82545/video/7621399385011719455"
+    },
+    {
+      "author": "@dennisbrat",
+      "followers": 627,
+      "caption": "#\ud83c\uddf7\ud83c\uddfa\ud83c\uddf0\ud83c\uddff #fyp #foryou #gymtok ",
+      "views": 308500,
+      "likes": 45800,
+      "comments": 132,
+      "shares": 2345,
+      "saves": 3659,
+      "engagement_rate": 16.84,
+      "hashtags": [
+        "#\ud83c\uddf7\ud83c\uddfa\ud83c\uddf0\ud83c\uddff",
+        "#fyp",
+        "#foryou",
+        "#gymtok"
+      ],
+      "posted_date": "2025-11-17",
+      "url": "https://www.tiktok.com/@dennisbrat/video/7573493102229392662"
+    },
+    {
+      "author": "@saiqchi",
+      "followers": 180,
+      "caption": "10cm \ud83d\udc94 #gym #waist #gymtok #fyp #pilates ",
+      "views": 294200,
+      "likes": 11200,
+      "comments": 173,
+      "shares": 272,
+      "saves": 1282,
+      "engagement_rate": 4.39,
+      "hashtags": [
+        "#gym",
+        "#waist",
+        "#gymtok",
+        "#fyp",
+        "#pilates"
+      ],
+      "posted_date": "2026-02-28",
+      "url": "https://www.tiktok.com/@saiqchi/video/7611860817335700758"
+    },
+    {
+      "author": "@frylifts",
+      "followers": 4435,
+      "caption": "There\u2019s no secret trick, split, diet, exercise or anything else you can think of to speed up your progress to build your best self. For all the people commenting on what my split is or diet is, you ju",
+      "views": 291600,
+      "likes": 37700,
+      "comments": 270,
+      "shares": 2851,
+      "saves": 3016,
+      "engagement_rate": 15.03,
+      "hashtags": [
+        "#gym",
+        "#nutriton",
+        "#gymtok",
+        "#transformation",
+        "#davidlaid"
+      ],
+      "posted_date": "2026-03-05",
+      "url": "https://www.tiktok.com/@frylifts/video/7613807987890670879"
+    },
+    {
+      "author": "@jenifercaselles",
+      "followers": 810500,
+      "caption": "If you put up with the rhythm, join the link in my bio \ud83d\udeb4\ud83d\ude09\n\nCARDIO SESSION DONE FOR TODAY \n\n#cardioworkout #GymTok #workout",
+      "views": 288900,
+      "likes": 5308,
+      "comments": 162,
+      "shares": 295,
+      "saves": 1023,
+      "engagement_rate": 2.35,
+      "hashtags": [
+        "#cardioworkout",
+        "#gymtok",
+        "#workout"
+      ],
+      "posted_date": "2025-08-13",
+      "url": "https://www.tiktok.com/@jenifercaselles/video/7537874097594813751"
+    },
+    {
+      "author": "@wasserarmjoe",
+      "followers": 233300,
+      "caption": "Mass over all \ud83d\ude42\u200d\u2194\ufe0f\n\n@Breathedivinity with code JOE \ud83e\udd1c\ud83e\udd1b\u2764\ufe0f\n*ad\n\nWrite me if you have any Problems \n\n#natty #triceps #posing #20yearsold #biceps #workoutmotivation #gymmotivation #fitnessmotivation #motiv",
+      "views": 287100,
+      "likes": 17400,
+      "comments": 198,
+      "shares": 2579,
+      "saves": 2034,
+      "engagement_rate": 7.74,
+      "hashtags": [
+        "#",
+        "#natty",
+        "#triceps",
+        "#posing",
+        "#20yearsold",
+        "#biceps",
+        "#workoutmotivation",
+        "#gymmotivation"
+      ],
+      "posted_date": "2025-05-15",
+      "url": "https://www.tiktok.com/@wasserarmjoe/video/7504615647842815254"
+    },
+    {
+      "author": "@kikisgnarlygainzz",
+      "followers": 1863,
+      "caption": "Peachy\ud83d\ude1d #glutepump #girlsgym #gymtok #summerbod ",
+      "views": 260300,
+      "likes": 5041,
+      "comments": 64,
+      "shares": 680,
+      "saves": 1288,
+      "engagement_rate": 2.72,
+      "hashtags": [
+        "#glutepump",
+        "#girlsgym",
+        "#gymtok",
+        "#summerbod"
+      ],
+      "posted_date": "2026-02-23",
+      "url": "https://www.tiktok.com/@kikisgnarlygainzz/video/7610213072707357973"
+    },
+    {
+      "author": "@lexiejoske2",
+      "followers": 22100,
+      "caption": "#gym #fyp #dfyne #gymTok #gymgirl @DFYNE ",
+      "views": 252700,
+      "likes": 12200,
+      "comments": 28,
+      "shares": 1988,
+      "saves": 3046,
+      "engagement_rate": 6.83,
+      "hashtags": [
+        "#gym",
+        "#fyp",
+        "#dfyne",
+        "#gymtok",
+        "#gymgirl",
+        "#"
+      ],
+      "posted_date": "2026-01-06",
+      "url": "https://www.tiktok.com/@lexiejoske2/video/7592141146227232021"
+    },
+    {
+      "author": "@shotz2245",
+      "followers": 3827,
+      "caption": "use your emotions as fuel | Tren Twins Chris tren edit\n#fyp#trentwins#trentwinsedit#viral#gymtok ",
+      "views": 245100,
+      "likes": 45400,
+      "comments": 69,
+      "shares": 2109,
+      "saves": 9284,
+      "engagement_rate": 23.2,
+      "hashtags": [
+        "#fyp",
+        "#trentwins",
+        "#trentwinsedit",
+        "#viral",
+        "#gymtok"
+      ],
+      "posted_date": "2026-03-17",
+      "url": "https://www.tiktok.com/@shotz2245/video/7618168791842884894"
+    },
+    {
+      "author": "@alyssawiesen",
+      "followers": 5757,
+      "caption": "How would you react if this happened to you?\ud83e\udd14 #gym #gymcrush #funnyvideos #gymtok #viral ",
+      "views": 210700,
+      "likes": 17900,
+      "comments": 60,
+      "shares": 451,
+      "saves": 802,
+      "engagement_rate": 9.12,
+      "hashtags": [
+        "#gym",
+        "#gymcrush",
+        "#funnyvideos",
+        "#gymtok",
+        "#viral"
+      ],
+      "posted_date": "2026-03-09",
+      "url": "https://www.tiktok.com/@alyssawiesen/video/7615352648148978958"
+    },
+    {
+      "author": "@sunsooull",
+      "followers": 1327,
+      "caption": "#gym #girlwholifts #gymtok #girl",
+      "views": 207400,
+      "likes": 5783,
+      "comments": 52,
+      "shares": 624,
+      "saves": 1323,
+      "engagement_rate": 3.75,
+      "hashtags": [
+        "#gym",
+        "#girlwholifts",
+        "#gymtok",
+        "#girl"
+      ],
+      "posted_date": "2026-03-23",
+      "url": "https://www.tiktok.com/@sunsooull/video/7620547280306883860"
+    },
+    {
+      "author": "@tasminjordy",
+      "followers": 25500,
+      "caption": "Grwm for lower body day in my fav red set from @KEEPTHATPUMP dc TASMIN10 #gymtok #gymmotivation #grwm #gymfit #legday ",
+      "views": 156200,
+      "likes": 3250,
+      "comments": 11,
+      "shares": 488,
+      "saves": 852,
+      "engagement_rate": 2.95,
+      "hashtags": [
+        "#",
+        "#gymtok",
+        "#gymmotivation",
+        "#grwm",
+        "#gymfit",
+        "#legday"
+      ],
+      "posted_date": "2026-01-11",
+      "url": "https://www.tiktok.com/@tasminjordy/video/7593914865056730375"
+    },
+    {
+      "author": "@popsxfitness",
+      "followers": 2574,
+      "caption": "i changed the goal and now i am so glad i did. I promise you wont regret it \ud83c\udfcb\ud83c\udffc\u200d\u2640\ufe0f\ud83c\udfc3\u200d\u2640\ufe0f\ud83e\udef6\ud83c\udffb\ud83e\udd0d #gymtok #fittok #gymgirl #gymmotivation #gym #weightgain #recovery #edrec0very #fitness #recoveryispossible #st",
+      "views": 145600,
+      "likes": 4585,
+      "comments": 13,
+      "shares": 45,
+      "saves": 553,
+      "engagement_rate": 3.57,
+      "hashtags": [
+        "#gymtok",
+        "#fittok",
+        "#gymgirl",
+        "#gymmotivation",
+        "#gym",
+        "#weightgain",
+        "#recovery",
+        "#edrec0very"
+      ],
+      "posted_date": "2023-10-27",
+      "url": "https://www.tiktok.com/@popsxfitness/video/7294715358085139744"
+    },
+    {
       "author": "@tylerlifts66",
-      "followers": 70900,
+      "followers": 71100,
       "caption": "#fyp #gymtok #abs #natty #20 ",
-      "views": 48100,
-      "likes": 10600,
-      "comments": 29,
-      "shares": 8229,
-      "saves": 960,
-      "engagement_rate": 41.2,
+      "views": 101600,
+      "likes": 24500,
+      "comments": 48,
+      "shares": 18100,
+      "saves": 2149,
+      "engagement_rate": 44.09,
       "hashtags": [
         "#fyp",
         "#gymtok",
@@ -277,308 +1929,258 @@
         "#natty",
         "#20"
       ],
-      "sound": "Cool for the summer hoodtrap by Kryd",
-      "duration": 5,
       "posted_date": "2026-04-05",
       "url": "https://www.tiktok.com/@tylerlifts66/video/7625139148780866846"
     },
     {
-      "author": "@xen.grace",
-      "followers": 3668,
-      "caption": "#TikTokCreatorSearchInsightsIncentive #GymTok #FitnessMotivation #GymGirl #fyp ",
-      "views": 602300,
-      "likes": 235500,
-      "comments": 51,
-      "shares": 530,
-      "saves": 4123,
-      "engagement_rate": 39.88,
+      "author": "@allyfts",
+      "followers": 11600,
+      "caption": "yesterday was lowk the leanest i've ever looked (it was glutes dooms and despair day but have no pump \ud83e\udee9)\n\n#GymTok #girlswholift #gymgirlies #glutesday ",
+      "views": 77100,
+      "likes": 7436,
+      "comments": 83,
+      "shares": 526,
+      "saves": 1439,
+      "engagement_rate": 12.3,
       "hashtags": [
-        "#tiktokcreatorsearchinsightsincentive",
         "#gymtok",
-        "#fitnessmotivation",
+        "#girlswholift",
+        "#gymgirlies",
+        "#glutesday"
+      ],
+      "posted_date": "2026-03-14",
+      "url": "https://www.tiktok.com/@allyfts/video/7617122615949364494"
+    },
+    {
+      "author": "@juliealzate.fit",
+      "followers": 84000,
+      "caption": "your favorite gym girl.\n\n#gymgirl #GymTok #gym #fyp #makeitviral ",
+      "views": 75200,
+      "likes": 1805,
+      "comments": 31,
+      "shares": 82,
+      "saves": 207,
+      "engagement_rate": 2.83,
+      "hashtags": [
         "#gymgirl",
-        "#fyp"
-      ],
-      "sound": "Lovely",
-      "duration": 26,
-      "posted_date": "2026-01-19",
-      "url": "https://www.tiktok.com/@xen.grace/video/7597125418415590670"
-    },
-    {
-      "author": "@stapha2",
-      "followers": 486,
-      "caption": "Yes I wrote my name on my gallon #GymTok #viral #gym #physique\n#fyp",
-      "views": 1100000,
-      "likes": 323100,
-      "comments": 2142,
-      "shares": 29800,
-      "saves": 11000,
-      "engagement_rate": 33.28,
-      "hashtags": [
         "#gymtok",
-        "#viral",
-        "#gym",
-        "#physique",
-        "#fyp"
-      ],
-      "sound": "TRIP QueMIX Jacquees",
-      "duration": 20,
-      "posted_date": "2026-01-05",
-      "url": "https://www.tiktok.com/@stapha2/video/7592000271018937655"
-    },
-    {
-      "author": "@iisaiahnana",
-      "followers": 208300,
-      "caption": "this is your last chance. the time is now or never. LOCK IN! \ud83e\uddcf\ud83c\udffe\u200d\u2642\ufe0f #fyp\u30b7 #gymtok ",
-      "views": 84500,
-      "likes": 21700,
-      "comments": 1070,
-      "shares": 3251,
-      "saves": 1722,
-      "engagement_rate": 32.83,
-      "hashtags": [
-        "#fyp\u30b7",
-        "#gymtok"
-      ],
-      "sound": "original sound",
-      "duration": 71,
-      "posted_date": "2026-03-02",
-      "url": "https://www.tiktok.com/@iisaiahnana/video/7612732055197207839"
-    },
-    {
-      "author": "@healthyfit50s",
-      "followers": 54100,
-      "caption": "#5am #gymtime #gymtok #gymtiktok #letsgo",
-      "views": 273,
-      "likes": 60,
-      "comments": 17,
-      "shares": 5,
-      "saves": 7,
-      "engagement_rate": 32.6,
-      "hashtags": [
-        "#5am",
-        "#gymtime",
-        "#gymtok",
-        "#gymtiktok",
-        "#letsgo"
-      ],
-      "sound": "High Cherry",
-      "duration": 17,
-      "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@healthyfit50s/video/7625617337189747982"
-    },
-    {
-      "author": "@small_baki",
-      "followers": 13800,
-      "caption": "At this point I\u2019ll just do everything frl \n||\n#gym #fyp #gymtok #aesthetic #discipline ",
-      "views": 13900,
-      "likes": 2970,
-      "comments": 32,
-      "shares": 850,
-      "saves": 579,
-      "engagement_rate": 31.88,
-      "hashtags": [
         "#gym",
         "#fyp",
-        "#gymtok",
-        "#aesthetic",
-        "#discipline"
+        "#makeitviral"
       ],
-      "sound": "original sound",
-      "duration": 9,
-      "posted_date": "2026-03-11",
-      "url": "https://www.tiktok.com/@small_baki/video/7615853043598396690"
+      "posted_date": "2026-01-29",
+      "url": "https://www.tiktok.com/@juliealzate.fit/video/7600749685816544532"
     },
     {
-      "author": "@forgedwill",
-      "followers": 82000,
-      "caption": "Gym audios. Part 367. playlist in bio. #ForgedWill #Gymaudio #GymTok ",
-      "views": 11700,
-      "likes": 2873,
-      "comments": 13,
-      "shares": 164,
-      "saves": 531,
-      "engagement_rate": 30.61,
+      "author": "@charli.tranter",
+      "followers": 110500,
+      "caption": "#fyp #gym #gymtok #progress ",
+      "views": 51800,
+      "likes": 1869,
+      "comments": 14,
+      "shares": 121,
+      "saves": 542,
+      "engagement_rate": 4.92,
       "hashtags": [
-        "#forgedwill",
-        "#gymaudio",
+        "#fyp",
+        "#gym",
+        "#gymtok",
+        "#progress"
+      ],
+      "posted_date": "2026-02-15",
+      "url": "https://www.tiktok.com/@charli.tranter/video/7607241222117133590"
+    },
+    {
+      "author": "@dana_esch",
+      "followers": 24500,
+      "caption": "Fit is @DFYNE code: DANA \ud83d\udc95\ud83d\udc97\ud83d\udc9e #gym #gymtok #legday #dfyne #workout",
+      "views": 17100,
+      "likes": 1510,
+      "comments": 28,
+      "shares": 58,
+      "saves": 199,
+      "engagement_rate": 10.5,
+      "hashtags": [
+        "#",
+        "#gym",
+        "#gymtok",
+        "#legday",
+        "#dfyne",
+        "#workout"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.tiktok.com/@dana_esch/video/7625322200085646624"
+    },
+    {
+      "author": "@dianasammn",
+      "followers": 17700,
+      "caption": "\ud83e\udd23 #\u10d5\u10d0\u10e0\u10ef\u10d8\u10e8\u10d8 #fitgirl #gymhumor #gymtok #\u10e4\u10d8\u10e2\u10dc\u10d4\u10e1\u10d8 ",
+      "views": 4339,
+      "likes": 232,
+      "comments": 3,
+      "shares": 38,
+      "saves": 13,
+      "engagement_rate": 6.59,
+      "hashtags": [
+        "#\u10d5\u10d0\u10e0\u10ef\u10d8\u10e8\u10d8",
+        "#fitgirl",
+        "#gymhumor",
+        "#gymtok",
+        "#\u10e4\u10d8\u10e2\u10dc\u10d4\u10e1\u10d8"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@dianasammn/video/7625919945439972628"
+    },
+    {
+      "author": "@lucile.kohl",
+      "followers": 23800,
+      "caption": "#gym #gymtok ",
+      "views": 4226,
+      "likes": 331,
+      "comments": 2,
+      "shares": 11,
+      "saves": 10,
+      "engagement_rate": 8.38,
+      "hashtags": [
+        "#gym",
         "#gymtok"
       ],
-      "sound": "original sound",
-      "duration": 46,
       "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@forgedwill/video/7625560249772133654"
+      "url": "https://www.tiktok.com/@lucile.kohl/video/7625692835219623190"
     },
     {
-      "author": "@we.gettin_fitty",
-      "followers": 74800,
-      "caption": "I was a lil bit too motivated #notwhatwefinnado #fypage #workout #WorldPrincessWeek ",
-      "views": 650200,
-      "likes": 183600,
-      "comments": 815,
-      "shares": 1452,
-      "saves": 8046,
-      "engagement_rate": 29.82,
-      "hashtags": [
-        "#notwhatwefinnado",
-        "#fypage",
-        "#workout",
-        "#worldprincessweek"
-      ],
-      "sound": "original sound",
-      "duration": 6,
-      "posted_date": "2022-08-22",
-      "url": "https://www.tiktok.com/@we.gettin_fitty/video/7134766812666940715"
-    },
-    {
-      "author": "@we.gettin_fitty",
-      "followers": 74800,
-      "caption": "I was a lil bit too motivated #notwhatwefinnado #fypage #workout #WorldPrincessWeek ",
-      "views": 650200,
-      "likes": 183600,
-      "comments": 815,
-      "shares": 1452,
-      "saves": 8046,
-      "engagement_rate": 29.82,
-      "hashtags": [
-        "#notwhatwefinnado",
-        "#fypage",
-        "#workout",
-        "#worldprincessweek"
-      ],
-      "sound": "original sound",
-      "duration": 6,
-      "posted_date": "2022-08-22",
-      "url": "https://www.tiktok.com/@we.gettin_fitty/video/7134766812666940715"
-    },
-    {
-      "author": "@cody.lifts07",
-      "followers": 115500,
-      "caption": "10/10 pump #gym #gymmotivation #gymtok #muscles #biceps #17 ",
-      "views": 209000,
-      "likes": 43100,
-      "comments": 219,
-      "shares": 14000,
-      "saves": 4375,
-      "engagement_rate": 29.52,
+      "author": "@camiladeluca22",
+      "followers": 2259,
+      "caption": "This is the struggles for a woman in the gym #gym #fitness #fyp ",
+      "views": 3051,
+      "likes": 121,
+      "comments": 10,
+      "shares": 1,
+      "saves": 9,
+      "engagement_rate": 4.62,
       "hashtags": [
         "#gym",
-        "#gymmotivation",
-        "#gymtok",
-        "#muscles",
-        "#biceps",
-        "#17"
-      ],
-      "sound": "original sound",
-      "duration": 16,
-      "posted_date": "2025-06-22",
-      "url": "https://www.tiktok.com/@cody.lifts07/video/7518898932915653919"
-    },
-    {
-      "author": "@saraiyyah",
-      "followers": 6393,
-      "caption": "26 degrees outside but I dragged myself out of bed and went to the gym #gym #weightlossprogress #weightlossjouney #gymtok #losingweight ",
-      "views": 1800000,
-      "likes": 452500,
-      "comments": 1020,
-      "shares": 20600,
-      "saves": 46930,
-      "engagement_rate": 28.95,
-      "hashtags": [
-        "#gym",
-        "#weightlossprogress",
-        "#weightlossjouney",
-        "#gymtok",
-        "#losingweight"
-      ],
-      "sound": "original sound",
-      "duration": 17,
-      "posted_date": "2025-01-13",
-      "url": "https://www.tiktok.com/@saraiyyah/video/7459222867775933742"
-    },
-    {
-      "author": "@saraiyyah",
-      "followers": 6393,
-      "caption": "26 degrees outside but I dragged myself out of bed and went to the gym #gym #weightlossprogress #weightlossjouney #gymtok #losingweight ",
-      "views": 1800000,
-      "likes": 452500,
-      "comments": 1020,
-      "shares": 20600,
-      "saves": 46930,
-      "engagement_rate": 28.95,
-      "hashtags": [
-        "#gym",
-        "#weightlossprogress",
-        "#weightlossjouney",
-        "#gymtok",
-        "#losingweight"
-      ],
-      "sound": "original sound",
-      "duration": 17,
-      "posted_date": "2025-01-13",
-      "url": "https://www.tiktok.com/@saraiyyah/video/7459222867775933742"
-    },
-    {
-      "author": "@saraiyyah",
-      "followers": 6392,
-      "caption": "26 degrees outside but I dragged myself out of bed and went to the gym #gym #weightlossprogress #weightlossjouney #gymtok #losingweight ",
-      "views": 1800000,
-      "likes": 452400,
-      "comments": 1020,
-      "shares": 20600,
-      "saves": 46927,
-      "engagement_rate": 28.94,
-      "hashtags": [
-        "#gym",
-        "#weightlossprogress",
-        "#weightlossjouney",
-        "#gymtok",
-        "#losingweight"
-      ],
-      "sound": "original sound",
-      "duration": 17,
-      "posted_date": "2025-01-13",
-      "url": "https://www.tiktok.com/@saraiyyah/video/7459222867775933742"
-    },
-    {
-      "author": "@yangto1406",
-      "followers": 57500,
-      "caption": "#gym #fpy #gymtok ",
-      "views": 3500000,
-      "likes": 709300,
-      "comments": 7794,
-      "shares": 171700,
-      "saves": 87288,
-      "engagement_rate": 27.89,
-      "hashtags": [
-        "#gym",
-        "#fpy",
-        "#gymtok"
-      ],
-      "sound": "suara asli - Nadyaa'woorld\ud83d\udc9e",
-      "duration": 9,
-      "posted_date": "2026-03-12",
-      "url": "https://www.tiktok.com/@yangto1406/video/7616339881425489173"
-    },
-    {
-      "author": "@ysaberla",
-      "followers": 90100,
-      "caption": "Your reminder to not skip the gym \ud83e\udd2d #fitnessjourney #legdayworkout #fyp ",
-      "views": 225200,
-      "likes": 54600,
-      "comments": 202,
-      "shares": 3211,
-      "saves": 4735,
-      "engagement_rate": 27.86,
-      "hashtags": [
-        "#fitnessjourney",
-        "#legdayworkout",
+        "#fitness",
         "#fyp"
       ],
-      "sound": "VAMO L\u00c1 (SLOWED + REVERB)",
-      "duration": 13,
-      "posted_date": "2026-03-16",
-      "url": "https://www.tiktok.com/@ysaberla/video/7617947051451534605"
+      "posted_date": "2026-04-05",
+      "url": "https://www.tiktok.com/@camiladeluca22/video/7625347903204232470"
+    },
+    {
+      "author": "@a.nyutic",
+      "followers": 2679,
+      "caption": "#gym #gymtok #lovegym #sport ",
+      "views": 2229,
+      "likes": 109,
+      "comments": 4,
+      "shares": 13,
+      "saves": 12,
+      "engagement_rate": 6.19,
+      "hashtags": [
+        "#gym",
+        "#gymtok",
+        "#lovegym",
+        "#sport"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.tiktok.com/@a.nyutic/video/7625345183135141140"
+    },
+    {
+      "author": "@carina.fit",
+      "followers": 70200,
+      "caption": "not everyone needs to do the same things and that\u2019s ok!! #gymgirls #gymgirlies #gymtok #gym ",
+      "views": 1086,
+      "likes": 132,
+      "comments": 2,
+      "shares": 1,
+      "saves": 6,
+      "engagement_rate": 12.98,
+      "hashtags": [
+        "#gymgirls",
+        "#gymgirlies",
+        "#gymtok",
+        "#gym"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@carina.fit/video/7626032862256450847"
+    },
+    {
+      "author": "@drewcanlift",
+      "followers": 2535,
+      "caption": "These are based on my personal experiences btw #consumerism #gymtok #gymclothes #bodydysphormia #physique ",
+      "views": 1061,
+      "likes": 138,
+      "comments": 20,
+      "shares": 1,
+      "saves": 7,
+      "engagement_rate": 15.65,
+      "hashtags": [
+        "#consumerism",
+        "#gymtok",
+        "#gymclothes",
+        "#bodydysphormia",
+        "#physique"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@drewcanlift/video/7626044756451216654"
+    },
+    {
+      "author": "@thenattyengineer",
+      "followers": 15400,
+      "caption": "Nothing better than getting one of those random insane strength days in the gym.If you know you know.\n\n#gymtok #gym #gymtips #gymlife #relatablegymthings ",
+      "views": 973,
+      "likes": 77,
+      "comments": 10,
+      "shares": 0,
+      "saves": 2,
+      "engagement_rate": 9.15,
+      "hashtags": [
+        "#gymtok",
+        "#gym",
+        "#gymtips",
+        "#gymlife",
+        "#relatablegymthings"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@thenattyengineer/video/7626073880892820767"
+    },
+    {
+      "author": "@thenattyengineer",
+      "followers": 15400,
+      "caption": "#gymtok #gym #gymmotivation #workoutmotivation #fitnessmotivation ",
+      "views": 674,
+      "likes": 39,
+      "comments": 9,
+      "shares": 2,
+      "saves": 1,
+      "engagement_rate": 7.57,
+      "hashtags": [
+        "#gymtok",
+        "#gym",
+        "#gymmotivation",
+        "#workoutmotivation",
+        "#fitnessmotivation"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@thenattyengineer/video/7626000700971158815"
+    },
+    {
+      "author": "@karimofit5",
+      "followers": 189,
+      "caption": "#gym #lean #gymtok ",
+      "views": 649,
+      "likes": 65,
+      "comments": 0,
+      "shares": 0,
+      "saves": 2,
+      "engagement_rate": 10.32,
+      "hashtags": [
+        "#gym",
+        "#lean",
+        "#gymtok"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.tiktok.com/@karimofit5/video/7625364439738436897"
     }
   ]
 }

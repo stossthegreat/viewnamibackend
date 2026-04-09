@@ -4,15 +4,19 @@
   "month": "April",
   "year": 2026,
   "niche": "travel",
-  "generated_at": "2026-04-07T21:19:04.870888",
+  "generated_at": "2026-04-09T01:56:28.407143",
   "data_points_analyzed": 100,
   "viral_posts_found": 100,
   "hooks": [
     {
       "pattern": "You need to",
+      "example_count": 2,
+      "example": "Places you need to visit if you are Young and Broke \ud83e\udd29 Part 1"
+    },
+    {
+      "pattern": "How to",
       "example_count": 1,
-      "trend_pct": 70,
-      "example": "the things no one tells you about solo travel\u2026 but should - youtube video out now!! everything you need to know to take "
+      "example": "Part 2 | How to Travel without Going Broke \u2708\ufe0f Travel isn\u2019t expensive\u2026 you\u2019re just choosing expensive destinations \ud83d\udc40"
     }
   ],
   "best_times": [
@@ -62,299 +66,145 @@
   "hashtags": [
     {
       "tag": "#traveltok",
-      "usage_count": 58,
-      "avg_views": 1365882
+      "usage_count": 58
     },
     {
       "tag": "#travel",
-      "usage_count": 38,
-      "avg_views": 3423527
+      "usage_count": 38
     },
     {
       "tag": "#fyp",
-      "usage_count": 23,
-      "avg_views": 4533416
+      "usage_count": 23
     },
     {
       "tag": "#traveltiktok",
-      "usage_count": 18,
-      "avg_views": 1170266
+      "usage_count": 18
     },
     {
       "tag": "#solotravel",
-      "usage_count": 9,
-      "avg_views": 305154
+      "usage_count": 9
     },
     {
       "tag": "#travellife",
-      "usage_count": 6,
-      "avg_views": 1153933
-    },
-    {
-      "tag": "#travelvlog",
-      "usage_count": 5,
-      "avg_views": 342980
+      "usage_count": 6
     },
     {
       "tag": "#travelinspo",
-      "usage_count": 5,
-      "avg_views": 543423
+      "usage_count": 5
+    },
+    {
+      "tag": "#travelvlog",
+      "usage_count": 5
     },
     {
       "tag": "#vacation",
-      "usage_count": 5,
-      "avg_views": 184837
-    },
-    {
-      "tag": "#traveltips",
-      "usage_count": 4,
-      "avg_views": 1175275
-    },
-    {
-      "tag": "#traveltheworld",
-      "usage_count": 4,
-      "avg_views": 267254
+      "usage_count": 5
     },
     {
       "tag": "#airport",
-      "usage_count": 4,
-      "avg_views": 3411800
+      "usage_count": 4
     },
     {
       "tag": "#beachvibes",
-      "usage_count": 4,
-      "avg_views": 1949600
+      "usage_count": 4
     },
     {
-      "tag": "#viral",
-      "usage_count": 4,
-      "avg_views": 160600
+      "tag": "#traveltips",
+      "usage_count": 4
     },
     {
       "tag": "#italy",
-      "usage_count": 4,
-      "avg_views": 736950
+      "usage_count": 4
+    },
+    {
+      "tag": "#traveltheworld",
+      "usage_count": 4
     },
     {
       "tag": "#travelcreator",
-      "usage_count": 4,
-      "avg_views": 179386
+      "usage_count": 4
     },
     {
-      "tag": "#budgettravel",
-      "usage_count": 3,
-      "avg_views": 1379066
-    },
-    {
-      "tag": "#thailand",
-      "usage_count": 3,
-      "avg_views": 887133
+      "tag": "#viral",
+      "usage_count": 4
     },
     {
       "tag": "#foryou",
-      "usage_count": 3,
-      "avg_views": 20683266
+      "usage_count": 3
     },
     {
-      "tag": "#backpacking",
-      "usage_count": 3,
-      "avg_views": 112538
+      "tag": "#budgettravel",
+      "usage_count": 3
     },
     {
       "tag": "#traveldiaries",
-      "usage_count": 3,
-      "avg_views": 825933
-    },
-    {
-      "tag": "#tiktoktravel",
-      "usage_count": 3,
-      "avg_views": 197400
+      "usage_count": 3
     },
     {
       "tag": "#rome",
-      "usage_count": 3,
-      "avg_views": 996733
+      "usage_count": 3
+    },
+    {
+      "tag": "#love",
+      "usage_count": 3
+    },
+    {
+      "tag": "#thailand",
+      "usage_count": 3
     },
     {
       "tag": "#creatorsearchinsights",
-      "usage_count": 3,
-      "avg_views": 298233
-    },
-    {
-      "tag": "#trend",
-      "usage_count": 3,
-      "avg_views": 35221
-    }
-  ],
-  "formats": [
-    {
-      "name": "Educational / tips",
-      "avg_engagement": 16.5,
-      "post_count": 9
-    },
-    {
-      "name": "Challenge / trend",
-      "avg_engagement": 10.3,
-      "post_count": 9
-    },
-    {
-      "name": "Review / recommendation",
-      "avg_engagement": 5.7,
-      "post_count": 1
-    },
-    {
-      "name": "Question / engagement",
-      "avg_engagement": 2.1,
-      "post_count": 1
-    }
-  ],
-  "trending_sounds": [
-    {
-      "name": "original sound",
-      "usage_count": 47
-    },
-    {
-      "name": "som original",
       "usage_count": 3
     },
     {
-      "name": "sonido original",
+      "tag": "#tiktoktravel",
       "usage_count": 3
     },
     {
-      "name": "into the wild x september",
-      "usage_count": 2
-    },
-    {
-      "name": "Daylight",
-      "usage_count": 2
-    },
-    {
-      "name": "Papaoutai - Afro Soul",
-      "usage_count": 2
-    },
-    {
-      "name": "Originalton",
-      "usage_count": 2
-    },
-    {
-      "name": "cannock chase",
-      "usage_count": 1
-    },
-    {
-      "name": "Paradise",
-      "usage_count": 1
-    },
-    {
-      "name": "All The Stars",
-      "usage_count": 1
+      "tag": "#backpacking",
+      "usage_count": 3
     }
   ],
-  "insights": "Educational / tips content leads with 16.5% avg engagement. \"You need to\" hook appears in 1 viral posts. Avg engagement: 13.6%. 100 posts analyzed.",
+  "formats": [],
+  "trending_sounds": [],
+  "insights": "100 posts analyzed. Avg 1,937,544 views.",
   "top_posts": [
     {
-      "author": "@aintthattobi",
-      "followers": 15600,
-      "caption": "Part 2 | How to Travel without Going Broke \u2708\ufe0f Travel isn\u2019t expensive\u2026 you\u2019re just choosing expensive destinations \ud83d\udc40\nSave this for your next trip! \ud83d\udccc\n\nSantorini, Greece \u2192 Milos, Greece\u2028Tulum, Mexico \u2192 G",
-      "views": 619300,
-      "likes": 161100,
-      "comments": 511,
-      "shares": 21400,
-      "saves": 77322,
-      "engagement_rate": 42.04,
+      "author": "@kellypeet_",
+      "followers": 273300,
+      "caption": "the islands of Tahiti \ud83c\udf3a #travel #frenchpolynesia #foryou #fyp",
+      "views": 59500000,
+      "likes": 10600000,
+      "comments": 25400,
+      "shares": 739900,
+      "saves": 1266633,
+      "engagement_rate": 21.23,
       "hashtags": [
-        "#cheaptravel",
-        "#canadiantraveller",
-        "#traveltips",
-        "#travelhacks",
-        "#budgettravel"
+        "#travel",
+        "#frenchpolynesia",
+        "#foryou",
+        "#fyp"
       ],
-      "sound": "original sound",
-      "duration": 58,
-      "posted_date": "2026-03-22",
-      "url": "https://www.tiktok.com/@aintthattobi/video/7620231689435942164"
+      "posted_date": "2025-11-22",
+      "url": "https://www.tiktok.com/@kellypeet_/video/7575384007714540814"
     },
     {
-      "author": "@ianinrealtime",
-      "followers": 164500,
-      "caption": "Been getting a lot of questions about how I go about booking travel, so I figured it was time for an all informative video. Travel tips for traveling at 18 (0:18), finding good flight deals (2:27), an",
-      "views": 727300,
-      "likes": 173100,
-      "comments": 245,
-      "shares": 7185,
-      "saves": 50985,
-      "engagement_rate": 31.83,
+      "author": "@best_spots_in",
+      "followers": 48200,
+      "caption": "travel the world \ud83c\udf0f #travel #sunsetlover #fyp ",
+      "views": 21900000,
+      "likes": 4000000,
+      "comments": 9071,
+      "shares": 292300,
+      "saves": 373641,
+      "engagement_rate": 21.35,
       "hashtags": [
-        "#traveltips",
-        "#travelingat18",
-        "#flightdeals",
-        "#solotravel",
-        "#travelvlog"
+        "#travel",
+        "#sunsetlover",
+        "#fyp"
       ],
-      "sound": "original sound",
-      "duration": 416,
-      "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@ianinrealtime/video/7625687983349337374"
-    },
-    {
-      "author": "@eigilontherun",
-      "followers": 10100,
-      "caption": "YEEEEP\n\n#exploringtheworld #francetravel #traveltok #travellifestyle #travels ",
-      "views": 157300,
-      "likes": 37100,
-      "comments": 61,
-      "shares": 4524,
-      "saves": 5685,
-      "engagement_rate": 30.11,
-      "hashtags": [
-        "#exploringtheworld",
-        "#francetravel",
-        "#traveltok",
-        "#travellifestyle",
-        "#travels"
-      ],
-      "sound": "cannock chase",
-      "duration": 7,
-      "posted_date": "2026-02-26",
-      "url": "https://www.tiktok.com/@eigilontherun/video/7611105042355227927"
-    },
-    {
-      "author": "@_miriamdonovan_",
-      "followers": 23300,
-      "caption": "Big moments around the world always making me realize just how far I\u2019ve really come ",
-      "views": 379400,
-      "likes": 87000,
-      "comments": 193,
-      "shares": 3418,
-      "saves": 8804,
-      "engagement_rate": 26.2,
-      "hashtags": [],
-      "sound": "original sound",
-      "duration": 11,
-      "posted_date": "2026-04-02",
-      "url": "https://www.tiktok.com/@_miriamdonovan_/video/7624250080823905549"
-    },
-    {
-      "author": "@travelswithsr",
-      "followers": 14700,
-      "caption": "Always leave your vacation with memories and no regrets \ud83e\udd70\u2708\ufe0f\n\n\ud83d\udccdCoconut road, Siargao\n\n#traveltok #travelmemories #philippines #travelvibes #goodvibes ",
-      "views": 1700000,
-      "likes": 336300,
-      "comments": 955,
-      "shares": 75100,
-      "saves": 30703,
-      "engagement_rate": 26.06,
-      "hashtags": [
-        "#traveltok",
-        "#travelmemories",
-        "#philippines",
-        "#travelvibes",
-        "#goodvibes"
-      ],
-      "sound": "Paradise",
-      "duration": 7,
-      "posted_date": "2026-01-06",
-      "url": "https://www.tiktok.com/@travelswithsr/video/7592045683687869718"
+      "posted_date": "2025-01-27",
+      "url": "https://www.tiktok.com/@best_spots_in/video/7464712852234980630"
     },
     {
       "author": "@lene.kro",
@@ -373,102 +223,112 @@
         "#goals",
         "#foryoupage"
       ],
-      "sound": "All The Stars",
-      "duration": 8,
       "posted_date": "2025-09-29",
       "url": "https://www.tiktok.com/@lene.kro/video/7555450168271719702"
     },
     {
-      "author": "@maddy.wads",
-      "followers": 15400,
-      "caption": "So now we need to book another trip lol #bahamas #summer #travel #traveltok #exuma @bri ",
-      "views": 154100,
-      "likes": 33600,
-      "comments": 222,
-      "shares": 5165,
-      "saves": 978,
-      "engagement_rate": 25.93,
+      "author": "@vavamadi",
+      "followers": 12300,
+      "caption": "Being a true friend #traveltok #airporttrend #friendship #airport ",
+      "views": 12100000,
+      "likes": 432000,
+      "comments": 2623,
+      "shares": 113000,
+      "saves": 142524,
+      "engagement_rate": 5.7,
       "hashtags": [
-        "#bahamas",
-        "#summer",
-        "#travel",
         "#traveltok",
-        "#exuma",
-        "#"
+        "#airporttrend",
+        "#friendship",
+        "#airport"
       ],
-      "sound": "Loving Life Again",
-      "duration": 6,
-      "posted_date": "2026-03-29",
-      "url": "https://www.tiktok.com/@maddy.wads/video/7622685874077175054"
+      "posted_date": "2025-06-08",
+      "url": "https://www.tiktok.com/@vavamadi/video/7513688399492975918"
     },
     {
-      "author": "@breterlop",
-      "followers": 22400,
-      "caption": "exactly what this moment felt like \ud83c\udf05\n\u2022\n#travel #traveltok #traveltiktok #sunset #hawaii #hawaiilife #beach #paradise ",
-      "views": 81300,
-      "likes": 17600,
-      "comments": 734,
-      "shares": 1114,
-      "saves": 1541,
-      "engagement_rate": 25.82,
+      "author": "@iamrachelsarah",
+      "followers": 272500,
+      "caption": "PSA: Life is better outside of the US. #fyp #leavingamerica #livingabroad #travel #traveltok #traveltiktok ##livedontjustexist ",
+      "views": 10300000,
+      "likes": 907600,
+      "comments": 16900,
+      "shares": 121600,
+      "saves": 93942,
+      "engagement_rate": 11.07,
       "hashtags": [
+        "#fyp",
+        "#leavingamerica",
+        "#livingabroad",
         "#travel",
         "#traveltok",
         "#traveltiktok",
-        "#sunset",
-        "#hawaii",
-        "#hawaiilife",
-        "#beach",
-        "#paradise"
+        "#livedontjustexist"
       ],
-      "sound": "original sound",
-      "duration": 15,
-      "posted_date": "2025-09-13",
-      "url": "https://www.tiktok.com/@breterlop/video/7549581553911745847"
+      "posted_date": "2023-08-17",
+      "url": "https://www.tiktok.com/@iamrachelsarah/video/7268348325227973934"
     },
     {
-      "author": "@takeoffwithlauren",
-      "followers": 10700,
-      "caption": "take this as your sign to go and experience the other side of the world\ud83c\udf0e\ud83e\ude75\n\nvisiting thailand for the first time will always hold a special place in my heart, so much that I went back for a second time",
-      "views": 669700,
-      "likes": 135200,
-      "comments": 546,
-      "shares": 13200,
-      "saves": 19028,
-      "engagement_rate": 25.08,
+      "author": "@pandaura888",
+      "followers": 6078,
+      "caption": "I\u2019m a train travel girl now \ud83d\udc85\ud83c\udffc\ud83d\ude82\n\n#traintravel #amtrak #cozyvibes #train #traveltok ",
+      "views": 7800000,
+      "likes": 1100000,
+      "comments": 2382,
+      "shares": 138300,
+      "saves": 116197,
+      "engagement_rate": 17.4,
       "hashtags": [
-        "#thailand",
-        "#thailandtravel",
-        "#southeastasia",
-        "#travelinspo",
-        "#traveltheworld"
-      ],
-      "sound": "into the wild x september",
-      "duration": 11,
-      "posted_date": "2026-01-29",
-      "url": "https://www.tiktok.com/@takeoffwithlauren/video/7600687803634109718"
-    },
-    {
-      "author": "@evt.jenni",
-      "followers": 2288,
-      "caption": "a life worth fighting for!!! #sunset #aesthetic #repost #abroad #traveltok ",
-      "views": 1394,
-      "likes": 319,
-      "comments": 0,
-      "shares": 4,
-      "saves": 13,
-      "engagement_rate": 24.1,
-      "hashtags": [
-        "#sunset",
-        "#aesthetic",
-        "#repost",
-        "#abroad",
+        "#traintravel",
+        "#amtrak",
+        "#cozyvibes",
+        "#train",
         "#traveltok"
       ],
-      "sound": "original sound",
-      "duration": 9,
-      "posted_date": "2026-04-07",
-      "url": "https://www.tiktok.com/@evt.jenni/video/7625872929519078688"
+      "posted_date": "2026-03-06",
+      "url": "https://www.tiktok.com/@pandaura888/video/7614206069971176717"
+    },
+    {
+      "author": "@ncolphillip",
+      "followers": 196600,
+      "caption": "#greenscreen #blackpeopletiktok #blackwomantiktok #blackgirltiktok #blacktravel #travelnoire #antiracism #italytravel #italytok #italy #blackgirlstravel #blacktravel #blacktravelfeed ",
+      "views": 6800000,
+      "likes": 801000,
+      "comments": 9601,
+      "shares": 19100,
+      "saves": 59505,
+      "engagement_rate": 13.08,
+      "hashtags": [
+        "#greenscreen",
+        "#blackpeopletiktok",
+        "#blackwomantiktok",
+        "#blackgirltiktok",
+        "#blacktravel",
+        "#travelnoire",
+        "#antiracism",
+        "#italytravel"
+      ],
+      "posted_date": "2024-02-01",
+      "url": "https://www.tiktok.com/@ncolphillip/video/7330747758715931934"
+    },
+    {
+      "author": "@fav.views",
+      "followers": 3149,
+      "caption": "\ud83d\ude0c\n\n#fy #fyp #travel #traveltok #beachvibes ",
+      "views": 5800000,
+      "likes": 887700,
+      "comments": 1120,
+      "shares": 131100,
+      "saves": 33382,
+      "engagement_rate": 18.16,
+      "hashtags": [
+        "#fy",
+        "#fyp",
+        "#travel",
+        "#traveltok",
+        "#beachvibes"
+      ],
+      "posted_date": "2025-11-09",
+      "url": "https://www.tiktok.com/@fav.views/video/7570791462900731158"
     },
     {
       "author": "@yasminontour",
@@ -490,53 +350,262 @@
         "#shangrila",
         "#parisianstyle"
       ],
-      "sound": "Thank you for using my sound",
-      "duration": 9,
       "posted_date": "2024-02-28",
       "url": "https://www.tiktok.com/@yasminontour/video/7340761777203924257"
     },
     {
-      "author": "@notjusttravelwithashlie",
-      "followers": 15,
-      "caption": "Travel the world! #traveltok #travel #country #fyp #travelagent ",
-      "views": 425,
-      "likes": 86,
-      "comments": 0,
-      "shares": 2,
-      "saves": 10,
-      "engagement_rate": 23.06,
+      "author": "@trip.tailors",
+      "followers": 36100,
+      "caption": "Travel to this Tropical Island Paradise with wonderful beaches and nature, have you been? #holidayvibes #travelhacks #traveltok #budgettravel ",
+      "views": 3500000,
+      "likes": 95400,
+      "comments": 1213,
+      "shares": 26900,
+      "saves": 39085,
+      "engagement_rate": 4.65,
       "hashtags": [
+        "#holidayvibes",
+        "#travelhacks",
         "#traveltok",
-        "#travel",
-        "#country",
-        "#fyp",
-        "#travelagent"
+        "#budgettravel"
       ],
-      "sound": "\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e15\u0e49\u0e19\u0e09\u0e1a\u0e31\u0e1a - aekisonfire",
-      "duration": 14,
-      "posted_date": "2026-04-04",
-      "url": "https://www.tiktok.com/@notjusttravelwithashlie/video/7624986515126734102"
+      "posted_date": "2025-03-29",
+      "url": "https://www.tiktok.com/@trip.tailors/video/7487284842980248854"
     },
     {
-      "author": "@wheretonext.w2n",
-      "followers": 1662,
-      "caption": "You have one life, go see what you want to you want to see.\n.\n\ud83d\udccdGili T, Bali#travel #traveltiktok #travellife #WhereToNext ",
-      "views": 738400,
-      "likes": 129100,
-      "comments": 449,
-      "shares": 9662,
-      "saves": 28904,
-      "engagement_rate": 22.77,
+      "author": "@desari_vix",
+      "followers": 3837,
+      "caption": "I don\u2019t even know how we survived \ud83d\ude2d #travel #traveltok #dubai",
+      "views": 3500000,
+      "likes": 82200,
+      "comments": 1332,
+      "shares": 1312,
+      "saves": 1420,
+      "engagement_rate": 2.46,
       "hashtags": [
         "#travel",
-        "#traveltiktok",
-        "#travellife",
-        "#wheretonext"
+        "#traveltok",
+        "#dubai"
       ],
-      "sound": "original sound",
-      "duration": 25,
-      "posted_date": "2026-01-13",
-      "url": "https://www.tiktok.com/@wheretonext.w2n/video/7594916354117881119"
+      "posted_date": "2025-12-29",
+      "url": "https://www.tiktok.com/@desari_vix/video/7589205508863692054"
+    },
+    {
+      "author": "@findingfiona",
+      "followers": 615700,
+      "caption": "korea is living in the FUTURE, this is truly the best luxury BUT afforadable spa if you\u2019re traveling to Korea. \ud83e\udd2f\u2728\ud83e\udef6\ud83c\udffc\n\nadd this to your Korea itinerary, its a must go places in Korea from someone who us",
+      "views": 3000000,
+      "likes": 339200,
+      "comments": 846,
+      "shares": 59400,
+      "saves": 130761,
+      "engagement_rate": 17.67,
+      "hashtags": [
+        "#skincare",
+        "#beauty",
+        "#korea",
+        "#kbeauty",
+        "#thingstodo",
+        "#traveltips",
+        "#seoul",
+        "#southkorea"
+      ],
+      "posted_date": "2024-10-24",
+      "url": "https://www.tiktok.com/@findingfiona/video/7429460702684974382"
+    },
+    {
+      "author": "@beachbumblaine",
+      "followers": 502800,
+      "caption": "Save this if you plan to go someday\ud83d\udc20\ud83c\udf0a:\n\n\ud83c\udf341 night stone town -explore, shop, eat at secret garden / night market\n\ud83c\udf0a4 nights jambiani -kiteboarding, starfish, sailing, insane sandbars, most beautiful bea",
+      "views": 2700000,
+      "likes": 472600,
+      "comments": 292,
+      "shares": 31700,
+      "saves": 66829,
+      "engagement_rate": 21.16,
+      "hashtags": [
+        "#zanzibar",
+        "#tanzania",
+        "#travel",
+        "#osmoaction6",
+        "#underwater"
+      ],
+      "posted_date": "2026-02-23",
+      "url": "https://www.tiktok.com/@beachbumblaine/video/7609949296493989133"
+    },
+    {
+      "author": "@linzblog_",
+      "followers": 43800,
+      "caption": "One month back in Australia and I feel a tiny bit more settled \ud83c\udfe1 #travelling #livingabroad #kiwisinlondon #movingtosydney #kiwisinlondon ",
+      "views": 2700000,
+      "likes": 129400,
+      "comments": 809,
+      "shares": 20300,
+      "saves": 12785,
+      "engagement_rate": 6.05,
+      "hashtags": [
+        "#travelling",
+        "#livingabroad",
+        "#kiwisinlondon",
+        "#movingtosydney",
+        "#kiwisinlondon"
+      ],
+      "posted_date": "2025-12-10",
+      "url": "https://www.tiktok.com/@linzblog_/video/7582236116690996502"
+    },
+    {
+      "author": "@travelwithels",
+      "followers": 13600,
+      "caption": "Grateful for the best memories\ud83d\uddfa\ufe0f\u2728 #travel #fyp #foryou #traveltiktok #foryoupage #travellife #oceantherapy #memories #islandlife #summervibe #traveltok #aroundtheworld #backpacking ",
+      "views": 2300000,
+      "likes": 291400,
+      "comments": 853,
+      "shares": 17700,
+      "saves": 34334,
+      "engagement_rate": 14.97,
+      "hashtags": [
+        "#travel",
+        "#fyp",
+        "#foryou",
+        "#traveltiktok",
+        "#foryoupage",
+        "#travellife",
+        "#oceantherapy",
+        "#memories"
+      ],
+      "posted_date": "2025-02-16",
+      "url": "https://www.tiktok.com/@travelwithels/video/7472126434732084503"
+    },
+    {
+      "author": "@lexi_falcon",
+      "followers": 9203,
+      "caption": "Stay tuned for the next trip\ud83c\uddec\ud83c\uddf7 #traveltiktok #travel #traveltok #travellife #traveldiaries #italy #tuscany #rome #venice #grandparentsoftiktok #grandparents #abuelo #cubanos #cubanostiktok #cuban #fam",
+      "views": 2200000,
+      "likes": 184200,
+      "comments": 3316,
+      "shares": 30500,
+      "saves": 4768,
+      "engagement_rate": 10.13,
+      "hashtags": [
+        "#traveltiktok",
+        "#travel",
+        "#traveltok",
+        "#travellife",
+        "#traveldiaries",
+        "#italy",
+        "#tuscany",
+        "#rome"
+      ],
+      "posted_date": "2024-05-11",
+      "url": "https://www.tiktok.com/@lexi_falcon/video/7367727435208477995"
+    },
+    {
+      "author": "@travelguyss",
+      "followers": 1100000,
+      "caption": "Places you need to visit if you are Young and Broke \ud83e\udd29 Part 1 \n.\n.\n#phillipines #palawan #lagoon #twinlagoon #phillipines\ud83c\uddf5\ud83c\udded #\ud83c\uddf5\ud83c\udded #asia #travel #broke #cheap #destination #activity #stay #hotel #food #ph",
+      "views": 2100000,
+      "likes": 128100,
+      "comments": 602,
+      "shares": 9263,
+      "saves": 32038,
+      "engagement_rate": 8.1,
+      "hashtags": [
+        "#phillipines",
+        "#palawan",
+        "#lagoon",
+        "#twinlagoon",
+        "#phillipines\ud83c\uddf5\ud83c\udded",
+        "#\ud83c\uddf5\ud83c\udded",
+        "#asia",
+        "#travel"
+      ],
+      "posted_date": "2024-01-18",
+      "url": "https://www.tiktok.com/@travelguyss/video/7325505162229861665"
+    },
+    {
+      "author": "@emily.and.christian",
+      "followers": 152300,
+      "caption": "Any recommendations for cafes, places I should visit? #copenhagen #denmark #city #love #transitions #travel #traveltiktok #love #europe #ocean #pretty #spectacular #girls #traveling #couple #destinati",
+      "views": 1700000,
+      "likes": 55900,
+      "comments": 695,
+      "shares": 8667,
+      "saves": 31376,
+      "engagement_rate": 5.68,
+      "hashtags": [
+        "#copenhagen",
+        "#denmark",
+        "#city",
+        "#love",
+        "#transitions",
+        "#travel",
+        "#traveltiktok",
+        "#love"
+      ],
+      "posted_date": "2025-05-21",
+      "url": "https://www.tiktok.com/@emily.and.christian/video/7506859423596416278"
+    },
+    {
+      "author": "@travelswithsr",
+      "followers": 14700,
+      "caption": "Always leave your vacation with memories and no regrets \ud83e\udd70\u2708\ufe0f\n\n\ud83d\udccdCoconut road, Siargao\n\n#traveltok #travelmemories #philippines #travelvibes #goodvibes ",
+      "views": 1700000,
+      "likes": 336300,
+      "comments": 955,
+      "shares": 75100,
+      "saves": 30703,
+      "engagement_rate": 26.06,
+      "hashtags": [
+        "#traveltok",
+        "#travelmemories",
+        "#philippines",
+        "#travelvibes",
+        "#goodvibes"
+      ],
+      "posted_date": "2026-01-06",
+      "url": "https://www.tiktok.com/@travelswithsr/video/7592045683687869718"
+    },
+    {
+      "author": "@glowfirstpoii",
+      "followers": 2220,
+      "caption": "\ud83e\udd70 my non tiktoker cousins are so game and so cute @isayism @Mamoi Siao hahahahaha #fyp\u30b7\u309aviral #microinfluencer #taiwan #tiktoktransition #traveltok ",
+      "views": 1700000,
+      "likes": 31600,
+      "comments": 236,
+      "shares": 22200,
+      "saves": 32706,
+      "engagement_rate": 5.1,
+      "hashtags": [
+        "#",
+        "#",
+        "#fyp\u30b7\u309aviral",
+        "#microinfluencer",
+        "#taiwan",
+        "#tiktoktransition",
+        "#traveltok"
+      ],
+      "posted_date": "2025-07-02",
+      "url": "https://www.tiktok.com/@glowfirstpoii/video/7522454752236522770"
+    },
+    {
+      "author": "@saffdoesitall",
+      "followers": 3799,
+      "caption": "The candid shots looked so candid he don\u2019t know I was recording \ud83d\ude2d\n\n#saffdoesitall #solotravel #brazil #traveltok #relatable ",
+      "views": 1600000,
+      "likes": 195600,
+      "comments": 266,
+      "shares": 187,
+      "saves": 1802,
+      "engagement_rate": 12.37,
+      "hashtags": [
+        "#saffdoesitall",
+        "#solotravel",
+        "#brazil",
+        "#traveltok",
+        "#relatable"
+      ],
+      "posted_date": "2026-03-31",
+      "url": "https://www.tiktok.com/@saffdoesitall/video/7623566648745807126"
     },
     {
       "author": "@takeoffwithlauren",
@@ -554,10 +623,231 @@
         "#asiatravel",
         "#travelinspo"
       ],
-      "sound": "into the wild x september",
-      "duration": 11,
       "posted_date": "2025-10-16",
       "url": "https://www.tiktok.com/@takeoffwithlauren/video/7561724926286220566"
+    },
+    {
+      "author": "@girlnamedjonnie",
+      "followers": 12900,
+      "caption": "this was my experience with planing my trip to Japan with the help of tik tok (and a tons of chat gpt and research!!!) #japantravel #japantips #japanitinerary #japantrip #japan ",
+      "views": 1300000,
+      "likes": 190200,
+      "comments": 710,
+      "shares": 23200,
+      "saves": 78483,
+      "engagement_rate": 22.51,
+      "hashtags": [
+        "#japantravel",
+        "#japantips",
+        "#japanitinerary",
+        "#japantrip",
+        "#japan"
+      ],
+      "posted_date": "2025-11-10",
+      "url": "https://www.tiktok.com/@girlnamedjonnie/video/7571182456120872223"
+    },
+    {
+      "author": "@_eat_sleep_travel_repeat",
+      "followers": 57600,
+      "caption": "#smallmoments #smallmomentsbigmemories #makingmemories #travellife #traveltok #traveltiktok #travelphotographer ",
+      "views": 1300000,
+      "likes": 77700,
+      "comments": 761,
+      "shares": 3793,
+      "saves": 22932,
+      "engagement_rate": 8.09,
+      "hashtags": [
+        "#smallmoments",
+        "#smallmomentsbigmemories",
+        "#makingmemories",
+        "#travellife",
+        "#traveltok",
+        "#traveltiktok",
+        "#travelphotographer"
+      ],
+      "posted_date": "2023-11-07",
+      "url": "https://www.tiktok.com/@_eat_sleep_travel_repeat/video/7298750645320895777"
+    },
+    {
+      "author": "@modernmermaid.co",
+      "followers": 23300,
+      "caption": "good for the soul \ud83c\udf0a\u2728 #traveltok #traveling #oceantherapy #beachvibes #oahuhawaii ",
+      "views": 1200000,
+      "likes": 227800,
+      "comments": 305,
+      "shares": 16300,
+      "saves": 12639,
+      "engagement_rate": 21.42,
+      "hashtags": [
+        "#traveltok",
+        "#traveling",
+        "#oceantherapy",
+        "#beachvibes",
+        "#oahuhawaii"
+      ],
+      "posted_date": "2026-01-21",
+      "url": "https://www.tiktok.com/@modernmermaid.co/video/7597892716663475469"
+    },
+    {
+      "author": "@georgiarosecurves",
+      "followers": 140400,
+      "caption": "What kind of Alaska Cruise content do y\u2019all want this time!? #HollandAmerica #cruisetok #traveltok #alaska #alaskacruise  #CapCut ",
+      "views": 1200000,
+      "likes": 19100,
+      "comments": 363,
+      "shares": 4084,
+      "saves": 1577,
+      "engagement_rate": 2.09,
+      "hashtags": [
+        "#hollandamerica",
+        "#cruisetok",
+        "#traveltok",
+        "#alaska",
+        "#alaskacruise",
+        "#capcut"
+      ],
+      "posted_date": "2024-08-31",
+      "url": "https://www.tiktok.com/@georgiarosecurves/video/7409311986611227934"
+    },
+    {
+      "author": "@ms.johnson.teachess",
+      "followers": 839200,
+      "caption": "THIS IS YOUR SIGN TO SOLO TRAVEL \ud83e\udef6\ud83c\udffc\u2728\ud83d\udea2\ud83e\udd8b\ud83d\udc20 I hope this helps to clear some things and questions up!! #teacher #teachertok #teacheronsummerbreak #cruise #solocruise #cruisevlog #cruisetok #vacationvlog #s",
+      "views": 1100000,
+      "likes": 84200,
+      "comments": 779,
+      "shares": 680,
+      "saves": 2305,
+      "engagement_rate": 8.0,
+      "hashtags": [
+        "#teacher",
+        "#teachertok",
+        "#teacheronsummerbreak",
+        "#cruise",
+        "#solocruise",
+        "#cruisevlog",
+        "#cruisetok",
+        "#vacationvlog"
+      ],
+      "posted_date": "2024-06-25",
+      "url": "https://www.tiktok.com/@ms.johnson.teachess/video/7384277416375487787"
+    },
+    {
+      "author": "@sarahjkolb",
+      "followers": 16700,
+      "caption": "Any airport to any location #airport #airplane #travel #traveltiktok #traveltok ",
+      "views": 876200,
+      "likes": 159300,
+      "comments": 233,
+      "shares": 14200,
+      "saves": 6356,
+      "engagement_rate": 20.55,
+      "hashtags": [
+        "#airport",
+        "#airplane",
+        "#travel",
+        "#traveltiktok",
+        "#traveltok"
+      ],
+      "posted_date": "2026-02-24",
+      "url": "https://www.tiktok.com/@sarahjkolb/video/7610440316109327630"
+    },
+    {
+      "author": "@thtgrlpri",
+      "followers": 12800,
+      "caption": "baecation \ud83e\udd2d\ud83c\udf34 #cancun #mexico #honeymoon ",
+      "views": 853100,
+      "likes": 97300,
+      "comments": 579,
+      "shares": 15000,
+      "saves": 22690,
+      "engagement_rate": 15.89,
+      "hashtags": [
+        "#cancun",
+        "#mexico",
+        "#honeymoon"
+      ],
+      "posted_date": "2026-02-04",
+      "url": "https://www.tiktok.com/@thtgrlpri/video/7602847157560937758"
+    },
+    {
+      "author": "@wheretonext.w2n",
+      "followers": 1662,
+      "caption": "You have one life, go see what you want to you want to see.\n.\n\ud83d\udccdGili T, Bali#travel #traveltiktok #travellife #WhereToNext ",
+      "views": 738400,
+      "likes": 129100,
+      "comments": 449,
+      "shares": 9662,
+      "saves": 28904,
+      "engagement_rate": 22.77,
+      "hashtags": [
+        "#travel",
+        "#traveltiktok",
+        "#travellife",
+        "#wheretonext"
+      ],
+      "posted_date": "2026-01-13",
+      "url": "https://www.tiktok.com/@wheretonext.w2n/video/7594916354117881119"
+    },
+    {
+      "author": "@ianinrealtime",
+      "followers": 164500,
+      "caption": "Been getting a lot of questions about how I go about booking travel, so I figured it was time for an all informative video. Travel tips for traveling at 18 (0:18), finding good flight deals (2:27), an",
+      "views": 727300,
+      "likes": 173100,
+      "comments": 245,
+      "shares": 7185,
+      "saves": 50985,
+      "engagement_rate": 31.83,
+      "hashtags": [
+        "#traveltips",
+        "#travelingat18",
+        "#flightdeals",
+        "#solotravel",
+        "#travelvlog"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@ianinrealtime/video/7625687983349337374"
+    },
+    {
+      "author": "@takeoffwithlauren",
+      "followers": 10700,
+      "caption": "take this as your sign to go and experience the other side of the world\ud83c\udf0e\ud83e\ude75\n\nvisiting thailand for the first time will always hold a special place in my heart, so much that I went back for a second time",
+      "views": 669700,
+      "likes": 135200,
+      "comments": 546,
+      "shares": 13200,
+      "saves": 19028,
+      "engagement_rate": 25.08,
+      "hashtags": [
+        "#thailand",
+        "#thailandtravel",
+        "#southeastasia",
+        "#travelinspo",
+        "#traveltheworld"
+      ],
+      "posted_date": "2026-01-29",
+      "url": "https://www.tiktok.com/@takeoffwithlauren/video/7600687803634109718"
+    },
+    {
+      "author": "@aintthattobi",
+      "followers": 15600,
+      "caption": "Part 2 | How to Travel without Going Broke \u2708\ufe0f Travel isn\u2019t expensive\u2026 you\u2019re just choosing expensive destinations \ud83d\udc40\nSave this for your next trip! \ud83d\udccc\n\nSantorini, Greece \u2192 Milos, Greece\u2028Tulum, Mexico \u2192 G",
+      "views": 619300,
+      "likes": 161100,
+      "comments": 511,
+      "shares": 21400,
+      "saves": 77322,
+      "engagement_rate": 42.04,
+      "hashtags": [
+        "#cheaptravel",
+        "#canadiantraveller",
+        "#traveltips",
+        "#travelhacks",
+        "#budgettravel"
+      ],
+      "posted_date": "2026-03-22",
+      "url": "https://www.tiktok.com/@aintthattobi/video/7620231689435942164"
     },
     {
       "author": "@veezgetawayz",
@@ -576,10 +866,1318 @@
         "#travelfyp",
         "#travelplanning"
       ],
-      "sound": "tranloptruon",
-      "duration": 13,
       "posted_date": "2026-03-06",
       "url": "https://www.tiktok.com/@veezgetawayz/video/7614129411679407373"
+    },
+    {
+      "author": "@vacationtrips8",
+      "followers": 2151,
+      "caption": "Add this to your bucket list: The Bahamas \ud83c\udfdd\ufe0f\u2728 (follow for more) #traveltok #BeachVibes #travelinspo #bahamas #islandlife ",
+      "views": 528200,
+      "likes": 37600,
+      "comments": 194,
+      "shares": 6855,
+      "saves": 4890,
+      "engagement_rate": 9.38,
+      "hashtags": [
+        "#traveltok",
+        "#beachvibes",
+        "#travelinspo",
+        "#bahamas",
+        "#islandlife"
+      ],
+      "posted_date": "2026-01-21",
+      "url": "https://www.tiktok.com/@vacationtrips8/video/7597876381153889568"
+    },
+    {
+      "author": "@europajaro",
+      "followers": 56500,
+      "caption": "Weekend in Rome \ud83c\udf5d\ud83c\uddee\ud83c\uddf9\ud83e\udef6\ud83c\udffb #fyp #rome #travel #couple #transition ",
+      "views": 504100,
+      "likes": 29600,
+      "comments": 204,
+      "shares": 9738,
+      "saves": 14650,
+      "engagement_rate": 10.75,
+      "hashtags": [
+        "#fyp",
+        "#rome",
+        "#travel",
+        "#couple",
+        "#transition"
+      ],
+      "posted_date": "2026-02-08",
+      "url": "https://www.tiktok.com/@europajaro/video/7604575227271531798"
+    },
+    {
+      "author": "@rosejunetaylor",
+      "followers": 35200,
+      "caption": "I\u2019m gone \ud83e\udd0d #thailand #thailandtiktok #traveltok #fyp #travel ",
+      "views": 491700,
+      "likes": 16900,
+      "comments": 176,
+      "shares": 835,
+      "saves": 3936,
+      "engagement_rate": 4.44,
+      "hashtags": [
+        "#thailand",
+        "#thailandtiktok",
+        "#traveltok",
+        "#fyp",
+        "#travel"
+      ],
+      "posted_date": "2025-12-11",
+      "url": "https://www.tiktok.com/@rosejunetaylor/video/7582548255758650646"
+    },
+    {
+      "author": "@trip.tailors",
+      "followers": 36100,
+      "caption": "Top travel destinations \u2708\ufe0f Maldives #travel #traveltok #vacation #fyp #creatorsearchinsights ",
+      "views": 477800,
+      "likes": 14000,
+      "comments": 111,
+      "shares": 3440,
+      "saves": 3469,
+      "engagement_rate": 4.4,
+      "hashtags": [
+        "#travel",
+        "#traveltok",
+        "#vacation",
+        "#fyp",
+        "#creatorsearchinsights"
+      ],
+      "posted_date": "2025-11-10",
+      "url": "https://www.tiktok.com/@trip.tailors/video/7571165276138491158"
+    },
+    {
+      "author": "@demialur",
+      "followers": 112800,
+      "caption": "first trip of 2026 #fyp #traveltok #girlstrip ",
+      "views": 472700,
+      "likes": 25600,
+      "comments": 143,
+      "shares": 3591,
+      "saves": 3716,
+      "engagement_rate": 6.99,
+      "hashtags": [
+        "#fyp",
+        "#traveltok",
+        "#girlstrip"
+      ],
+      "posted_date": "2026-02-08",
+      "url": "https://www.tiktok.com/@demialur/video/7604411664573746454"
+    },
+    {
+      "author": "@travelcreatortips",
+      "followers": 12700,
+      "caption": "Somw of my most viral video content ideas! #travelcreator #contentcreator #tiktoktravel #travelinfluencer #contentcreatortips #socialmediatips ",
+      "views": 441700,
+      "likes": 12000,
+      "comments": 759,
+      "shares": 1340,
+      "saves": 6592,
+      "engagement_rate": 4.68,
+      "hashtags": [
+        "#travelcreator",
+        "#contentcreator",
+        "#tiktoktravel",
+        "#travelinfluencer",
+        "#contentcreatortips",
+        "#socialmediatips"
+      ],
+      "posted_date": "2024-02-06",
+      "url": "https://www.tiktok.com/@travelcreatortips/video/7332583878802099498"
+    },
+    {
+      "author": "@msintercontinental",
+      "followers": 5308,
+      "caption": "It\u2019s an addiction that is not hurting anyone \ud83e\udd72 #london #travel #traveltok #msintercontinental ",
+      "views": 414800,
+      "likes": 64300,
+      "comments": 327,
+      "shares": 8877,
+      "saves": 3818,
+      "engagement_rate": 18.64,
+      "hashtags": [
+        "#london",
+        "#travel",
+        "#traveltok",
+        "#msintercontinental"
+      ],
+      "posted_date": "2026-01-03",
+      "url": "https://www.tiktok.com/@msintercontinental/video/7591255767936814358"
+    },
+    {
+      "author": "@_miriamdonovan_",
+      "followers": 23300,
+      "caption": "Big moments around the world always making me realize just how far I\u2019ve really come ",
+      "views": 379400,
+      "likes": 87000,
+      "comments": 193,
+      "shares": 3418,
+      "saves": 8804,
+      "engagement_rate": 26.2,
+      "hashtags": [],
+      "posted_date": "2026-04-02",
+      "url": "https://www.tiktok.com/@_miriamdonovan_/video/7624250080823905549"
+    },
+    {
+      "author": "@lyjha_",
+      "followers": 3276,
+      "caption": "There are tropical places you still can travel to in the fall/winter!! Cura\u00e7ao is definitely a favorite now\ud83c\udde8\ud83c\uddfc\n\n#creatorsearchinsights #traveltiktok #travelvlog #minivlog #fyp ",
+      "views": 367200,
+      "likes": 54200,
+      "comments": 118,
+      "shares": 4055,
+      "saves": 9053,
+      "engagement_rate": 18.36,
+      "hashtags": [
+        "#creatorsearchinsights",
+        "#traveltiktok",
+        "#travelvlog",
+        "#minivlog",
+        "#fyp"
+      ],
+      "posted_date": "2025-10-17",
+      "url": "https://www.tiktok.com/@lyjha_/video/7562216422865177886"
+    },
+    {
+      "author": "@demetritravels",
+      "followers": 7296,
+      "caption": "These top two countries are a must for tourists, travelers and people that want memories for a lifetime\n#dreamdestination #travelinspiration #travelvlog #traveltok #traveltips  ",
+      "views": 354500,
+      "likes": 31200,
+      "comments": 3280,
+      "shares": 5234,
+      "saves": 3497,
+      "engagement_rate": 12.19,
+      "hashtags": [
+        "#dreamdestination",
+        "#travelinspiration",
+        "#travelvlog",
+        "#traveltok",
+        "#traveltips"
+      ],
+      "posted_date": "2025-09-19",
+      "url": "https://www.tiktok.com/@demetritravels/video/7551743941993843998"
+    },
+    {
+      "author": "@tanlechner",
+      "followers": 25600,
+      "caption": "Wake \ud83e\udd23\ud83e\udd23\ud83e\udd23 #uk #ireland #travellertok #irishtravellers #schoolrun ",
+      "views": 354100,
+      "likes": 12000,
+      "comments": 87,
+      "shares": 664,
+      "saves": 1454,
+      "engagement_rate": 4.01,
+      "hashtags": [
+        "#uk",
+        "#ireland",
+        "#travellertok",
+        "#irishtravellers",
+        "#schoolrun"
+      ],
+      "posted_date": "2025-11-25",
+      "url": "https://www.tiktok.com/@tanlechner/video/7576726088139771158"
+    },
+    {
+      "author": "@travelwith.thais",
+      "followers": 1673,
+      "caption": "life is too short book the trip \ud83e\udef6\ud83c\udffd #travel #traveltiktok #traveltok #switzerland ",
+      "views": 327500,
+      "likes": 44900,
+      "comments": 451,
+      "shares": 2275,
+      "saves": 4264,
+      "engagement_rate": 15.84,
+      "hashtags": [
+        "#travel",
+        "#traveltiktok",
+        "#traveltok",
+        "#switzerland"
+      ],
+      "posted_date": "2025-06-04",
+      "url": "https://www.tiktok.com/@travelwith.thais/video/7511882306747977003"
+    },
+    {
+      "author": "@tomaa77",
+      "followers": 110,
+      "caption": "using this app as a motivation to travel more\n\n#traveltok #countriesvisited #satisfying ",
+      "views": 325500,
+      "likes": 8435,
+      "comments": 168,
+      "shares": 258,
+      "saves": 1454,
+      "engagement_rate": 3.17,
+      "hashtags": [
+        "#traveltok",
+        "#countriesvisited",
+        "#satisfying"
+      ],
+      "posted_date": "2025-05-24",
+      "url": "https://www.tiktok.com/@tomaa77/video/7507973125171154184"
+    },
+    {
+      "author": "@andrea.wut",
+      "followers": 10500,
+      "caption": "i\u2019m omw! \u2708\ufe0f #travelgirl #solotravelgirl #spanishsongs #fyp #fypage #fyp\u30b7\u309aviral #latina #vacation #traveltok #boarding",
+      "views": 292700,
+      "likes": 4412,
+      "comments": 46,
+      "shares": 606,
+      "saves": 1890,
+      "engagement_rate": 2.38,
+      "hashtags": [
+        "#travelgirl",
+        "#solotravelgirl",
+        "#spanishsongs",
+        "#fyp",
+        "#fypage",
+        "#fyp\u30b7\u309aviral",
+        "#latina",
+        "#vacation"
+      ],
+      "posted_date": "2025-03-29",
+      "url": "https://www.tiktok.com/@andrea.wut/video/7487043859621350702"
+    },
+    {
+      "author": "@povdigitalnomad",
+      "followers": 37100,
+      "caption": "This Is Why I Left America For Vietnam! \ud83c\uddfb\ud83c\uddf3\n#travel #digitalnomad #fyp #vietnam #danang #america #usa #miami #traveltiktok #traveltok #solotravel ",
+      "views": 289700,
+      "likes": 30600,
+      "comments": 1947,
+      "shares": 14500,
+      "saves": 7709,
+      "engagement_rate": 18.9,
+      "hashtags": [
+        "#travel",
+        "#digitalnomad",
+        "#fyp",
+        "#vietnam",
+        "#danang",
+        "#america",
+        "#usa",
+        "#miami"
+      ],
+      "posted_date": "2025-08-04",
+      "url": "https://www.tiktok.com/@povdigitalnomad/video/7534742759626870029"
+    },
+    {
+      "author": "@athena.travelcurator",
+      "followers": 201,
+      "caption": "No time to waste, the sights aren\u2019t going to see themselves. #italy #rometravel #jetlag #rome #traveltok ",
+      "views": 286100,
+      "likes": 40200,
+      "comments": 266,
+      "shares": 13200,
+      "saves": 1520,
+      "engagement_rate": 19.29,
+      "hashtags": [
+        "#italy",
+        "#rometravel",
+        "#jetlag",
+        "#rome",
+        "#traveltok"
+      ],
+      "posted_date": "2026-03-31",
+      "url": "https://www.tiktok.com/@athena.travelcurator/video/7623467928167386398"
+    },
+    {
+      "author": "@ruthyoungx",
+      "followers": 158500,
+      "caption": "guys italy is my fave place ever #italy #traveltok ",
+      "views": 285400,
+      "likes": 22300,
+      "comments": 53,
+      "shares": 849,
+      "saves": 3218,
+      "engagement_rate": 9.26,
+      "hashtags": [
+        "#italy",
+        "#traveltok"
+      ],
+      "posted_date": "2026-04-02",
+      "url": "https://www.tiktok.com/@ruthyoungx/video/7624072848474164502"
+    },
+    {
+      "author": "@it_really_do",
+      "followers": 525,
+      "caption": "it\u2019s possible to ball on a budget\ud83d\ude42\u200d\u2195\ufe0f\n #travel #backpacking #europe #vietnam #traveltiktok ",
+      "views": 284600,
+      "likes": 51600,
+      "comments": 255,
+      "shares": 3018,
+      "saves": 3771,
+      "engagement_rate": 20.61,
+      "hashtags": [
+        "#travel",
+        "#backpacking",
+        "#europe",
+        "#vietnam",
+        "#traveltiktok"
+      ],
+      "posted_date": "2025-12-18",
+      "url": "https://www.tiktok.com/@it_really_do/video/7585239026639113503"
+    },
+    {
+      "author": "@madrid.4k0",
+      "followers": 100600,
+      "caption": "Sun, sea & self-love \ud83c\udf0a\u2728\nConfidence looks better than any filter.\nLiving my best beach days \ud83c\udf34#BeachVibes #SummerMood #OceanLife #SunKissed #BeachStyle \n#VacationMode #TravelVibes #SeaBreeze #SummerLook",
+      "views": 270200,
+      "likes": 2932,
+      "comments": 25,
+      "shares": 244,
+      "saves": 879,
+      "engagement_rate": 1.51,
+      "hashtags": [
+        "#beachvibes",
+        "#summermood",
+        "#oceanlife",
+        "#sunkissed",
+        "#beachstyle",
+        "#vacationmode",
+        "#travelvibes",
+        "#seabreeze"
+      ],
+      "posted_date": "2026-02-10",
+      "url": "https://www.tiktok.com/@madrid.4k0/video/7605146978783186190"
+    },
+    {
+      "author": "@gretelrue",
+      "followers": 7011,
+      "caption": "this place will be seeing me again I fear #fyp #foryou #digitaldiary #viral #traveldiaries #traveltiktok #travellife #traveltok #blackgirltravel #alula #saudi #saudiarabia\ud83c\uddf8\ud83c\udde6 #saudidiaries #videodiary ",
+      "views": 249800,
+      "likes": 38600,
+      "comments": 142,
+      "shares": 4525,
+      "saves": 7418,
+      "engagement_rate": 20.29,
+      "hashtags": [
+        "#fyp",
+        "#foryou",
+        "#digitaldiary",
+        "#viral",
+        "#traveldiaries",
+        "#traveltiktok",
+        "#travellife",
+        "#traveltok"
+      ],
+      "posted_date": "2025-06-27",
+      "url": "https://www.tiktok.com/@gretelrue/video/7520494268713028886"
+    },
+    {
+      "author": "@isadorage",
+      "followers": 1519,
+      "caption": "WRONG LEVEERRR \ud83c\udf0a\ud83c\udfdd\ufe0f #travel #traveltok #fyp #girlstrip #beach #fiji @Andrea Beltran @michelle.giulianaa ",
+      "views": 249600,
+      "likes": 2961,
+      "comments": 62,
+      "shares": 170,
+      "saves": 540,
+      "engagement_rate": 1.5,
+      "hashtags": [
+        "#travel",
+        "#traveltok",
+        "#fyp",
+        "#girlstrip",
+        "#beach",
+        "#fiji",
+        "#",
+        "#"
+      ],
+      "posted_date": "2025-11-07",
+      "url": "https://www.tiktok.com/@isadorage/video/7569813689138760974"
+    },
+    {
+      "author": "@marissamae96",
+      "followers": 331100,
+      "caption": "I actually can\u2019t believe he did that should I just leave his door knob off? \ud83d\ude02\ud83d\ude05\ud83d\ude05 #singlemom #travelvlog #travel #momoftwo #seattlecreator @Alaska Airlines ",
+      "views": 237900,
+      "likes": 39200,
+      "comments": 106,
+      "shares": 35,
+      "saves": 433,
+      "engagement_rate": 16.72,
+      "hashtags": [
+        "#singlemom",
+        "#travelvlog",
+        "#travel",
+        "#momoftwo",
+        "#seattlecreator",
+        "#"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@marissamae96/video/7625706758375296287"
+    },
+    {
+      "author": "@vic_whitehouse",
+      "followers": 174300,
+      "caption": "all I wanna do is travel \ud83d\ude2d #travel #solotravel #traveltok #inspiring #inspirational #traveltheworld #solofemale #solofemaletravel ",
+      "views": 200900,
+      "likes": 30800,
+      "comments": 197,
+      "shares": 1793,
+      "saves": 4464,
+      "engagement_rate": 18.54,
+      "hashtags": [
+        "#travel",
+        "#solotravel",
+        "#traveltok",
+        "#inspiring",
+        "#inspirational",
+        "#traveltheworld",
+        "#solofemale",
+        "#solofemaletravel"
+      ],
+      "posted_date": "2025-11-08",
+      "url": "https://www.tiktok.com/@vic_whitehouse/video/7570255938356071701"
+    },
+    {
+      "author": "@janne.pe",
+      "followers": 5516,
+      "caption": "my superpower \u2728 #traveltok #travelplans #exploringtheworld #adventureseeker #traveltheworld #traveltrend #travelcreator #planeview #exploretheworld #sunsetview ",
+      "views": 192800,
+      "likes": 28300,
+      "comments": 398,
+      "shares": 5540,
+      "saves": 2238,
+      "engagement_rate": 18.92,
+      "hashtags": [
+        "#traveltok",
+        "#travelplans",
+        "#exploringtheworld",
+        "#adventureseeker",
+        "#traveltheworld",
+        "#traveltrend",
+        "#travelcreator",
+        "#planeview"
+      ],
+      "posted_date": "2025-04-26",
+      "url": "https://www.tiktok.com/@janne.pe/video/7497590784233835798"
+    },
+    {
+      "author": "@kingston.schwyzer",
+      "followers": 167300,
+      "caption": "Barcelona was calling\ud83e\udd37\u200d\u2642\ufe0f\ud83c\uddea\ud83c\uddf8#traveltrend #airportvideo #barcelona #traveltok #viral ",
+      "views": 189000,
+      "likes": 23600,
+      "comments": 42,
+      "shares": 2730,
+      "saves": 3428,
+      "engagement_rate": 15.77,
+      "hashtags": [
+        "#traveltrend",
+        "#airportvideo",
+        "#barcelona",
+        "#traveltok",
+        "#viral"
+      ],
+      "posted_date": "2026-02-13",
+      "url": "https://www.tiktok.com/@kingston.schwyzer/video/7606373120127061270"
+    },
+    {
+      "author": "@jackiecamardo",
+      "followers": 59400,
+      "caption": "Top 3 Travel Hacks \u2708\ufe0f to SAVE for your trip \ud83d\udc47 and FOLLOW for more! \ud83d\udc47\n\n1. \ud83d\udcf8Photos of Your Docs (Hidden Album) - If your passport or ID ever gets lost or stolen, you\u2019ll be so glad you did this. Easy, qu",
+      "views": 179300,
+      "likes": 11400,
+      "comments": 147,
+      "shares": 3936,
+      "saves": 10565,
+      "engagement_rate": 14.53,
+      "hashtags": [
+        "#",
+        "#"
+      ],
+      "posted_date": "2026-01-19",
+      "url": "https://www.tiktok.com/@jackiecamardo/video/7597096099668610334"
+    },
+    {
+      "author": "@alexbravoxo",
+      "followers": 6800000,
+      "caption": "Guess we have to spend more lol @Alexox0  @Brennen R. Davis \n\n#fyp #relationships #couplecomedy #italy #traveltok ",
+      "views": 176300,
+      "likes": 10800,
+      "comments": 72,
+      "shares": 278,
+      "saves": 442,
+      "engagement_rate": 6.58,
+      "hashtags": [
+        "#",
+        "#",
+        "#fyp",
+        "#relationships",
+        "#couplecomedy",
+        "#italy",
+        "#traveltok"
+      ],
+      "posted_date": "2025-07-18",
+      "url": "https://www.tiktok.com/@alexbravoxo/video/7528512382952393997"
+    },
+    {
+      "author": "@diaryof.mee_",
+      "followers": 507,
+      "caption": "my dream #travel #repost #aesthetic #fyp #traveltok ",
+      "views": 174800,
+      "likes": 21200,
+      "comments": 11,
+      "shares": 1197,
+      "saves": 1831,
+      "engagement_rate": 13.87,
+      "hashtags": [
+        "#travel",
+        "#repost",
+        "#aesthetic",
+        "#fyp",
+        "#traveltok"
+      ],
+      "posted_date": "2026-03-22",
+      "url": "https://www.tiktok.com/@diaryof.mee_/video/7620029068754324768"
+    },
+    {
+      "author": "@eigilontherun",
+      "followers": 10100,
+      "caption": "YEEEEP\n\n#exploringtheworld #francetravel #traveltok #travellifestyle #travels ",
+      "views": 157300,
+      "likes": 37100,
+      "comments": 61,
+      "shares": 4524,
+      "saves": 5685,
+      "engagement_rate": 30.11,
+      "hashtags": [
+        "#exploringtheworld",
+        "#francetravel",
+        "#traveltok",
+        "#travellifestyle",
+        "#travels"
+      ],
+      "posted_date": "2026-02-26",
+      "url": "https://www.tiktok.com/@eigilontherun/video/7611105042355227927"
+    },
+    {
+      "author": "@maddy.wads",
+      "followers": 15400,
+      "caption": "So now we need to book another trip lol #bahamas #summer #travel #traveltok #exuma @bri ",
+      "views": 154100,
+      "likes": 33600,
+      "comments": 222,
+      "shares": 5165,
+      "saves": 978,
+      "engagement_rate": 25.93,
+      "hashtags": [
+        "#bahamas",
+        "#summer",
+        "#travel",
+        "#traveltok",
+        "#exuma",
+        "#"
+      ],
+      "posted_date": "2026-03-29",
+      "url": "https://www.tiktok.com/@maddy.wads/video/7622685874077175054"
+    },
+    {
+      "author": "@valerie.angelica",
+      "followers": 1776,
+      "caption": "I could have worst habits \n\n#traveltok #travellife #mountian #travel #flight ",
+      "views": 135400,
+      "likes": 20800,
+      "comments": 222,
+      "shares": 2672,
+      "saves": 2604,
+      "engagement_rate": 19.42,
+      "hashtags": [
+        "#traveltok",
+        "#travellife",
+        "#mountian",
+        "#travel",
+        "#flight"
+      ],
+      "posted_date": "2026-02-26",
+      "url": "https://www.tiktok.com/@valerie.angelica/video/7611283801196547341"
+    },
+    {
+      "author": "@findingfiona",
+      "followers": 615700,
+      "caption": "the things no one tells you about solo travel\u2026 but should - youtube video out now!! everything you need to know to take that first trip, link in bio  \ud83e\uddf3\u2728#solotravel #findingfiona #TravelTok #Wanderlust",
+      "views": 134400,
+      "likes": 16500,
+      "comments": 86,
+      "shares": 222,
+      "saves": 2533,
+      "engagement_rate": 14.39,
+      "hashtags": [
+        "#solotravel",
+        "#findingfiona",
+        "#traveltok",
+        "#wanderlust",
+        "#solofemaletraveler",
+        "#solotraveltips"
+      ],
+      "posted_date": "2025-06-27",
+      "url": "https://www.tiktok.com/@findingfiona/video/7520753714269801783"
+    },
+    {
+      "author": "@verotravelia",
+      "followers": 1297,
+      "caption": "time is limited \u23f3\ud83c\udf0e #vacationmode #vacation #traveltok #zakynthos #realitycheck ",
+      "views": 132700,
+      "likes": 23800,
+      "comments": 66,
+      "shares": 1298,
+      "saves": 2027,
+      "engagement_rate": 20.49,
+      "hashtags": [
+        "#vacationmode",
+        "#vacation",
+        "#traveltok",
+        "#zakynthos",
+        "#realitycheck"
+      ],
+      "posted_date": "2026-03-15",
+      "url": "https://www.tiktok.com/@verotravelia/video/7617395948586536214"
+    },
+    {
+      "author": "@modaplussizebr1",
+      "followers": 16800,
+      "caption": "A brisa suave, o som das ondas e a vista ic\u00f4nica do cal\u00e7ad\u00e3o: a defini\u00e7\u00e3o de felicidade simples. \ud83c\udde7\ud83c\uddf7\u2728\"#TravelGram #Wanderlust #SummerVibes #GoldenHour #Lifestyle #Photography #Natureza",
+      "views": 129900,
+      "likes": 2518,
+      "comments": 0,
+      "shares": 650,
+      "saves": 408,
+      "engagement_rate": 2.75,
+      "hashtags": [],
+      "posted_date": "2026-03-10",
+      "url": "https://www.tiktok.com/@modaplussizebr1/video/7615724196542287122"
+    },
+    {
+      "author": "@kroshhka_kartoshk4",
+      "followers": 573,
+      "caption": "Save it for your next flight \u2708\ufe0f\ud83c\udfa5\n\n#whattofilmatairport#airport#fly#plane#viral#tiktoktravel#dubai#airportideas ",
+      "views": 124100,
+      "likes": 2656,
+      "comments": 20,
+      "shares": 513,
+      "saves": 3081,
+      "engagement_rate": 5.05,
+      "hashtags": [
+        "#whattofilmatairport",
+        "#airport",
+        "#fly",
+        "#plane",
+        "#viral",
+        "#tiktoktravel",
+        "#dubai",
+        "#airportideas"
+      ],
+      "posted_date": "2025-06-26",
+      "url": "https://www.tiktok.com/@kroshhka_kartoshk4/video/7520246267147029767"
+    },
+    {
+      "author": "@marinamoraescontent",
+      "followers": 7827,
+      "caption": "Your next travel transition video! \ud83d\udcf8\n\nDon\u2019t want to appear, but want to show the amazing places you go to?\n\nThen this is for you!\n\nTutorial in 5 easy steps:\n\n1- Start with the your hand out of frame\n\n",
+      "views": 108000,
+      "likes": 822,
+      "comments": 15,
+      "shares": 451,
+      "saves": 1235,
+      "engagement_rate": 2.34,
+      "hashtags": [
+        "#traveltransition",
+        "#transitiontutorial",
+        "#airporttiktok",
+        "#traveltiktok",
+        "#cameratricks",
+        "#phonetricks",
+        "#mobilevideography",
+        "#transitionchallenge"
+      ],
+      "posted_date": "2024-01-26",
+      "url": "https://www.tiktok.com/@marinamoraescontent/video/7328443431167069446"
+    },
+    {
+      "author": "@lana.k.social",
+      "followers": 349000,
+      "caption": "Some top tips for growing your account and creating content for travel creators #traveltiktok #travelcreator #travelcontent #contentideas ",
+      "views": 82800,
+      "likes": 4772,
+      "comments": 458,
+      "shares": 981,
+      "saves": 5242,
+      "engagement_rate": 13.83,
+      "hashtags": [
+        "#traveltiktok",
+        "#travelcreator",
+        "#travelcontent",
+        "#contentideas"
+      ],
+      "posted_date": "2025-06-12",
+      "url": "https://www.tiktok.com/@lana.k.social/video/7515136868824943894"
+    },
+    {
+      "author": "@breterlop",
+      "followers": 22400,
+      "caption": "exactly what this moment felt like \ud83c\udf05\n\u2022\n#travel #traveltok #traveltiktok #sunset #hawaii #hawaiilife #beach #paradise ",
+      "views": 81300,
+      "likes": 17600,
+      "comments": 734,
+      "shares": 1114,
+      "saves": 1541,
+      "engagement_rate": 25.82,
+      "hashtags": [
+        "#travel",
+        "#traveltok",
+        "#traveltiktok",
+        "#sunset",
+        "#hawaii",
+        "#hawaiilife",
+        "#beach",
+        "#paradise"
+      ],
+      "posted_date": "2025-09-13",
+      "url": "https://www.tiktok.com/@breterlop/video/7549581553911745847"
+    },
+    {
+      "author": "@teresadonovan12",
+      "followers": 97100,
+      "caption": "Second clip of my last video \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f#fyp #travellergirl #pppppppppppppppppppppp #travellertok #viral ",
+      "views": 79500,
+      "likes": 623,
+      "comments": 59,
+      "shares": 35,
+      "saves": 29,
+      "engagement_rate": 0.94,
+      "hashtags": [
+        "#fyp",
+        "#travellergirl",
+        "#pppppppppppppppppppppp",
+        "#travellertok",
+        "#viral"
+      ],
+      "posted_date": "2025-11-24",
+      "url": "https://www.tiktok.com/@teresadonovan12/video/7576241836801477910"
+    },
+    {
+      "author": "@traveltogether2020",
+      "followers": 10600,
+      "caption": "Posting before I start overthinking \ud83d\ude43\ud83e\udddc\ud83c\udffc\u200d\u2640\ufe0f \n\n\ud83d\udccd Sardinia, Italy \ud83c\uddee\ud83c\uddf9 \n\ud83d\udcfd by: @__monique02_\n\n#Europe \ud83c\uddea\ud83c\uddfa #adventure #travelgirls #love #memories ",
+      "views": 62400,
+      "likes": 1007,
+      "comments": 31,
+      "shares": 104,
+      "saves": 325,
+      "engagement_rate": 2.35,
+      "hashtags": [
+        "#europe",
+        "#adventure",
+        "#travelgirls",
+        "#love",
+        "#memories"
+      ],
+      "posted_date": "2026-02-22",
+      "url": "https://www.tiktok.com/@traveltogether2020/video/7609665856632835348"
+    },
+    {
+      "author": "@laura_jtzn",
+      "followers": 385,
+      "caption": "so much more to see #been #travel #traveltok #trend ",
+      "views": 52500,
+      "likes": 646,
+      "comments": 24,
+      "shares": 41,
+      "saves": 129,
+      "engagement_rate": 1.6,
+      "hashtags": [
+        "#been",
+        "#travel",
+        "#traveltok",
+        "#trend"
+      ],
+      "posted_date": "2026-03-25",
+      "url": "https://www.tiktok.com/@laura_jtzn/video/7621111768999415072"
+    },
+    {
+      "author": "@aparcedoluisrei",
+      "followers": 3976,
+      "caption": "Agree or disagree? \u2708\ufe0f #solotravel #traveltok #traveltiktok #creatorsearchinsights ",
+      "views": 49700,
+      "likes": 1531,
+      "comments": 222,
+      "shares": 34,
+      "saves": 72,
+      "engagement_rate": 3.74,
+      "hashtags": [
+        "#solotravel",
+        "#traveltok",
+        "#traveltiktok",
+        "#creatorsearchinsights"
+      ],
+      "posted_date": "2026-03-20",
+      "url": "https://www.tiktok.com/@aparcedoluisrei/video/7619231723477306638"
+    },
+    {
+      "author": "@chloeeboucher",
+      "followers": 103,
+      "caption": "Making her proud everyday \u2728\ud83e\udd0d\n#trendingvideo #fyp #trend #traveltiktok #backpacking ",
+      "views": 47400,
+      "likes": 256,
+      "comments": 0,
+      "shares": 36,
+      "saves": 59,
+      "engagement_rate": 0.74,
+      "hashtags": [
+        "#trendingvideo",
+        "#fyp",
+        "#trend",
+        "#traveltiktok",
+        "#backpacking"
+      ],
+      "posted_date": "2026-03-25",
+      "url": "https://www.tiktok.com/@chloeeboucher/video/7621296835142978823"
+    },
+    {
+      "author": "@hannahmarvich",
+      "followers": 7037,
+      "caption": "come along with me on a sisters\u2019 trip \ud83d\udc97\u2708\ufe0f\u2728 #travelvlog #airportvlog #traveldiaries #airportdiaries #fyp ",
+      "views": 28000,
+      "likes": 2417,
+      "comments": 162,
+      "shares": 113,
+      "saves": 433,
+      "engagement_rate": 11.16,
+      "hashtags": [
+        "#travelvlog",
+        "#airportvlog",
+        "#traveldiaries",
+        "#airportdiaries",
+        "#fyp"
+      ],
+      "posted_date": "2026-02-07",
+      "url": "https://www.tiktok.com/@hannahmarvich/video/7604167852760796447"
+    },
+    {
+      "author": "@bonvoyagetraveladvisors2",
+      "followers": 3370,
+      "caption": "Hi! \n\nYou love to travel ? Me too! \n\nLet\u2019s be friends!\n\n#travel #traveltiktok #traveltok #tiktoktravel #vacations ",
+      "views": 26400,
+      "likes": 3577,
+      "comments": 941,
+      "shares": 205,
+      "saves": 501,
+      "engagement_rate": 19.79,
+      "hashtags": [
+        "#travel",
+        "#traveltiktok",
+        "#traveltok",
+        "#tiktoktravel",
+        "#vacations"
+      ],
+      "posted_date": "2025-09-15",
+      "url": "https://www.tiktok.com/@bonvoyagetraveladvisors2/video/7550302610541038879"
+    },
+    {
+      "author": "@lobadakuma",
+      "followers": 1100000,
+      "caption": "The best trips \ud83e\udef6\ud83c\udffb @masha\ud83d\udcab #travel #airporttiktok #mumanddaugter #traveltiktok #viraltrend ",
+      "views": 25500,
+      "likes": 2034,
+      "comments": 12,
+      "shares": 9,
+      "saves": 87,
+      "engagement_rate": 8.4,
+      "hashtags": [
+        "#",
+        "#travel",
+        "#airporttiktok",
+        "#mumanddaugter",
+        "#traveltiktok",
+        "#viraltrend"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@lobadakuma/video/7625874666032352520"
+    },
+    {
+      "author": "@wanderlusttravelhub",
+      "followers": 2520,
+      "caption": "Let\u2019s connect \u2708\ufe0f \ud83c\udf0f #travel #community #traveltok #fyp #connect ",
+      "views": 19700,
+      "likes": 2046,
+      "comments": 588,
+      "shares": 41,
+      "saves": 193,
+      "engagement_rate": 14.56,
+      "hashtags": [
+        "#travel",
+        "#community",
+        "#traveltok",
+        "#fyp",
+        "#connect"
+      ],
+      "posted_date": "2026-01-13",
+      "url": "https://www.tiktok.com/@wanderlusttravelhub/video/7594906792564444438"
+    },
+    {
+      "author": "@gabrielleenaomi",
+      "followers": 2379,
+      "caption": "People told me I \u201cneeded more money\u201d to travel. Turns out I just needed courage.\n\nI\u2019m literally broke on an island in Malaysia and this is the happiest I\u2019ve ever been. \n\nLuxury travel is expensive.\nSi",
+      "views": 17900,
+      "likes": 2720,
+      "comments": 122,
+      "shares": 97,
+      "saves": 340,
+      "engagement_rate": 18.32,
+      "hashtags": [
+        "#budgettravel",
+        "#solotravel",
+        "#traveltok",
+        "#abroad",
+        "#travel"
+      ],
+      "posted_date": "2026-01-20",
+      "url": "https://www.tiktok.com/@gabrielleenaomi/video/7597270420210863390"
+    },
+    {
+      "author": "@lu.jenaway",
+      "followers": 1204,
+      "caption": "where have you all been? \ud83d\udc97\ud83c\udf1e \u2708\ufe0f  #traveltok #vacation #hawaii ",
+      "views": 16500,
+      "likes": 1530,
+      "comments": 762,
+      "shares": 20,
+      "saves": 85,
+      "engagement_rate": 14.53,
+      "hashtags": [
+        "#traveltok",
+        "#vacation",
+        "#hawaii"
+      ],
+      "posted_date": "2026-01-21",
+      "url": "https://www.tiktok.com/@lu.jenaway/video/7597693547176889622"
+    },
+    {
+      "author": "@catchagypsea",
+      "followers": 479200,
+      "caption": ".. maybe that\u2019s exactly what we need? \ud83d\ude0f \n\nThis is your sign to book that trip to Zanzibar! \ud83c\udfdd\ufe0f\ud83e\udd65\n\nCalm, unreal turquoise water, endless sunshine, and beaches that genuinely look like they\u2019ve been edited",
+      "views": 14900,
+      "likes": 838,
+      "comments": 20,
+      "shares": 185,
+      "saves": 162,
+      "engagement_rate": 8.09,
+      "hashtags": [
+        "#zanzibar",
+        "#zanzibarbeach",
+        "#zanzibarisland",
+        "#tanzania",
+        "#tanzania\ud83c\uddf9\ud83c\uddff"
+      ],
+      "posted_date": "2026-03-19",
+      "url": "https://www.tiktok.com/@catchagypsea/video/7619015950557318420"
+    },
+    {
+      "author": "@fionatravelssolo",
+      "followers": 16300,
+      "caption": "only a few spots left!! \ud83c\udde6\ud83c\uddf1 \n\n\ud83d\udcc6 June 20th - 27th, 2026\n\n\ud83d\udcb0\u20ac1200 (~$1400USD, ~\u00a31048)\n\n(secure your spot by putting down a 25% deposit (\u20ac300) or by paying the full amount upfront! Last day to book a spot ",
+      "views": 13600,
+      "likes": 2026,
+      "comments": 19,
+      "shares": 25,
+      "saves": 248,
+      "engagement_rate": 17.04,
+      "hashtags": [
+        "#albania",
+        "#solotravel",
+        "#grouptrip",
+        "#travelinspo",
+        "#seetheworld"
+      ],
+      "posted_date": "2026-03-31",
+      "url": "https://www.tiktok.com/@fionatravelssolo/video/7623305056539905310"
+    },
+    {
+      "author": "@prisattire",
+      "followers": 71200,
+      "caption": "catch flights not feelingsss\ud83c\uddf5\ud83c\uddf9. the way we kept forgetting to do this\ud83d\ude2d. #trend #traveltok #holidays #fyy #viralvideos ",
+      "views": 5763,
+      "likes": 263,
+      "comments": 2,
+      "shares": 50,
+      "saves": 130,
+      "engagement_rate": 7.72,
+      "hashtags": [
+        "#trend",
+        "#traveltok",
+        "#holidays",
+        "#fyy",
+        "#viralvideos"
+      ],
+      "posted_date": "2026-03-11",
+      "url": "https://www.tiktok.com/@prisattire/video/7616013041716677910"
+    },
+    {
+      "author": "@katieebrewster",
+      "followers": 7413,
+      "caption": "get out & explore this world!! \ud83e\udef6\ud83c\udffc\ud83d\uddfa\ufe0f\ud83d\udeeb\u2728\n\n#travel #traveltheworld #traveltok #backpacking #travelinspo ",
+      "views": 5616,
+      "likes": 316,
+      "comments": 6,
+      "shares": 9,
+      "saves": 48,
+      "engagement_rate": 6.75,
+      "hashtags": [
+        "#travel",
+        "#traveltheworld",
+        "#traveltok",
+        "#backpacking",
+        "#travelinspo"
+      ],
+      "posted_date": "2026-03-08",
+      "url": "https://www.tiktok.com/@katieebrewster/video/7614779045267426582"
+    },
+    {
+      "author": "@_miriamdonovan_",
+      "followers": 23300,
+      "caption": "from a very Yugoslavian time in my life hahahah ",
+      "views": 5112,
+      "likes": 867,
+      "comments": 18,
+      "shares": 5,
+      "saves": 21,
+      "engagement_rate": 17.82,
+      "hashtags": [],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@_miriamdonovan_/video/7625781018540231950"
+    },
+    {
+      "author": "@lifewithellss_",
+      "followers": 1012,
+      "caption": "Lets connect \u2708\ufe0f\ud83c\udf0d\u2728 #travel #traveltok #vacation #wanderlust ",
+      "views": 4489,
+      "likes": 562,
+      "comments": 275,
+      "shares": 6,
+      "saves": 30,
+      "engagement_rate": 19.45,
+      "hashtags": [
+        "#travel",
+        "#traveltok",
+        "#vacation",
+        "#wanderlust"
+      ],
+      "posted_date": "2026-03-11",
+      "url": "https://www.tiktok.com/@lifewithellss_/video/7616119429222436118"
+    },
+    {
+      "author": "@gisellehonorato",
+      "followers": 1697,
+      "caption": "I\u2019ll never get over Paris \ud83e\udd79 God is so good. What a dream come true. It was actually hard to make content because I just wanted to live every moment of this trip \ud83e\udd0d",
+      "views": 1721,
+      "likes": 136,
+      "comments": 14,
+      "shares": 2,
+      "saves": 9,
+      "engagement_rate": 9.36,
+      "hashtags": [],
+      "posted_date": "2026-01-28",
+      "url": "https://www.tiktok.com/@gisellehonorato/video/7600401029288463646"
+    },
+    {
+      "author": "@sydney.grace28",
+      "followers": 35400,
+      "caption": "spending time with him is my favorite thing to do. I love this trend so much \ud83e\udd79\u2764\ufe0f #couplegoals #traveltok #couplestravel #travel #coupletok ",
+      "views": 1702,
+      "likes": 129,
+      "comments": 0,
+      "shares": 8,
+      "saves": 2,
+      "engagement_rate": 8.17,
+      "hashtags": [
+        "#couplegoals",
+        "#traveltok",
+        "#couplestravel",
+        "#travel",
+        "#coupletok"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@sydney.grace28/video/7626020005729013023"
+    },
+    {
+      "author": "@awaywithlinaa",
+      "followers": 40800,
+      "caption": "the best trip of your life is on the other side of waiting.\n\n#solotravel #solotraveler #womenwhotravel #travelinspiration #solotravel2025 ",
+      "views": 1587,
+      "likes": 187,
+      "comments": 2,
+      "shares": 0,
+      "saves": 9,
+      "engagement_rate": 12.48,
+      "hashtags": [
+        "#solotravel",
+        "#solotraveler",
+        "#womenwhotravel",
+        "#travelinspiration",
+        "#solotravel2025"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@awaywithlinaa/video/7625766526972480786"
+    },
+    {
+      "author": "@evt.jenni",
+      "followers": 2288,
+      "caption": "a life worth fighting for!!! #sunset #aesthetic #repost #abroad #traveltok ",
+      "views": 1394,
+      "likes": 319,
+      "comments": 0,
+      "shares": 4,
+      "saves": 13,
+      "engagement_rate": 24.1,
+      "hashtags": [
+        "#sunset",
+        "#aesthetic",
+        "#repost",
+        "#abroad",
+        "#traveltok"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@evt.jenni/video/7625872929519078688"
+    },
+    {
+      "author": "@kroggyy",
+      "followers": 17700,
+      "caption": "Come with me to Guatape, Colombia \ud83c\udde8\ud83c\uddf4 bit of a long vlog but I did SO much #solotravel #traveltok #colombia #fy ",
+      "views": 1006,
+      "likes": 82,
+      "comments": 3,
+      "shares": 3,
+      "saves": 8,
+      "engagement_rate": 9.54,
+      "hashtags": [
+        "#solotravel",
+        "#traveltok",
+        "#colombia",
+        "#fy"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@kroggyy/video/7626046106031426838"
+    },
+    {
+      "author": "@bluejaycapital",
+      "followers": 5147,
+      "caption": "42\u2070 in Chicago in April \ud83e\udd76 \n#chicago #ustravel #cold #chicagotravel #traveltok ",
+      "views": 660,
+      "likes": 16,
+      "comments": 21,
+      "shares": 4,
+      "saves": 1,
+      "engagement_rate": 6.36,
+      "hashtags": [
+        "#chicago",
+        "#ustravel",
+        "#cold",
+        "#chicagotravel",
+        "#traveltok"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@bluejaycapital/video/7626010968635624735"
+    },
+    {
+      "author": "@yooogabagabbba",
+      "followers": 9168,
+      "caption": "passport pages nearly as full as my camera roll #travel #traveltok #greecetiktok ",
+      "views": 596,
+      "likes": 103,
+      "comments": 2,
+      "shares": 0,
+      "saves": 1,
+      "engagement_rate": 17.79,
+      "hashtags": [
+        "#travel",
+        "#traveltok",
+        "#greecetiktok"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@yooogabagabbba/video/7625857262703185166"
+    },
+    {
+      "author": "@ashlynsmith.fit",
+      "followers": 443200,
+      "caption": "this took half an hour of editing at it still looks like trash\ud83d\udc94 it was fun though sigh #traveltok #gymcouple ",
+      "views": 500,
+      "likes": 26,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 5.4,
+      "hashtags": [
+        "#traveltok",
+        "#gymcouple"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@ashlynsmith.fit/video/7626008924533050654"
+    },
+    {
+      "author": "@notjusttravelwithashlie",
+      "followers": 15,
+      "caption": "Travel the world! #traveltok #travel #country #fyp #travelagent ",
+      "views": 425,
+      "likes": 86,
+      "comments": 0,
+      "shares": 2,
+      "saves": 10,
+      "engagement_rate": 23.06,
+      "hashtags": [
+        "#traveltok",
+        "#travel",
+        "#country",
+        "#fyp",
+        "#travelagent"
+      ],
+      "posted_date": "2026-04-04",
+      "url": "https://www.tiktok.com/@notjusttravelwithashlie/video/7624986515126734102"
+    },
+    {
+      "author": "@meganvanjaarsveldt",
+      "followers": 39500,
+      "caption": "my love language is anything that has to do with travel honestly!! @Paige Mackenzie #lovelanguage #girls #travel #dallasinfluencer #traveltok ",
+      "views": 401,
+      "likes": 23,
+      "comments": 1,
+      "shares": 4,
+      "saves": 1,
+      "engagement_rate": 7.23,
+      "hashtags": [
+        "#",
+        "#lovelanguage",
+        "#girls",
+        "#travel",
+        "#dallasinfluencer",
+        "#traveltok"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@meganvanjaarsveldt/video/7626048992102632718"
+    },
+    {
+      "author": "@countriesandcounting",
+      "followers": 7,
+      "caption": "Life\u2019s too short for \u201cmaybe someday\u201d \ud83c\udf0d  #traveltok #travelblogger #coupletravel #fyp #travelcreator ",
+      "views": 247,
+      "likes": 25,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 10.53,
+      "hashtags": [
+        "#traveltok",
+        "#travelblogger",
+        "#coupletravel",
+        "#fyp",
+        "#travelcreator"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@countriesandcounting/video/7625980659080678678"
     }
   ]
 }

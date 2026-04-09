@@ -4,15 +4,14 @@
   "month": "April",
   "year": 2026,
   "niche": "health",
-  "generated_at": "2026-04-07T21:19:04.870888",
+  "generated_at": "2026-04-09T01:56:28.407143",
   "data_points_analyzed": 100,
   "viral_posts_found": 97,
   "hooks": [
     {
-      "pattern": "X things/tips/ways",
-      "example_count": 3,
-      "trend_pct": 111,
-      "example": "5 Signs You're Breaking Mentally but No One Notices \ud83d\udc94\ud83d\udc94"
+      "pattern": "Don't/Never",
+      "example_count": 1,
+      "example": "Don\u2019t assume. #pain #motivation #mentalhealth #mentalhealthmatters #hopecore"
     }
   ],
   "best_times": [
@@ -62,217 +61,292 @@
   "hashtags": [
     {
       "tag": "#mentalhealth",
-      "usage_count": 57,
-      "avg_views": 567046
+      "usage_count": 57
     },
     {
       "tag": "#fyp",
-      "usage_count": 35,
-      "avg_views": 1025738
+      "usage_count": 35
     },
     {
       "tag": "#mentalhealthmatters",
-      "usage_count": 25,
-      "avg_views": 1687453
+      "usage_count": 25
     },
     {
       "tag": "#viral",
-      "usage_count": 16,
-      "avg_views": 389634
-    },
-    {
-      "tag": "#depression",
-      "usage_count": 9,
-      "avg_views": 1737676
+      "usage_count": 16
     },
     {
       "tag": "#mentalhealthawareness",
-      "usage_count": 9,
-      "avg_views": 3784252
+      "usage_count": 9
+    },
+    {
+      "tag": "#depression",
+      "usage_count": 9
     },
     {
       "tag": "#blowthisup",
-      "usage_count": 6,
-      "avg_views": 84991
+      "usage_count": 6
     },
     {
       "tag": "#fyp\u30b7\u309aviral",
-      "usage_count": 6,
-      "avg_views": 81145
+      "usage_count": 6
     },
     {
       "tag": "#relatable",
-      "usage_count": 5,
-      "avg_views": 493380
-    },
-    {
-      "tag": "#sad",
-      "usage_count": 5,
-      "avg_views": 25311
+      "usage_count": 5
     },
     {
       "tag": "#real",
-      "usage_count": 5,
-      "avg_views": 349038
+      "usage_count": 5
+    },
+    {
+      "tag": "#sad",
+      "usage_count": 5
     },
     {
       "tag": "#foryoupage",
-      "usage_count": 4,
-      "avg_views": 5067600
-    },
-    {
-      "tag": "#mensmentalhealth",
-      "usage_count": 4,
-      "avg_views": 2391584
+      "usage_count": 4
     },
     {
       "tag": "#fyp\u30b7",
-      "usage_count": 4,
-      "avg_views": 4471175
+      "usage_count": 4
     },
     {
-      "tag": "#awareness",
-      "usage_count": 3,
-      "avg_views": 270045
+      "tag": "#mensmentalhealth",
+      "usage_count": 4
     },
     {
       "tag": "#selflove",
-      "usage_count": 3,
-      "avg_views": 3800000
+      "usage_count": 3
     },
     {
       "tag": "#motivation",
-      "usage_count": 3,
-      "avg_views": 833533
+      "usage_count": 3
     },
     {
-      "tag": "#repost",
-      "usage_count": 2,
-      "avg_views": 2826
+      "tag": "#awareness",
+      "usage_count": 3
     },
     {
-      "tag": "#vent",
-      "usage_count": 2,
-      "avg_views": 1173450
+      "tag": "#anxiety",
+      "usage_count": 2
     },
     {
-      "tag": "#wockst\u2605rz\ud83e\udd87",
-      "usage_count": 2,
-      "avg_views": 3975
-    },
-    {
-      "tag": "#mh",
-      "usage_count": 2,
-      "avg_views": 17313
-    },
-    {
-      "tag": "#realestmf",
-      "usage_count": 2,
-      "avg_views": 191450
+      "tag": "#pain",
+      "usage_count": 2
     },
     {
       "tag": "#depressed",
-      "usage_count": 2,
-      "avg_views": 5823800
+      "usage_count": 2
     },
     {
-      "tag": "#spokenpoetry",
-      "usage_count": 2,
-      "avg_views": 1650000
+      "tag": "#healingjourney",
+      "usage_count": 2
     },
     {
       "tag": "#psychologyfacts",
-      "usage_count": 2,
-      "avg_views": 1564050
+      "usage_count": 2
+    },
+    {
+      "tag": "#spokenpoetry",
+      "usage_count": 2
+    },
+    {
+      "tag": "#vent",
+      "usage_count": 2
+    },
+    {
+      "tag": "#onthisday",
+      "usage_count": 2
     }
   ],
-  "formats": [
-    {
-      "name": "Story / narrative",
-      "avg_engagement": 21.8,
-      "post_count": 2
-    },
-    {
-      "name": "Challenge / trend",
-      "avg_engagement": 18.0,
-      "post_count": 1
-    },
-    {
-      "name": "Question / engagement",
-      "avg_engagement": 7.0,
-      "post_count": 3
-    },
-    {
-      "name": "Educational / tips",
-      "avg_engagement": 5.4,
-      "post_count": 1
-    }
-  ],
-  "trending_sounds": [
-    {
-      "name": "original sound",
-      "usage_count": 49
-    },
-    {
-      "name": "Hate Yourself",
-      "usage_count": 2
-    },
-    {
-      "name": "maybe i should kill myself",
-      "usage_count": 2
-    },
-    {
-      "name": "som original",
-      "usage_count": 2
-    },
-    {
-      "name": "Ambient-style emotional piano",
-      "usage_count": 2
-    },
-    {
-      "name": "Tony Stark monologue",
-      "usage_count": 1
-    },
-    {
-      "name": "original sound - Lonewolf",
-      "usage_count": 1
-    },
-    {
-      "name": "I Promise It Won't Happen Again",
-      "usage_count": 1
-    },
-    {
-      "name": "November Rain",
-      "usage_count": 1
-    },
-    {
-      "name": "Pain that Never goes Away",
-      "usage_count": 1
-    }
-  ],
-  "insights": "Story / narrative content leads with 21.8% avg engagement. \"X things/tips/ways\" hook appears in 3 viral posts. Avg engagement: 16.4%. 97 posts analyzed.",
+  "formats": [],
+  "trending_sounds": [],
+  "insights": "97 posts analyzed. Avg 1,098,938 views.",
   "top_posts": [
     {
-      "author": "@mvntalhealth",
-      "followers": 17500,
-      "caption": "#mentalhealth #relatable #fyp #anxietyattack #foryoupage ",
-      "views": 470400,
-      "likes": 118300,
-      "comments": 222,
-      "shares": 6445,
-      "saves": 20679,
-      "engagement_rate": 30.96,
+      "author": "@roxlmd",
+      "followers": 112500,
+      "caption": "I cried so much watching this scene. \u2639\ufe0f Please check on your friends. Mental health should always be acknowledged. #annehathaway #mentalhealthmatters #mentalhealthawareness #bipolardisorder  #modernlo",
+      "views": 17400000,
+      "likes": 2600000,
+      "comments": 12400,
+      "shares": 106900,
+      "saves": 383140,
+      "engagement_rate": 17.83,
+      "hashtags": [
+        "#annehathaway",
+        "#mentalhealthmatters",
+        "#mentalhealthawareness",
+        "#bipolardisorder",
+        "#modernlove",
+        "#fyp",
+        "#foryoupage",
+        "#fyp\u30b7"
+      ],
+      "posted_date": "2023-02-10",
+      "url": "https://www.tiktok.com/@roxlmd/video/7198351238730173722"
+    },
+    {
+      "author": "@ustheremingtons",
+      "followers": 1000000,
+      "caption": "Me vs my masseuse\u2026 guess who won? Technically.. me at least in a few days. Before postpartum, I experienced chronic depression and anxiety. I\u2019ve been through a lot of trauma and abuse as a kid, and I ",
+      "views": 14400000,
+      "likes": 464300,
+      "comments": 1680,
+      "shares": 11500,
+      "saves": 48657,
+      "engagement_rate": 3.65,
+      "hashtags": [
+        "#guasha",
+        "#chinesemedicine",
+        "#mentalhealthmatters",
+        "#mentalhealthawareness",
+        "#postpartumbody",
+        "#postpartumrecovery",
+        "#postpartumjourney",
+        "#momsover30"
+      ],
+      "posted_date": "2024-07-19",
+      "url": "https://www.tiktok.com/@ustheremingtons/video/7393146375325617439"
+    },
+    {
+      "author": "@mentallyunhealed",
+      "followers": 231100,
+      "caption": "check up on the friend thats always laughing/smiling, were not always okay. :( #fyp #depression #anxiety #pain #heartache #heartbroken #melancholy #depressed #sadtiktok #sadtok #mentallyunstabletingz ",
+      "views": 11600000,
+      "likes": 1600000,
+      "comments": 4302,
+      "shares": 78000,
+      "saves": 338409,
+      "engagement_rate": 17.42,
+      "hashtags": [
+        "#fyp",
+        "#depression",
+        "#anxiety",
+        "#pain",
+        "#heartache",
+        "#heartbroken",
+        "#melancholy",
+        "#depressed"
+      ],
+      "posted_date": "2023-05-13",
+      "url": "https://www.tiktok.com/@mentallyunhealed/video/7232551459563392299"
+    },
+    {
+      "author": "@claudialynne6",
+      "followers": 21100,
+      "caption": "Tag a man you care about. \u2764\ufe0f This doesn\u2019t mean woman don\u2019t struggle too\u2014they do. But today I\u2019m putting focus on the men who suffer in silence. #mensmentalhealth #mensmentalhealthmonth #june #",
+      "views": 9500000,
+      "likes": 972100,
+      "comments": 33300,
+      "shares": 35200,
+      "saves": 121703,
+      "engagement_rate": 12.23,
+      "hashtags": [
+        "#mensmentalhealth",
+        "#mensmentalhealthmonth",
+        "#june"
+      ],
+      "posted_date": "2025-06-04",
+      "url": "https://www.tiktok.com/@claudialynne6/video/7511906053517282565"
+    },
+    {
+      "author": "@laurenjnicole",
+      "followers": 3300000,
+      "caption": "Thought someone else might need to hear this today",
+      "views": 9400000,
+      "likes": 1500000,
+      "comments": 21100,
+      "shares": 143800,
+      "saves": 159844,
+      "engagement_rate": 19.41,
+      "hashtags": [],
+      "posted_date": "2025-07-07",
+      "url": "https://www.tiktok.com/@laurenjnicole/video/7524125165500861727"
+    },
+    {
+      "author": "@clearmind418",
+      "followers": 133800,
+      "caption": "#clearmind #rant #mentalhealth #healingjourney #selflove",
+      "views": 8800000,
+      "likes": 1200000,
+      "comments": 26700,
+      "shares": 84900,
+      "saves": 224321,
+      "engagement_rate": 17.45,
+      "hashtags": [
+        "#clearmind",
+        "#rant",
+        "#mentalhealth",
+        "#healingjourney",
+        "#selflove"
+      ],
+      "posted_date": "2025-10-10",
+      "url": "https://www.tiktok.com/@clearmind418/video/7559582736357264695"
+    },
+    {
+      "author": "@snortlesnicker2.0",
+      "followers": 9260,
+      "caption": "im ready to go.\n#mentalhealth #deppresion #billieeilish #zachbryan #goodnight #letters #room #iloveyou ",
+      "views": 5100000,
+      "likes": 920300,
+      "comments": 2886,
+      "shares": 14400,
+      "saves": 75128,
+      "engagement_rate": 19.86,
       "hashtags": [
         "#mentalhealth",
-        "#relatable",
-        "#fyp",
-        "#anxietyattack",
-        "#foryoupage"
+        "#deppresion",
+        "#billieeilish",
+        "#zachbryan",
+        "#goodnight",
+        "#letters",
+        "#room",
+        "#iloveyou"
       ],
-      "sound": "original sound",
-      "duration": 27,
-      "posted_date": "2026-02-23",
-      "url": "https://www.tiktok.com/@mvntalhealth/video/7610046734089112862"
+      "posted_date": "2025-03-15",
+      "url": "https://www.tiktok.com/@snortlesnicker2.0/video/7481830199898819886"
+    },
+    {
+      "author": "@tracingmind",
+      "followers": 194700,
+      "caption": "\u201cThe Smiling Mask: The Psychology of High-Functioning Depression\u201d\n#SmilingMask\n#HighFunctioningDepression\n#HiddenPain\n#PsychologyFacts\n#mentalhealthmatters ",
+      "views": 2800000,
+      "likes": 350300,
+      "comments": 2781,
+      "shares": 33800,
+      "saves": 76251,
+      "engagement_rate": 16.54,
+      "hashtags": [
+        "#smilingmask",
+        "#highfunctioningdepression",
+        "#hiddenpain",
+        "#psychologyfacts",
+        "#mentalhealthmatters"
+      ],
+      "posted_date": "2025-11-27",
+      "url": "https://www.tiktok.com/@tracingmind/video/7577519383170370846"
+    },
+    {
+      "author": "@minadragonfruit",
+      "followers": 501200,
+      "caption": "Literally it\u2019s always like this #spokenpoetry #spokenword #mentalhealthmatters #fyp #viral ",
+      "views": 2300000,
+      "likes": 384200,
+      "comments": 5022,
+      "shares": 26100,
+      "saves": 82639,
+      "engagement_rate": 21.65,
+      "hashtags": [
+        "#spokenpoetry",
+        "#spokenword",
+        "#mentalhealthmatters",
+        "#fyp",
+        "#viral"
+      ],
+      "posted_date": "2026-03-04",
+      "url": "https://www.tiktok.com/@minadragonfruit/video/7613477352982498582"
     },
     {
       "author": "@theteenspace_",
@@ -291,179 +365,27 @@
         "#theteenspace",
         "#spreadawareness"
       ],
-      "sound": "original sound",
-      "duration": 15,
       "posted_date": "2026-02-07",
       "url": "https://www.tiktok.com/@theteenspace_/video/7604137266675535117"
     },
     {
-      "author": "@nofooddeprssion0",
-      "followers": 40,
-      "caption": "won\u2019t stop #sad #mentalhealth #cantdothisanymore #fyp #repost ",
-      "views": 4691,
-      "likes": 1043,
-      "comments": 11,
-      "shares": 53,
-      "saves": 178,
-      "engagement_rate": 27.39,
+      "author": "@boldmindset1",
+      "followers": 309900,
+      "caption": "Mental health is not a joke, it's a serious issue that affects millions of people every day. \ud83d\udc94\nIf you're struggling, you're not alone. #mentalhealth #selfcare #mentalhealthmatters #strong ",
+      "views": 1700000,
+      "likes": 126900,
+      "comments": 828,
+      "shares": 12700,
+      "saves": 29884,
+      "engagement_rate": 10.02,
       "hashtags": [
-        "#sad",
         "#mentalhealth",
-        "#cantdothisanymore",
-        "#fyp",
-        "#repost"
-      ],
-      "sound": "original sound",
-      "duration": 7,
-      "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@nofooddeprssion0/video/7625698622776118549"
-    },
-    {
-      "author": "@_.unknownprettygirlllll",
-      "followers": 70,
-      "caption": "#blowthisup #fyp\u30b7\u309aviral #drainedasf #mentalhealthmatters ",
-      "views": 5917,
-      "likes": 1253,
-      "comments": 11,
-      "shares": 100,
-      "saves": 231,
-      "engagement_rate": 26.96,
-      "hashtags": [
-        "#blowthisup",
-        "#fyp\u30b7\u309aviral",
-        "#drainedasf",
-        "#mentalhealthmatters"
-      ],
-      "sound": "original sound",
-      "duration": 13,
-      "posted_date": "2026-04-04",
-      "url": "https://www.tiktok.com/@_.unknownprettygirlllll/video/7625036730751520030"
-    },
-    {
-      "author": "@u.dont.know.v",
-      "followers": 17600,
-      "caption": "#fyp #school #mentalhealthmatters #foryoupage ",
-      "views": 1200000,
-      "likes": 292400,
-      "comments": 192,
-      "shares": 4771,
-      "saves": 25334,
-      "engagement_rate": 26.89,
-      "hashtags": [
-        "#fyp",
-        "#school",
+        "#selfcare",
         "#mentalhealthmatters",
-        "#foryoupage"
+        "#strong"
       ],
-      "sound": "original sound",
-      "duration": 10,
-      "posted_date": "2026-04-03",
-      "url": "https://www.tiktok.com/@u.dont.know.v/video/7624642334533127457"
-    },
-    {
-      "author": "@sophsmemorydump",
-      "followers": 1093,
-      "caption": "#fyp#mentalhealth ",
-      "views": 3255,
-      "likes": 741,
-      "comments": 5,
-      "shares": 23,
-      "saves": 101,
-      "engagement_rate": 26.73,
-      "hashtags": [
-        "#fyp",
-        "#mentalhealth"
-      ],
-      "sound": "original sound",
-      "duration": 10,
-      "posted_date": "2026-04-05",
-      "url": "https://www.tiktok.com/@sophsmemorydump/video/7625281392733097236"
-    },
-    {
-      "author": "@usersecret990",
-      "followers": 20800,
-      "caption": "#mentalhealth #relatable #derealization #foryoupage ",
-      "views": 1200000,
-      "likes": 263900,
-      "comments": 216,
-      "shares": 14900,
-      "saves": 40935,
-      "engagement_rate": 26.66,
-      "hashtags": [
-        "#mentalhealth",
-        "#relatable",
-        "#derealization",
-        "#foryoupage"
-      ],
-      "sound": "Tony Stark monologue",
-      "duration": 10,
-      "posted_date": "2026-03-29",
-      "url": "https://www.tiktok.com/@usersecret990/video/7622544289721060628"
-    },
-    {
-      "author": "@happyfamilyxxo",
-      "followers": 292,
-      "caption": "yeah. #reletable #vent #viral #fyp ",
-      "views": 646900,
-      "likes": 139900,
-      "comments": 205,
-      "shares": 6134,
-      "saves": 24232,
-      "engagement_rate": 26.35,
-      "hashtags": [
-        "#reletable",
-        "#vent",
-        "#viral",
-        "#fyp"
-      ],
-      "sound": "Hate Yourself",
-      "duration": 17,
-      "posted_date": "2026-03-17",
-      "url": "https://www.tiktok.com/@happyfamilyxxo/video/7618293816608476438"
-    },
-    {
-      "author": "@x_jf9",
-      "followers": 18800,
-      "caption": "deep thoughts about memories and overthinking.\n#deepthoughts #relatable #mentalhealth #sadthoughts #\u0641\u0636\u0641\u0636\u0647",
-      "views": 730300,
-      "likes": 158000,
-      "comments": 124,
-      "shares": 12000,
-      "saves": 17291,
-      "engagement_rate": 25.66,
-      "hashtags": [
-        "#deepthoughts",
-        "#relatable",
-        "#mentalhealth",
-        "#sadthoughts",
-        "#\u0641\u0636\u0641\u0636\u0647"
-      ],
-      "sound": "original sound - Lonewolf",
-      "duration": 5,
-      "posted_date": "2026-04-02",
-      "url": "https://www.tiktok.com/@x_jf9/video/7624269266912595221"
-    },
-    {
-      "author": "@fatchudliana",
-      "followers": 866,
-      "caption": "can yall tell I was freaking out or did I play it cool #foryou #fyp #shawareness #mentalhealth #likeitup ",
-      "views": 15400,
-      "likes": 3339,
-      "comments": 66,
-      "shares": 61,
-      "saves": 477,
-      "engagement_rate": 25.6,
-      "hashtags": [
-        "#foryou",
-        "#fyp",
-        "#shawareness",
-        "#mentalhealth",
-        "#likeitup"
-      ],
-      "sound": "I Promise It Won't Happen Again",
-      "duration": 37,
-      "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@fatchudliana/video/7625516679891553567"
+      "posted_date": "2023-12-12",
+      "url": "https://www.tiktok.com/@boldmindset1/video/7311834789668080928"
     },
     {
       "author": "@secret_.acount16",
@@ -482,10 +404,448 @@
         "#vent",
         "#makethisgoviral"
       ],
-      "sound": "original sound",
-      "duration": 5,
       "posted_date": "2026-02-16",
       "url": "https://www.tiktok.com/@secret_.acount16/video/7607350304312544542"
+    },
+    {
+      "author": "@herpositivemindset",
+      "followers": 234100,
+      "caption": "Proud of you \u2728 #healingjourney #selflove #mentalhealth #women #survived #proud #motivation ",
+      "views": 1400000,
+      "likes": 58300,
+      "comments": 1522,
+      "shares": 21800,
+      "saves": 19157,
+      "engagement_rate": 7.2,
+      "hashtags": [
+        "#healingjourney",
+        "#selflove",
+        "#mentalhealth",
+        "#women",
+        "#survived",
+        "#proud",
+        "#motivation"
+      ],
+      "posted_date": "2024-01-22",
+      "url": "https://www.tiktok.com/@herpositivemindset/video/7326923236300672302"
+    },
+    {
+      "author": "@drjulie",
+      "followers": 4900000,
+      "caption": "What a mess! \ud83d\ude02 No paper was wasted in the making of this video. All old notes from my new book \ud83d\udcd6 (link in bio)",
+      "views": 1300000,
+      "likes": 154900,
+      "comments": 834,
+      "shares": 3676,
+      "saves": 16073,
+      "engagement_rate": 13.5,
+      "hashtags": [],
+      "posted_date": "2022-09-21",
+      "url": "https://www.tiktok.com/@drjulie/video/7145856157993733382"
+    },
+    {
+      "author": "@doctormyro",
+      "followers": 1100000,
+      "caption": "Depression might not always appear the way you think\n\n\ud83c\udfa5 @kallielunt\n\n#depression #mentalhealth #doctorexplains",
+      "views": 1300000,
+      "likes": 70100,
+      "comments": 1117,
+      "shares": 4708,
+      "saves": 11066,
+      "engagement_rate": 6.69,
+      "hashtags": [
+        "#",
+        "#depression",
+        "#mentalhealth",
+        "#doctorexplains"
+      ],
+      "posted_date": "2025-10-04",
+      "url": "https://www.tiktok.com/@doctormyro/video/7557275701288734007"
+    },
+    {
+      "author": "@u.dont.know.v",
+      "followers": 17600,
+      "caption": "#fyp #school #mentalhealthmatters #foryoupage ",
+      "views": 1200000,
+      "likes": 292400,
+      "comments": 192,
+      "shares": 4771,
+      "saves": 25334,
+      "engagement_rate": 26.89,
+      "hashtags": [
+        "#fyp",
+        "#school",
+        "#mentalhealthmatters",
+        "#foryoupage"
+      ],
+      "posted_date": "2026-04-03",
+      "url": "https://www.tiktok.com/@u.dont.know.v/video/7624642334533127457"
+    },
+    {
+      "author": "@usersecret990",
+      "followers": 20800,
+      "caption": "#mentalhealth #relatable #derealization #foryoupage ",
+      "views": 1200000,
+      "likes": 263900,
+      "comments": 216,
+      "shares": 14900,
+      "saves": 40935,
+      "engagement_rate": 26.66,
+      "hashtags": [
+        "#mentalhealth",
+        "#relatable",
+        "#derealization",
+        "#foryoupage"
+      ],
+      "posted_date": "2026-03-29",
+      "url": "https://www.tiktok.com/@usersecret990/video/7622544289721060628"
+    },
+    {
+      "author": "@authentic.talk",
+      "followers": 1100000,
+      "caption": "The true reality of being depressed. \u2764\ufe0f \n\nCredit: Jim Carrey\n\n#MentalHealth #mentalhealthmatters #MentalHealthAwareness #selflove #real ",
+      "views": 1200000,
+      "likes": 125300,
+      "comments": 615,
+      "shares": 6490,
+      "saves": 22821,
+      "engagement_rate": 12.94,
+      "hashtags": [
+        "#mentalhealth",
+        "#mentalhealthmatters",
+        "#mentalhealthawareness",
+        "#selflove",
+        "#real"
+      ],
+      "posted_date": "2026-01-17",
+      "url": "https://www.tiktok.com/@authentic.talk/video/7596423708311424270"
+    },
+    {
+      "author": "@cd_creates",
+      "followers": 11100,
+      "caption": "you are enough.  #wisdom #fyp #mentalhealth ",
+      "views": 1100000,
+      "likes": 193800,
+      "comments": 156,
+      "shares": 3619,
+      "saves": 32812,
+      "engagement_rate": 20.94,
+      "hashtags": [
+        "#wisdom",
+        "#fyp",
+        "#mentalhealth"
+      ],
+      "posted_date": "2026-02-13",
+      "url": "https://www.tiktok.com/@cd_creates/video/7606433229947587847"
+    },
+    {
+      "author": "@jaiipoetry",
+      "followers": 152200,
+      "caption": "I have been through a lot in my life especially when it comes to my mental health. I recently had a really bad attempt that landed me in the ICU and I believe I was given a second chance at life. My p",
+      "views": 1000000,
+      "likes": 166400,
+      "comments": 1065,
+      "shares": 1184,
+      "saves": 12341,
+      "engagement_rate": 18.1,
+      "hashtags": [
+        "#taysialevy",
+        "#poet",
+        "#writingpoetry",
+        "#spokenpoetry",
+        "#imgonmakeitout",
+        "#gonmakeitout",
+        "#promiseimgonmakeitout",
+        "#imgonnamakeit"
+      ],
+      "posted_date": "2025-07-08",
+      "url": "https://www.tiktok.com/@jaiipoetry/video/7524731268517416197"
+    },
+    {
+      "author": "@respondmotivation",
+      "followers": 134300,
+      "caption": "Mental health is still a big issue in todays world please if you feel like this just talk to someone.\n\n#mentalhealth \n#motivation \n#inspiration ",
+      "views": 814000,
+      "likes": 55800,
+      "comments": 363,
+      "shares": 3524,
+      "saves": 11334,
+      "engagement_rate": 8.72,
+      "hashtags": [
+        "#mentalhealth",
+        "#motivation",
+        "#inspiration"
+      ],
+      "posted_date": "2024-04-16",
+      "url": "https://www.tiktok.com/@respondmotivation/video/7358535962168839456"
+    },
+    {
+      "author": "@themrimpulsive",
+      "followers": 1600000,
+      "caption": "For the one struggling this is your sign that you matter and you\u2019re worth it! #onthisday #mentalhealth #depression #awareness #edutok ",
+      "views": 795600,
+      "likes": 67500,
+      "comments": 677,
+      "shares": 1297,
+      "saves": 12180,
+      "engagement_rate": 10.26,
+      "hashtags": [
+        "#onthisday",
+        "#mentalhealth",
+        "#depression",
+        "#awareness",
+        "#edutok"
+      ],
+      "posted_date": "2025-10-14",
+      "url": "https://www.tiktok.com/@themrimpulsive/video/7561165927820184863"
+    },
+    {
+      "author": "@x_jf9",
+      "followers": 18800,
+      "caption": "deep thoughts about memories and overthinking.\n#deepthoughts #relatable #mentalhealth #sadthoughts #\u0641\u0636\u0641\u0636\u0647",
+      "views": 730300,
+      "likes": 158000,
+      "comments": 124,
+      "shares": 12000,
+      "saves": 17291,
+      "engagement_rate": 25.66,
+      "hashtags": [
+        "#deepthoughts",
+        "#relatable",
+        "#mentalhealth",
+        "#sadthoughts",
+        "#\u0641\u0636\u0641\u0636\u0647"
+      ],
+      "posted_date": "2026-04-02",
+      "url": "https://www.tiktok.com/@x_jf9/video/7624269266912595221"
+    },
+    {
+      "author": "@loneboythegreat",
+      "followers": 487600,
+      "caption": "#loneboythegreat #creatorsearchinsight ",
+      "views": 658700,
+      "likes": 34500,
+      "comments": 165,
+      "shares": 3979,
+      "saves": 4368,
+      "engagement_rate": 6.53,
+      "hashtags": [
+        "#loneboythegreat",
+        "#creatorsearchinsight"
+      ],
+      "posted_date": "2026-03-02",
+      "url": "https://www.tiktok.com/@loneboythegreat/video/7612550725519854869"
+    },
+    {
+      "author": "@happyfamilyxxo",
+      "followers": 292,
+      "caption": "yeah. #reletable #vent #viral #fyp ",
+      "views": 646900,
+      "likes": 139900,
+      "comments": 205,
+      "shares": 6134,
+      "saves": 24232,
+      "engagement_rate": 26.35,
+      "hashtags": [
+        "#reletable",
+        "#vent",
+        "#viral",
+        "#fyp"
+      ],
+      "posted_date": "2026-03-17",
+      "url": "https://www.tiktok.com/@happyfamilyxxo/video/7618293816608476438"
+    },
+    {
+      "author": "@edacccountt",
+      "followers": 2120,
+      "caption": "#mentalhealth #edawarenes #dizzy #faint ",
+      "views": 564200,
+      "likes": 81000,
+      "comments": 365,
+      "shares": 2653,
+      "saves": 12833,
+      "engagement_rate": 17.17,
+      "hashtags": [
+        "#mentalhealth",
+        "#edawarenes",
+        "#dizzy",
+        "#faint"
+      ],
+      "posted_date": "2024-07-12",
+      "url": "https://www.tiktok.com/@edacccountt/video/7390546900753173768"
+    },
+    {
+      "author": "@mvntalhealth",
+      "followers": 17500,
+      "caption": "#mentalhealth #relatable #fyp #anxietyattack #foryoupage ",
+      "views": 470400,
+      "likes": 118300,
+      "comments": 222,
+      "shares": 6445,
+      "saves": 20679,
+      "engagement_rate": 30.96,
+      "hashtags": [
+        "#mentalhealth",
+        "#relatable",
+        "#fyp",
+        "#anxietyattack",
+        "#foryoupage"
+      ],
+      "posted_date": "2026-02-23",
+      "url": "https://www.tiktok.com/@mvntalhealth/video/7610046734089112862"
+    },
+    {
+      "author": "@always.swaggy0",
+      "followers": 1377,
+      "caption": "sound name #mentalhealth #viral ",
+      "views": 433900,
+      "likes": 95200,
+      "comments": 28,
+      "shares": 2473,
+      "saves": 9079,
+      "engagement_rate": 24.61,
+      "hashtags": [
+        "#mentalhealth",
+        "#viral"
+      ],
+      "posted_date": "2026-04-02",
+      "url": "https://www.tiktok.com/@always.swaggy0/video/7624138117917789470"
+    },
+    {
+      "author": "@cha_official4",
+      "followers": 30800,
+      "caption": "sorry guys just been feeling a little depressed lately #sadrelatable #Inchawetrust #makemefamous #loneboythegreat #blowthisup ",
+      "views": 426700,
+      "likes": 61800,
+      "comments": 209,
+      "shares": 4133,
+      "saves": 11387,
+      "engagement_rate": 18.17,
+      "hashtags": [
+        "#sadrelatable",
+        "#inchawetrust",
+        "#makemefamous",
+        "#loneboythegreat",
+        "#blowthisup"
+      ],
+      "posted_date": "2026-02-24",
+      "url": "https://www.tiktok.com/@cha_official4/video/7610279285634518285"
+    },
+    {
+      "author": "@realesst.mff",
+      "followers": 269800,
+      "caption": "#real #realestmf ",
+      "views": 372300,
+      "likes": 48800,
+      "comments": 158,
+      "shares": 4045,
+      "saves": 9507,
+      "engagement_rate": 16.79,
+      "hashtags": [
+        "#real",
+        "#realestmf"
+      ],
+      "posted_date": "2026-03-14",
+      "url": "https://www.tiktok.com/@realesst.mff/video/7617255263069932802"
+    },
+    {
+      "author": "@therapytothepoint",
+      "followers": 764100,
+      "caption": "13 Signs Your Mental Health is Getting Worse. #mentalhealth #mentalhealthmatters #mentalhealthawareness #mentalhealthproblems #mentalhealthissues #mentalhealthdeclining #mentalhealthsupport ",
+      "views": 360000,
+      "likes": 26500,
+      "comments": 755,
+      "shares": 2524,
+      "saves": 6337,
+      "engagement_rate": 10.03,
+      "hashtags": [
+        "#mentalhealth",
+        "#mentalhealthmatters",
+        "#mentalhealthawareness",
+        "#mentalhealthproblems",
+        "#mentalhealthissues",
+        "#mentalhealthdeclining",
+        "#mentalhealthsupport"
+      ],
+      "posted_date": "2024-08-08",
+      "url": "https://www.tiktok.com/@therapytothepoint/video/7400919068636663070"
+    },
+    {
+      "author": "@justpretendudkme",
+      "followers": 660,
+      "caption": "#fyp #mentalhealth #viral #ihatemylife #noonelovesme ",
+      "views": 356400,
+      "likes": 47100,
+      "comments": 98,
+      "shares": 748,
+      "saves": 6418,
+      "engagement_rate": 15.25,
+      "hashtags": [
+        "#fyp",
+        "#mentalhealth",
+        "#viral",
+        "#ihatemylife",
+        "#noonelovesme"
+      ],
+      "posted_date": "2026-02-25",
+      "url": "https://www.tiktok.com/@justpretendudkme/video/7610625782926396702"
+    },
+    {
+      "author": "@leloveur07",
+      "followers": 13500,
+      "caption": "5 Signs You're Breaking Mentally but No One Notices \ud83d\udc94\ud83d\udc94\nYou smile, but you are tired. Most people ignore sign 3 until it's too late. Don't be one of them. Emotional healing /  mental health healing jou",
+      "views": 328100,
+      "likes": 41300,
+      "comments": 2094,
+      "shares": 5407,
+      "saves": 14404,
+      "engagement_rate": 19.26,
+      "hashtags": [
+        "#psychology",
+        "#emotionalhealth",
+        "#mentalhealth",
+        "#emotionalhealing",
+        "#psychologyfacts",
+        "#mentalhealthawareness"
+      ],
+      "posted_date": "2026-02-23",
+      "url": "https://www.tiktok.com/@leloveur07/video/7609804409660263711"
+    },
+    {
+      "author": "@motivationalinsight",
+      "followers": 993500,
+      "caption": "Don\u2019t assume. #pain #motivation #mentalhealth #mentalhealthmatters #hopecore ",
+      "views": 286600,
+      "likes": 39500,
+      "comments": 133,
+      "shares": 1692,
+      "saves": 7632,
+      "engagement_rate": 17.08,
+      "hashtags": [
+        "#pain",
+        "#motivation",
+        "#mentalhealth",
+        "#mentalhealthmatters",
+        "#hopecore"
+      ],
+      "posted_date": "2026-02-25",
+      "url": "https://www.tiktok.com/@motivationalinsight/video/7610596565366885662"
+    },
+    {
+      "author": "@peerhealthexchange",
+      "followers": 55400,
+      "caption": "#MentalHealthAwareness",
+      "views": 279700,
+      "likes": 10000,
+      "comments": 268,
+      "shares": 466,
+      "saves": 1046,
+      "engagement_rate": 4.21,
+      "hashtags": [
+        "#mentalhealthawareness"
+      ],
+      "posted_date": "2021-04-23",
+      "url": "https://www.tiktok.com/@peerhealthexchange/video/6954483424170233093"
     },
     {
       "author": "@zajuniorr",
@@ -503,29 +863,703 @@
         "#fyp\u30b7\u309aviral",
         "#mentalhealth"
       ],
-      "sound": "original sound",
-      "duration": 11,
       "posted_date": "2026-04-01",
       "url": "https://www.tiktok.com/@zajuniorr/video/7623615161433214239"
     },
     {
-      "author": "@user1446712631",
-      "followers": 93,
-      "caption": "#mentalhealthmatters #fyp ",
-      "views": 927,
-      "likes": 221,
-      "comments": 0,
-      "shares": 3,
-      "saves": 12,
-      "engagement_rate": 25.46,
+      "author": "@itslennnie",
+      "followers": 3000000,
+      "caption": "hey, human \ud83e\udd0d what if happiness is RIGHT NOW?!??!?!?! i love you so much #lennnie #mentalhealth #animation ",
+      "views": 234800,
+      "likes": 26800,
+      "comments": 179,
+      "shares": 4842,
+      "saves": 3633,
+      "engagement_rate": 15.1,
       "hashtags": [
+        "#lennnie",
+        "#mentalhealth",
+        "#animation"
+      ],
+      "posted_date": "2024-06-02",
+      "url": "https://www.tiktok.com/@itslennnie/video/7375923803672562987"
+    },
+    {
+      "author": "@user0440712086",
+      "followers": 663,
+      "caption": "#fyp\u30b7 #mentalhealth #mentalhealthmatters #viral ",
+      "views": 233000,
+      "likes": 38500,
+      "comments": 154,
+      "shares": 2589,
+      "saves": 7712,
+      "engagement_rate": 21.01,
+      "hashtags": [
+        "#fyp\u30b7",
+        "#mentalhealth",
         "#mentalhealthmatters",
+        "#viral"
+      ],
+      "posted_date": "2026-02-27",
+      "url": "https://www.tiktok.com/@user0440712086/video/7611380288521784606"
+    },
+    {
+      "author": "@blakeoftoday",
+      "followers": 329100,
+      "caption": "What is your go-to tiny desk? #macmiller #tinydesk #storytelling #grief ",
+      "views": 217000,
+      "likes": 35100,
+      "comments": 210,
+      "shares": 1731,
+      "saves": 7613,
+      "engagement_rate": 20.58,
+      "hashtags": [
+        "#macmiller",
+        "#tinydesk",
+        "#storytelling",
+        "#grief"
+      ],
+      "posted_date": "2024-06-13",
+      "url": "https://www.tiktok.com/@blakeoftoday/video/7380131685410655519"
+    },
+    {
+      "author": "@josh_wya1",
+      "followers": 610,
+      "caption": "#fyp #fyp\u30b7\u309aviral #mentalhealth #joebartolozzi #fyp\u30b7 ",
+      "views": 196800,
+      "likes": 26700,
+      "comments": 113,
+      "shares": 1296,
+      "saves": 6194,
+      "engagement_rate": 17.43,
+      "hashtags": [
+        "#fyp",
+        "#fyp\u30b7\u309aviral",
+        "#mentalhealth",
+        "#joebartolozzi",
+        "#fyp\u30b7"
+      ],
+      "posted_date": "2026-01-17",
+      "url": "https://www.tiktok.com/@josh_wya1/video/7596154718083190029"
+    },
+    {
+      "author": "@maura_hurley",
+      "followers": 20400,
+      "caption": "Wanted to speak on this #mentalhealth #depression #yap #real #fyp ",
+      "views": 161600,
+      "likes": 29400,
+      "comments": 233,
+      "shares": 583,
+      "saves": 5062,
+      "engagement_rate": 21.83,
+      "hashtags": [
+        "#mentalhealth",
+        "#depression",
+        "#yap",
+        "#real",
         "#fyp"
       ],
-      "sound": "original sound",
-      "duration": 9,
+      "posted_date": "2026-03-27",
+      "url": "https://www.tiktok.com/@maura_hurley/video/7621749675904765215"
+    },
+    {
+      "author": "@victoriagarrickbrowne",
+      "followers": 1400000,
+      "caption": "consider it devoured \ud83d\ude0b follow for more! #intuitiveeating #edrecocery #mindfuleating",
+      "views": 147800,
+      "likes": 13600,
+      "comments": 31,
+      "shares": 36,
+      "saves": 246,
+      "engagement_rate": 9.41,
+      "hashtags": [
+        "#intuitiveeating",
+        "#edrecocery",
+        "#mindfuleating"
+      ],
+      "posted_date": "2024-06-02",
+      "url": "https://www.tiktok.com/@victoriagarrickbrowne/video/7376054757242309931"
+    },
+    {
+      "author": "@noname_8944",
+      "followers": 974,
+      "caption": "#\ud83e\udeb0 #emojimeaning #mentalhealth #fyp #viral ",
+      "views": 128800,
+      "likes": 18100,
+      "comments": 110,
+      "shares": 788,
+      "saves": 2196,
+      "engagement_rate": 16.45,
+      "hashtags": [
+        "#emojimeaning",
+        "#mentalhealth",
+        "#fyp",
+        "#viral"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.tiktok.com/@noname_8944/video/7625244161716882720"
+    },
+    {
+      "author": "@thekoreanvegan",
+      "followers": 3000000,
+      "caption": "In my opinion, there are only two situations in which it may be appropriate to comment upon a persons\u2019s body size:\n\n\u2014if they agree to talk about it with you\n\u2014if such a conversation may literally save ",
+      "views": 111300,
+      "likes": 12700,
+      "comments": 72,
+      "shares": 71,
+      "saves": 365,
+      "engagement_rate": 11.87,
+      "hashtags": [
+        "#fatphobia",
+        "#baking",
+        "#desserts",
+        "#cookingstorytime",
+        "#vegan"
+      ],
+      "posted_date": "2024-08-30",
+      "url": "https://www.tiktok.com/@thekoreanvegan/video/7409072045125913886"
+    },
+    {
+      "author": "@victoriagarrickbrowne",
+      "followers": 1400000,
+      "caption": "A quick mental health tip to remind yourself to embrace the REAL you. This realization is game-changing \ud83e\udd2f @aerie #AerieREAL #AeriePartner ",
+      "views": 95400,
+      "likes": 4367,
+      "comments": 39,
+      "shares": 105,
+      "saves": 644,
+      "engagement_rate": 5.4,
+      "hashtags": [
+        "#",
+        "#aeriereal",
+        "#aeriepartner"
+      ],
+      "posted_date": "2024-06-07",
+      "url": "https://www.tiktok.com/@victoriagarrickbrowne/video/7377885676399873311"
+    },
+    {
+      "author": "@kidshelpphone",
+      "followers": 1486,
+      "caption": "It\u2019s OK not to feel OK. Kids Help Phone\u2019s team is here for you 24/7. #mentalhealth #mentalhealthmatters #mentalhealthawareness #mentalhealthtiktoks",
+      "views": 78300,
+      "likes": 1682,
+      "comments": 23,
+      "shares": 31,
+      "saves": 173,
+      "engagement_rate": 2.44,
+      "hashtags": [
+        "#mentalhealth",
+        "#mentalhealthmatters",
+        "#mentalhealthawareness",
+        "#mentalhealthtiktoks"
+      ],
+      "posted_date": "2021-09-08",
+      "url": "https://www.tiktok.com/@kidshelpphone/video/7005593747924864262"
+    },
+    {
+      "author": "@thepsychdoctormd",
+      "followers": 1100000,
+      "caption": "How many of you are doing one right now?? \n\n#drsasha #adhd #skinpicking ",
+      "views": 74000,
+      "likes": 2794,
+      "comments": 95,
+      "shares": 362,
+      "saves": 818,
+      "engagement_rate": 5.5,
+      "hashtags": [
+        "#drsasha",
+        "#adhd",
+        "#skinpicking"
+      ],
+      "posted_date": "2024-08-19",
+      "url": "https://www.tiktok.com/@thepsychdoctormd/video/7404835800682122526"
+    },
+    {
+      "author": "@marchofdimes",
+      "followers": 13800,
+      "caption": "What do you want to know about #postpartumdepression? Tell us in the comments. #SuicidePreventionDay #MentalHealthMatters",
+      "views": 65200,
+      "likes": 1067,
+      "comments": 19,
+      "shares": 52,
+      "saves": 81,
+      "engagement_rate": 1.87,
+      "hashtags": [
+        "#postpartumdepression?",
+        "#suicidepreventionday",
+        "#mentalhealthmatters"
+      ],
+      "posted_date": "2021-09-10",
+      "url": "https://www.tiktok.com/@marchofdimes/video/7006390064376761605"
+    },
+    {
+      "author": "@glitterlms",
+      "followers": 154,
+      "caption": "#fyp #mentalhealth #sad #viral #depression ",
+      "views": 65100,
+      "likes": 11800,
+      "comments": 16,
+      "shares": 199,
+      "saves": 1314,
+      "engagement_rate": 20.47,
+      "hashtags": [
+        "#fyp",
+        "#mentalhealth",
+        "#sad",
+        "#viral",
+        "#depression"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@glitterlms/video/7625595462845730055"
+    },
+    {
+      "author": "@madeofmillions",
+      "followers": 400200,
+      "caption": "Today marks the start of #nationalsuicideprevention week, so let\u2019s talk about suicide awareness and language \ud83d\udda4 #learnontiktok #mentalhealth",
+      "views": 59200,
+      "likes": 3066,
+      "comments": 42,
+      "shares": 121,
+      "saves": 376,
+      "engagement_rate": 6.09,
+      "hashtags": [
+        "#nationalsuicideprevention",
+        "#learnontiktok",
+        "#mentalhealth"
+      ],
+      "posted_date": "2021-09-05",
+      "url": "https://www.tiktok.com/@madeofmillions/video/7004492159047060742"
+    },
+    {
+      "author": "@zoeyo701",
+      "followers": 753,
+      "caption": "i\u2019ll be back.\ud83d\ude43 #fyp #mentalhealth #viral #fyp\u30b7 #blowthisup ",
+      "views": 54900,
+      "likes": 8832,
+      "comments": 518,
+      "shares": 54,
+      "saves": 1171,
+      "engagement_rate": 19.26,
+      "hashtags": [
+        "#fyp",
+        "#mentalhealth",
+        "#viral",
+        "#fyp\u30b7",
+        "#blowthisup"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.tiktok.com/@zoeyo701/video/7625380437011041550"
+    },
+    {
+      "author": "@secrett.24hi",
+      "followers": 31,
+      "caption": "#fyp #relatable #sad #mentalhealth #viral ",
+      "views": 52600,
+      "likes": 10700,
+      "comments": 11,
+      "shares": 267,
+      "saves": 1599,
+      "engagement_rate": 23.91,
+      "hashtags": [
+        "#fyp",
+        "#relatable",
+        "#sad",
+        "#mentalhealth",
+        "#viral"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.tiktok.com/@secrett.24hi/video/7625405956389670162"
+    },
+    {
+      "author": "@xybgdvc",
+      "followers": 76,
+      "caption": "#depressed #mhmatters #sharm #mentalhealth #xybgdvc ",
+      "views": 47600,
+      "likes": 8652,
+      "comments": 11,
+      "shares": 258,
+      "saves": 1666,
+      "engagement_rate": 22.24,
+      "hashtags": [
+        "#depressed",
+        "#mhmatters",
+        "#sharm",
+        "#mentalhealth",
+        "#xybgdvc"
+      ],
+      "posted_date": "2026-04-04",
+      "url": "https://www.tiktok.com/@xybgdvc/video/7624693989907713293"
+    },
+    {
+      "author": "@hotpotato676769",
+      "followers": 14,
+      "caption": "I wouldn\u2019t wish GAD on anyone it\u2019s horrible. #fyp #generalizedanxietydisorder #postideas #viral #mentalhealthmatters ",
+      "views": 38300,
+      "likes": 6416,
+      "comments": 20,
+      "shares": 218,
+      "saves": 948,
+      "engagement_rate": 19.85,
+      "hashtags": [
+        "#fyp",
+        "#generalizedanxietydisorder",
+        "#postideas",
+        "#viral",
+        "#mentalhealthmatters"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.tiktok.com/@hotpotato676769/video/7625269467315965191"
+    },
+    {
+      "author": "@eswift95",
+      "followers": 156800,
+      "caption": "please don\u2019t watch it you\u2019re having a bad day I don\u2019t want you to take on anymore, but just a little insight into what mental illness looks like for me, may go offline for a couple of days just to cle",
+      "views": 38300,
+      "likes": 2693,
+      "comments": 215,
+      "shares": 16,
+      "saves": 50,
+      "engagement_rate": 7.77,
+      "hashtags": [],
+      "posted_date": "2022-05-26",
+      "url": "https://www.tiktok.com/@eswift95/video/7101936830240640257"
+    },
+    {
+      "author": "@kingscommunity",
+      "followers": 972800,
+      "caption": "Comment \u201cking\u201d if you been there or are there rn \ud83d\udc51\n\n#kingscommunity #niceguysfinishlast #mensmentalhealth #mensmentalhealthmatters #mensmentalhealthawareness ",
+      "views": 33200,
+      "likes": 3143,
+      "comments": 136,
+      "shares": 417,
+      "saves": 915,
+      "engagement_rate": 13.89,
+      "hashtags": [
+        "#kingscommunity",
+        "#niceguysfinishlast",
+        "#mensmentalhealth",
+        "#mensmentalhealthmatters",
+        "#mensmentalhealthawareness"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.tiktok.com/@kingscommunity/video/7625406844776811807"
+    },
+    {
+      "author": "@evan.the.counselor",
+      "followers": 1100000,
+      "caption": "Did you know these are the most dangers of the #mentalhealth #trauma and #addiction related disorders. #bpdtiktok ",
+      "views": 32800,
+      "likes": 1404,
+      "comments": 26,
+      "shares": 80,
+      "saves": 229,
+      "engagement_rate": 5.3,
+      "hashtags": [
+        "#mentalhealth",
+        "#trauma",
+        "#addiction",
+        "#bpdtiktok"
+      ],
       "posted_date": "2026-04-07",
-      "url": "https://www.tiktok.com/@user1446712631/video/7625883037451963678"
+      "url": "https://www.tiktok.com/@evan.the.counselor/video/7625803294807575839"
+    },
+    {
+      "author": "@mental.health.hub861",
+      "followers": 1881,
+      "caption": "Mental Health is one of the biggest killers\ud83d\udda4\n\n#mentalheathawareness #mentalhealthhub #MindfulLiving #MentalWellness #MentalHealthMatters #ItsOkayToNotBeOkay #mentalbreakdown #mentalillness #struggles ",
+      "views": 31000,
+      "likes": 1264,
+      "comments": 128,
+      "shares": 252,
+      "saves": 201,
+      "engagement_rate": 5.95,
+      "hashtags": [
+        "#mentalheathawareness",
+        "#mentalhealthhub",
+        "#mindfulliving",
+        "#mentalwellness",
+        "#mentalhealthmatters",
+        "#itsokaytonotbeokay",
+        "#mentalbreakdown",
+        "#mentalillness"
+      ],
+      "posted_date": "2024-11-21",
+      "url": "https://www.tiktok.com/@mental.health.hub861/video/7439789072572222752"
+    },
+    {
+      "author": "@love_olderwomen",
+      "followers": 32,
+      "caption": "It took a while, but I made it. Sometimes there are still ups and downs, but I didn't give up! \n#xyzabc \n#viralll \n#mentalhealth \n#mentalhealthmatters \n#1yearcleanfromsh ",
+      "views": 30300,
+      "likes": 1796,
+      "comments": 315,
+      "shares": 15,
+      "saves": 129,
+      "engagement_rate": 7.44,
+      "hashtags": [
+        "#xyzabc",
+        "#viralll",
+        "#mentalhealth",
+        "#mentalhealthmatters",
+        "#1yearcleanfromsh"
+      ],
+      "posted_date": "2026-04-01",
+      "url": "https://www.tiktok.com/@love_olderwomen/video/7623929078147484960"
+    },
+    {
+      "author": "@liambridge30",
+      "followers": 1987,
+      "caption": "#fackfriends #sadstory #mh #mensmentalhealth ",
+      "views": 30200,
+      "likes": 5408,
+      "comments": 16,
+      "shares": 594,
+      "saves": 942,
+      "engagement_rate": 23.05,
+      "hashtags": [
+        "#fackfriends",
+        "#sadstory",
+        "#mh",
+        "#mensmentalhealth"
+      ],
+      "posted_date": "2026-03-31",
+      "url": "https://www.tiktok.com/@liambridge30/video/7623334221217565972"
+    },
+    {
+      "author": "@h0p3.sh4tt3r3d",
+      "followers": 3080,
+      "caption": "#fyp #mentalhealth #quotes #hurtingdeeply #sunsetquotes ",
+      "views": 25000,
+      "likes": 3244,
+      "comments": 24,
+      "shares": 222,
+      "saves": 444,
+      "engagement_rate": 15.74,
+      "hashtags": [
+        "#fyp",
+        "#mentalhealth",
+        "#quotes",
+        "#hurtingdeeply",
+        "#sunsetquotes"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@h0p3.sh4tt3r3d/video/7625597163430595860"
+    },
+    {
+      "author": "@.xbellaspam1",
+      "followers": 119,
+      "caption": "this is kinda cringe #fyp #mentalhealthmatters ",
+      "views": 23100,
+      "likes": 1517,
+      "comments": 32,
+      "shares": 53,
+      "saves": 300,
+      "engagement_rate": 8.23,
+      "hashtags": [
+        "#fyp",
+        "#mentalhealthmatters"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@.xbellaspam1/video/7625756471535422742"
+    },
+    {
+      "author": "@itsamymillie",
+      "followers": 871900,
+      "caption": "\ud83d\udc8c #mentalhealthmatters #yougotthis #motivationalvideo",
+      "views": 22900,
+      "likes": 2078,
+      "comments": 151,
+      "shares": 69,
+      "saves": 144,
+      "engagement_rate": 10.66,
+      "hashtags": [
+        "#mentalhealthmatters",
+        "#yougotthis",
+        "#motivationalvideo"
+      ],
+      "posted_date": "2021-10-07",
+      "url": "https://www.tiktok.com/@itsamymillie/video/7016334916329721093"
+    },
+    {
+      "author": "@fatchudliana",
+      "followers": 866,
+      "caption": "can yall tell I was freaking out or did I play it cool #foryou #fyp #shawareness #mentalhealth #likeitup ",
+      "views": 15400,
+      "likes": 3339,
+      "comments": 66,
+      "shares": 61,
+      "saves": 477,
+      "engagement_rate": 25.6,
+      "hashtags": [
+        "#foryou",
+        "#fyp",
+        "#shawareness",
+        "#mentalhealth",
+        "#likeitup"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@fatchudliana/video/7625516679891553567"
+    },
+    {
+      "author": "@wyo.flock45",
+      "followers": 113,
+      "caption": "Real shi #flockzqoutes #mentalhealth ",
+      "views": 15100,
+      "likes": 2600,
+      "comments": 19,
+      "shares": 182,
+      "saves": 506,
+      "engagement_rate": 21.9,
+      "hashtags": [
+        "#flockzqoutes",
+        "#mentalhealth"
+      ],
+      "posted_date": "2026-04-02",
+      "url": "https://www.tiktok.com/@wyo.flock45/video/7623972501399293197"
+    },
+    {
+      "author": "@mysterious_unknown52",
+      "followers": 113,
+      "caption": "#fyp\u30b7\u309aviral #fyp #viral #blowthisup #relateable ",
+      "views": 14800,
+      "likes": 2785,
+      "comments": 6,
+      "shares": 62,
+      "saves": 402,
+      "engagement_rate": 21.99,
+      "hashtags": [
+        "#fyp\u30b7\u309aviral",
+        "#fyp",
+        "#viral",
+        "#blowthisup",
+        "#relateable"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@mysterious_unknown52/video/7625447107402517791"
+    },
+    {
+      "author": "@hai_spams09",
+      "followers": 155,
+      "caption": "#yelling #mentalhealth #relatable ",
+      "views": 13600,
+      "likes": 3059,
+      "comments": 2,
+      "shares": 63,
+      "saves": 264,
+      "engagement_rate": 24.91,
+      "hashtags": [
+        "#yelling",
+        "#mentalhealth",
+        "#relatable"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@hai_spams09/video/7625486401349405983"
+    },
+    {
+      "author": "@share.the.struggle",
+      "followers": 116400,
+      "caption": "#mentalhealthawareness swipe left to take our #anxiety #course",
+      "views": 11900,
+      "likes": 471,
+      "comments": 5,
+      "shares": 3,
+      "saves": 33,
+      "engagement_rate": 4.3,
+      "hashtags": [
+        "#mentalhealthawareness",
+        "#anxiety",
+        "#course"
+      ],
+      "posted_date": "2022-05-16",
+      "url": "https://www.tiktok.com/@share.the.struggle/video/7098387107097349418"
+    },
+    {
+      "author": "@rachaelilly",
+      "followers": 53200,
+      "caption": "it\u2019s ok to not be ok, very vulnerable post for me from this morning. i am not looking for attention just spreading awareness that you never know what someone is going through so please be kind. #ruok ",
+      "views": 11600,
+      "likes": 1982,
+      "comments": 12,
+      "shares": 21,
+      "saves": 95,
+      "engagement_rate": 18.19,
+      "hashtags": [
+        "#ruok",
+        "#awareness",
+        "#mentalhealth",
+        "#depression"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@rachaelilly/video/7625872038460263701"
+    },
+    {
+      "author": "@realesst.mff",
+      "followers": 269800,
+      "caption": "#real #realestmf ",
+      "views": 10600,
+      "likes": 2026,
+      "comments": 12,
+      "shares": 74,
+      "saves": 346,
+      "engagement_rate": 23.19,
+      "hashtags": [
+        "#real",
+        "#realestmf"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@realesst.mff/video/7625664326485019926"
+    },
+    {
+      "author": "@adoringauroaaao",
+      "followers": 6,
+      "caption": "#mentalhealth#suicideprevention#suicideawarness#venting #gif ",
+      "views": 10200,
+      "likes": 1631,
+      "comments": 5,
+      "shares": 32,
+      "saves": 247,
+      "engagement_rate": 18.77,
+      "hashtags": [
+        "#mentalhealth",
+        "#suicideprevention",
+        "#suicideawarness",
+        "#venting",
+        "#gif"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@adoringauroaaao/video/7625494888615791886"
+    },
+    {
+      "author": "@missmilliesmama",
+      "followers": 242,
+      "caption": "learn more at anxiousgeneration.com #fyp #mentalhealth #mentalhealthadvocate ",
+      "views": 6675,
+      "likes": 842,
+      "comments": 20,
+      "shares": 6,
+      "saves": 24,
+      "engagement_rate": 13.36,
+      "hashtags": [
+        "#fyp",
+        "#mentalhealth",
+        "#mentalhealthadvocate"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@missmilliesmama/video/7625799765787217182"
+    },
+    {
+      "author": "@journalwithace",
+      "followers": 465700,
+      "caption": "mental health ruined my life",
+      "views": 6539,
+      "likes": 1073,
+      "comments": 13,
+      "shares": 30,
+      "saves": 159,
+      "engagement_rate": 19.5,
+      "hashtags": [],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@journalwithace/video/7625899542227012878"
     },
     {
       "author": "@.accountnotfound509",
@@ -544,30 +1578,451 @@
         "#dontletthisflop",
         "#wockst\u2605rz\ud83e\udd87"
       ],
-      "sound": "original sound",
-      "duration": 11,
       "posted_date": "2026-04-06",
       "url": "https://www.tiktok.com/@.accountnotfound509/video/7625731809141067021"
     },
     {
-      "author": "@hai_spams09",
-      "followers": 155,
-      "caption": "#yelling #mentalhealth #relatable ",
-      "views": 13600,
-      "likes": 3059,
-      "comments": 2,
-      "shares": 63,
-      "saves": 264,
-      "engagement_rate": 24.91,
+      "author": "@_.unknownprettygirlllll",
+      "followers": 70,
+      "caption": "#blowthisup #fyp\u30b7\u309aviral #drainedasf #mentalhealthmatters ",
+      "views": 5917,
+      "likes": 1253,
+      "comments": 11,
+      "shares": 100,
+      "saves": 231,
+      "engagement_rate": 26.96,
       "hashtags": [
-        "#yelling",
-        "#mentalhealth",
-        "#relatable"
+        "#blowthisup",
+        "#fyp\u30b7\u309aviral",
+        "#drainedasf",
+        "#mentalhealthmatters"
       ],
-      "sound": "November Rain",
-      "duration": 9,
+      "posted_date": "2026-04-04",
+      "url": "https://www.tiktok.com/@_.unknownprettygirlllll/video/7625036730751520030"
+    },
+    {
+      "author": "@antpostss",
+      "followers": 37300,
+      "caption": "#stephoncastle #fyp #mentalhealth #depressionanxiety #trending ",
+      "views": 5381,
+      "likes": 809,
+      "comments": 2,
+      "shares": 41,
+      "saves": 119,
+      "engagement_rate": 18.04,
+      "hashtags": [
+        "#stephoncastle",
+        "#fyp",
+        "#mentalhealth",
+        "#depressionanxiety",
+        "#trending"
+      ],
       "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@hai_spams09/video/7625486401349405983"
+      "url": "https://www.tiktok.com/@antpostss/video/7625763700502236447"
+    },
+    {
+      "author": "@user7391739262",
+      "followers": 102,
+      "caption": "#fyp #mentalhealth ",
+      "views": 4847,
+      "likes": 834,
+      "comments": 1,
+      "shares": 15,
+      "saves": 81,
+      "engagement_rate": 19.21,
+      "hashtags": [
+        "#fyp",
+        "#mentalhealth"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@user7391739262/video/7625626312782236935"
+    },
+    {
+      "author": "@nofooddeprssion0",
+      "followers": 40,
+      "caption": "won\u2019t stop #sad #mentalhealth #cantdothisanymore #fyp #repost ",
+      "views": 4691,
+      "likes": 1043,
+      "comments": 11,
+      "shares": 53,
+      "saves": 178,
+      "engagement_rate": 27.39,
+      "hashtags": [
+        "#sad",
+        "#mentalhealth",
+        "#cantdothisanymore",
+        "#fyp",
+        "#repost"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@nofooddeprssion0/video/7625698622776118549"
+    },
+    {
+      "author": "@secret.x382",
+      "followers": 273,
+      "caption": "#fyp #mentalhealth #viral #foryoup #relatable? ",
+      "views": 4669,
+      "likes": 701,
+      "comments": 4,
+      "shares": 28,
+      "saves": 97,
+      "engagement_rate": 17.78,
+      "hashtags": [
+        "#fyp",
+        "#mentalhealth",
+        "#viral",
+        "#foryoup",
+        "#relatable?"
+      ],
+      "posted_date": "2026-04-03",
+      "url": "https://www.tiktok.com/@secret.x382/video/7624673221807295766"
+    },
+    {
+      "author": "@vent.27345",
+      "followers": 5,
+      "caption": "Sound#mh #depression #mentalhealthmatters #mentalhealth #fyp ",
+      "views": 4427,
+      "likes": 898,
+      "comments": 2,
+      "shares": 12,
+      "saves": 127,
+      "engagement_rate": 23.47,
+      "hashtags": [
+        "#mh",
+        "#depression",
+        "#mentalhealthmatters",
+        "#mentalhealth",
+        "#fyp"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@vent.27345/video/7625552956229684501"
+    },
+    {
+      "author": "@sophsmemorydump",
+      "followers": 1093,
+      "caption": "#fyp#mentalhealth ",
+      "views": 3255,
+      "likes": 741,
+      "comments": 5,
+      "shares": 23,
+      "saves": 101,
+      "engagement_rate": 26.73,
+      "hashtags": [
+        "#fyp",
+        "#mentalhealth"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.tiktok.com/@sophsmemorydump/video/7625281392733097236"
+    },
+    {
+      "author": "@sofiamagzebras",
+      "followers": 3469,
+      "caption": "Still feeling this way. #foryoupag\u0435 #outfits #mentalhealth #mentalhealthmatters ",
+      "views": 3195,
+      "likes": 473,
+      "comments": 22,
+      "shares": 6,
+      "saves": 17,
+      "engagement_rate": 16.21,
+      "hashtags": [
+        "#foryoupag\u0435",
+        "#outfits",
+        "#mentalhealth",
+        "#mentalhealthmatters"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@sofiamagzebras/video/7625681074361847073"
+    },
+    {
+      "author": "@yooooo4908",
+      "followers": 3,
+      "caption": "#mentalhealth #struggling #lastyear #mentally #loosingmymind ",
+      "views": 2982,
+      "likes": 432,
+      "comments": 1,
+      "shares": 10,
+      "saves": 63,
+      "engagement_rate": 16.97,
+      "hashtags": [
+        "#mentalhealth",
+        "#struggling",
+        "#lastyear",
+        "#mentally",
+        "#loosingmymind"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@yooooo4908/video/7625651906190314773"
+    },
+    {
+      "author": "@karl.secretacc",
+      "followers": 556,
+      "caption": "Ts is so short but genuinely you matter no matter who you are #fyp #awareness #mentalhealth #mensmentalhealth #viral ",
+      "views": 2936,
+      "likes": 314,
+      "comments": 7,
+      "shares": 3,
+      "saves": 23,
+      "engagement_rate": 11.82,
+      "hashtags": [
+        "#fyp",
+        "#awareness",
+        "#mentalhealth",
+        "#mensmentalhealth",
+        "#viral"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@karl.secretacc/video/7625607746036993302"
+    },
+    {
+      "author": "@trent.williams46",
+      "followers": 1466,
+      "caption": "#gone #overthinker #fyp #quote #sad ",
+      "views": 2699,
+      "likes": 328,
+      "comments": 2,
+      "shares": 12,
+      "saves": 48,
+      "engagement_rate": 14.45,
+      "hashtags": [
+        "#gone",
+        "#overthinker",
+        "#fyp",
+        "#quote",
+        "#sad"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@trent.williams46/video/7625784386553728287"
+    },
+    {
+      "author": "@realtalkz41",
+      "followers": 27,
+      "caption": "life happens ig#fyp #realtalks #wockst\u2605rz #wockst\u2605rz\ud83e\udd87 #sad ",
+      "views": 1465,
+      "likes": 254,
+      "comments": 2,
+      "shares": 5,
+      "saves": 45,
+      "engagement_rate": 20.89,
+      "hashtags": [
+        "#fyp",
+        "#realtalks",
+        "#wockst\u2605rz",
+        "#wockst\u2605rz\ud83e\udd87",
+        "#sad"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@realtalkz41/video/7625804726348582166"
+    },
+    {
+      "author": "@.idk_secret_acc",
+      "followers": 92,
+      "caption": "anyways\u2026 #mentalhealth #makemefamous #blowthisup #viral #fyp ",
+      "views": 1144,
+      "likes": 153,
+      "comments": 0,
+      "shares": 2,
+      "saves": 8,
+      "engagement_rate": 14.25,
+      "hashtags": [
+        "#mentalhealth",
+        "#makemefamous",
+        "#blowthisup",
+        "#viral",
+        "#fyp"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@.idk_secret_acc/video/7626028483784969493"
+    },
+    {
+      "author": "@djoy.xx",
+      "followers": 135,
+      "caption": "Please put yourself first for once! #mentalhealth #mentalhealthmatters #mentality #friends ",
+      "views": 1098,
+      "likes": 181,
+      "comments": 0,
+      "shares": 3,
+      "saves": 4,
+      "engagement_rate": 17.12,
+      "hashtags": [
+        "#mentalhealth",
+        "#mentalhealthmatters",
+        "#mentality",
+        "#friends"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@djoy.xx/video/7625768978211818774"
+    },
+    {
+      "author": "@maddiesspam275",
+      "followers": 16,
+      "caption": "#mentalhealthmatters #mhawareness #xyzabc #fyppppppppppppppppppppppp #fyp\u30b7\u309aviral ",
+      "views": 1094,
+      "likes": 62,
+      "comments": 2,
+      "shares": 2,
+      "saves": 10,
+      "engagement_rate": 6.95,
+      "hashtags": [
+        "#mentalhealthmatters",
+        "#mhawareness",
+        "#xyzabc",
+        "#fyppppppppppppppppppppppp",
+        "#fyp\u30b7\u309aviral"
+      ],
+      "posted_date": "2026-03-28",
+      "url": "https://www.tiktok.com/@maddiesspam275/video/7622434693341777182"
+    },
+    {
+      "author": "@supersecretaccount..0",
+      "followers": 102,
+      "caption": "#mentalhealth #repost #fyp\u30b7\u309aviral #meathhealthmatters ",
+      "views": 961,
+      "likes": 148,
+      "comments": 10,
+      "shares": 2,
+      "saves": 8,
+      "engagement_rate": 17.48,
+      "hashtags": [
+        "#mentalhealth",
+        "#repost",
+        "#fyp\u30b7\u309aviral",
+        "#meathhealthmatters"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@supersecretaccount..0/video/7625853605551066399"
+    },
+    {
+      "author": "@user1446712631",
+      "followers": 93,
+      "caption": "#mentalhealthmatters #fyp ",
+      "views": 927,
+      "likes": 221,
+      "comments": 0,
+      "shares": 3,
+      "saves": 12,
+      "engagement_rate": 25.46,
+      "hashtags": [
+        "#mentalhealthmatters",
+        "#fyp"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@user1446712631/video/7625883037451963678"
+    },
+    {
+      "author": "@themrimpulsive",
+      "followers": 1600000,
+      "caption": "Struggling with mental health and need help healing? Download Fueled Forward and you are not alone in your journey! #onthisday #mentalhealth #depression #edutok #mood",
+      "views": 761,
+      "likes": 53,
+      "comments": 6,
+      "shares": 2,
+      "saves": 1,
+      "engagement_rate": 8.15,
+      "hashtags": [
+        "#onthisday",
+        "#mentalhealth",
+        "#depression",
+        "#edutok",
+        "#mood"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@themrimpulsive/video/7626095988364659982"
+    },
+    {
+      "author": "@kai.8230",
+      "followers": 186,
+      "caption": "#fyp #viral #mentalhealth #mentalhealthmatters #famous ",
+      "views": 702,
+      "likes": 122,
+      "comments": 8,
+      "shares": 5,
+      "saves": 10,
+      "engagement_rate": 20.66,
+      "hashtags": [
+        "#fyp",
+        "#viral",
+        "#mentalhealth",
+        "#mentalhealthmatters",
+        "#famous"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@kai.8230/video/7625849586334141726"
+    },
+    {
+      "author": "@schwaffn",
+      "followers": 24900,
+      "caption": "#real ",
+      "views": 694,
+      "likes": 117,
+      "comments": 1,
+      "shares": 5,
+      "saves": 13,
+      "engagement_rate": 19.6,
+      "hashtags": [
+        "#real"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@schwaffn/video/7626086925329337614"
+    },
+    {
+      "author": "@kyrahlakishaaa",
+      "followers": 180200,
+      "caption": "This video is Raw but everywhere \ud83d\ude2d but yea Ive been just cutting people pff left and right, idk if the BPD but my brain can not process uncertainty\u2026 Like I rather have no body at all than hella people",
+      "views": 312,
+      "likes": 36,
+      "comments": 1,
+      "shares": 1,
+      "saves": 0,
+      "engagement_rate": 12.18,
+      "hashtags": [
+        "#bpdmom",
+        "#bpdtiktok",
+        "#borderlinepersonalitydisorder",
+        "#mentalhealthcheckin",
+        "#fyp"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@kyrahlakishaaa/video/7626042948517465357"
+    },
+    {
+      "author": "@blush7432",
+      "followers": 12600,
+      "caption": "7 SIGNS Your Mental Health is Getting Worse. #mentalhealth #mentalhealthawareness #mentalhealthmatters #mentalhealthdeclining #mentalhealthdeteriorating       ",
+      "views": 271,
+      "likes": 14,
+      "comments": 0,
+      "shares": 0,
+      "saves": 2,
+      "engagement_rate": 5.9,
+      "hashtags": [
+        "#mentalhealth",
+        "#mentalhealthawareness",
+        "#mentalhealthmatters",
+        "#mentalhealthdeclining",
+        "#mentalhealthdeteriorating"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@blush7432/video/7626000203052600607"
+    },
+    {
+      "author": "@tarahanne01",
+      "followers": 14900,
+      "caption": "I\u2019ve been struggling mentally a lot lately and I just keep telling myself do the small things that bring you joy and it\u2019ll get better \ud83d\ude4f\ud83c\udffc\n\n#fyp #struggle #mentalhealth #tiktok #life ",
+      "views": 144,
+      "likes": 10,
+      "comments": 0,
+      "shares": 0,
+      "saves": 1,
+      "engagement_rate": 7.64,
+      "hashtags": [
+        "#fyp",
+        "#struggle",
+        "#mentalhealth",
+        "#tiktok",
+        "#life"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@tarahanne01/video/7626076938859302157"
     }
   ]
 }

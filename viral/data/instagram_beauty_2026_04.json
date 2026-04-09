@@ -4,7 +4,7 @@
   "month": "April",
   "year": 2026,
   "niche": "beauty",
-  "generated_at": "2026-04-07T23:56:38.136034",
+  "generated_at": "2026-04-09T01:56:28.407143",
   "data_points_analyzed": 203,
   "viral_posts_found": 203,
   "hooks": [
@@ -12,14 +12,52 @@
       "pattern": "If you",
       "example_count": 1,
       "example": "If you can relate, you\u2019ve got this!"
-    },
-    {
-      "pattern": "Watch this",
-      "example_count": 1,
-      "example": "This is probably my biggest transformation to date...watch this room go from mouse playground to dream (kid) playroom!"
     }
   ],
-  "best_times": [],
+  "best_times": [
+    {
+      "day": "Saturday",
+      "time": "Peak",
+      "engagement_avg": 542.7,
+      "sample_size": 13
+    },
+    {
+      "day": "Monday",
+      "time": "Peak",
+      "engagement_avg": 440.3,
+      "sample_size": 69
+    },
+    {
+      "day": "Friday",
+      "time": "Peak",
+      "engagement_avg": 281.4,
+      "sample_size": 16
+    },
+    {
+      "day": "Tuesday",
+      "time": "Peak",
+      "engagement_avg": 229.8,
+      "sample_size": 44
+    },
+    {
+      "day": "Wednesday",
+      "time": "Peak",
+      "engagement_avg": 142.7,
+      "sample_size": 14
+    },
+    {
+      "day": "Thursday",
+      "time": "Peak",
+      "engagement_avg": 123.6,
+      "sample_size": 17
+    },
+    {
+      "day": "Sunday",
+      "time": "Peak",
+      "engagement_avg": 116.3,
+      "sample_size": 30
+    }
+  ],
   "hashtags": [
     {
       "tag": "#glowuo",
@@ -46,27 +84,27 @@
       "usage_count": 11
     },
     {
-      "tag": "#reels",
-      "usage_count": 9
-    },
-    {
       "tag": "#skincareroutine",
       "usage_count": 9
     },
     {
-      "tag": "#viral",
-      "usage_count": 8
+      "tag": "#reels",
+      "usage_count": 9
     },
     {
       "tag": "#cuidadodelapiel",
       "usage_count": 8
     },
     {
-      "tag": "#explore",
-      "usage_count": 7
+      "tag": "#viral",
+      "usage_count": 8
     },
     {
       "tag": "#selfcare",
+      "usage_count": 7
+    },
+    {
+      "tag": "#explore",
       "usage_count": 7
     },
     {
@@ -82,10 +120,6 @@
       "usage_count": 6
     },
     {
-      "tag": "#trending",
-      "usage_count": 5
-    },
-    {
       "tag": "#fitness",
       "usage_count": 5
     },
@@ -94,19 +128,23 @@
       "usage_count": 5
     },
     {
-      "tag": "#beautytips",
-      "usage_count": 5
-    },
-    {
       "tag": "#makeuptutorial",
       "usage_count": 5
     },
     {
-      "tag": "#hairstylist",
-      "usage_count": 4
+      "tag": "#beautytips",
+      "usage_count": 5
+    },
+    {
+      "tag": "#trending",
+      "usage_count": 5
     },
     {
       "tag": "#glow",
+      "usage_count": 4
+    },
+    {
+      "tag": "#hairstylist",
       "usage_count": 4
     },
     {
@@ -118,71 +156,24 @@
       "usage_count": 4
     },
     {
-      "tag": "#explorepage",
+      "tag": "#motivation",
       "usage_count": 3
     }
   ],
   "formats": [],
   "trending_sounds": [],
-  "insights": "203 Instagram reels. Avg 24,590 views, 798 likes.",
+  "insights": "203 posts analyzed. Avg 0 views.",
   "top_posts": [
-    {
-      "author": "@glowup_king",
-      "followers": 0,
-      "caption": "\ud83d\ude0ewearing sunglasses protect our eyes from uv damage \n\n\ud83d\ude0euv damage causes our eyes to turn yellow or sometimes brown \n\n\ud83d\ude0ealways wear sunglasses if its sunny day \n\n\ud83d\ude0e we gonna grow together \ud83d\ude0e\n\n.\n.\n.\n.\n:\n.\n",
-      "views": 540292,
-      "likes": -1,
-      "comments": 28,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#explorepage",
-        "#explore",
-        "#reels",
-        "#reelsinstagram",
-        "#trendingreels",
-        "#trending",
-        "#relatable",
-        "#relatablequotes"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2023-06-16",
-      "url": "https://www.instagram.com/p/Ctjg7pSgAfa/"
-    },
-    {
-      "author": "@charlysalvator",
-      "followers": 0,
-      "caption": "CETTE QUALIT\u00c9 DE PEAU !!! \u2728\nEt j\u2019anticipe vos questions : vous trouvez la marque @noblepanacea chez @lebonmarcherivegauche et si vous venez de ma part, le Serum Intense R\u00e9novateur The Absolute format ",
-      "views": 271364,
-      "likes": 3176,
-      "comments": 199,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 1.24,
-      "hashtags": [
-        "#skincare",
-        "#noblepanacea",
-        "#repairreset",
-        "#philippineleroybeaulieu",
-        "#peaumature"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1orMnDE5f/"
-    },
     {
       "author": "@xavicasttr",
       "followers": 0,
       "caption": "No se que pensaba al tomar esa foto, pero lo agradezco jajaja \n.\n.\n.\n.\n.\n.\n.\n.\n.\n#gym #fit #fitness #gymrat #motivation #glowuo #mexico #bodybuilding",
-      "views": 252606,
+      "views": 0,
       "likes": 47959,
       "comments": 97,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 19.02,
+      "engagement_rate": 100.2,
       "hashtags": [
         "#gym",
         "#fit",
@@ -193,21 +184,39 @@
         "#mexico",
         "#bodybuilding"
       ],
-      "sound": "",
-      "duration": 0,
       "posted_date": "2023-06-17",
       "url": "https://www.instagram.com/p/CtmqM1DxMkT/"
+    },
+    {
+      "author": "@sthefanematos",
+      "followers": 0,
+      "caption": "Chegando em casa do trabalho e o fiu ta com virose \ud83e\udd79\n\n.\n. #rotina #makeup #skincareroutine #skincare #beleza",
+      "views": 0,
+      "likes": 5557,
+      "comments": 233,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.19,
+      "hashtags": [
+        "#rotina",
+        "#makeup",
+        "#skincareroutine",
+        "#skincare",
+        "#beleza"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW2JWCXgHJb/"
     },
     {
       "author": "@creamimy",
       "followers": 0,
       "caption": "Glowup Tiana \ud83d\ude0d\n\n#art #disney #disneyfan #disneyworld #artist #artlife #princess #princessdisney #glowuo #glowupdisney #glowupchallenge #transformation #tiana #digitalart",
-      "views": 235685,
+      "views": 0,
       "likes": 4720,
       "comments": 16,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 2.01,
+      "engagement_rate": 100.34,
       "hashtags": [
         "#art",
         "#disney",
@@ -218,107 +227,42 @@
         "#princess",
         "#princessdisney"
       ],
-      "sound": "",
-      "duration": 0,
       "posted_date": "2023-01-31",
       "url": "https://www.instagram.com/p/CoFs14ngZmh/"
     },
     {
-      "author": "@soy_ladiva_",
+      "author": "@morgandanaeslay",
       "followers": 0,
-      "caption": "Yo: \u201crapidito lavo esto\u201d \ud83e\udd2d\nLos pinceles: aparecen muchos de la nada \ud83d\ude2d\ud83d\udc80\n\n\u00bfCU\u00c1NTOS crees que lav\u00e9? \ud83d\udc40\u2728\n\n#ParaTi #Viral #Humor #MomLife #makeupartist",
-      "views": 227525,
-      "likes": 957,
-      "comments": 4,
+      "caption": "\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b @therealprettynerah \ud83c\udf80\n\u2022\n\u2022\n\u2022\n#morgandanaeslay #makeupbyme #makeup #fullfacemakeup #southbeachmakeupartist #birthdaybeat #southbeachmua #miamibridalmua #photoshootmakeup #makeupartist #softglam #na",
+      "views": 0,
+      "likes": 4399,
+      "comments": 57,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 0.42,
+      "engagement_rate": 101.3,
       "hashtags": [
-        "#ParaTi",
-        "#Viral",
-        "#Humor",
-        "#MomLife",
-        "#makeupartist"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzsru0jdny/"
-    },
-    {
-      "author": "@sthefanematos",
-      "followers": 0,
-      "caption": "Chegando em casa do trabalho e o fiu ta com virose \ud83e\udd79\n\n.\n. #rotina #makeup #skincareroutine #skincare #beleza",
-      "views": 179563,
-      "likes": 5557,
-      "comments": 233,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 3.22,
-      "hashtags": [
-        "#rotina",
+        "#morgandanaeslay",
+        "#makeupbyme",
         "#makeup",
-        "#skincareroutine",
-        "#skincare",
-        "#beleza"
+        "#fullfacemakeup",
+        "#southbeachmakeupartist",
+        "#birthdaybeat",
+        "#southbeachmua",
+        "#miamibridalmua"
       ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW2JWCXgHJb/"
-    },
-    {
-      "author": "@dr.nadia.magdi",
-      "followers": 0,
-      "caption": "\u2068\t\u0632\u0631\u0627\u0639\u0629 \u0634\u0639\u0631 \u0641\u064a \u0627\u0644\u0628\u064a\u062a\u061f! \ud83d\ude33\n\u0622\u0647\u2026 \u0648\u0645\u0634 \u0647\u0632\u0627\u0631!\n\u0644\u0648 \u0639\u0646\u062f\u0643 \u0641\u0631\u0627\u063a\u0627\u062a \u0623\u0648 \u0634\u0639\u0631\u0643 \u062e\u0641\u064a\u0641 \u0648\u0628\u062a\u0642\u0639\u064a \u0641\u064a \u062f\u0627\u064a\u0631\u0629 \u0627\u0644\u062a\u0633\u0627\u0642\u0637 \u0643\u0644 \u0634\u0648\u064a\u0629\u2026\n\u064a\u0628\u0642\u0649 \u0644\u0627\u0632\u0645 \u062a\u0641\u0647\u0645\u064a \u0625\u0646 \u0627\u0644\u0645\u0634\u0643\u0644\u0629 \u0645\u0634 \u0641\u064a \u0627\u0644\u0634\u0639\u0631\u2026 \u0627\u0644\u0645\u0634\u0643\u0644\u0629 \u0641\u064a \u0627\u0644\u0628\u0635\u064a\u0644\u0629 \u0646\u0641\u0633\u0647\u0627!\n\u0639\u0634\u0627\u0646 \u0643\u062f\u0647 \u202a@growline.eg\u202c \u0627\u0639\u062a\u0645\u062f\u062a \u0639\u0644\u0649",
-      "views": 164486,
-      "likes": 2137,
-      "comments": 533,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 1.62,
-      "hashtags": [
-        "#skincare",
-        "#haircare",
-        "#hairfall\u2069"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwS7kmsK8P/"
-    },
-    {
-      "author": "@makeupbychantelasic",
-      "followers": 0,
-      "caption": "Behind the scenes of the glam \u2728 \n\nlet\u2019s just say\u2026 things got a little honest \ud83d\udc40 | @giafleurrr \n\nHair @__styledbynina__ \nMakeup @makeupbychantelasic \n\n#MAFS #behindthescenes #softglam #makeupartist #syd",
-      "views": 147802,
-      "likes": 514,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.35,
-      "hashtags": [
-        "#MAFS",
-        "#behindthescenes",
-        "#softglam",
-        "#makeupartist",
-        "#sydneymua"
-      ],
-      "sound": "",
-      "duration": 0,
       "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWyFV46gT3W/"
+      "url": "https://www.instagram.com/p/DWyu9kaDrV9/"
     },
     {
       "author": "@anzzo._",
       "followers": 0,
       "caption": "\ud83d\ude0e\ud83d\udd25 #fitness #anzzo #motivacion #glowuo #cambiofisico",
-      "views": 129814,
+      "views": 0,
       "likes": 3344,
       "comments": 42,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 2.61,
+      "engagement_rate": 101.26,
       "hashtags": [
         "#fitness",
         "#anzzo",
@@ -326,83 +270,408 @@
         "#glowuo",
         "#cambiofisico"
       ],
-      "sound": "",
-      "duration": 0,
       "posted_date": "2023-01-31",
       "url": "https://www.instagram.com/p/CoGSKGIpsjk/"
     },
     {
-      "author": "@kriscid",
+      "author": "@charlysalvator",
       "followers": 0,
-      "caption": "Probando nuevos productos accesibles\u2026 todo lo consegu\u00ed en Target \u2026 Estoy amando los resultados. \n1 limpieza (solo de noche uso los dos. De d\u00eda el azul)\n2 t\u00f3nico. Milky t\u00f3ner \n3 serum con peptidos \n4 c",
-      "views": 105611,
-      "likes": 790,
-      "comments": 16,
+      "caption": "CETTE QUALIT\u00c9 DE PEAU !!! \u2728\nEt j\u2019anticipe vos questions : vous trouvez la marque @noblepanacea chez @lebonmarcherivegauche et si vous venez de ma part, le Serum Intense R\u00e9novateur The Absolute format ",
+      "views": 0,
+      "likes": 3176,
+      "comments": 199,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 0.76,
+      "engagement_rate": 106.27,
       "hashtags": [
-        "#glassskin",
-        "#affordable",
+        "#skincare",
+        "#noblepanacea",
+        "#repairreset",
+        "#philippineleroybeaulieu",
+        "#peaumature"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1orMnDE5f/"
+    },
+    {
+      "author": "@raianeeluiiza",
+      "followers": 0,
+      "caption": "j\u00e1 segue e salvar pra n\u00e3o perde amigas \ud83d\udc98\n\n#dicas #glowup #glowuo #onlygirls",
+      "views": 0,
+      "likes": 3142,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.29,
+      "hashtags": [
+        "#dicas",
+        "#glowup",
+        "#glowuo",
+        "#onlygirls"
+      ],
+      "posted_date": "2023-10-19",
+      "url": "https://www.instagram.com/p/CylzXnIvYIU/"
+    },
+    {
+      "author": "@dr.ainfathmi",
+      "followers": 0,
+      "caption": "Hayooo siapa nih yang rutin skincarean dan  treatment di @shanumskinhealth.official. Fix ya karena kita cerdas\ud83d\ude06! #skincare #treatyourself #skincareroutine #skinhealth",
+      "views": 0,
+      "likes": 2661,
+      "comments": 21,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.79,
+      "hashtags": [
+        "#skincare",
+        "#treatyourself",
+        "#skincareroutine",
+        "#skinhealth"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwd-5Akp5P/"
+    },
+    {
+      "author": "@glowupb0y",
+      "followers": 0,
+      "caption": "Tag that bro @umax.app \n.\n#glowuo",
+      "views": 0,
+      "likes": 2408,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.37,
+      "hashtags": [
+        "#glowuo"
+      ],
+      "posted_date": "2025-06-23",
+      "url": "https://www.instagram.com/p/DLQOBZFMj3T/"
+    },
+    {
+      "author": "@vanessamacch",
+      "followers": 0,
+      "caption": "FAVORITOS DE BELEZA DE MAR\u00c7O\u208a\u02da\u22b9 \u1c14\nSchwarzkopf OSIS Flatliner Spray Protetor @schwarzkopfbr \nElizabeth Arden Body Cream White Tea Mandarin Blossom @elizabetharden \nCaudal\u00ede Vinoperfect Hand Cream (anti",
+      "views": 0,
+      "likes": 2403,
+      "comments": 79,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.29,
+      "hashtags": [
+        "#skincare",
+        "#cabelo",
+        "#beleza",
+        "#beauty",
+        "#makeup"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzQ0HLCDQ_/"
+    },
+    {
+      "author": "@dr.nadia.magdi",
+      "followers": 0,
+      "caption": "\u2068\t\u0632\u0631\u0627\u0639\u0629 \u0634\u0639\u0631 \u0641\u064a \u0627\u0644\u0628\u064a\u062a\u061f! \ud83d\ude33\n\u0622\u0647\u2026 \u0648\u0645\u0634 \u0647\u0632\u0627\u0631!\n\u0644\u0648 \u0639\u0646\u062f\u0643 \u0641\u0631\u0627\u063a\u0627\u062a \u0623\u0648 \u0634\u0639\u0631\u0643 \u062e\u0641\u064a\u0641 \u0648\u0628\u062a\u0642\u0639\u064a \u0641\u064a \u062f\u0627\u064a\u0631\u0629 \u0627\u0644\u062a\u0633\u0627\u0642\u0637 \u0643\u0644 \u0634\u0648\u064a\u0629\u2026\n\u064a\u0628\u0642\u0649 \u0644\u0627\u0632\u0645 \u062a\u0641\u0647\u0645\u064a \u0625\u0646 \u0627\u0644\u0645\u0634\u0643\u0644\u0629 \u0645\u0634 \u0641\u064a \u0627\u0644\u0634\u0639\u0631\u2026 \u0627\u0644\u0645\u0634\u0643\u0644\u0629 \u0641\u064a \u0627\u0644\u0628\u0635\u064a\u0644\u0629 \u0646\u0641\u0633\u0647\u0627!\n\u0639\u0634\u0627\u0646 \u0643\u062f\u0647 \u202a@growline.eg\u202c \u0627\u0639\u062a\u0645\u062f\u062a \u0639\u0644\u0649",
+      "views": 0,
+      "likes": 2137,
+      "comments": 533,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 124.94,
+      "hashtags": [
+        "#skincare",
+        "#haircare",
+        "#hairfall\u2069"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwS7kmsK8P/"
+    },
+    {
+      "author": "@martapons___",
+      "followers": 0,
+      "caption": "Mi top 3 b\u00e1lsamos labiales \u2728 \u00bfHab\u00e9is probado alguno?\n\n#lipbalm #balsamoslabiales #makeup #skincare",
+      "views": 0,
+      "likes": 1994,
+      "comments": 42,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.11,
+      "hashtags": [
+        "#lipbalm",
+        "#balsamoslabiales",
+        "#makeup",
         "#skincare"
       ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwit7QDjOX/"
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzPCt1DD2F/"
+    },
+    {
+      "author": "@vaaaaalo",
+      "followers": 0,
+      "caption": "\u2728 RUTINA ANTIMANCHAS QUE S\u00cd FUNCIONA \u2728 PIEL UNIFORME Y LUMINOSA \ud83d\udd25 @eucerin.mx \nPaso 1\ufe0f\u20e3 \ud83e\uddfc Limpieza inteligente: comienza con el gel limpiador antimanchas para eliminar impurezas, controlar grasa y pre",
+      "views": 0,
+      "likes": 1990,
+      "comments": 53,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.66,
+      "hashtags": [
+        "#skincare",
+        "#manchasenlapiel",
+        "#cuidadodelapiel",
+        "#fyp",
+        "#parati"
+      ],
+      "posted_date": "2026-04-04",
+      "url": "https://www.instagram.com/p/DWuKrLJibic/"
+    },
+    {
+      "author": "@supertoneyan",
+      "followers": 0,
+      "caption": "The day has come \ud83d\udc84\ud83d\udc44\ud83d\udc40\n\n#glowuo #trendingreels #reels #beauty",
+      "views": 0,
+      "likes": 1967,
+      "comments": 26,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.32,
+      "hashtags": [
+        "#glowuo",
+        "#trendingreels",
+        "#reels",
+        "#beauty"
+      ],
+      "posted_date": "2023-08-23",
+      "url": "https://www.instagram.com/p/CwSNFO4rOXf/"
+    },
+    {
+      "author": "@luna._hari",
+      "followers": 0,
+      "caption": "Reqq....\n\nFollow for more\n\nCr to respectfull owner\nDon't repost\n\n#darkcircles#ridofdarkcircles#duyremidy#glowuo#selfcare#selflove#makeuournewversion",
+      "views": 0,
+      "likes": 1896,
+      "comments": 6,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.32,
+      "hashtags": [
+        "#darkcircles",
+        "#ridofdarkcircles",
+        "#duyremidy",
+        "#glowuo",
+        "#selfcare",
+        "#selflove",
+        "#makeuournewversion"
+      ],
+      "posted_date": "2023-08-13",
+      "url": "https://www.instagram.com/p/Cv3wKXpA6mQ/"
     },
     {
       "author": "@soffstrada",
       "followers": 0,
       "caption": "Acomp\u00e1\u00f1ame a tirar pesado pero primero lo primero \ud83d\ude09 \n@garnier.arg.uy \n\n#Garnier \n#SkinCare\n#ParcheInvisibleResultadoVisible\n#AD",
-      "views": 104064,
+      "views": 0,
       "likes": 1846,
       "comments": 6,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 1.78,
+      "engagement_rate": 100.33,
       "hashtags": [
         "#Garnier",
         "#SkinCare",
         "#ParcheInvisibleResultadoVisible",
         "#AD"
       ],
-      "sound": "",
-      "duration": 0,
       "posted_date": "2026-04-05",
       "url": "https://www.instagram.com/p/DWxKIH_jUQO/"
     },
     {
-      "author": "@telugu__health__tips",
+      "author": "@floridafacialist",
       "followers": 0,
-      "caption": "Follow Cheyandi\n\nNote : Videos Clips Used Education Purpose Only\n\nCredit : Respected Owners\n\nTag : @meeshoapp\n\n #telugu #skincare #healthylifestyle #reels",
-      "views": 101197,
-      "likes": 523,
-      "comments": 66,
+      "caption": "Gorgeous setups \u2601\ufe0f\ud83e\uddf4\u2728\nFor my gorgeous girls \ud83e\udef6\ud83c\udffc @circadia\n #facial #esthetician #spa #skincare #glow",
+      "views": 0,
+      "likes": 1725,
+      "comments": 65,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 0.58,
+      "engagement_rate": 103.77,
       "hashtags": [
-        "#telugu",
+        "#facial",
+        "#esthetician",
+        "#spa",
         "#skincare",
-        "#healthylifestyle",
-        "#reels"
+        "#glow"
       ],
-      "sound": "",
-      "duration": 0,
       "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWyjsGKCTvv/"
+      "url": "https://www.instagram.com/p/DWzrBIsDVcB/"
+    },
+    {
+      "author": "@margaret_cho",
+      "followers": 0,
+      "caption": "#beauty #skincare #hrt Gender affirming care is the best! #menopause #pineapple I\u2019m not a doctor and this is not medical advice. Also I take DHEA not DHT I think that\u2019s pesticide!",
+      "views": 0,
+      "likes": 1646,
+      "comments": 117,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 107.11,
+      "hashtags": [
+        "#beauty",
+        "#skincare",
+        "#hrt",
+        "#menopause",
+        "#pineapple"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWznE6okTdJ/"
+    },
+    {
+      "author": "@cutelittlemichi",
+      "followers": 0,
+      "caption": "Such a sucker for a good green\ud83d\ude29\ud83d\udc9a\nThank you melt for this amazing collection! \n@meltcosmetics \n\n#makeuptutorial #makeuplover #makeuptransformation #makeupartist #makeupaddict",
+      "views": 0,
+      "likes": 1620,
+      "comments": 25,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.54,
+      "hashtags": [
+        "#makeuptutorial",
+        "#makeuplover",
+        "#makeuptransformation",
+        "#makeupartist",
+        "#makeupaddict"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0NZN_gKuB/"
+    },
+    {
+      "author": "@marilinazabalo",
+      "followers": 0,
+      "caption": "\ud83c\udf89 SORTEO PARA USTEDES \ud83c\udf89\n\nEste sorteo es especial \ud83e\udd0d\n\nSiempre digo que tengo una comunidad incre\u00edble, pero en este \u00faltimo tiempo lo sent\u00ed m\u00e1s que nunca. Est\u00e1n ah\u00ed, acompa\u00f1ando, preguntando, escribiendo,",
+      "views": 0,
+      "likes": 1581,
+      "comments": 7897,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 599.49,
+      "hashtags": [
+        "#Sorteo",
+        "#Skincare",
+        "#CuidadoDeLaPiel"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWxNBHhERrH/"
+    },
+    {
+      "author": "@sotoneto",
+      "followers": 0,
+      "caption": "Los buenos datos se comparten\n\n#humor #skincare #fyp #viral",
+      "views": 0,
+      "likes": 1569,
+      "comments": 49,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.12,
+      "hashtags": [
+        "#humor",
+        "#skincare",
+        "#fyp",
+        "#viral"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWws3d8vfYi/"
+    },
+    {
+      "author": "@sunnydahye",
+      "followers": 0,
+      "caption": "Stop langsung nutup dark circle pakai concealer \ud83d\ude2d\u274c\nItu malah bikin under eye kamu gampang nge-crack loh!\n\nSini aku kasih tau kuncinya biar tetap fresh tapi tetap ke-cover \u2728\n\n#darkcircles #koreanskinca",
+      "views": 0,
+      "likes": 1461,
+      "comments": 26,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.78,
+      "hashtags": [
+        "#darkcircles",
+        "#koreanskincare",
+        "#kbeauty",
+        "#skincare"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyjEcEzUG6/"
+    },
+    {
+      "author": "@morveskim",
+      "followers": 0,
+      "caption": "Simple elegant look for hubby \ud83d\udc8b\ud83d\udc69\u200d\u2764\ufe0f\u200d\ud83d\udc8b\u200d\ud83d\udc68\n.\n.\n.\n.\n.\n#beauty #makeup #hair #skincare #makeupartist #hairstylist #haircare #beautytips #instamakeup #hairoftheday #makeupoftheday #hairtransformation #natur",
+      "views": 0,
+      "likes": 1443,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.21,
+      "hashtags": [
+        "#beauty",
+        "#makeup",
+        "#hair",
+        "#skincare",
+        "#makeupartist",
+        "#hairstylist",
+        "#haircare",
+        "#beautytips"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzLQZGje_o/"
+    },
+    {
+      "author": "@rodtank.s",
+      "followers": 0,
+      "caption": "Unboxing INGU\n\n\u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13\u0e04\u0e49\u0e32\u0e1a \ud83d\ude4f\ud83c\udffb @inguskin \n\n#ingu #skincare #skincareroutine #tonerpad #mensgrooming",
+      "views": 0,
+      "likes": 1433,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.56,
+      "hashtags": [
+        "#ingu",
+        "#skincare",
+        "#skincareroutine",
+        "#tonerpad",
+        "#mensgrooming"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWx6SmIgAsk/"
+    },
+    {
+      "author": "@taliramos",
+      "followers": 0,
+      "caption": "Pra quem morre de medo de comprar por l\u00e1, aqui a dica de 2 lojas oficiais de skincare l\u00e1 na @shopee_br 100% confi\u00e1veis, sempre reponho os meus produtinhos comprando nelas \ud83e\uddf4\u2728 comenta SKINCARE que te ma",
+      "views": 0,
+      "likes": 1376,
+      "comments": 1867,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 235.68,
+      "hashtags": [
+        "#skincare",
+        "#skincarecoreano",
+        "#dica",
+        "#beleza"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyr5Rmj6FG/"
     },
     {
       "author": "@greenpoint.greece",
       "followers": 0,
       "caption": "\u2728\u2728\u2728 #greenpoint #greenpointapp #fyp #skincare #supermarket",
-      "views": 87304,
+      "views": 0,
       "likes": 1077,
       "comments": 38,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 1.28,
+      "engagement_rate": 103.53,
       "hashtags": [
         "#greenpoint",
         "#greenpointapp",
@@ -410,52 +679,3641 @@
         "#skincare",
         "#supermarket"
       ],
-      "sound": "",
-      "duration": 0,
       "posted_date": "2026-04-05",
       "url": "https://www.instagram.com/p/DWwxl6lCNgK/"
     },
     {
-      "author": "@martapons___",
+      "author": "@mbonilla_artistry",
       "followers": 0,
-      "caption": "Mi top 3 b\u00e1lsamos labiales \u2728 \u00bfHab\u00e9is probado alguno?\n\n#lipbalm #balsamoslabiales #makeup #skincare",
-      "views": 78308,
-      "likes": 1994,
+      "caption": "BEAUTY PROFESSIONALS COME THROUGH!!!\n\nLET'S TALK!!!\n\n#makeupkit  #makeupartist #hairstylist #beauty #education",
+      "views": 0,
+      "likes": 1067,
+      "comments": 218,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 120.43,
+      "hashtags": [
+        "#makeupkit",
+        "#makeupartist",
+        "#hairstylist",
+        "#beauty",
+        "#education"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DWz5IXuDGwV/"
+    },
+    {
+      "author": "@alex_____6263",
+      "followers": 0,
+      "caption": "#trandingreels\u2665\ufe0f #eyeliner #beautiful #instamakeup #makeupartist",
+      "views": 0,
+      "likes": 1045,
       "comments": 42,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 2.6,
+      "engagement_rate": 104.02,
       "hashtags": [
-        "#lipbalm",
-        "#balsamoslabiales",
-        "#makeup",
-        "#skincare"
+        "#trandingreels\u2665\ufe0f",
+        "#eyeliner",
+        "#beautiful",
+        "#instamakeup",
+        "#makeupartist"
       ],
-      "sound": "",
-      "duration": 0,
       "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzPCt1DD2F/"
+      "url": "https://www.instagram.com/p/DWy_tX2D6yH/"
     },
     {
-      "author": "@dr.ainfathmi",
+      "author": "@alexa_manisi",
       "followers": 0,
-      "caption": "Hayooo siapa nih yang rutin skincarean dan  treatment di @shanumskinhealth.official. Fix ya karena kita cerdas\ud83d\ude06! #skincare #treatyourself #skincareroutine #skinhealth",
-      "views": 76174,
-      "likes": 2661,
+      "caption": "EFFETTO GLASS SKIN. PELLE CHE SI ILLUMINA. \u2728\n\nCon la maschera idrogel di L\u2019Or\u00e9al Paris, la tua skincare fa un upgrade! \ud83d\udc9c\nArricchita con acido ialuronico e centella asiatica, idrata in profondit\u00e0 e don",
+      "views": 0,
+      "likes": 1037,
+      "comments": 45,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.34,
+      "hashtags": [
+        "#GlassSkin90Minuti",
+        "#Skin",
+        "#SkinCare",
+        "#InCollaborazioneConLOreal"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWx9DkFjUT4/"
+    },
+    {
+      "author": "@ultimate_beauty.26",
+      "followers": 0,
+      "caption": "#makeupartist #makyaj #d\u00fc\u011f\u00fcn #ke\u015ffetteyim",
+      "views": 0,
+      "likes": 1018,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.1,
+      "hashtags": [
+        "#makeupartist",
+        "#makyaj",
+        "#d\u00fc\u011f\u00fcn",
+        "#ke\u015ffetteyim"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwhvxpDFG9/"
+    },
+    {
+      "author": "@pedropucci",
+      "followers": 0,
+      "caption": "\u2728 VENTOSA FACIAL \u00e9 um segredinho de skincare BBB: bom, barato e eficiente! Uso h\u00e1 muito tempo e \u00e9 uma dica valiosa! Ativa a circula\u00e7\u00e3o, faz uma drenagem e ainda potencializa o sagrado skincare! \n\nmas ",
+      "views": 0,
+      "likes": 1013,
+      "comments": 73,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 107.21,
+      "hashtags": [
+        "#skincareroutine",
+        "#skincare",
+        "#ventosafacial"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWy_ufeE4C2/"
+    },
+    {
+      "author": "@zianazolekha",
+      "followers": 0,
+      "caption": "\ud83d\udc96\u0644\u0623\u0646\u0643 \u062a\u0633\u062a\u062d\u0642\u064a\u0646 \u0627\u0644\u0623\u0641\u0636\u0644 \u0641\u064a \u064a\u0648\u0645\u0643 \u0627\u0644\u0643\u0628\u064a\u0631\ud83d\udc70\ud83c\udffb\u200d\u2640\ufe0f\ud83d\udca5\n\u2764\ufe0fZiana Zoulikha \u0645\u0639\u0643\ud83d\udc8d\n\n#mariage #marocaine\ud83c\uddf2\ud83c\udde6 #makeupartist #ziana #\u0639\u0631\u0648\u0633",
+      "views": 0,
+      "likes": 996,
+      "comments": 40,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.02,
+      "hashtags": [
+        "#mariage",
+        "#marocaine\ud83c\uddf2\ud83c\udde6",
+        "#makeupartist",
+        "#ziana",
+        "#\u0639\u0631\u0648\u0633"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1ZzvqNhWp/"
+    },
+    {
+      "author": "@cokoanderson",
+      "followers": 0,
+      "caption": "Ah 10 Tahun mah cuma bentar ahahaha \n\n#acnefighter #pejuangjerawat #bopeng #acnefighterindonesia #skincare",
+      "views": 0,
+      "likes": 994,
+      "comments": 51,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 105.13,
+      "hashtags": [
+        "#acnefighter",
+        "#pejuangjerawat",
+        "#bopeng",
+        "#acnefighterindonesia",
+        "#skincare"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyhAZ3EZsz/"
+    },
+    {
+      "author": "@sonjaschwarzarbeit",
+      "followers": 0,
+      "caption": "Die Person, die mit ihren H\u00e4nden arbeitet, ist ein Arbeiter.\nDie Person, die mit ihren H\u00e4nden und ihrem Kopf arbeitet, ist ein Handwerker.\nAber die Person, die mit ihren H\u00e4nden, ihrem Kopf und ihrem H",
+      "views": 0,
+      "likes": 959,
+      "comments": 44,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.59,
+      "hashtags": [
+        "#makeupartist",
+        "#hairstylist",
+        "#brautstyling",
+        "#brautmakeup",
+        "#brautfrisur"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DW1h0khI3cW/"
+    },
+    {
+      "author": "@soy_ladiva_",
+      "followers": 0,
+      "caption": "Yo: \u201crapidito lavo esto\u201d \ud83e\udd2d\nLos pinceles: aparecen muchos de la nada \ud83d\ude2d\ud83d\udc80\n\n\u00bfCU\u00c1NTOS crees que lav\u00e9? \ud83d\udc40\u2728\n\n#ParaTi #Viral #Humor #MomLife #makeupartist",
+      "views": 0,
+      "likes": 957,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.42,
+      "hashtags": [
+        "#ParaTi",
+        "#Viral",
+        "#Humor",
+        "#MomLife",
+        "#makeupartist"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzsru0jdny/"
+    },
+    {
+      "author": "@dramrgamal",
+      "followers": 0,
+      "caption": "\u0645\u062d\u062f\u0634 \u0647\u064a\u0639\u0631\u0641 \u0633\u0646\u0643 \u0627\u0644\u062d\u0642\u064a\u0642\u064a \u0644\u0648 \u062c\u0631\u0628\u062a\u064a \u0627\u0644\u0633\u0631 \u062f\u0647 (\u0645\u0646 \u063a\u064a\u0631 \u0628\u0648\u062a\u0643\u0633\ud83d\udc89)\u2764\ufe0f\n\n\u0627\u0644\u0632\u064a\u062a \u062f\u0647 \u0645\u0634 \u062a\u0631\u064a\u0646\u062f\u2026 \u062f\u0647 \u0633\u0631 \u0642\u062f\u064a\u0645 \u0644\u0628\u0634\u0631\u0629 \u0623\u0646\u0636\u0641 \u0648\u0623\u0635\u063a\u0631 \ud83d\udc4c\ud83d\udd25\n\n\u0644\u0648 \u0628\u062a\u062f\u0648\u0631 \u0639\u0644\u0649 \u062d\u0644 \u0637\u0628\u064a\u0639\u064a \u0644\u0640:\n\u2714\ufe0f \u0627\u0644\u062a\u062c\u0627\u0639\u064a\u062f\n\u2714\ufe0f \u062a\u0648\u062d\u064a\u062f \u0644\u0648\u0646 \u0627\u0644\u0628\u0634\u0631\u0629\n\u2714\ufe0f \u0627\u0644\u0646\u0636\u0627\u0631\u0629 \u0627\u0644\u0641\u0648\u0631\u064a\u0629\n\u2714\ufe0f \u0628\u0634\u0631\u0629 \u0645\u0634\u062f\u0648\u062f",
+      "views": 0,
+      "likes": 957,
+      "comments": 166,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 117.35,
+      "hashtags": [
+        "#fyp",
+        "#skincare",
+        "#explore",
+        "#instagram",
+        "#skin"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW12UntCITl/"
+    },
+    {
+      "author": "@claramolica_makeupartist",
+      "followers": 0,
+      "caption": "Il trucco non \u00e8 pi\u00f9 solo colore, \u00e8 cura. \u2728\n\nCon @mookaje nasce lo Skinmakeup: una nuova categoria di prodotti ibridi dove la scienza incontra la bellezza. Grazie alla tecnologia esclusiva Oxygen Carri",
+      "views": 0,
+      "likes": 949,
+      "comments": 65,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 106.85,
+      "hashtags": [
+        "#makeupartist",
+        "#skincare",
+        "#makeup",
+        "#torino",
+        "#beauty"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyXOwIiKNa/"
+    },
+    {
+      "author": "@claramolica_makeupartist",
+      "followers": 0,
+      "caption": "Il trucco non \u00e8 pi\u00f9 solo colore, \u00e8 cura. \u2728\n\nCon @mookaje nasce lo Skinmakeup: una nuova categoria di prodotti ibridi dove la scienza incontra la bellezza. Grazie alla tecnologia esclusiva Oxygen Carri",
+      "views": 0,
+      "likes": 949,
+      "comments": 65,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 106.85,
+      "hashtags": [
+        "#makeupartist",
+        "#skincare",
+        "#makeup",
+        "#torino",
+        "#beauty"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyXOwIiKNa/"
+    },
+    {
+      "author": "@jutretyakova",
+      "followers": 0,
+      "caption": "\u041e\u0427\u0415\u041d\u042c \u0412\u0410\u0416\u041d\u041e \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e\u0435 \u043d\u0430\u043d\u0435\u0441\u0435\u043d\u0438\u0435 !\n\u0418 \u0442\u043e\u0433\u0434\u0430 \u0432\u0430\u0448\u0430 \u043a\u043e\u0436\u0430 \u043f\u0440\u0435\u043e\u0431\u0440\u0430\u0437\u0438\u0442\u0441\u044f \u043d\u0435\u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e \ud83d\ude4f\ud83c\udffb\ud83d\udc9a\n\nCelimax The Vita-A Retinal Shot Tightening Booster.\n#skincare #celimax #celimaxcis #grwm #makeupartist",
+      "views": 0,
+      "likes": 922,
+      "comments": 35,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.8,
+      "hashtags": [
+        "#skincare",
+        "#celimax",
+        "#celimaxcis",
+        "#grwm",
+        "#makeupartist"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWvomQekfIH/"
+    },
+    {
+      "author": "@glowup_hype",
+      "followers": 0,
+      "caption": "Skin care tips cost 0$\n\nHere\ud83d\udc47\ud83c\udffb\n\n1. Wash face straight after the working out\n\n2. Change your PILLOW CASE often\n\n3. Drink plenty of WATER\n\n4. Be careful what you EAT\n\n5. Don\u2019t pop your PIMPLES \n\n6. Ice ",
+      "views": 0,
+      "likes": 902,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.33,
+      "hashtags": [
+        "#glow",
+        "#glowuo",
+        "#skincare",
+        "#skincarenatural",
+        "#skincaretips",
+        "#skincareroutine",
+        "#skincarecommunity",
+        "#glowingskin"
+      ],
+      "posted_date": "2024-05-11",
+      "url": "https://www.instagram.com/p/C60RwkMv-8m/"
+    },
+    {
+      "author": "@_leaveitblank",
+      "followers": 0,
+      "caption": "well..the was anti climactic \ud83e\udd72 \n#skincare #skincareproducts #glowrecipe #projectpan \n\n@glowrecipe",
+      "views": 0,
+      "likes": 900,
+      "comments": 13,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.44,
+      "hashtags": [
+        "#skincare",
+        "#skincareproducts",
+        "#glowrecipe",
+        "#projectpan"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwTm0IEfG4/"
+    },
+    {
+      "author": "@selflove_aida",
+      "followers": 0,
+      "caption": "Some people try everything\u2026 and it still doesn\u2019t work\u2026 So choose kindness \ud83d\udc8c\n\n\ud83c\uddeb\ud83c\uddf7 : On ne sait jamais vraiment ce que quelqu\u2019un traverse avec sa peau \ud83e\udec2\n.\n.\n.\n.\n#acne #makeup #skincare #selflove #trend",
+      "views": 0,
+      "likes": 865,
+      "comments": 38,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.39,
+      "hashtags": [
+        "#acne",
+        "#makeup",
+        "#skincare",
+        "#selflove",
+        "#trend"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1ZVLgDTGE/"
+    },
+    {
+      "author": "@prachi_sakpal_09",
+      "followers": 0,
+      "caption": "Skincare pagluu \ud83c\udf80\ud83e\udd79\n.\n.\n.\n.\n.\n#viralreels #reels #trendingreels #skincare #makeup",
+      "views": 0,
+      "likes": 864,
+      "comments": 18,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.08,
+      "hashtags": [
+        "#viralreels",
+        "#reels",
+        "#trendingreels",
+        "#skincare",
+        "#makeup"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWykOr9EzDV/"
+    },
+    {
+      "author": "@glowup_hype",
+      "followers": 0,
+      "caption": "Only for men \u269c\ufe0f\n\n#men #sigma #menstyle #oldskool #menfashion #menwithclass #oldmoney #thomasshelby #class #rich #glow #glowuo #attractive #viralreels",
+      "views": 0,
+      "likes": 843,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#men",
+        "#sigma",
+        "#menstyle",
+        "#oldskool",
+        "#menfashion",
+        "#menwithclass",
+        "#oldmoney",
+        "#thomasshelby"
+      ],
+      "posted_date": "2024-05-04",
+      "url": "https://www.instagram.com/p/C6h3Xg2iHYf/"
+    },
+    {
+      "author": "@maeva.inl",
+      "followers": 0,
+      "caption": "saturday night diary \ud83e\uddf8\ud83c\udf19\ud83d\udd6f\ufe0f\n\n#nightroutine #videodiary #skincare #cozyathome",
+      "views": 0,
+      "likes": 830,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.96,
+      "hashtags": [
+        "#nightroutine",
+        "#videodiary",
+        "#skincare",
+        "#cozyathome"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwQnWJiDVk/"
+    },
+    {
+      "author": "@ranaya_singh",
+      "followers": 0,
+      "caption": "@kayascience \n\ndermatologistrecommended\u2022 dermatologistapproved \u2022 clinicallytested \u2022 skincarethatworks \u2022 skincaresolutions \u2022 expertcare \u2022 provenskincare\u2022 kayadermats\n\n#kayascience #skincare #glutaglow ",
+      "views": 0,
+      "likes": 829,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.09,
+      "hashtags": [
+        "#kayascience",
+        "#skincare",
+        "#glutaglow",
+        "#kayasummeressentials"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwZgn_iQxZ/"
+    },
+    {
+      "author": "@jasmijniris",
+      "followers": 0,
+      "caption": "Soft, natural & timeless make-up look on @saskia_oever \ud83e\udd0d\u2728\n\nCollaborations:\nPhotography: @nikitavanderhaven \nHair: @hairbybeyzz \n\nProducts used:\n@charlottetilbury invisible uv flawless poreless primer ",
+      "views": 0,
+      "likes": 828,
+      "comments": 91,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 110.99,
+      "hashtags": [
+        "#visagie",
+        "#makeupartist",
+        "#makeuptransformation",
+        "#softglam",
+        "#naturalmakeuplook"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWvWvZDDDi4/"
+    },
+    {
+      "author": "@jutretyakova",
+      "followers": 0,
+      "caption": "\u041a\u0430\u043a \u0432\u0430\u043c?\u2764\ufe0f\u200d\ud83d\udd25\n\n#m\u0131um\u0131u #glasses #makeupartist #grwm #lotd",
+      "views": 0,
+      "likes": 825,
+      "comments": 46,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 105.58,
+      "hashtags": [
+        "#m\u0131um\u0131u",
+        "#glasses",
+        "#makeupartist",
+        "#grwm",
+        "#lotd"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0xaJIkb1s/"
+    },
+    {
+      "author": "@mariaarteaga.es",
+      "followers": 0,
+      "caption": "EL LOOK M\u00c1S WATERPROOF PARA PIEL GRASA.\n\u203c\ufe0fDuraci\u00f3n m\u00e1xima y piel radiante\u203c\ufe0f\n.\n\u2728Productos que he utilizado:\nBruma The Mist Have @yepoda.es .\nParches The Depuff @yepoda.es .\nSerum \u00e1cido hialur\u00f3nico @arg",
+      "views": 0,
+      "likes": 822,
+      "comments": 34,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.14,
+      "hashtags": [
+        "#makeup",
+        "#maquillaje",
+        "#makeuptutorial",
+        "#makeupartist"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11f90jPPw/"
+    },
+    {
+      "author": "@m_d_badsha_301",
+      "followers": 0,
+      "caption": "SAMJHE \ud83d\udd25\ud83d\ude0e\u270c\ufe0f\n.\n.\n.\n.\n.\n.\n.\n.\n #instagram #model #barbers #makeupartist #hairdo",
+      "views": 0,
+      "likes": 805,
+      "comments": 69,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 108.57,
+      "hashtags": [
+        "#instagram",
+        "#model",
+        "#barbers",
+        "#makeupartist",
+        "#hairdo"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWx96FLjV6F/"
+    },
+    {
+      "author": "@kriscid",
+      "followers": 0,
+      "caption": "Probando nuevos productos accesibles\u2026 todo lo consegu\u00ed en Target \u2026 Estoy amando los resultados. \n1 limpieza (solo de noche uso los dos. De d\u00eda el azul)\n2 t\u00f3nico. Milky t\u00f3ner \n3 serum con peptidos \n4 c",
+      "views": 0,
+      "likes": 790,
+      "comments": 16,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.03,
+      "hashtags": [
+        "#glassskin",
+        "#affordable",
+        "#skincare"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwit7QDjOX/"
+    },
+    {
+      "author": "@elleuxebeauty",
+      "followers": 0,
+      "caption": "We\u2019re locked in buddy, sorry \ud83e\udef6\ud83c\udffe \n\n#aspiringmua #makeupartist #elleuxebeauty #makeup #funnymakeupreels",
+      "views": 0,
+      "likes": 787,
+      "comments": 18,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.29,
+      "hashtags": [
+        "#aspiringmua",
+        "#makeupartist",
+        "#elleuxebeauty",
+        "#makeup",
+        "#funnymakeupreels"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwmd7SDxwz/"
+    },
+    {
+      "author": "@laxami_putra__dj",
+      "followers": 0,
+      "caption": "\u2764\ufe0f\u200d\ud83d\udd25\ud83e\udd75..#skincare #goodmorning #smallbusiness #relationships\ud83d\ude49 #followforfollowback",
+      "views": 0,
+      "likes": 785,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#skincare",
+        "#goodmorning",
+        "#smallbusiness",
+        "#relationships\ud83d\ude49",
+        "#followforfollowback"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwiaIdDSie/"
+    },
+    {
+      "author": "@iulia__antonescu",
+      "followers": 0,
+      "caption": "Mi-am oferit un moment de r\u0103sf\u0103\u021b la @velvet1studio \ud83d\udc86\u200d\u2640\ufe0f\u2728\nAm ales o procedur\u0103 de rejuvenare facial\u0103, iar rezultatul este exact ce aveam nevoie: un ten mai luminos, hidratat \u0219i revigorat.\nBeneficiile pe",
+      "views": 0,
+      "likes": 772,
+      "comments": 38,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.92,
+      "hashtags": [
+        "#rejuvenarefaciala",
+        "#skincare",
+        "#velvet1studio",
+        "#tenluminos",
+        "#rasfat"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwJTdLiAt-/"
+    },
+    {
+      "author": "@guia.seuglowup",
+      "followers": 0,
+      "caption": "Tem OURO nos destaques!\n\n\u2022\n\u2022\n\u2022\n\n#sucesso #metas #organiza\u00e7\u00e3o #planejamento #desafio #glowuo #melhorversao #rotina #produtividade #habitos #planner #rotinasaudavel #habitossaudavel",
+      "views": 0,
+      "likes": 755,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#sucesso",
+        "#metas",
+        "#organiza\u00e7\u00e3o",
+        "#planejamento",
+        "#desafio",
+        "#glowuo",
+        "#melhorversao",
+        "#rotina"
+      ],
+      "posted_date": "2024-05-16",
+      "url": "https://www.instagram.com/p/C7CIYHNMFNx/"
+    },
+    {
+      "author": "@dariaxliashenko",
+      "followers": 0,
+      "caption": "okaaaaay let\u2019s try something new today\ud83e\udd0c\ud83c\udffd\u2728\ud83d\udc97\n\n@mixsoon_official @mixsoon_usa bean collagen hydrogel mask \n@erborian @erborian_usa centella cleansing gel\n@medicube_global_official zero pore pad mild \n@ks",
+      "views": 0,
+      "likes": 751,
+      "comments": 30,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.99,
+      "hashtags": [
+        "#skincare",
+        "#skincareroutine",
+        "#morningshed",
+        "#kbeauty",
+        "#koreanskincare"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyhjMUDRdx/"
+    },
+    {
+      "author": "@x.givenchy",
+      "followers": 0,
+      "caption": "Happy Friday\ud83c\udf38\nBooks are always open | link in my bio\ud83e\udef5\ud83c\udffe\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n#dallasmua #dfwmua #dallasmakeupartist #dallas #makeupartist",
+      "views": 0,
+      "likes": 733,
+      "comments": 13,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.77,
+      "hashtags": [
+        "#dallasmua",
+        "#dfwmua",
+        "#dallasmakeupartist",
+        "#dallas",
+        "#makeupartist"
+      ],
+      "posted_date": "2026-04-03",
+      "url": "https://www.instagram.com/p/DWrIcxdEecB/"
+    },
+    {
+      "author": "@jepalenci",
+      "followers": 0,
+      "caption": "#Makeup creado por y para el experto #makeupartist todo lo que debes tener en tu #prokit disponible en @sephoramx @makeupbymario @charlottetilbury @natashadenona @lauramercier @patrickta #artistryseph",
+      "views": 0,
+      "likes": 732,
+      "comments": 60,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 108.2,
+      "hashtags": [
+        "#Makeup",
+        "#makeupartist",
+        "#prokit",
+        "#artistrysephoramx",
+        "#publicidad"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWziut5j95L/"
+    },
+    {
+      "author": "@alicexd483",
+      "followers": 0,
+      "caption": "Produse care merita incercate \ud83d\ude0d\n \nAm primit aceste produse Nightingale de la Tuju si sunt foarte fericita ca am descoperit produse atat de bune pentru ten, motiv pentru care am vrut sa le impartasesc ",
+      "views": 0,
+      "likes": 701,
+      "comments": 56,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 107.99,
+      "hashtags": [
+        "#skincare",
+        "#beauty",
+        "#koreanskincare",
+        "#routine",
+        "#skincaretips"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWye2UIDCdg/"
+    },
+    {
+      "author": "@mariadelmarfdezg",
+      "followers": 0,
+      "caption": "#giveaway time\u2728\n\nrules are simple:\n- like this post\n- comment el producto que m\u00e1s te emociona + tag a friend!\n- follow me\n\nabierto a todo Rep Dom! con tal de tener m\u00e9todo de hac\u00e9rtelo llegar\ud83d\udc98 y puedes",
+      "views": 0,
+      "likes": 698,
+      "comments": 718,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 202.87,
+      "hashtags": [
+        "#giveaway",
+        "#makeup",
+        "#skincare",
+        "#haircare",
+        "#selfcare"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DWz32RUkQVz/"
+    },
+    {
+      "author": "@esmewolfsohn",
+      "followers": 0,
+      "caption": "Monday morning routine\ud83e\udee7\ud83e\uddf8\n\n#vanillagirl #bodycareroutine #skincare #girlythings #selfcare",
+      "views": 0,
+      "likes": 682,
+      "comments": 20,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.93,
+      "hashtags": [
+        "#vanillagirl",
+        "#bodycareroutine",
+        "#skincare",
+        "#girlythings",
+        "#selfcare"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWy9Y3hjC2I/"
+    },
+    {
+      "author": "@morveskim",
+      "followers": 0,
+      "caption": "Ep. 1 of unboring my makeup (rate this look 1-10)\n.\n.\n.\n.\n.\n.\n#beauty #makeup #hair #skincare #makeupartist #hairstylist #haircare #beautytips #instamakeup #hairoftheday #makeupoftheday #hairtransform",
+      "views": 0,
+      "likes": 682,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.59,
+      "hashtags": [
+        "#beauty",
+        "#makeup",
+        "#hair",
+        "#skincare",
+        "#makeupartist",
+        "#hairstylist",
+        "#haircare",
+        "#beautytips"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11OgLDUiD/"
+    },
+    {
+      "author": "@jen_barreiro",
+      "followers": 0,
+      "caption": "El #makeup de Hailey Bieber siempre bien \u2728\n#maquillaje #makeuptutorial #makeupartist #makeuplook",
+      "views": 0,
+      "likes": 676,
+      "comments": 31,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.59,
+      "hashtags": [
+        "#makeup",
+        "#maquillaje",
+        "#makeuptutorial",
+        "#makeupartist",
+        "#makeuplook"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzYxlqDWbT/"
+    },
+    {
+      "author": "@anjali_thorat_makeover",
+      "followers": 0,
+      "caption": "Engagement look\ud83d\udc99#makeupartistsworldwide #makeupartist #hairstylist\ud83e\udd8b #viral #reels",
+      "views": 0,
+      "likes": 673,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.74,
+      "hashtags": [
+        "#makeupartistsworldwide",
+        "#makeupartist",
+        "#hairstylist\ud83e\udd8b",
+        "#viral",
+        "#reels"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWykP8civxJ/"
+    },
+    {
+      "author": "@mafer.menacho",
+      "followers": 0,
+      "caption": "\ud83e\udd79 Ok pero esto es demasiado bueno para ser real\u2026 \ud83e\uddf4\u2728\n\n\ud83d\ude2e\u200d\ud83d\udca8 Todos los lunes de abril, mis favoritos de @khielsmx est\u00e1n en 3x2 en Amazon\u2026 s\u00ed, TRES por el precio de DOS.\n\n\u2728\ud83d\udcab Obvio corr\u00ed a armar mi carrito ",
+      "views": 0,
+      "likes": 647,
+      "comments": 26,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.02,
+      "hashtags": [
+        "#amokiehls",
+        "#kiehlsmx",
+        "#skincare",
+        "#publicidad",
+        "#3x2k"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzOYXUiRg7/"
+    },
+    {
+      "author": "@the_amarion",
+      "followers": 0,
+      "caption": "_\n\u201cMoving abroad is the best skincare\u201d is a big fat lieeee!\n\n#skincare #movingabroad",
+      "views": 0,
+      "likes": 639,
+      "comments": 17,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.66,
+      "hashtags": [
+        "#skincare",
+        "#movingabroad"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW190uYiMt-/"
+    },
+    {
+      "author": "@vaaaaalo",
+      "followers": 0,
+      "caption": "Rutina antimanchas que S\u00cd transforma tu piel \u2728\ud83d\udd25 @larocheposay \n\ud83e\uddfc Paso 1: Mela B3 Cleanser \u2192 limpia + exfolia + unifica el tono \ud83d\udca7\ud83e\udee7\n\ud83c\udf4a Paso 2: Pure Vitamin C12 \u2192 ilumina + corrige + antioxidante \u2728\ud83c\udf1f\n\ud83d\udca6 Pas",
+      "views": 0,
+      "likes": 630,
+      "comments": 18,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.86,
+      "hashtags": [
+        "#skincare",
+        "#cuidadodelapiel",
+        "#beauty",
+        "#manchasenlapiel",
+        "#fyp"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWw1LZVic3H/"
+    },
+    {
+      "author": "@makeupstudiobymehwish",
+      "followers": 0,
+      "caption": "Deesha \u2764\ufe0f\u2764\ufe0f\n\n#makeupstudiobymehwish #dhaphase5lahore #makeupartist #lahoreweddings #weddinginspiration",
+      "views": 0,
+      "likes": 611,
+      "comments": 16,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.62,
+      "hashtags": [
+        "#makeupstudiobymehwish",
+        "#dhaphase5lahore",
+        "#makeupartist",
+        "#lahoreweddings",
+        "#weddinginspiration"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzSx-UDimw/"
+    },
+    {
+      "author": "@chael.dot",
+      "followers": 0,
+      "caption": "belated yes but still!! \ud83c\udf1f\n\n \u207a\u2027\u208a\u02da \u0f50\u0f72\u22c6\u2671\u22c6\u0f4b\u0f80 \u02da\u208a\u2027\u207a\n@anua_global pdrn hyaluronic acid capsule mist \n@benefitcosmetics cookie highlighter\n@saiebeauty supersuede baked bronzer in amalfi\n@entropy.global brow f",
+      "views": 0,
+      "likes": 598,
+      "comments": 10,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.67,
+      "hashtags": [
+        "#StevenUniverse"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzy5eavczc/"
+    },
+    {
+      "author": "@thechristinaguerra",
+      "followers": 0,
+      "caption": "Repeat after me\u2026\n\n\u201cI cannot learn liquid eyeliner in 3 minutes\u201d.\n\u201cI cannot learn liquid eyeliner in 3 minutes\u201d.\n\u201cI cannot learn liquid eyeliner in 3 minutes\u201d.\n\nWelcome to the first part of my free cou",
+      "views": 0,
+      "likes": 596,
+      "comments": 42,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 107.05,
+      "hashtags": [
+        "#makeuptutorial",
+        "#liquideyeliner",
+        "#makeupartist",
+        "#eyeliner",
+        "#makeupbasics"
+      ],
+      "posted_date": "2026-04-03",
+      "url": "https://www.instagram.com/p/DWrdzMDjx7M/"
+    },
+    {
+      "author": "@trinhnguyenfo",
+      "followers": 0,
+      "caption": "Please forgive my clumsy era \ud83e\udee0 #skincare #routine",
+      "views": 0,
+      "likes": 580,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.55,
+      "hashtags": [
+        "#skincare",
+        "#routine"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWxjsvviZ9a/"
+    },
+    {
+      "author": "@parolealventoblog",
+      "followers": 0,
+      "caption": "#productsentby @lorealparis \n\nAnche tu adori l'effetto glass skin delle maschere coreane, ma non hai voglia di tenerle in posa tutta la notte?\n\nHo il prodotto che fa per te!\nLa nuova maschera hydrogel",
+      "views": 0,
+      "likes": 578,
       "comments": 21,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 3.52,
+      "engagement_rate": 103.63,
+      "hashtags": [
+        "#productsentby",
+        "#lorealistaritalia",
+        "#lorealitaliatribe",
+        "#glassskin",
+        "#skincare"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0qlreiNGy/"
+    },
+    {
+      "author": "@bijalgadamakeovers",
+      "followers": 0,
+      "caption": "Comment \u201c FOUNDATION\u201d to know the Names of the Product \ud83d\udc9b\u2728\ud83d\udcab\n\n#bijalgadamakeovers #bijalgada #foundation #makeupseries #makeupartist",
+      "views": 0,
+      "likes": 574,
+      "comments": 1234,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 314.98,
+      "hashtags": [
+        "#bijalgadamakeovers",
+        "#bijalgada",
+        "#foundation",
+        "#makeupseries",
+        "#makeupartist"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWxzskzjM6e/"
+    },
+    {
+      "author": "@charmithakral",
+      "followers": 0,
+      "caption": "Ishita wanted to look like herself, just the most glowing version of herself.\nNo heavy layers, no overdone anything. Just her skin, enhanced.\nAnd that\u2019s honestly what bridal makeup should always feel ",
+      "views": 0,
+      "likes": 549,
+      "comments": 46,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 108.38,
+      "hashtags": [
+        "#charmithakral",
+        "#makeupartist",
+        "#bridesbycharmithakral",
+        "#trending",
+        "#fypreels\u30b8viral\u30b7"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0btFajAGU/"
+    },
+    {
+      "author": "@sarahebaus",
+      "followers": 0,
+      "caption": "No one tell my esthetician\u2026. @realeactives @alixearle \n\n#realeactives #skincare #acneskin #travelskincare",
+      "views": 0,
+      "likes": 548,
+      "comments": 10,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.82,
+      "hashtags": [
+        "#realeactives",
+        "#skincare",
+        "#acneskin",
+        "#travelskincare"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzqN8HD6qk/"
+    },
+    {
+      "author": "@u.ladycleopatra",
+      "followers": 0,
+      "caption": "Glossy lips but make it 90s \ud83d\udc95\u2728\n\n@lancomeofficial Juicy Tubes are THAT iconic high shine moment\u2026 juicy, glossy and giving all the nostalgic vibes. I love how they make my lips look fuller, smoother and",
+      "views": 0,
+      "likes": 545,
+      "comments": 15,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.75,
+      "hashtags": [
+        "#lorealistaruk",
+        "#lorealistarUKJuicyTubes",
+        "#lancome",
+        "#makeup",
+        "#skincare"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1e8POjMgX/"
+    },
+    {
+      "author": "@vaaaaalo",
+      "followers": 0,
+      "caption": "\u2728 Tu piel habla\u2026 solo necesitas saber qu\u00e9 darle \u2728\nPapada \ud83d\udc49 Radiofrecuencia para reafirmar\nEstr\u00edas \ud83d\udc49 Retinol corporal para regenerar @sesdermamexico \nPiel sensible \ud83d\udc49 Centella asi\u00e1tica para calmar @biod",
+      "views": 0,
+      "likes": 542,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.55,
       "hashtags": [
         "#skincare",
-        "#treatyourself",
-        "#skincareroutine",
-        "#skinhealth"
+        "#cuidadodelapiel",
+        "#melasma",
+        "#fyp",
+        "#beautytips"
       ],
-      "sound": "",
-      "duration": 0,
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0LlAACds3/"
+    },
+    {
+      "author": "@jawolf3_",
+      "followers": 0,
+      "caption": "Trust in GOD \n\n#Motivational #explore #trustingod #mentor #glowuo",
+      "views": 0,
+      "likes": 540,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.74,
+      "hashtags": [
+        "#Motivational",
+        "#explore",
+        "#trustingod",
+        "#mentor",
+        "#glowuo"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWxYQZSj2P5/"
+    },
+    {
+      "author": "@vaaaaalo",
+      "followers": 0,
+      "caption": "Tu piel no necesita m\u00e1s pasos\u2026 necesita los correctos \u2728 @larocheposay \nEn esta rutina estoy combinando dos activos que trabajan en equipo para transformar la piel desde adentro:\n\ud83d\udca7 La Roche-Posay S\u00e9rum",
+      "views": 0,
+      "likes": 533,
+      "comments": 18,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.38,
+      "hashtags": [
+        "#skincare",
+        "#cuidadodelapiel",
+        "#beautytips",
+        "#fyp",
+        "#melasma"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1lZfmjr6J/"
+    },
+    {
+      "author": "@gabriellecarolyn",
+      "followers": 0,
+      "caption": "I decided a long time ago not to let the opinions of others dictate the way I feel about myself or anything I do\u2026 when you\u2019re confident in who you are, love what you do, show up with authenticity, and",
+      "views": 0,
+      "likes": 529,
+      "comments": 24,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.54,
+      "hashtags": [
+        "#doyouboo"
+      ],
+      "posted_date": "2021-08-19",
+      "url": "https://www.instagram.com/p/CSxd7R0Hfgh/"
+    },
+    {
+      "author": "@aom.litapat",
+      "followers": 0,
+      "caption": "\u0e08\u0e30\u0e2a\u0e27\u0e22\u0e01\u0e35\u0e48\u0e42\u0e21\u0e07\u0e07\u0e07\u0e07\ud83d\ude44\n\n #selfcare #loveyourself #skincare \n#skincareroutine #artistry",
+      "views": 0,
+      "likes": 529,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.51,
+      "hashtags": [
+        "#selfcare",
+        "#loveyourself",
+        "#skincare",
+        "#skincareroutine",
+        "#artistry"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzF_7EDxP4/"
+    },
+    {
+      "author": "@emiboniakowska_pmu",
+      "followers": 0,
+      "caption": "Soft glam touch \u2728\n\nYSL on the skin.\n\n#makeupartist\n#softglam\n#yslbeauty\n#makeuplook\n#glowmakeup",
+      "views": 0,
+      "likes": 526,
+      "comments": 11,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.09,
+      "hashtags": [
+        "#makeupartist",
+        "#softglam",
+        "#yslbeauty",
+        "#makeuplook",
+        "#glowmakeup"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzCy2EDOoY/"
+    },
+    {
+      "author": "@telugu__health__tips",
+      "followers": 0,
+      "caption": "Follow Cheyandi\n\nNote : Videos Clips Used Education Purpose Only\n\nCredit : Respected Owners\n\nTag : @meeshoapp\n\n #telugu #skincare #healthylifestyle #reels",
+      "views": 0,
+      "likes": 523,
+      "comments": 66,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 112.62,
+      "hashtags": [
+        "#telugu",
+        "#skincare",
+        "#healthylifestyle",
+        "#reels"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyjsGKCTvv/"
+    },
+    {
+      "author": "@vaaaaalo",
+      "followers": 0,
+      "caption": "\u2728 LOS 4 SUEROS QUE BORRAN MANCHAS Y TRANSFORMAN TU PIEL \u2728\n\nSi tienes manchas, tono disparejo o piel apagada\u2026 esto te interesa \ud83d\udc47\n\n\ud83d\udc9c @vichylaboratoires Liftactiv B3 Serum\nPotente contra manchas oscuras ",
+      "views": 0,
+      "likes": 520,
+      "comments": 7,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.35,
+      "hashtags": [
+        "#skincare",
+        "#cuidadodelapiel",
+        "#fyp",
+        "#melasma",
+        "#manchasenlapiel"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWztN6eCX24/"
+    },
+    {
+      "author": "@marcelacarrizozamakeup",
+      "followers": 0,
+      "caption": "Ahora solo quiero subirles videos m\u00edos \ud83d\ude06\ud83d\ude02 \nPerense nos reubiquemos haremos looks padres \ud83d\ude42\u200d\u2194\ufe0f \n\nGrwm para Sabadito santo \u2b50\ufe0f\ud83d\ude42\u200d\u2194\ufe0f\n\n#fyp\u30b7\u2764\ufe0f\ud83d\udc9e\u2764\ufe0f #makeup #gwrm #makeupartist #viral",
+      "views": 0,
+      "likes": 516,
+      "comments": 16,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.1,
+      "hashtags": [
+        "#fyp\u30b7\u2764\ufe0f\ud83d\udc9e\u2764\ufe0f",
+        "#makeup",
+        "#gwrm",
+        "#makeupartist",
+        "#viral"
+      ],
       "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwd-5Akp5P/"
+      "url": "https://www.instagram.com/p/DWvBneCjQ2J/"
+    },
+    {
+      "author": "@makeupbychantelasic",
+      "followers": 0,
+      "caption": "Behind the scenes of the glam \u2728 \n\nlet\u2019s just say\u2026 things got a little honest \ud83d\udc40 | @giafleurrr \n\nHair @__styledbynina__ \nMakeup @makeupbychantelasic \n\n#MAFS #behindthescenes #softglam #makeupartist #syd",
+      "views": 0,
+      "likes": 514,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#MAFS",
+        "#behindthescenes",
+        "#softglam",
+        "#makeupartist",
+        "#sydneymua"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyFV46gT3W/"
+    },
+    {
+      "author": "@almudena__fernandez",
+      "followers": 0,
+      "caption": "\u2606PUBLICIDAD\u2606\n~\nQue felicidad recibir esta cajita cargada de tesoros de @bellaaurora_cosmetics \nAcompa\u00f1ame, que te ense\u00f1o todo lo que contiene. \n~\n#bellaaurora #bellaauroracosmetics \n#mujerbellaaurora",
+      "views": 0,
+      "likes": 510,
+      "comments": 56,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 110.98,
+      "hashtags": [
+        "#bellaaurora",
+        "#bellaauroracosmetics",
+        "#mujerbellaaurora"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyHBdcDAK9/"
+    },
+    {
+      "author": "@carment93",
+      "followers": 0,
+      "caption": "Protocollo Anti-Macchie di La Roche-Posay.\n@larocheposay\n\n\ud83d\udc99 Correggi\nSiero anti-macchie con Melasyl: aiuta a ridurre macchie da sole, acne e invecchiamento, agendo alla radice della melanina.\nUsalo ma",
+      "views": 0,
+      "likes": 493,
+      "comments": 23,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.67,
+      "hashtags": [
+        "#productsentby",
+        "#lorealistaritalia",
+        "#lorealitaliatribe",
+        "#ProtocolloAntiMacchie",
+        "#skincare"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW04TrriOCU/"
+    },
+    {
+      "author": "@dr_marwa_hassan_davinci",
+      "followers": 0,
+      "caption": "\u2068\t\u2068\t\u0639\u0631\u0648\u0633\u0647 \u0642\u0645\u0631\u0631\u0631 \u0627\u062a\u0646\u064a\u0646 \u062a\u0644\u0627\u062a\u0647 .. \u0643\u0648\u0645\u0646\u062a\u0627\u062a\u0643\u0648\u0648\u0648?!? #fyp\u30b7\u2764\ufe0f\ud83d\udc9e\u2764\ufe0f #makeupartist #\u0627\u0643\u0633\u0628\u0644\u0648\u0631 #\u0631\u064a\u0644\u0632 #trend\u2069\u2069",
+      "views": 0,
+      "likes": 477,
+      "comments": 38,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 107.97,
+      "hashtags": [
+        "#fyp\u30b7\u2764\ufe0f\ud83d\udc9e\u2764\ufe0f",
+        "#makeupartist",
+        "#\u0627\u0643\u0633\u0628\u0644\u0648\u0631",
+        "#\u0631\u064a\u0644\u0632",
+        "#trend\u2069\u2069"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzdCNOCug_/"
+    },
+    {
+      "author": "@cristinacuellar",
+      "followers": 0,
+      "caption": "\u00bfComo que #doublewear de @esteelaudermx cambio? Mi opini\u00f3n, \u00a1EL CAMBIO ME ENCANTO !\nS\u00faper hidratante, una base estable y duradera en mi piel y en todas las personas en las que la prob\u00e9. \n\nAhora tiene ",
+      "views": 0,
+      "likes": 471,
+      "comments": 39,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 108.28,
+      "hashtags": [
+        "#doublewear",
+        "#skincare",
+        "#MadeForMore",
+        "#MejorQueNunca",
+        "#est\u0113elauder"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzninGFu81/"
+    },
+    {
+      "author": "@anapipau",
+      "followers": 0,
+      "caption": "La vaselina (petrolatum) es uno de los ingredientes m\u00e1s seguros, estudiados y efectivos en dermatolog\u00eda. Por sus beneficios y por ser bueno, bonito y barato. \n\n\u2714\ufe0f Reduce la p\u00e9rdida de agua transepid\u00e9r",
+      "views": 0,
+      "likes": 452,
+      "comments": 6,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.33,
+      "hashtags": [
+        "#vaselina",
+        "#skincare",
+        "#dermatologia",
+        "#dermatology"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWztub7jREu/"
+    },
+    {
+      "author": "@mackenziewells.fit",
+      "followers": 0,
+      "caption": "Comment FIT & I\u2019ll send you my exact plan \ud83d\ude4c\ud83c\udffc\n\n\ud83d\udd25Here are my 3 non-negotiables at 40:\n\n1 - Priortize Protein \ud83e\udd69\nThis is crucial, protein keeps you full, so you\u2019re not snacking all day, stabilizes blood s",
+      "views": 0,
+      "likes": 446,
+      "comments": 204,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 145.74,
+      "hashtags": [
+        "#fitover40",
+        "#bodygoals",
+        "#bodytransformation",
+        "#glowuo",
+        "#workouts",
+        "#fitness",
+        "#over40",
+        "#over40andfit"
+      ],
+      "posted_date": "2025-10-03",
+      "url": "https://www.instagram.com/p/DPXZfJjgZk1/"
+    },
+    {
+      "author": "@saloua.lam",
+      "followers": 0,
+      "caption": "depends who I\u2019m dealing with \ud83d\udda4\ud83c\udf80",
+      "views": 0,
+      "likes": 440,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.82,
+      "hashtags": [],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzIyhOgEaj/"
+    },
+    {
+      "author": "@chiarafallica_",
+      "followers": 0,
+      "caption": "Risultato glow up!\ud83d\ude0d\n@lorealparis \n\n#GlassSkin90Minuti \n#Skin \n#SkinCare \n#InCollaborazioneConLOreal",
+      "views": 0,
+      "likes": 435,
+      "comments": 26,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 105.98,
+      "hashtags": [
+        "#GlassSkin90Minuti",
+        "#Skin",
+        "#SkinCare",
+        "#InCollaborazioneConLOreal"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0mdg1DRKX/"
+    },
+    {
+      "author": "@nime_ph",
+      "followers": 0,
+      "caption": "Nuova routine contro le macchie @larocheposay\nsiero Mela B3 e  protezione Anthelios UVMUNE 400 per la lotta contro le macchie solari, senili e post-acneiche.\nLa protezione solare si assorbe senza lasc",
+      "views": 0,
+      "likes": 420,
+      "comments": 6,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.43,
+      "hashtags": [
+        "#productsentby",
+        "#lorealistaritalia",
+        "#lorealitaliatribe",
+        "#ProtocolloAntiMacchie",
+        "#skincare"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0orgUseU-/"
+    },
+    {
+      "author": "@romira_kullolli",
+      "followers": 0,
+      "caption": "\u2728 MACCHIE SCURE? NON SEI SOLA\u2026 MA PUOI PREVENIRLE \u2728\n\nSapevi che le macchie scure colpiscono il 50% della popolazione mondiale? Sole, acne, et\u00e0\u2026 le cause sono tante, ma la soluzione parte sempre da una",
+      "views": 0,
+      "likes": 418,
+      "comments": 25,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 105.98,
+      "hashtags": [
+        "#skincare",
+        "#protezioneSolare",
+        "#larocheposay",
+        "#melab3",
+        "#ProtocolloAntiMacchie"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1zA_AC3lE/"
+    },
+    {
+      "author": "@mahalle509",
+      "followers": 0,
+      "caption": "#love #\u0332v\u0332i\u0332r\u0332a\u0332l\u0332r\u0332e\u0332e\u0332l\u0332s\u0332 #mua #makeupartist #reels",
+      "views": 0,
+      "likes": 411,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#love",
+        "#\u0332v\u0332i\u0332r\u0332a\u0332l\u0332r\u0332e\u0332e\u0332l\u0332s\u0332",
+        "#mua",
+        "#makeupartist",
+        "#reels"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1O5XjDFo5/"
+    },
+    {
+      "author": "@veenelsonmusic",
+      "followers": 0,
+      "caption": "I\u2019m proud of her \ud83e\udd79 \n\ntruth is, some days 24 year old me is struggling as much as 10 year old me was. I only blinked a few times, I\u2019m really not sure how I got here. \ud83d\ude02 but I did, and I\u2019m grateful. and ",
+      "views": 0,
+      "likes": 405,
+      "comments": 14,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.46,
+      "hashtags": [
+        "#growup",
+        "#glowuo",
+        "#transformation",
+        "#singersongwriter",
+        "#indieartist",
+        "#veenelson",
+        "#laartist",
+        "#lamusic"
+      ],
+      "posted_date": "2022-07-01",
+      "url": "https://www.instagram.com/p/CfdHurojOLQ/"
+    },
+    {
+      "author": "@__nitsakateritsa__",
+      "followers": 0,
+      "caption": "@kosas has some beautiful eye pencils especially for those of us with sensitive eyes! Here im using color Allure . Love this one and you don't have to be a pro! \ud83d\ude07\ud83d\ude07",
+      "views": 0,
+      "likes": 389,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.03,
+      "hashtags": [],
+      "posted_date": "2024-12-12",
+      "url": "https://www.instagram.com/p/DDdkYMsRaKB/"
+    },
+    {
+      "author": "@michaelasbeauty_",
+      "followers": 0,
+      "caption": "M\u00ddCH TOP 5 (6) produkt\u016f z drogerie\ud83c\udf80\n\u2026 \u010d\u00e1st 2.\u2728\ud83c\udf38\n\nZn\u00e1te n\u011bjak\u00fd z t\u011bchto produtk\u016f? Nebo m\u00e1te s n\u011bjak\u00fdm zku\u0161enost?\ud83d\ude0d\n\n#makeupartist #makeup #mua #makeuplover",
+      "views": 0,
+      "likes": 382,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.79,
+      "hashtags": [
+        "#makeupartist",
+        "#makeup",
+        "#mua",
+        "#makeuplover"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1u3f6DVpV/"
+    },
+    {
+      "author": "@almudena__fernandez",
+      "followers": 0,
+      "caption": "\u2606PUBLICIDAD\u2606\n~\n\ud83c\udf1eEsta Semana Santa, lo ten\u00eda claro, quer\u00eda llevar en la maleta el secreto para tener una piel radiante en 2 minutos. \nEl Wondertint Fluido con Color de @garnier_es \nUn producto 3 en 1 q",
+      "views": 0,
+      "likes": 367,
+      "comments": 33,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 108.99,
+      "hashtags": [
+        "#wondertintxlorealistar",
+        "#cuidadodelapiel",
+        "#vitaminac",
+        "#lorealistarspain"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0rcaVslrs/"
+    },
+    {
+      "author": "@bogartbeauty",
+      "followers": 0,
+      "caption": "Biggest compliment from @kellsiebainmakeup \u2026\n\u201cYou\u2019re really good at putting yourself out there\u201d \ud83e\udd0e\n\nAnd that\u2019s the thing\u2026\nevery room you walk into holds an opportunity you haven\u2019t met yet.\n\nYear of the",
+      "views": 0,
+      "likes": 358,
+      "comments": 29,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 108.1,
+      "hashtags": [
+        "#atlantamakeupartist",
+        "#makeupartist",
+        "#masterclass",
+        "#kellsiebainmakeup"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzzDGeFbEW/"
+    },
+    {
+      "author": "@aenjta",
+      "followers": 0,
+      "caption": "Day with @anua_global \n\n#anua #skincare #dayi\u0307nmylife",
+      "views": 0,
+      "likes": 334,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.5,
+      "hashtags": [
+        "#anua",
+        "#skincare",
+        "#dayi\u0307nmylife"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1DJwgCUfR/"
+    },
+    {
+      "author": "@vaaaaalo",
+      "followers": 0,
+      "caption": "\u2728 Las cremas que S\u00cd ayudan a aclarar manchas\nSi est\u00e1s lidiando con hiperpigmentaci\u00f3n, estos productos pueden hacer un cambio real en tu piel:\n\ud83c\udf4b @garnierlatam Express Aclara \u2013 Luminosidad diaria + prot",
+      "views": 0,
+      "likes": 334,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.6,
+      "hashtags": [
+        "#skincare",
+        "#skincareroutine",
+        "#cuidadodelapiel",
+        "#beautytips",
+        "#fyp"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1VuEnjoqv/"
+    },
+    {
+      "author": "@rawan.nassir",
+      "followers": 0,
+      "caption": "\ud83e\udd0d\ud83e\ude77\ud83e\ude77\u200fGlow that does the talking  #makeup #makeupartist #ramallah #makeuptutorial #\u0645\u064a\u0643_\u0627\u0628",
+      "views": 0,
+      "likes": 288,
+      "comments": 40,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 113.89,
+      "hashtags": [
+        "#makeup",
+        "#makeupartist",
+        "#ramallah",
+        "#makeuptutorial",
+        "#\u0645\u064a\u0643_\u0627\u0628"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1vMfXDPkY/"
+    },
+    {
+      "author": "@i_am_anna_b",
+      "followers": 0,
+      "caption": "#\uad11\uace0 \n\uc694\uc998 \ud53c\ubd80\uad00\ub9ac \uc694\uac78\ub85c \ud558\uace0 \uc788\ub294\ub370, \uc9c4\uc9dc\ud53c\ubd80\ud1a4\uc774 \ud655 \ubc1d\uc544\uc9c4 \ub290\ub08c\uc774\uc5d0\uc694 !\n#\ube44\uc544\uc774\ud399\ud2b8 #BIAIfekt #BIAEffect",
+      "views": 0,
+      "likes": 287,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.79,
+      "hashtags": [
+        "#\uad11\uace0",
+        "#\ube44\uc544\uc774\ud399\ud2b8",
+        "#BIAIfekt",
+        "#BIAEffect"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1aM6KDtzD/"
+    },
+    {
+      "author": "@drageovanaduarte",
+      "followers": 0,
+      "caption": "CLASSIFICANDO HIDRATANTES \u2728\n\nQual seu favorito? \ud83e\udd29 \n\n#skincare #dermato #hidratante #pele",
+      "views": 0,
+      "likes": 281,
+      "comments": 13,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.63,
+      "hashtags": [
+        "#skincare",
+        "#dermato",
+        "#hidratante",
+        "#pele"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzmjzgidnm/"
+    },
+    {
+      "author": "@alibradiary_",
+      "followers": 0,
+      "caption": "Este a\u00f1o es mi a\u00f1o \ud83e\udd0d\ud83e\udd0d\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#cute #coquette #asthetic #2024\n#manifest #pink #thatgirl #motivacion #girl #girls #glowuo #pinterest #inspo #girlythings #douyin #fyp #lovegirls #grwm #makeu",
+      "views": 0,
+      "likes": 214,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#cute",
+        "#coquette",
+        "#asthetic",
+        "#2024",
+        "#manifest",
+        "#pink",
+        "#thatgirl",
+        "#motivacion"
+      ],
+      "posted_date": "2024-02-01",
+      "url": "https://www.instagram.com/p/C2z9TCOr31O/"
+    },
+    {
+      "author": "@studio.airi",
+      "followers": 0,
+      "caption": "Confident, happy women don\u2019t tear others down\u2014they lift them up. It\u2019s always the wounded ones at war with someone else\u2019s glow. And the beautiful thing about shining is this: when you give yourself per",
+      "views": 0,
+      "likes": 129,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.78,
+      "hashtags": [
+        "#glowuo",
+        "#shineyourlight",
+        "#shinebright",
+        "#sisterhood",
+        "#feminineempowerment",
+        "#queenvibes"
+      ],
+      "posted_date": "2026-01-07",
+      "url": "https://www.instagram.com/p/DTNb_dFglGl/"
+    },
+    {
+      "author": "@bell.crstn",
+      "followers": 0,
+      "caption": "\ud83c\udf42\ud83e\udd0d\n\n#disciplina #organiza\u00e7\u00e3o #motivacao #glowuo #glowuptips #skincare #melhorvers\u00e3o #sucesso #carreira #dinheiro #qualidadedevida #diciplinapositiva",
+      "views": 0,
+      "likes": 127,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#disciplina",
+        "#organiza\u00e7\u00e3o",
+        "#motivacao",
+        "#glowuo",
+        "#glowuptips",
+        "#skincare",
+        "#melhorvers\u00e3o",
+        "#sucesso"
+      ],
+      "posted_date": "2024-12-22",
+      "url": "https://www.instagram.com/p/DD4WyvSR2xD/"
+    },
+    {
+      "author": "@bartongrangegc",
+      "followers": 0,
+      "caption": "\ud83d\udc90\ud83c\udf1f How it started vs how it\u2019s going! \ud83c\udf1f\ud83d\udc90\n\u2022\n\u2022\n\u2022\n\u2022\n#glowuo #glowupseason #howitstartedvshowitsgoing #howitstarted #howitstartedhowitsgoing #originstory #ourstory #bartongrange #bartongrangegardencentre #",
+      "views": 0,
+      "likes": 117,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.56,
+      "hashtags": [
+        "#glowuo",
+        "#glowupseason",
+        "#howitstartedvshowitsgoing",
+        "#howitstarted",
+        "#howitstartedhowitsgoing",
+        "#originstory",
+        "#ourstory",
+        "#bartongrange"
+      ],
+      "posted_date": "2023-02-23",
+      "url": "https://www.instagram.com/p/CpAHuzQsRW3/"
+    },
+    {
+      "author": "@dragon.kmn",
+      "followers": 0,
+      "caption": "There\u2019s no life handbook. There\u2019s no right way to be. Be yourself and be kind to others. If you\u2019re doing those two things then everyone else can screw off and you focus on developing yourself into the",
+      "views": 0,
+      "likes": 115,
+      "comments": 10,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 108.7,
+      "hashtags": [
+        "#motivation",
+        "#fyp",
+        "#fitness",
+        "#bully",
+        "#glowuo"
+      ],
+      "posted_date": "2022-07-23",
+      "url": "https://www.instagram.com/p/CgVw60ujK4l/"
+    },
+    {
+      "author": "@denizeblankstore",
+      "followers": 0,
+      "caption": "#GlowUpDNZ: Uma pele saud\u00e1vel e luminosa \u00e9 sin\u00f4nimo de hidrata\u00e7\u00e3o, concorda? Por isso, uma vez e outra vale a pena se mimar com cuidados especiais, principalmente depois de uma semana cansativa! \ud83e\udd8b\n\nA ",
+      "views": 0,
+      "likes": 102,
+      "comments": 7,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 106.86,
+      "hashtags": [
+        "#GlowUpDNZ:",
+        "#dnz",
+        "#glowuo",
+        "#denizeblankstore",
+        "#mascaradeouro"
+      ],
+      "posted_date": "2022-10-14",
+      "url": "https://www.instagram.com/p/Cjta9OHgsj-/"
+    },
+    {
+      "author": "@tighten_up_with_tyla",
+      "followers": 0,
+      "caption": "Fluids and Facials Fridays @nirvanamedicalspa \n@your.esti.ry @glitter_pink_sparkles_ \n\n#facials #friday #iv #healthy #glowuo #friyay #goodvibes #instagood #instadaily #bestdayever",
+      "views": 0,
+      "likes": 87,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.6,
+      "hashtags": [
+        "#facials",
+        "#friday",
+        "#iv",
+        "#healthy",
+        "#glowuo",
+        "#friyay",
+        "#goodvibes",
+        "#instagood"
+      ],
+      "posted_date": "2023-06-09",
+      "url": "https://www.instagram.com/p/CtSHvLKRvF2/"
+    },
+    {
+      "author": "@stylistruben",
+      "followers": 0,
+      "caption": "This natural glam tho \ud83d\ude0dThank u @tonyaalberto for trusting me \ud83d\udd25\ud83d\udc84\ud83d\udc97\n\nVideo : @mannyspade \ud83d\udd25\ud83d\udcf8\n\nSkin prep :  @catanobeautyinc \n\nEyebrows : @anastasiabeverlyhills \n\nLipstick : @keniaobeauty \n\nFace powder : @",
+      "views": 0,
+      "likes": 85,
+      "comments": 6,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 107.06,
+      "hashtags": [
+        "#glamsquad",
+        "#maquillaje",
+        "#promakeup",
+        "#glam",
+        "#makeup",
+        "#makeupartist",
+        "#keniaontiveros",
+        "#maquillajenatural"
+      ],
+      "posted_date": "2023-09-03",
+      "url": "https://www.instagram.com/p/CwvLn7cxleV/"
+    },
+    {
+      "author": "@lindseymaylifts",
+      "followers": 0,
+      "caption": "Who says you can't get better with age? \ud83d\udcab\n\nBefore kids \u27a1\ufe0f After kids \ud83e\uddd2\ud83c\udffc \ud83d\udc67\ud83c\udffc #throwbackthursday \n\n#mayperformance #transformation #bodybuilding #bikinitofigure #figurecompetitor #onlinetraining #ncperso",
+      "views": 0,
+      "likes": 77,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 110.39,
+      "hashtags": [
+        "#throwbackthursday",
+        "#mayperformance",
+        "#transformation",
+        "#bodybuilding",
+        "#bikinitofigure",
+        "#figurecompetitor",
+        "#onlinetraining",
+        "#ncpersonaltrainer"
+      ],
+      "posted_date": "2023-12-07",
+      "url": "https://www.instagram.com/p/C0jcwQkuv_Y/"
+    },
+    {
+      "author": "@m.demafer",
+      "followers": 0,
+      "caption": "S\u00faper experiencia en la inauguraci\u00f3n de @vacufit.mx, la \u00fanica en GDL\ud83d\udc40\ud83e\udef5\ud83c\udffb \n\nYou\u2019ve got to try this nowwwww\u2728 \n\n#vacufir #glowuo #vacufitgdl #vacufitness #mdemafer #fitness #fitgirl #bajardepeso #perdergr",
+      "views": 0,
+      "likes": 77,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 106.49,
+      "hashtags": [
+        "#vacufir",
+        "#glowuo",
+        "#vacufitgdl",
+        "#vacufitness",
+        "#mdemafer",
+        "#fitness",
+        "#fitgirl",
+        "#bajardepeso"
+      ],
+      "posted_date": "2025-01-30",
+      "url": "https://www.instagram.com/p/DFd1SCuyID8/"
+    },
+    {
+      "author": "@janeiredale_canada",
+      "followers": 0,
+      "caption": "Enhance your goddess glow with PureBronze Shimmer and Matte Bronzers.\ud83e\udd0e Each multipurpose bronzer is designed to highlight, contour and luminize your glow on the face and body.\u2728\n\nTap the #linkinbio to ",
+      "views": 0,
+      "likes": 75,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#linkinbio",
+        "#janeiredale",
+        "#janeiredalecanada",
+        "#bronzer",
+        "#glowuo",
+        "#glowingskin",
+        "#highlight",
+        "#contour"
+      ],
+      "posted_date": "2024-08-26",
+      "url": "https://www.instagram.com/p/C_Iicw3OgFU/"
+    },
+    {
+      "author": "@madam__d__",
+      "followers": 0,
+      "caption": "Lunch with colleagues \ud83e\udd0d\n\n#allwhiteaffair#imawoman#selflove#iloveme#allwhiteoutfit #womensdayluncheon\ud83e\udd0d\ud83e\udd0d\n#trending#dressupchallenge#glowuo#lookgood#bebeautiful#beauty#skincare#fashion",
+      "views": 0,
+      "likes": 70,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 111.43,
+      "hashtags": [
+        "#allwhiteaffair",
+        "#imawoman",
+        "#selflove",
+        "#iloveme",
+        "#allwhiteoutfit",
+        "#womensdayluncheon\ud83e\udd0d\ud83e\udd0d",
+        "#trending",
+        "#dressupchallenge"
+      ],
+      "posted_date": "2023-08-18",
+      "url": "https://www.instagram.com/p/CwGDpi2Icaz/"
+    },
+    {
+      "author": "@unequivocallynicole",
+      "followers": 0,
+      "caption": "Sun damage is the #1 cause of premature aging. If you're already applying a moisturizer, make sure it has an SPF component! \n\nIf you're thinking...I hate sunscreen on my face...ditto! I use to despise",
+      "views": 0,
+      "likes": 70,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.43,
+      "hashtags": [
+        "#1",
+        "#SPF",
+        "#Sundamage",
+        "#safesun",
+        "#glowuo",
+        "#glowingskin",
+        "#protectyourskin",
+        "#dermatologistskincare"
+      ],
+      "posted_date": "2022-04-25",
+      "url": "https://www.instagram.com/p/Ccyaai-lRvY/"
+    },
+    {
+      "author": "@heartfeltcolor",
+      "followers": 0,
+      "caption": "A glowy makeup look using products from The Detox Market because they\u2019re running their once a year Friends & Family sale where it\u2019s 20% off site wide!\n.\nComment \u201cGLOW\u201d \u2728 and I\u2019ll send you a list of al",
+      "views": 0,
+      "likes": 56,
+      "comments": 52,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 192.86,
+      "hashtags": [],
+      "posted_date": "2025-06-15",
+      "url": "https://www.instagram.com/p/DK7MVJYuJnI/"
+    },
+    {
+      "author": "@iimzbettyii",
+      "followers": 0,
+      "caption": "You can\u2019t help getting older, but you don\u2019t have to feel old\u2026 \ud83d\ude4f\ud83d\udc95\n\nAt age 33, I was active and only had my son, watched what I ate but still didn\u2019t look my best (or else compared to now)\u2026 Little did I ",
+      "views": 0,
+      "likes": 55,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 107.27,
+      "hashtags": [
+        "#transformationtuesday",
+        "#motherof2",
+        "#glowuo",
+        "#selflove"
+      ],
+      "posted_date": "2023-03-14",
+      "url": "https://www.instagram.com/p/Cpx1sQujUDn/"
+    },
+    {
+      "author": "@jennylynnskinn",
+      "followers": 0,
+      "caption": "Stunning Bridal Party \u2026 who\u2019s your favorite 1. 2. Or 3?!? \ud83d\udc9c\ud83e\udd8b\ud83d\udc9c\ud83e\udd8b\n.\n.\n.\n.\n.\n.\n.\n.\n#longislandartist #longislandweddings #bridalglam #glam #bridalmakeup #bridesmaidsglam #makeupartist #makeuplooks #longis",
+      "views": 0,
+      "likes": 50,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#longislandartist",
+        "#longislandweddings",
+        "#bridalglam",
+        "#glam",
+        "#bridalmakeup",
+        "#bridesmaidsglam",
+        "#makeupartist",
+        "#makeuplooks"
+      ],
+      "posted_date": "2022-07-28",
+      "url": "https://www.instagram.com/p/CgkBOsXDzz0/"
+    },
+    {
+      "author": "@_noshad_official_o1",
+      "followers": 0,
+      "caption": "\ud83d\udc80\n#reels #explore #glowuo",
+      "views": 0,
+      "likes": 45,
+      "comments": 6,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 113.33,
+      "hashtags": [
+        "#reels",
+        "#explore",
+        "#glowuo"
+      ],
+      "posted_date": "2022-12-11",
+      "url": "https://www.instagram.com/p/CmBLDI3hZcv/"
+    },
+    {
+      "author": "@iamlaurencourtney",
+      "followers": 0,
+      "caption": "New Season of Glow Up loading\u2026\n\nKeep your eyes peeled.\n\nWho\u2019s ready to Glow with me?! \n\nXo,\nL\n\n#glowuo #glowupyourchakras #glowupportal #glow #energyhealing #energyhealer #holyfire #reiki #soundhealin",
+      "views": 0,
+      "likes": 44,
+      "comments": 11,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 125.0,
+      "hashtags": [
+        "#glowuo",
+        "#glowupyourchakras",
+        "#glowupportal",
+        "#glow",
+        "#energyhealing",
+        "#energyhealer",
+        "#holyfire",
+        "#reiki"
+      ],
+      "posted_date": "2025-03-05",
+      "url": "https://www.instagram.com/p/DG0lYpPRir_/"
+    },
+    {
+      "author": "@iamlaurenwilde",
+      "followers": 0,
+      "caption": "This is money coming to me easily. \ud83d\udcb0 full moon Leo blessings yall. Get brave, open your heart, make good art, let yourself be seen, receive adoration with ease \n\n#fullmoon #leo #fullmoonvibez #witchvi",
+      "views": 0,
+      "likes": 43,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#fullmoon",
+        "#leo",
+        "#fullmoonvibez",
+        "#witchvibes",
+        "#aesthetic",
+        "#glowuo",
+        "#ritual",
+        "#spellcraft"
+      ],
+      "posted_date": "2024-01-26",
+      "url": "https://www.instagram.com/p/C2jHEzYNWhx/"
+    },
+    {
+      "author": "@katherine_mcintosh",
+      "followers": 0,
+      "caption": "Trying to.regulate your menopause symptoms?\n\nJust 2 minutes a day - reduces inflammation, balances hormones, clears skin, elevates mood - \n\nMost won\u2019t do it coz it seems to easy but small consistent m",
+      "views": 0,
+      "likes": 42,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 107.14,
+      "hashtags": [
+        "#glowuo",
+        "#menopause",
+        "#fierce",
+        "#heal",
+        "#thrive",
+        "#somaticintuitive"
+      ],
+      "posted_date": "2025-11-12",
+      "url": "https://www.instagram.com/p/DQ8Fr_hkRFX/"
+    },
+    {
+      "author": "@embodyher8",
+      "followers": 0,
+      "caption": "Embody Her \ud83d\udc95 \n\nCouldn't be more grateful and blessed to have been surrounded by each of these phenomenal women. \n\nA massive shout out to our sponsors @blackcoffeeshops and @alisbbqphuket. This wouldn'",
+      "views": 0,
+      "likes": 37,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 108.11,
+      "hashtags": [
+        "#glowuo",
+        "#empoweringwomen",
+        "#strength",
+        "#mindset"
+      ],
+      "posted_date": "2025-06-07",
+      "url": "https://www.instagram.com/p/DKlKa2JzvRo/"
+    },
+    {
+      "author": "@jocendon",
+      "followers": 0,
+      "caption": "Das w\u00e4re doch mal eine richtig n\u00fctzliche Superkraft oder?!\nPsssst... unter uns. Ich liebe ja auch sehr, mir morgens und abends einen kleinen Moment f\u00fcr mich zu nehmen und mich in Ruhe fertig zu machen",
+      "views": 0,
+      "likes": 36,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 111.11,
+      "hashtags": [
+        "#healthyhabits",
+        "#glowuo",
+        "#mamaalltag",
+        "#morgenroutine",
+        "#superkraft",
+        "#healthylifestyle"
+      ],
+      "posted_date": "2025-12-08",
+      "url": "https://www.instagram.com/p/DSA6FqDjC2a/"
+    },
+    {
+      "author": "@cw.fitness",
+      "followers": 0,
+      "caption": "\u2728GIVEAWAY TIME\u2728In honor of Mother\u2019s Day!\n\nGet ready to glow up with the Radiance Eyeshadow Palette, a stunning mix of eight illuminating shades in gold, amber, cream, and green. Perfect for elevating ",
+      "views": 0,
+      "likes": 34,
+      "comments": 11,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 132.35,
+      "hashtags": [
+        "#glowuo",
+        "#radiancepalette",
+        "#cleanbeauty",
+        "#oneluckywinner",
+        "#nontoxicmakeup",
+        "#giveway",
+        "#letsgetglam",
+        "#healthyhglow"
+      ],
+      "posted_date": "2025-05-01",
+      "url": "https://www.instagram.com/p/DJHXhRdptFk/"
+    },
+    {
+      "author": "@piqueglambymari",
+      "followers": 0,
+      "caption": "My Caribbean Glow Queen \ud83d\udc51 \n\n For this glam we went with neutral tones, a soft pop of shimmer on the lids, and a warm bronzy depth to open up her eyes. I focused on creating that perfect skin finish \u2014 ",
+      "views": 0,
+      "likes": 30,
+      "comments": 13,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 143.33,
+      "hashtags": [
+        "#FullGlam",
+        "#transformation",
+        "#beforeandafter",
+        "#glowuo",
+        "#beautyenhancements",
+        "#CentralFloridaLuxuryMua",
+        "#explorepage",
+        "#luxurymakeupartist"
+      ],
+      "posted_date": "2025-12-09",
+      "url": "https://www.instagram.com/p/DSDz5IGDp7x/"
+    },
+    {
+      "author": "@eryn.dane",
+      "followers": 0,
+      "caption": "I still love bright colors tho \ud83e\udd70\n.\n#closerto28 #agetransformation #transformation #glowuo #blackgurlcontentcreator #blackgirlcontentcreator #losangeles #losangelescontentcreator",
+      "views": 0,
+      "likes": 30,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#closerto28",
+        "#agetransformation",
+        "#transformation",
+        "#glowuo",
+        "#blackgurlcontentcreator",
+        "#blackgirlcontentcreator",
+        "#losangeles",
+        "#losangelescontentcreator"
+      ],
+      "posted_date": "2022-11-10",
+      "url": "https://www.instagram.com/p/CkxEklVMsas/"
+    },
+    {
+      "author": "@life.with.my.zelly",
+      "followers": 0,
+      "caption": "I never realised how scrappy her tail used to compared to now. She definitely grew into those paws! \u2764\ufe0f\n\n#dogsofinstagram #thenandnow #romanianrescue#glowuo #furbaby #instadog #zoomies #pupoy #dog",
+      "views": 0,
+      "likes": 29,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#dogsofinstagram",
+        "#thenandnow",
+        "#romanianrescue",
+        "#glowuo",
+        "#furbaby",
+        "#instadog",
+        "#zoomies",
+        "#pupoy"
+      ],
+      "posted_date": "2023-10-11",
+      "url": "https://www.instagram.com/p/CyRe0t3MBFv/"
+    },
+    {
+      "author": "@lydialutudi",
+      "followers": 0,
+      "caption": "Need help activating your sauce? Play \u2018Something About Being A Woman\u2019- Lydia Lutudi .. thank me later x\n\n#newmusic #bluesrockmusic #altsoul #altrock #newyork #confidence #psychedlicrock #glowuo",
+      "views": 0,
+      "likes": 26,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 107.69,
+      "hashtags": [
+        "#newmusic",
+        "#bluesrockmusic",
+        "#altsoul",
+        "#altrock",
+        "#newyork",
+        "#confidence",
+        "#psychedlicrock",
+        "#glowuo"
+      ],
+      "posted_date": "2025-11-03",
+      "url": "https://www.instagram.com/p/DQmRXJ7iCtC/"
+    },
+    {
+      "author": "@imperfectly_passionate",
+      "followers": 0,
+      "caption": "After 8 years in this business, I really didn\u2019t know the many reasons a facial mask is beneficial. I felt like it was just an added step I could do without and more of a PITA (pain in the ass).\n\nMasks",
+      "views": 0,
+      "likes": 26,
+      "comments": 18,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 169.23,
+      "hashtags": [
+        "#glowuo",
+        "#olivetree",
+        "#oliveoil",
+        "#elixir",
+        "#olivemask",
+        "#facemasks",
+        "#cleanliving",
+        "#guthealthmatters"
+      ],
+      "posted_date": "2024-07-10",
+      "url": "https://www.instagram.com/p/C9QN8mXyrsM/"
+    },
+    {
+      "author": "@holidayhairspace",
+      "followers": 0,
+      "caption": "Blondeeee glow up for the sister.. had to keep the ending in cause lol\u2026 Ready for her 21st and a hot girls European summer! \u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25\n@jimi.carle \n\nJimi\u2019s brothers new tuneeee @parcelsmusic \n\n#blon",
+      "views": 0,
+      "likes": 26,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 111.54,
+      "hashtags": [
+        "#blonde",
+        "#reveal",
+        "#transformation",
+        "#glowuo"
+      ],
+      "posted_date": "2025-08-09",
+      "url": "https://www.instagram.com/p/DNH8s4MNvD1/"
+    },
+    {
+      "author": "@carmenairhairtoowoomba",
+      "followers": 0,
+      "caption": "~ MY TURN ~ \ud83d\ude01 Getting my own little glow up and fresh cut with the amazing @jacinta.g_airhairstudiotmba and my little side kick Fleur\u2728\ufe0f thanks Jacinta I LOVE it \u2764\ufe0f\n\n#newhaircut #toowoombahairdresser #",
+      "views": 0,
+      "likes": 25,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#newhaircut",
+        "#toowoombahairdresser",
+        "#toowoombahairstylist",
+        "#glowuo",
+        "#bobhaircut",
+        "#shorthair",
+        "#shorthairspecialist",
+        "#texturedhaircut"
+      ],
+      "posted_date": "2023-10-19",
+      "url": "https://www.instagram.com/p/CymDZW9BEBM/"
+    },
+    {
+      "author": "@pinnaclerecreates",
+      "followers": 0,
+      "caption": "Treating my colleague to a little self-care at BMF Clinic! After all those Zoom calls and endless travel between Singapore and Indonesia, Odelia really deserves some glow-up time with an ADVATx laser ",
+      "views": 0,
+      "likes": 25,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.0,
+      "hashtags": [
+        "#thepinnaclecreative",
+        "#pinnaclerecreates",
+        "#bmfclinicsg",
+        "#lasertreatment",
+        "#sgbeauty",
+        "#sgskincare",
+        "#selfcare",
+        "#glowuo"
+      ],
+      "posted_date": "2025-04-04",
+      "url": "https://www.instagram.com/p/DIBCbQ5zqi3/"
+    },
+    {
+      "author": "@circlegdesigns",
+      "followers": 0,
+      "caption": "This is probably my biggest transformation to date...watch this room go from mouse playground to dream (kid) playroom!\n.\n.\n.\n#idcoathome #interiordesign #interiordesignrva #apartmenttherapy #lovewhere",
+      "views": 0,
+      "likes": 25,
+      "comments": 11,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 144.0,
+      "hashtags": [
+        "#idcoathome",
+        "#interiordesign",
+        "#interiordesignrva",
+        "#apartmenttherapy",
+        "#lovewhereyoudwell",
+        "#lonnyliving",
+        "#housebeautiful",
+        "#sodomino"
+      ],
+      "posted_date": "2022-04-21",
+      "url": "https://www.instagram.com/p/Ccn1JEeBGnH/"
+    },
+    {
+      "author": "@cody_mcvay_pruitt",
+      "followers": 0,
+      "caption": "If you\u2019re looking for a way to improve your skin, muscle recovery, joint health, gut function & just overall health\u2026collagen supplementation is necessary.\n\nUnfortunately not all collagens are created ",
+      "views": 0,
+      "likes": 23,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 108.7,
+      "hashtags": [
+        "#activatednation",
+        "#skincare",
+        "#lovetheskinyourein",
+        "#glowuo",
+        "#readysetglow",
+        "#collagen",
+        "#liquidcollagen",
+        "#wrinklebegone"
+      ],
+      "posted_date": "2022-06-25",
+      "url": "https://www.instagram.com/p/CfNUnB6pctq/"
+    },
+    {
+      "author": "@homeharmonydesigns",
+      "followers": 0,
+      "caption": "Hollywood Beach Project \u2728 Taking inspiration from the Oxnard Shore, this condominium received a major glow up! The outdated space was fully renovated to be a light, bright, and relaxing sanctuary. \n\n#",
+      "views": 0,
+      "likes": 22,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 113.64,
+      "hashtags": [
+        "#remodel",
+        "#interiordesign",
+        "#interiordesigner",
+        "#kitchendesign",
+        "#glowuo",
+        "#coastalliving",
+        "#coastaldecor",
+        "#oxnard"
+      ],
+      "posted_date": "2023-01-10",
+      "url": "https://www.instagram.com/p/CnQKK-ZhKL0/"
+    },
+    {
+      "author": "@mamabodgrind",
+      "followers": 0,
+      "caption": "It\u2019s been a helluva ride\ud83d\ude4c\ud83c\udffb\ud83c\udf89\nTaken on many new titles as well\n2018 wife\n2019 mom \n2020 mom of 2 \n2021 boss/owner \nIn this time: moved 3 times, opened 2 Carwashes, started Zyia and BOD, and became a mom",
+      "views": 0,
+      "likes": 22,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#dreamsdocometrue",
+        "#workhardplayhard",
+        "#roles",
+        "#momlife",
+        "#boymom",
+        "#boss",
+        "#business",
+        "#transitions"
+      ],
+      "posted_date": "2022-03-20",
+      "url": "https://www.instagram.com/p/CbUo2QIDK-_/"
+    },
+    {
+      "author": "@cheveuxsalon.ltd",
+      "followers": 0,
+      "caption": "\ud83d\udcab\n\n#hotd #hairoverhaul #glowuo #hairgoals #cheveuxsalon #midlothianhair #edinburghhair #edinburghhairdresser #midlothianhairstylist",
+      "views": 0,
+      "likes": 22,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.55,
+      "hashtags": [
+        "#hotd",
+        "#hairoverhaul",
+        "#glowuo",
+        "#hairgoals",
+        "#cheveuxsalon",
+        "#midlothianhair",
+        "#edinburghhair",
+        "#edinburghhairdresser"
+      ],
+      "posted_date": "2023-05-02",
+      "url": "https://www.instagram.com/p/CrwErYsIdPL/"
+    },
+    {
+      "author": "@officialuserfriendlybeauty",
+      "followers": 0,
+      "caption": "This sound + This transition= \ud83d\udca3\ud83d\udd25content\ud83d\ude4c\ud83c\udffcIf u haven\u2019t tried this\u2026What r u even doing #easytransitions #viral #glowuo #makeup",
+      "views": 0,
+      "likes": 21,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 109.52,
+      "hashtags": [
+        "#easytransitions",
+        "#viral",
+        "#glowuo",
+        "#makeup"
+      ],
+      "posted_date": "2022-11-06",
+      "url": "https://www.instagram.com/p/Ckn-7ltv1X1/"
+    },
+    {
+      "author": "@francyse92",
+      "followers": 0,
+      "caption": "\u2764\ufe0f\u200d\ud83e\ude79\ud83c\udf3b\n\n#glowuo#mindset#perditapeso #motivazione #crescitapersonale #trend",
+      "views": 0,
+      "likes": 21,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#glowuo",
+        "#mindset",
+        "#perditapeso",
+        "#motivazione",
+        "#crescitapersonale",
+        "#trend"
+      ],
+      "posted_date": "2025-05-23",
+      "url": "https://www.instagram.com/p/DKAqtumtlFz/"
+    },
+    {
+      "author": "@olhardeliah",
+      "followers": 0,
+      "caption": "Siga : @porliaxs\n\nA verdade \u00e9 simples:\nvoc\u00ea n\u00e3o nasceu para caber na expectativa de ningu\u00e9m.\n\nA opini\u00e3o alheia pesa quando voc\u00ea ainda n\u00e3o se escolheu.\nQuando voc\u00ea se escolhe, ela vira s\u00f3 barulho de fu",
+      "views": 0,
+      "likes": 18,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#\u1d00\u1d1c\u1d1b\u1d0f\u1d04\u1d0f\u0274\u029c\u1d07\u1d04\u026a\u1d0d\u1d07\u0274\u1d1b\u1d0f",
+        "#glowuo",
+        "#explore",
+        "#motivacional",
+        "#reflex\u00e3o"
+      ],
+      "posted_date": "2025-12-10",
+      "url": "https://www.instagram.com/p/DSEKw3LDTvW/"
+    },
+    {
+      "author": "@jess_darby_",
+      "followers": 0,
+      "caption": "Sometimes I can wear something other than scrubs and hang out with top leaders \u2728 \n\nLearning how to shine like a diamond \ud83d\udc8e",
+      "views": 0,
+      "likes": 17,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 117.65,
+      "hashtags": [],
+      "posted_date": "2022-02-04",
+      "url": "https://www.instagram.com/p/CZi-24WA5S5/"
+    },
+    {
+      "author": "@riya.rundhiya",
+      "followers": 0,
+      "caption": "Do you also want Clear, Radiant and Glowing skin?\n\nSkin care with @riya.rundhiya \n\nThen start using\nVitamin C and niacinamide Face wash @wowskinscienceindia \n\nVitamin C not only brighten your skin but",
+      "views": 0,
+      "likes": 16,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 112.5,
+      "hashtags": [
+        "#makeupbyriya\ud83e\uddda\u200d\u2640\ufe0f",
+        "#glowuo",
+        "#skincareessentoal",
+        "#vitaminaC",
+        "#niacianamide",
+        "#healthyskin",
+        "#radiance"
+      ],
+      "posted_date": "2024-09-25",
+      "url": "https://www.instagram.com/p/DAVrXfNPCkk/"
+    },
+    {
+      "author": "@tarainchbald",
+      "followers": 0,
+      "caption": "BREAKFAST at TARA'S for GLOWING UP THROUGH THE DECADES\ud83d\udcc6\nToday is 1950s Glow Up, I do have customers born in the 1950s who take the Glow Up Magic daily & are THRIVING on it\ud83c\udf08\n\nWould you like to Glow Up ",
+      "views": 0,
+      "likes": 16,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#puretara",
+        "#glowuo",
+        "#glpwupwithme",
+        "#1950s",
+        "#breakfastattiffanys",
+        "#glpwing",
+        "#magicmonday",
+        "#mondaymood"
+      ],
+      "posted_date": "2022-02-28",
+      "url": "https://www.instagram.com/p/CahFR5JoZYV/"
+    },
+    {
+      "author": "@sara.j.strand",
+      "followers": 0,
+      "caption": "Just a reminder. \n\nI love you \n\nKeep shooting for the stars boo. You are worthy of a magic filled life Xx\n\n#inspiration #gratitude #quoteoftheday #psa #reminder #remember #iloveyou #monat #viralshampo",
+      "views": 0,
+      "likes": 15,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#inspiration",
+        "#gratitude",
+        "#quoteoftheday",
+        "#psa",
+        "#reminder",
+        "#remember",
+        "#iloveyou",
+        "#monat"
+      ],
+      "posted_date": "2024-02-09",
+      "url": "https://www.instagram.com/p/C3H9zwPvwOh/"
+    },
+    {
+      "author": "@docsalmankhan",
+      "followers": 0,
+      "caption": "Do you grind your teeth at night? \ud83d\ude2c Here are 4 signs to show that you might have bruxism! If you wake up with jaw pain, neck pain, or headaches, it's time to pay attention! And if you're unsure, just ",
+      "views": 0,
+      "likes": 14,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#OralHealth",
+        "#BruxismAwareness",
+        "#BruxismRelief",
+        "#JawPain",
+        "#TeethGrinding",
+        "#HeadacheAwareness",
+        "#dentalcare",
+        "#oralcare"
+      ],
+      "posted_date": "2024-09-23",
+      "url": "https://www.instagram.com/p/DAQhMWjSZAO/"
+    },
+    {
+      "author": "@barelaserstudio",
+      "followers": 0,
+      "caption": "E X F O L I A T I N G\n\nExfoliate for FLAWLESS laser hair removal RESULTS \n\n#smoothskingoals airremoval #exfoliationbenefits #ExfoliateForSmoothSkin #glowuo #hairemovaljourney #selfcareessentials",
+      "views": 0,
+      "likes": 13,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#smoothskingoals",
+        "#exfoliationbenefits",
+        "#ExfoliateForSmoothSkin",
+        "#glowuo",
+        "#hairemovaljourney",
+        "#selfcareessentials"
+      ],
+      "posted_date": "2025-03-28",
+      "url": "https://www.instagram.com/p/DHwhVq4Ombt/"
+    },
+    {
+      "author": "@whitterpitter",
+      "followers": 0,
+      "caption": "Growing everyday! #glowuo #imalright #growup #glowup #selfgrowth",
+      "views": 0,
+      "likes": 12,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#glowuo",
+        "#imalright",
+        "#growup",
+        "#glowup",
+        "#selfgrowth"
+      ],
+      "posted_date": "2023-08-27",
+      "url": "https://www.instagram.com/p/CwdT_K1JUq1/"
+    },
+    {
+      "author": "@les_ongles_demmanuelle_audenge",
+      "followers": 0,
+      "caption": "\ud83d\udda4 Avant Apr\u00e8s \n\ud83d\udda4 Au revoir petits c\u0153urs \n\ud83d\udda4 Bonjour full Black \n\n#AvantApres #BeforeAndAfter #GlowUo #Transformation #FYP #Reels #Proth\u00e9sisteOngulaire #NailArtist #NailLover #CodNailSystem #Audenge #Au",
+      "views": 0,
+      "likes": 12,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#AvantApres",
+        "#BeforeAndAfter",
+        "#GlowUo",
+        "#Transformation",
+        "#FYP",
+        "#Reels",
+        "#Proth\u00e9sisteOngulaire",
+        "#NailArtist"
+      ],
+      "posted_date": "2025-02-25",
+      "url": "https://www.instagram.com/p/DGfGI6XqjF4/"
+    },
+    {
+      "author": "@sophiak89",
+      "followers": 0,
+      "caption": "Bringing Sexy Back\n\nWhen you are back to your old self what a good feeling. \n\nGlowing & glamming up.\n\n#glowuo #glamup #shine #sexy #bringingsexyback \n#conference #selflove",
+      "views": 0,
+      "likes": 12,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#glowuo",
+        "#glamup",
+        "#shine",
+        "#sexy",
+        "#bringingsexyback",
+        "#conference",
+        "#selflove"
+      ],
+      "posted_date": "2024-05-18",
+      "url": "https://www.instagram.com/p/C7GfZTVyHeD/"
+    },
+    {
+      "author": "@brittney_masoner",
+      "followers": 0,
+      "caption": "Gave our new to us RV a little facelift. Loving how it turned out. \n\n#glowuo #rvrenovation #camping #beforeandafter",
+      "views": 0,
+      "likes": 11,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 118.18,
+      "hashtags": [
+        "#glowuo",
+        "#rvrenovation",
+        "#camping",
+        "#beforeandafter"
+      ],
+      "posted_date": "2024-07-17",
+      "url": "https://www.instagram.com/p/C9iuoSuSRTm/"
+    },
+    {
+      "author": "@ashley.am.costello",
+      "followers": 0,
+      "caption": "If you can relate, you\u2019ve got this! \nThis too shall pass. \nWhat you focus on, grows. \n\nI\u2019m proud of all I\u2019ve overcome, what I\u2019ve achieved and excited to see who I continue to grow into and what I cont",
+      "views": 0,
+      "likes": 10,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 130.0,
+      "hashtags": [
+        "#singlemama",
+        "#toddlermum",
+        "#boundaries",
+        "#happy",
+        "#hurting",
+        "#healing",
+        "#reflecting",
+        "#releasing"
+      ],
+      "posted_date": "2024-07-17",
+      "url": "https://www.instagram.com/p/C9hu87NvHsD/"
+    },
+    {
+      "author": "@thesecretbeautylounge",
+      "followers": 0,
+      "caption": "Relax and unwind with me xxx\n\n#SelfCare #massage #facial #selfcare #cill #skincareglowup #GlowingSkin #glowuo @lisaloops_",
+      "views": 0,
+      "likes": 10,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 120.0,
+      "hashtags": [
+        "#SelfCare",
+        "#massage",
+        "#facial",
+        "#selfcare",
+        "#cill",
+        "#skincareglowup",
+        "#GlowingSkin",
+        "#glowuo"
+      ],
+      "posted_date": "2025-07-21",
+      "url": "https://www.instagram.com/p/DMYbYJaMehH/"
+    },
+    {
+      "author": "@emily.youngreflections",
+      "followers": 0,
+      "caption": "It\u2019s not just a service, it\u2019s self-care (and let\u2019s be real\u2026 free therapy too) \ud83d\udc86\ud83c\udffc\u200d\u2640\ufe0f\u2728\n\nNot only do you get to have gorgeous skin, but your stress also gets lighter!\n\nI would love to chat with you all d",
+      "views": 0,
+      "likes": 10,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#esthetician",
+        "#medispa",
+        "#youngreflections",
+        "#glowuo",
+        "#skincare",
+        "#skintreatment",
+        "#chatallday",
+        "#freetherapy"
+      ],
+      "posted_date": "2025-09-22",
+      "url": "https://www.instagram.com/p/DO6T85bjq3U/"
+    },
+    {
+      "author": "@yieldprojectenbv",
+      "followers": 0,
+      "caption": "Voor en na: dezelfde plek, totaal nieuwe vibes \ud83c\udf31\u2728\n\nWat vind jij? Reageer in onze poll \ud83d\udc47\ud83c\udffb\n\n#glowuo #beforeandafter #projectinrichting #schoolinrichting #interieurdesign",
+      "views": 0,
+      "likes": 10,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 120.0,
+      "hashtags": [
+        "#glowuo",
+        "#beforeandafter",
+        "#projectinrichting",
+        "#schoolinrichting",
+        "#interieurdesign"
+      ],
+      "posted_date": "2024-12-02",
+      "url": "https://www.instagram.com/p/DDFPd42IiS-/"
+    },
+    {
+      "author": "@glowupwithpam",
+      "followers": 0,
+      "caption": "Not always pretty but that\u2019s okay!  Skincare and self care can be scary, come see me and we will make it less scary, one step at a time. Skin can look younger, firmer, more radiant with a few daily st",
+      "views": 0,
+      "likes": 10,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#skincsre",
+        "#facialtreatment",
+        "#licensedesthetician",
+        "#dermalogicafacial",
+        "#clarityrx",
+        "#dermalogica",
+        "#skincareroutine",
+        "#glowuo"
+      ],
+      "posted_date": "2023-10-24",
+      "url": "https://www.instagram.com/p/CyyIWo0L6c0/"
+    },
+    {
+      "author": "@callee.losing.it",
+      "followers": 0,
+      "caption": "A lot can change in 3 years #glowuo #extremeweightloss #growth #startedfromthebottom",
+      "views": 0,
+      "likes": 9,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#glowuo",
+        "#extremeweightloss",
+        "#growth",
+        "#startedfromthebottom"
+      ],
+      "posted_date": "2022-11-26",
+      "url": "https://www.instagram.com/p/ClbY12vP8Be/"
+    },
+    {
+      "author": "@aga.dyczkowska",
+      "followers": 0,
+      "caption": "Discover the power of a modern laser diode with advanced cooling technology! \ud83c\udf1f With innovative cooling, treatments are virtually painless, safe, and highly effective. See it in action \u2014 the chilled ap",
+      "views": 0,
+      "likes": 8,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 137.5,
+      "hashtags": [
+        "#laserdiode",
+        "#CooledLaser",
+        "#lasertechnology",
+        "#painlesstreatment",
+        "#beautytech",
+        "#SkinCare",
+        "#laserhairremoval",
+        "#smoothskin"
+      ],
+      "posted_date": "2025-07-28",
+      "url": "https://www.instagram.com/p/DMqrwo_M27b/"
+    },
+    {
+      "author": "@illusionssalonpasco",
+      "followers": 0,
+      "caption": "The proof is in the before & afters\u2026 or however that saying goes \ud83d\ude09 A long list of benefits, \ud835\udc9b\ud835\udc86\ud835\udc93\ud835\udc90 down time, and \ud835\udc93\ud835\udc86\ud835\udc82\ud835\udc8d results - What are you waiting for \ud83d\udc4f\ud83c\udffc Now is the perfect time to see what all the h",
+      "views": 0,
+      "likes": 7,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#illusions",
+        "#illusionssalon",
+        "#illusionssalonandspa",
+        "#salon",
+        "#spa",
+        "#dayspa",
+        "#pnwsalon",
+        "#pnwdayspa"
+      ],
+      "posted_date": "2024-10-03",
+      "url": "https://www.instagram.com/p/DAqxqZFPgjt/"
+    },
+    {
+      "author": "@glowuphealthandwellness_",
+      "followers": 0,
+      "caption": "Where\u2019s the lie? \ud83d\ude05\n\n.\n.\nIs it time for you to start thinking about botox? \n.\n#glowuo #glowuobodyandbeauty #botox #medspa #fillers #prp #microneedling",
+      "views": 0,
+      "likes": 7,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 114.29,
+      "hashtags": [
+        "#glowuo",
+        "#glowuobodyandbeauty",
+        "#botox",
+        "#medspa",
+        "#fillers",
+        "#prp",
+        "#microneedling"
+      ],
+      "posted_date": "2022-09-10",
+      "url": "https://www.instagram.com/p/CiVfCNHDouq/"
+    },
+    {
+      "author": "@skin_works_marin_",
+      "followers": 0,
+      "caption": "Whats Your Skincare Routine Like?\n\nA great skincare routine doesnt have to be complicated! In fact, keeping it simple can be just as effective.\n\nStart with these 3 essential steps: \n\n1. Vitamin C For ",
+      "views": 0,
+      "likes": 6,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#skincare",
+        "#skinroutine",
+        "#spf",
+        "#vitaminc",
+        "#skinworks",
+        "#skinrx",
+        "#medspa",
+        "#facial"
+      ],
+      "posted_date": "2025-03-04",
+      "url": "https://www.instagram.com/p/DGyaTNZyz41/"
+    },
+    {
+      "author": "@janeiredale_me",
+      "followers": 0,
+      "caption": "Enhance your goddess glow with PureBronze Shimmer and Matte Bronzers.\ud83e\udd0e Each multipurpose bronzer is designed to highlight, contour and luminize your glow on the face and body.\u2728\n\nShop the collection at",
+      "views": 0,
+      "likes": 6,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#janeiredale",
+        "#bronzer",
+        "#glowuo",
+        "#glowingskin",
+        "#highlight",
+        "#contour",
+        "#summermakeup",
+        "#skincare"
+      ],
+      "posted_date": "2025-06-16",
+      "url": "https://www.instagram.com/p/DK9qvWgphrq/"
+    },
+    {
+      "author": "@mollylouh",
+      "followers": 0,
+      "caption": "I've used the spoon for years, but now it's back and even BETTER \ud83d\udd25 At 50 years old, the Mid-life ish doesn't get to control me anymore! The secret is in the \"sauce\"!\n\ud83e\uddec Clinically shown to help reduce ",
+      "views": 0,
+      "likes": 5,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#menopause",
+        "#midlifemomma",
+        "#collagen",
+        "#fatblaster",
+        "#spooning",
+        "#cleanliving",
+        "#glowuo",
+        "#chocolate"
+      ],
+      "posted_date": "2025-10-30",
+      "url": "https://www.instagram.com/p/DQcLX8NEYIc/"
+    },
+    {
+      "author": "@becs_stone_",
+      "followers": 0,
+      "caption": "Last few hours of being 47\u2026\nLooking back on the last 10 years, I don\u2019t always recognise the person I used to be\u2014but I\u2019m so grateful for her. She got me through, she got me here. Chapter 48\u2026 I\u2019m ready ",
+      "views": 0,
+      "likes": 5,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 160.0,
+      "hashtags": [
+        "#weightloss",
+        "#glowuo",
+        "#transformation",
+        "#weightlossjourney",
+        "#reel"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzU8h8DviY/"
+    },
+    {
+      "author": "@akwardspice",
+      "followers": 0,
+      "caption": "comment \u201cglow up\u201d if you are interested in glowing up #glowuo #healthy #healthyhair #healthyskin #monat #glowupgang #glowup #buildingateam",
+      "views": 0,
+      "likes": 5,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#glowuo",
+        "#healthy",
+        "#healthyhair",
+        "#healthyskin",
+        "#monat",
+        "#glowupgang",
+        "#glowup",
+        "#buildingateam"
+      ],
+      "posted_date": "2023-06-20",
+      "url": "https://www.instagram.com/p/CttsVwBJ3l8/"
+    },
+    {
+      "author": "@ho_cg",
+      "followers": 0,
+      "caption": "Day 23, 28 June 2025, \nIts's day 23 and a brewing outbreak is knocking \ud83e\udd7a\nS, my skincare steps are helping me stay calm and hydrated.\nIf your skin's been unpredictable too, feel free to reach out. I'd ",
+      "views": 0,
+      "likes": 4,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#happylife",
+        "#presentmoment",
+        "#glowuo"
+      ],
+      "posted_date": "2025-06-29",
+      "url": "https://www.instagram.com/p/DLfNCl5BIex/"
+    },
+    {
+      "author": "@esthetique_twinsanity",
+      "followers": 0,
+      "caption": "This is how we roll at Twinsanity. Client comes in with blemishes, acne, dull and asphyxiated skin. Right away a quick skin analysis is done and immediately suggest the best suitable facial for their ",
+      "views": 0,
+      "likes": 3,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 133.33,
+      "hashtags": [
+        "#Ledlighttherapy",
+        "#yonkaactivemicropeel",
+        "#yonka",
+        "#brightening",
+        "#acnetreatment",
+        "#glowuo",
+        "#medicalaesthetician",
+        "#meficalaesthetics"
+      ],
+      "posted_date": "2025-02-12",
+      "url": "https://www.instagram.com/p/DF-R6QFx8MD/"
+    },
+    {
+      "author": "@lisasbelledejour",
+      "followers": 0,
+      "caption": "#footdetox #endofsummer #glowuo #detox #spa #okc #backtoschool #summerfun #inflammation",
+      "views": 0,
+      "likes": 3,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#footdetox",
+        "#endofsummer",
+        "#glowuo",
+        "#detox",
+        "#spa",
+        "#okc",
+        "#backtoschool",
+        "#summerfun"
+      ],
+      "posted_date": "2024-08-06",
+      "url": "https://www.instagram.com/p/C-VOhC6RhG2/"
+    },
+    {
+      "author": "@yumdivayum",
+      "followers": 0,
+      "caption": "WELCOME TO YUMYUM\u2019s WORLD! It\u2019s a vibe. #miniseries #ai #therapy #ai #json #tiojavi #tio #bodega #hoodtherapy #newyork #brooklyn #fashion #breakup #sheleftme #party #glowuo",
+      "views": 0,
+      "likes": 3,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#miniseries",
+        "#ai",
+        "#therapy",
+        "#json",
+        "#tiojavi",
+        "#tio",
+        "#bodega",
+        "#hoodtherapy"
+      ],
+      "posted_date": "2025-08-03",
+      "url": "https://www.instagram.com/p/DM5ULGJxXc6/"
+    },
+    {
+      "author": "@glowup_aestheticsandbeauty",
+      "followers": 0,
+      "caption": "Lip filler journey \ud83d\ude0d\ud83d\udc44 when will you start yours ?  Nautral ? Dermal filler ? Botox which do you prefer?\u2026.DM \ud83d\udc44 to start your journey \ud83d\udc89\ud83d\udc44 \n\n#aesthetic\u2018s #glowuo #lips #filler #picoftheday #photooftheday ",
+      "views": 0,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#aesthetic\u2018s",
+        "#glowuo",
+        "#lips",
+        "#filler",
+        "#picoftheday",
+        "#photooftheday",
+        "#like",
+        "#follow"
+      ],
+      "posted_date": "2024-04-28",
+      "url": "https://www.instagram.com/p/C6UkAlKspdm/"
+    },
+    {
+      "author": "@il0v3eeefashi0n",
+      "followers": 0,
+      "caption": "pt.1 #fyp #foryou #govira #viral #blowup #glowuo #tips #hairporosity #pt1 #il0ves3lfcare @belleprocida",
+      "views": 0,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#fyp",
+        "#foryou",
+        "#govira",
+        "#viral",
+        "#blowup",
+        "#glowuo",
+        "#tips",
+        "#hairporosity"
+      ],
+      "posted_date": "2024-07-30",
+      "url": "https://www.instagram.com/p/C-CYEIOSfeg/"
+    },
+    {
+      "author": "@carrieskincare",
+      "followers": 0,
+      "caption": "Get your post holiday glow on with these free tropic duo with orders \u00a3100 and over this offer ends on tomorrow so get your orders in soon.",
+      "views": 0,
+      "likes": 1,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [],
+      "posted_date": "2025-08-06",
+      "url": "https://www.instagram.com/p/DNBi9xUIvZk/"
+    },
+    {
+      "author": "@rmsskincare.official",
+      "followers": 0,
+      "caption": "Kalian team pake toner gimana? #rmsskincare #glowuo #toner #tipsskincare",
+      "views": 0,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#rmsskincare",
+        "#glowuo",
+        "#toner",
+        "#tipsskincare"
+      ],
+      "posted_date": "2024-04-01",
+      "url": "https://www.instagram.com/p/C5ON23oo7NA/"
+    },
+    {
+      "author": "@crystalzalchemist1111",
+      "followers": 0,
+      "caption": "Dark spots are not welcomed here \u274c \n\nBursting with brightening vitamin C to lift dull complexions, glow-boosting superberries, and kangaroo paw flower extract to target visible signs of ageing, Glow B",
+      "views": 0,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#Glowuo",
+        "#Glowberry",
+        "#brightening",
+        "#darkspits",
+        "#,hyoerpigmentation",
+        "#vegan",
+        "#crueltyfree",
+        "#award"
+      ],
+      "posted_date": "2023-06-23",
+      "url": "https://www.instagram.com/p/Ct0bJbKodw7/"
+    },
+    {
+      "author": "@trumpsportnetwork3",
+      "followers": 0,
+      "caption": "girls glow up tips for you .... #tips #glowuo #skin #advice #girls #videos",
+      "views": 0,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#tips",
+        "#glowuo",
+        "#skin",
+        "#advice",
+        "#girls",
+        "#videos"
+      ],
+      "posted_date": "2024-07-15",
+      "url": "https://www.instagram.com/p/C9bre5nMPuz/"
+    },
+    {
+      "author": "@theemancipationofjax",
+      "followers": 0,
+      "caption": "It\u2019s the glow from within that I love so much.  Wanna #glow with us ? #GetGlowing #GlowUpChallenge #glowuo #collagensupplement #collagensupplement #numberone #hairskinandnails #bonestrength #wholebody",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#glow",
+        "#GetGlowing",
+        "#GlowUpChallenge",
+        "#glowuo",
+        "#collagensupplement",
+        "#numberone",
+        "#hairskinandnails",
+        "#bonestrength"
+      ],
+      "posted_date": "2024-02-01",
+      "url": "https://www.instagram.com/p/C2yfosLJLQV/"
+    },
+    {
+      "author": "@skinfatuation.with.ashes",
+      "followers": 0,
+      "caption": "For real I'm obsessed with BioRePeel, CO2 Lift Pro Masks and Skinbetter Tonesmart SPF Lotion. Might be three of my favorite things in the Aesthetics industry of all time!\nLooking for the ultimate skin",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#hydrafacial",
+        "#biorepeelcl3",
+        "#co2liftpro",
+        "#carboxytherapy",
+        "#minimaldowntime",
+        "#glowyskin",
+        "#glowuo",
+        "#Skinbetterscience"
+      ],
+      "posted_date": "2024-04-27",
+      "url": "https://www.instagram.com/p/C6R3w66sJhE/"
+    },
+    {
+      "author": "@rikkewesterboe",
+      "followers": 0,
+      "caption": "forever favorite lip combo \ud83e\udd0d\ud83e\udd93 ad links",
+      "views": 0,
+      "likes": -1,
+      "comments": 22,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2100.0,
+      "hashtags": [],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWygD_vikfL/"
+    },
+    {
+      "author": "@rhonyclaire",
+      "followers": 0,
+      "caption": "sooo easy & sexy! Y2K ombr\u00e9 doll lips \ud83d\udc8b\ud83d\udc84feeling so Bratz coded in this look @hudabeauty @huda \n.\n.\n.\n.\n.\n#ombrelips #lipcombo #concealer #tutorial #makeupartist",
+      "views": 0,
+      "likes": -1,
+      "comments": 33,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3200.0,
+      "hashtags": [
+        "#ombrelips",
+        "#lipcombo",
+        "#concealer",
+        "#tutorial",
+        "#makeupartist"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1qRcRAktf/"
+    },
+    {
+      "author": "@karlacruz",
+      "followers": 0,
+      "caption": "I had to have a little rant. Be real. Be authentic. Be you. THINK for yourself!! I promise you don\u2019t need AI.  #makeup #makeupartist #makeuphacks #makeuptips",
+      "views": 0,
+      "likes": -1,
+      "comments": 55,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 5400.0,
+      "hashtags": [
+        "#makeup",
+        "#makeupartist",
+        "#makeuphacks",
+        "#makeuptips"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWybsvhDGT7/"
+    },
+    {
+      "author": "@rikkewesterboe",
+      "followers": 0,
+      "caption": "forever favorite lip combo \ud83e\udd0d\ud83e\udd93 ad links",
+      "views": 0,
+      "likes": -1,
+      "comments": 22,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2100.0,
+      "hashtags": [],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWygD_vikfL/"
+    },
+    {
+      "author": "@loraiine__",
+      "followers": 0,
+      "caption": "Cuidarme se ha vuelto m\u00e1s que una rutina, es una forma de quererme, de conectar conmigo y de recordar lo mucho que merezco sentirme bien en mi propia piel \u2728 \n\nNo es solo lo que me pongo\u2026 es c\u00f3mo me ha",
+      "views": 0,
+      "likes": -1,
+      "comments": 53,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 5200.0,
+      "hashtags": [
+        "#selflove",
+        "#skincare",
+        "#glowingskin",
+        "#softlife",
+        "#lorainecosmetics"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzghvBiZFw/"
+    },
+    {
+      "author": "@raanaeid",
+      "followers": 0,
+      "caption": "\ud83d\ude14\ud83d\ude14\ud83d\ude14\n#skincare #hair #makeup #packing",
+      "views": 0,
+      "likes": -1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": -100.0,
+      "hashtags": [
+        "#skincare",
+        "#hair",
+        "#makeup",
+        "#packing"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyCDk8jTzD/"
+    },
+    {
+      "author": "@_mastora_jenny_",
+      "followers": 0,
+      "caption": "\u039a\u03b1\u03b9 \u03b1\u03c6\u03bf\u03cd \u03cc\u03bb\u03b1 \u03c0\u03ac\u03bd\u03b5 \u03c3\u03c4\u03c1\u03b1\u03b2\u03ac \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b1 \u03b1\u03c2 \u03c4\u03bf \u03b5\u03ba\u03bc\u03b5\u03c4\u03ac\u03bb\u03bb\u03b5\u03c5\u03c4\u03bf\u03c5\u03bc\u03b5 \u03ba\u03b1\u03b9 \u03b1\u03c2 \u03b4\u03bf\u03cd\u03bc\u03b5 \u03c0\u03c9\u03c2 \u03b1\u03c0\u03bf\u03c7\u03c1\u03c9\u03bc\u03b1\u03c4\u03b9\u03b6\u03bf\u03c5\u03bc\u03b5 \u03bc\u03b5\u03bb\u03b1\u03bd\u03b9\u03b5\u03c2 (\u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03c9\u03b2) \u03ae \u03c5\u03c0\u03b5\u03c1\u03bc\u03b5\u03bb\u03b1\u03b3\u03c7\u03c1\u03c9\u03c3\u03b5\u03b9\u03c2 \ud83d\udc81\ud83c\udffb\u200d\u2640\ufe0f\n___\n#igers #igvideo #igtutorial #makeupartist",
+      "views": 0,
+      "likes": -1,
+      "comments": 35,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3400.0,
+      "hashtags": [
+        "#igers",
+        "#igvideo",
+        "#igtutorial",
+        "#makeupartist"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyroYTDGXu/"
+    },
+    {
+      "author": "@dzcn.vi",
+      "followers": 0,
+      "caption": "Debugging the concept of Oubaitori \ud83c\udf3b\ud83c\udff5\n\n#knowledge #positive #positivemotivation #motivation #self-improvement #selfimprovement #glowuo #improveyourself #workonyourself #gainknowledge",
+      "views": 0,
+      "likes": -1,
+      "comments": 6,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 500.0,
+      "hashtags": [
+        "#knowledge",
+        "#positive",
+        "#positivemotivation",
+        "#motivation",
+        "#self-improvement",
+        "#selfimprovement",
+        "#glowuo",
+        "#improveyourself"
+      ],
+      "posted_date": "2024-08-01",
+      "url": "https://www.instagram.com/p/C-H3CxjI-jW/"
+    },
+    {
+      "author": "@ciara__dempsey",
+      "followers": 0,
+      "caption": "Hate those days when Im feeling drab & flat \u2026.even my hair \u2026..but using @voduzhair volumising hair range puts the fullness , life & volume back into my hair & a pep in my step \ud83d\ude05\ud83d\ude4f\u2026..use code ciara15 ac",
+      "views": 0,
+      "likes": -1,
+      "comments": 16,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1500.0,
+      "hashtags": [
+        "#ad/ba",
+        "#glowuo",
+        "#volume",
+        "#haircare",
+        "#hairstyle",
+        "#hairgoals",
+        "#irishbusiness",
+        "#mommyblogger"
+      ],
+      "posted_date": "2025-06-24",
+      "url": "https://www.instagram.com/p/DLS3eMxNHCv/"
+    },
+    {
+      "author": "@kaamiila.m",
+      "followers": 0,
+      "caption": "Die Textur hat mich wirklich \u00fcberrascht\u2026 \ud83e\udd0d\nf\u00fchlt sich an wie ein Lifting \u2013 ohne Treatment.\n\nDie R\u00e9nergie Collagen+ Lift-Xtend Cream kombiniert Kollagen-Peptide & Kupfer-Tripeptid, um die Haut sichtbar",
+      "views": 0,
+      "likes": -1,
+      "comments": 12,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1100.0,
+      "hashtags": [
+        "#lancomeskincare",
+        "#renergie",
+        "#collagen",
+        "#skincare"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzHgLziHEW/"
+    },
+    {
+      "author": "@s_araujoo24k",
+      "followers": 0,
+      "caption": "\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\n\n#explore #foryou #vaiexplorar #viralvideos #skincare",
+      "views": 0,
+      "likes": -1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": -100.0,
+      "hashtags": [
+        "#explore",
+        "#foryou",
+        "#vaiexplorar",
+        "#viralvideos",
+        "#skincare"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzi11SCfbd/"
+    },
+    {
+      "author": "@ioana.adinaa",
+      "followers": 0,
+      "caption": "\ud83c\udf3f Moment de r\u0103sf\u0103\u021b pentru tenul t\u0103u\n\nMasca NALA Soothing Face Mask calmeaz\u0103, hidrateaz\u0103 \u0219i revitalizeaz\u0103 pielea datorit\u0103 ingredientelor naturale precum aloe vera, uleiul de c\u0103tin\u0103 \u0219i extractul de g\u0103lb",
+      "views": 0,
+      "likes": -1,
+      "comments": 33,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3200.0,
+      "hashtags": [
+        "#nala",
+        "#skincare",
+        "#romania",
+        "#contentcreator"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzF73iDXv5/"
+    },
+    {
+      "author": "@yagmuur_duru",
+      "followers": 0,
+      "caption": "Retinol salatas\u0131 \ud83e\udde1\n\nParlak ve sa\u011fl\u0131kl\u0131 bir cilt i\u00e7in en \u00f6nemlisi beslenme \u2728\nHavu\u00e7tan gelen beta-karoten sayesinde v\u00fccutta Retinol \u00fcretimi desteklenir \ud83e\udd55\n\n\u00c7ok basit ve lezzetli oluyor. Dilerseniz limon,",
+      "views": 0,
+      "likes": -1,
+      "comments": 16,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1500.0,
+      "hashtags": [
+        "#retinol",
+        "#skincare",
+        "#salad",
+        "#foodporn"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyZaQziLKf/"
+    },
+    {
+      "author": "@dasha_taranush",
+      "followers": 0,
+      "caption": "#viral #skincare #beauty",
+      "views": 0,
+      "likes": -1,
+      "comments": 6,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 500.0,
+      "hashtags": [
+        "#viral",
+        "#skincare",
+        "#beauty"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0JYdiDdYv/"
+    },
+    {
+      "author": "@iadore_me10",
+      "followers": 0,
+      "caption": "Big problems, small solutions\u2705\nDownload the @umax.app\nSave for later\nFollow for more\n\n#bigproblemssmallsolutions#acne#blackheads#whiteteeth#trending#instagood#reels#glowuo#skincare#selfcare#skincarepr",
+      "views": 0,
+      "likes": -1,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#bigproblemssmallsolutions",
+        "#acne",
+        "#blackheads",
+        "#whiteteeth",
+        "#trending",
+        "#instagood",
+        "#reels",
+        "#glowuo"
+      ],
+      "posted_date": "2024-05-01",
+      "url": "https://www.instagram.com/p/C6bRiLpMtFY/"
+    },
+    {
+      "author": "@glossyn.luxe",
+      "followers": 0,
+      "caption": "Comment 'modest' for the link \ud83d\udd17\ud83e\udd0d\n.\n.\n.\n#fashioncoordination #modestwear #fashion #meeshofinds #glowuo #glowuptips #trendingnow #viral",
+      "views": 0,
+      "likes": -1,
+      "comments": 60,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 5900.0,
+      "hashtags": [
+        "#fashioncoordination",
+        "#modestwear",
+        "#fashion",
+        "#meeshofinds",
+        "#glowuo",
+        "#glowuptips",
+        "#trendingnow",
+        "#viral"
+      ],
+      "posted_date": "2025-08-02",
+      "url": "https://www.instagram.com/p/DM3CDF-hhgb/"
+    },
+    {
+      "author": "@glowup_king",
+      "followers": 0,
+      "caption": "\ud83d\ude0ewearing sunglasses protect our eyes from uv damage \n\n\ud83d\ude0euv damage causes our eyes to turn yellow or sometimes brown \n\n\ud83d\ude0ealways wear sunglasses if its sunny day \n\n\ud83d\ude0e we gonna grow together \ud83d\ude0e\n\n.\n.\n.\n.\n:\n.\n",
+      "views": 0,
+      "likes": -1,
+      "comments": 28,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2700.0,
+      "hashtags": [
+        "#explorepage",
+        "#explore",
+        "#reels",
+        "#reelsinstagram",
+        "#trendingreels",
+        "#trending",
+        "#relatable",
+        "#relatablequotes"
+      ],
+      "posted_date": "2023-06-16",
+      "url": "https://www.instagram.com/p/Ctjg7pSgAfa/"
+    },
+    {
+      "author": "@shagunmakeovers025",
+      "followers": 0,
+      "caption": "\"Zindgi ne giraya bhi, sambhala bhi....\n#Her Vibe is different \n#shagunmakeovers\ud83d\udc51 \n#makeup artist \n# Makeup lovers \n# viral video \n#glowuo",
+      "views": 0,
+      "likes": -1,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 300.0,
+      "hashtags": [
+        "#Her",
+        "#shagunmakeovers\ud83d\udc51",
+        "#makeup",
+        "#glowuo"
+      ],
+      "posted_date": "2025-11-12",
+      "url": "https://www.instagram.com/p/DQ9T820jyTX/"
+    },
+    {
+      "author": "@signatureglowww",
+      "followers": 0,
+      "caption": "Hand D-Tan at homee \n\nIngredients\ud83d\udc8e\n\nGramflour\ud83c\udf3c\nHoney\ud83c\udf43\nCoffee\ud83c\udf38\nRosewater \ud83e\udd40\n\nFOLLOW @signatureglowww for more<3\n\n[White hand , hand D-Tan , tan removal, glowup, glowuptips,skincare, skincaretips]\n\n#glow",
+      "views": 0,
+      "likes": -1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": -100.0,
+      "hashtags": [
+        "#glowuo",
+        "#glowinghands",
+        "#whitehands",
+        "#dtan",
+        "#dtanremoval",
+        "#explore",
+        "#skincare",
+        "#SkincareTips"
+      ],
+      "posted_date": "2024-10-13",
+      "url": "https://www.instagram.com/p/DBEnNRiNkJ6/"
+    },
+    {
+      "author": "@alexiskaya_",
+      "followers": 0,
+      "caption": "a high maintenance girl that gets fully ready daily! \ud83d\udc95 \n\n#glowuo #glowuptips",
+      "views": 0,
+      "likes": -1,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 300.0,
+      "hashtags": [
+        "#glowuo",
+        "#glowuptips"
+      ],
+      "posted_date": "2026-03-27",
+      "url": "https://www.instagram.com/p/DWY8SkfDuNY/"
+    },
+    {
+      "author": "@adityamishra_18",
+      "followers": 0,
+      "caption": "Real\n.\n.\n.\n.\n#explorepage#exploremore#fyp#fypage#fyp\u30b7#fyp\u30b7#glowuo#trending#viralaudio#viralreel#indianmodel#delhimodel#malemodel#delhifashionmodel#delhifashioninfluencer#delhi#explore",
+      "views": 0,
+      "likes": -1,
+      "comments": 7,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 600.0,
+      "hashtags": [
+        "#explorepage",
+        "#exploremore",
+        "#fyp",
+        "#fypage",
+        "#fyp\u30b7",
+        "#glowuo",
+        "#trending",
+        "#viralaudio"
+      ],
+      "posted_date": "2025-04-08",
+      "url": "https://www.instagram.com/p/DILxhv6zhHz/"
     }
   ]
 }

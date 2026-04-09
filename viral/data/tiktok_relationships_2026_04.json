@@ -4,10 +4,21 @@
   "month": "April",
   "year": 2026,
   "niche": "relationships",
-  "generated_at": "2026-04-07T21:19:04.870888",
+  "generated_at": "2026-04-09T01:56:28.407143",
   "data_points_analyzed": 100,
   "viral_posts_found": 98,
-  "hooks": [],
+  "hooks": [
+    {
+      "pattern": "How to",
+      "example_count": 2,
+      "example": "here\u2019s how to build a loving relationship"
+    },
+    {
+      "pattern": "Don't/Never",
+      "example_count": 1,
+      "example": "Never lie to an overthinker because...\ud83d\udc40\u2764\ufe0f\u200d\ud83e\ude79"
+    }
+  ],
   "best_times": [
     {
       "day": "Wednesday",
@@ -55,406 +66,280 @@
   "hashtags": [
     {
       "tag": "#relationship",
-      "usage_count": 36,
-      "avg_views": 5975658
+      "usage_count": 36
     },
     {
       "tag": "#fyp",
-      "usage_count": 28,
-      "avg_views": 5279901
+      "usage_count": 28
     },
     {
       "tag": "#love",
-      "usage_count": 25,
-      "avg_views": 5937261
+      "usage_count": 25
     },
     {
       "tag": "#couple",
-      "usage_count": 18,
-      "avg_views": 7043000
+      "usage_count": 18
     },
     {
       "tag": "#relationships",
-      "usage_count": 15,
-      "avg_views": 2939229
+      "usage_count": 15
     },
     {
       "tag": "#relationshipgoals",
-      "usage_count": 13,
-      "avg_views": 6436495
+      "usage_count": 13
     },
     {
       "tag": "#viral",
-      "usage_count": 8,
-      "avg_views": 4476644
-    },
-    {
-      "tag": "#relationshipadvice",
-      "usage_count": 8,
-      "avg_views": 336564
-    },
-    {
-      "tag": "#foryou",
-      "usage_count": 8,
-      "avg_views": 4297400
+      "usage_count": 8
     },
     {
       "tag": "#lovequotes",
-      "usage_count": 8,
-      "avg_views": 3862487
+      "usage_count": 8
+    },
+    {
+      "tag": "#foryou",
+      "usage_count": 8
     },
     {
       "tag": "#motivation",
-      "usage_count": 8,
-      "avg_views": 3230059
+      "usage_count": 8
     },
     {
-      "tag": "#relatable",
-      "usage_count": 7,
-      "avg_views": 4458307
+      "tag": "#relationshipadvice",
+      "usage_count": 8
     },
     {
       "tag": "#couplegoals",
-      "usage_count": 7,
-      "avg_views": 6728018
-    },
-    {
-      "tag": "#boyfriend",
-      "usage_count": 6,
-      "avg_views": 4322300
-    },
-    {
-      "tag": "#couples",
-      "usage_count": 6,
-      "avg_views": 5799505
-    },
-    {
-      "tag": "#bf",
-      "usage_count": 5,
-      "avg_views": 3042660
-    },
-    {
-      "tag": "#psychology",
-      "usage_count": 5,
-      "avg_views": 5200000
-    },
-    {
-      "tag": "#psychologyfacts",
-      "usage_count": 4,
-      "avg_views": 4002700
-    },
-    {
-      "tag": "#marriage",
-      "usage_count": 4,
-      "avg_views": 5725224
-    },
-    {
-      "tag": "#truelove",
-      "usage_count": 4,
-      "avg_views": 7610525
-    },
-    {
-      "tag": "#gf",
-      "usage_count": 3,
-      "avg_views": 4900000
-    },
-    {
-      "tag": "#fyp\u30b7",
-      "usage_count": 3,
-      "avg_views": 1008833
-    },
-    {
-      "tag": "#foryoupage",
-      "usage_count": 3,
-      "avg_views": 2518133
-    },
-    {
-      "tag": "#relationshipquotes",
-      "usage_count": 3,
-      "avg_views": 1794566
-    },
-    {
-      "tag": "#quotes",
-      "usage_count": 3,
-      "avg_views": 3656466
-    }
-  ],
-  "formats": [
-    {
-      "name": "Story / narrative",
-      "avg_engagement": 16.6,
-      "post_count": 2
-    },
-    {
-      "name": "Question / engagement",
-      "avg_engagement": 14.6,
-      "post_count": 2
-    },
-    {
-      "name": "Educational / tips",
-      "avg_engagement": 14.2,
-      "post_count": 7
-    },
-    {
-      "name": "Challenge / trend",
-      "avg_engagement": 10.8,
-      "post_count": 6
-    }
-  ],
-  "trending_sounds": [
-    {
-      "name": "original sound",
-      "usage_count": 39
-    },
-    {
-      "name": "Here With Me by D4vd",
       "usage_count": 7
     },
     {
-      "name": "20200229 2",
+      "tag": "#relatable",
+      "usage_count": 7
+    },
+    {
+      "tag": "#boyfriend",
+      "usage_count": 6
+    },
+    {
+      "tag": "#couples",
+      "usage_count": 6
+    },
+    {
+      "tag": "#psychology",
+      "usage_count": 5
+    },
+    {
+      "tag": "#bf",
+      "usage_count": 5
+    },
+    {
+      "tag": "#truelove",
+      "usage_count": 4
+    },
+    {
+      "tag": "#marriage",
+      "usage_count": 4
+    },
+    {
+      "tag": "#psychologyfacts",
+      "usage_count": 4
+    },
+    {
+      "tag": "#relationshipsadvice",
       "usage_count": 3
     },
     {
-      "name": "suono originale",
+      "tag": "#quotes",
       "usage_count": 3
     },
     {
-      "name": "son original",
-      "usage_count": 2
+      "tag": "#foryoupage",
+      "usage_count": 3
     },
     {
-      "name": "Love You So",
-      "usage_count": 2
+      "tag": "#gf",
+      "usage_count": 3
     },
     {
-      "name": "som original",
-      "usage_count": 2
-    },
-    {
-      "name": "When I'm With You",
-      "usage_count": 1
-    },
-    {
-      "name": "\"Sleep BGM\" The sound of dream wings invites you to sleep",
-      "usage_count": 1
-    },
-    {
-      "name": "i'd always think of jenny",
-      "usage_count": 1
+      "tag": "#inspiration",
+      "usage_count": 3
     }
   ],
-  "insights": "Story / narrative content leads with 16.6% avg engagement. Avg engagement: 14.7%. 98 posts analyzed.",
+  "formats": [],
+  "trending_sounds": [],
+  "insights": "98 posts analyzed. Avg 4,279,467 views.",
   "top_posts": [
     {
-      "author": "@butyoupromised1000",
-      "followers": 1187,
-      "caption": "#relatable #fyp\u30c4 #relationship #bf #gf ",
-      "views": 2600000,
-      "likes": 548100,
-      "comments": 730,
-      "shares": 260800,
-      "saves": 48814,
-      "engagement_rate": 33.02,
+      "author": "@isbaefeelings",
+      "followers": 230800,
+      "caption": "\ud83e\udd0d #love #fyp #tiktok #tiktokcouples #couple #couplegoals #relationshipgoals #cute #lovers #hug #kiss #kisses #cuddle #cuddlessss #imagine #crush #bf #gf #girlfriend #boyfriend #together #alwaysandfore",
+      "views": 39000000,
+      "likes": 1700000,
+      "comments": 11400,
+      "shares": 162100,
+      "saves": 232659,
+      "engagement_rate": 5.4,
       "hashtags": [
-        "#relatable",
-        "#fyp\u30c4",
-        "#relationship",
-        "#bf",
-        "#gf"
-      ],
-      "sound": "When I'm With You",
-      "duration": 10,
-      "posted_date": "2026-04-01",
-      "url": "https://www.tiktok.com/@butyoupromised1000/video/7623842392856087839"
-    },
-    {
-      "author": "@marina_xspam",
-      "followers": 153,
-      "caption": "#relate #relationship #bf ",
-      "views": 333000,
-      "likes": 75600,
-      "comments": 294,
-      "shares": 23500,
-      "saves": 6291,
-      "engagement_rate": 31.74,
-      "hashtags": [
-        "#relate",
-        "#relationship",
-        "#bf"
-      ],
-      "sound": "\"Sleep BGM\" The sound of dream wings invites you to sleep",
-      "duration": 5,
-      "posted_date": "2026-03-16",
-      "url": "https://www.tiktok.com/@marina_xspam/video/7617939250352311574"
-    },
-    {
-      "author": "@ourlov3storyy",
-      "followers": 2506,
-      "caption": "idk what he doing #couple #xyzbcab #touch #relationship #ilovemybf ",
-      "views": 96300,
-      "likes": 21500,
-      "comments": 38,
-      "shares": 3510,
-      "saves": 2175,
-      "engagement_rate": 28.27,
-      "hashtags": [
+        "#love",
+        "#fyp",
+        "#tiktok",
+        "#tiktokcouples",
         "#couple",
-        "#xyzbcab",
-        "#touch",
-        "#relationship",
-        "#ilovemybf"
+        "#couplegoals",
+        "#relationshipgoals",
+        "#cute"
       ],
-      "sound": "original sound",
-      "duration": 10,
-      "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@ourlov3storyy/video/7625460621022104862"
+      "posted_date": "2023-05-29",
+      "url": "https://www.tiktok.com/@isbaefeelings/video/7238637302459665691"
     },
     {
-      "author": "@lilipaigebaiden",
-      "followers": 41100,
-      "caption": "The kind of love story that you see in movies #boyfriend #relationship #couple #boyfriendsoftiktok",
-      "views": 477800,
-      "likes": 90300,
-      "comments": 51,
-      "shares": 36300,
-      "saves": 6088,
-      "engagement_rate": 27.78,
+      "author": "@jtcouple",
+      "followers": 3000000,
+      "caption": "She really is \ud83e\udd23 #fyp #couplecomedy #couplesgoals #relationship #relatable ",
+      "views": 25500000,
+      "likes": 2000000,
+      "comments": 5131,
+      "shares": 213700,
+      "saves": 157666,
+      "engagement_rate": 9.32,
       "hashtags": [
+        "#fyp",
+        "#couplecomedy",
+        "#couplesgoals",
+        "#relationship",
+        "#relatable"
+      ],
+      "posted_date": "2023-08-24",
+      "url": "https://www.tiktok.com/@jtcouple/video/7270971619030404395"
+    },
+    {
+      "author": "@hannahandregal",
+      "followers": 5000000,
+      "caption": "WAIT FOR THE END \ud83d\ude02 @regalnoise #couple #love #relationship #viral #trending #funny #couplestiktok #fyp #hannahandregal #relationships #joke #prank #comedy #couplecomedy #couplegoals",
+      "views": 23600000,
+      "likes": 2700000,
+      "comments": 9353,
+      "shares": 16600,
+      "saves": 107066,
+      "engagement_rate": 12.0,
+      "hashtags": [
+        "#",
+        "#couple",
+        "#love",
+        "#relationship",
+        "#viral",
+        "#trending",
+        "#funny",
+        "#couplestiktok"
+      ],
+      "posted_date": "2022-05-18",
+      "url": "https://www.tiktok.com/@hannahandregal/video/7099030624421498158"
+    },
+    {
+      "author": "@mindset.goated",
+      "followers": 2500000,
+      "caption": "Women Are Emotionally Wired\u2026 \u2764\ufe0f #stephanspeaks #relationshipsadvice #relationshipstips #womenadvice #realtalks ",
+      "views": 19800000,
+      "likes": 2700000,
+      "comments": 8472,
+      "shares": 358600,
+      "saves": 534366,
+      "engagement_rate": 18.19,
+      "hashtags": [
+        "#stephanspeaks",
+        "#relationshipsadvice",
+        "#relationshipstips",
+        "#womenadvice",
+        "#realtalks"
+      ],
+      "posted_date": "2023-05-16",
+      "url": "https://www.tiktok.com/@mindset.goated/video/7233844748467965210"
+    },
+    {
+      "author": "@mindset.goated",
+      "followers": 2500000,
+      "caption": "Form a Two-Handed Circle \u2764\ufe0f #steveharvey #relationshipsadvice #relationshipstips #relationships #realtalks ",
+      "views": 18100000,
+      "likes": 1800000,
+      "comments": 5755,
+      "shares": 298600,
+      "saves": 287876,
+      "engagement_rate": 13.22,
+      "hashtags": [
+        "#steveharvey",
+        "#relationshipsadvice",
+        "#relationshipstips",
+        "#relationships",
+        "#realtalks"
+      ],
+      "posted_date": "2023-05-15",
+      "url": "https://www.tiktok.com/@mindset.goated/video/7233424066105855259"
+    },
+    {
+      "author": "@xoxo4jojo",
+      "followers": 2400000,
+      "caption": "@wendys sponsor us \ud83d\ude02 #coupleschallenge #couple #relationship #boyfriend #love #funny #fyp",
+      "views": 16000000,
+      "likes": 481000,
+      "comments": 7074,
+      "shares": 6898,
+      "saves": 31453,
+      "engagement_rate": 3.29,
+      "hashtags": [
+        "#",
+        "#coupleschallenge",
+        "#couple",
+        "#relationship",
         "#boyfriend",
-        "#relationship",
-        "#couple",
-        "#boyfriendsoftiktok"
-      ],
-      "sound": "i'd always think of jenny",
-      "duration": 12,
-      "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@lilipaigebaiden/video/7625476617900526879"
-    },
-    {
-      "author": "@sennentamar",
-      "followers": 2158,
-      "caption": "and he ALWAYS needs to agree with me #bf #couple #relatable #relationship #fyp ",
-      "views": 180300,
-      "likes": 31300,
-      "comments": 26,
-      "shares": 16200,
-      "saves": 1789,
-      "engagement_rate": 27.35,
-      "hashtags": [
-        "#bf",
-        "#couple",
-        "#relatable",
-        "#relationship",
+        "#love",
+        "#funny",
         "#fyp"
       ],
-      "sound": "original sound",
-      "duration": 5,
-      "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@sennentamar/video/7625719299436596513"
+      "posted_date": "2020-10-17",
+      "url": "https://www.tiktok.com/@xoxo4jojo/video/6884564155966311686"
     },
     {
-      "author": "@reidjohnson18",
-      "followers": 36200,
-      "caption": "#truck #trucktok #trucks #fyp #fyp\u30b7 ",
-      "views": 82500,
-      "likes": 18600,
-      "comments": 19,
-      "shares": 2053,
-      "saves": 1332,
-      "engagement_rate": 26.67,
+      "author": "@itsacretelife",
+      "followers": 100800,
+      "caption": "Im so glad he let me cut it! #marriedlife #couples #relationshipdynamics #relationshipgoals #fyp ",
+      "views": 14500000,
+      "likes": 512800,
+      "comments": 17300,
+      "shares": 45500,
+      "saves": 18413,
+      "engagement_rate": 4.1,
       "hashtags": [
-        "#truck",
-        "#trucktok",
-        "#trucks",
-        "#fyp",
-        "#fyp\u30b7"
+        "#marriedlife",
+        "#couples",
+        "#relationshipdynamics",
+        "#relationshipgoals",
+        "#fyp"
       ],
-      "sound": "original sound",
-      "duration": 8,
-      "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@reidjohnson18/video/7625746525938879757"
+      "posted_date": "2024-03-22",
+      "url": "https://www.tiktok.com/@itsacretelife/video/7348981641093729582"
     },
     {
-      "author": "@secretacc.lover",
-      "followers": 401,
-      "caption": "\ud83e\udec2\u2764\ufe0f\u200d\ud83e\ude79\n\n#hugs #relationship #love #sweet #relatablevideos ",
-      "views": 1300000,
-      "likes": 219100,
-      "comments": 1387,
-      "shares": 87600,
-      "saves": 20992,
-      "engagement_rate": 25.31,
+      "author": "@motivation.wave8",
+      "followers": 1200000,
+      "caption": "I Don't Need Perfect Relationship | Just want to be irreplaceable | Keanu Reeves Love Quotes\n\n#keanureevesmotivation #lovequotes #loveandloyalty #trueconnection\n#relationshiprealtalk #TrueLove\n#emotio",
+      "views": 13500000,
+      "likes": 746200,
+      "comments": 5992,
+      "shares": 208400,
+      "saves": 155026,
+      "engagement_rate": 8.26,
       "hashtags": [
-        "#hugs",
-        "#relationship",
-        "#love",
-        "#sweet",
-        "#relatablevideos"
+        "#keanureevesmotivation",
+        "#lovequotes",
+        "#loveandloyalty",
+        "#trueconnection",
+        "#relationshiprealtalk",
+        "#truelove",
+        "#emotionaldepth",
+        "#quotesoftheday"
       ],
-      "sound": "Fade Into You",
-      "duration": 62,
-      "posted_date": "2026-03-01",
-      "url": "https://www.tiktok.com/@secretacc.lover/video/7612388279274458390"
-    },
-    {
-      "author": "@4real.corey",
-      "followers": 914400,
-      "caption": "Send this to your person\ud83e\udd0d || #relateable #love #relationships #viral #foryoupage ",
-      "views": 10400,
-      "likes": 1706,
-      "comments": 20,
-      "shares": 721,
-      "saves": 183,
-      "engagement_rate": 25.29,
-      "hashtags": [
-        "#relateable",
-        "#love",
-        "#relationships",
-        "#viral",
-        "#foryoupage"
-      ],
-      "sound": "I'm Not Them",
-      "duration": 5,
-      "posted_date": "2026-04-05",
-      "url": "https://www.tiktok.com/@4real.corey/video/7625289156679273759"
-    },
-    {
-      "author": "@.exel1nn",
-      "followers": 548,
-      "caption": "\ud83d\udc8c #fypp #love #relationship #inlove #mylove ",
-      "views": 3800000,
-      "likes": 584000,
-      "comments": 2399,
-      "shares": 305800,
-      "saves": 57965,
-      "engagement_rate": 25.0,
-      "hashtags": [
-        "#fypp",
-        "#love",
-        "#relationship",
-        "#inlove",
-        "#mylove"
-      ],
-      "sound": "original sound",
-      "duration": 8,
-      "posted_date": "2026-02-23",
-      "url": "https://www.tiktok.com/@.exel1nn/video/7610073179037420822"
-    },
-    {
-      "author": "@wyattimprovement",
-      "followers": 255200,
-      "caption": "here\u2019s how to build a loving relationship",
-      "views": 33100,
-      "likes": 6378,
-      "comments": 48,
-      "shares": 337,
-      "saves": 1210,
-      "engagement_rate": 24.09,
-      "hashtags": [],
-      "sound": "Blind Spots Theme",
-      "duration": 49,
-      "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@wyattimprovement/video/7625727451028557086"
+      "posted_date": "2025-01-05",
+      "url": "https://www.tiktok.com/@motivation.wave8/video/7456409652209683742"
     },
     {
       "author": "@samandmonica",
@@ -473,53 +358,195 @@
         "#relationship",
         "#reaction"
       ],
-      "sound": "original sound",
-      "duration": 36,
       "posted_date": "2022-06-08",
       "url": "https://www.tiktok.com/@samandmonica/video/7106959240530578694"
     },
     {
-      "author": "@shelliesaurus",
-      "followers": 6207,
-      "caption": "I love my sweet baby so much \ud83d\udc97\ud83d\udc97 @\ud83e\ude91 #ilovemygf #xyzabc #appreciation #Relationship #wlw ",
-      "views": 14100,
-      "likes": 1586,
-      "comments": 23,
-      "shares": 1249,
-      "saves": 388,
-      "engagement_rate": 23.02,
+      "author": "@lizzyveex",
+      "followers": 178800,
+      "caption": "#foryou #MadewithKAContest #foryoupagw #relationship",
+      "views": 12300000,
+      "likes": 2500000,
+      "comments": 11600,
+      "shares": 57000,
+      "saves": 135601,
+      "engagement_rate": 21.99,
       "hashtags": [
-        "#",
-        "#ilovemygf",
-        "#xyzabc",
-        "#appreciation",
-        "#relationship",
-        "#wlw"
+        "#foryou",
+        "#madewithkacontest",
+        "#foryoupagw",
+        "#relationship"
       ],
-      "sound": "Gentle Wind Chimes",
-      "duration": 8,
-      "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@shelliesaurus/video/7625578980162620675"
+      "posted_date": "2022-06-09",
+      "url": "https://www.tiktok.com/@lizzyveex/video/7107049525365378350"
     },
     {
-      "author": "@ivrydisc",
-      "followers": 9011,
-      "caption": "#fyp #relationship #love ",
-      "views": 4200000,
-      "likes": 763300,
-      "comments": 1942,
-      "shares": 64600,
-      "saves": 135439,
-      "engagement_rate": 22.98,
+      "author": "@finleystevens1",
+      "followers": 180500,
+      "caption": "when you meet your person you will know. #relationship",
+      "views": 11700000,
+      "likes": 1700000,
+      "comments": 11000,
+      "shares": 351300,
+      "saves": 295250,
+      "engagement_rate": 20.15,
+      "hashtags": [
+        "#relationship"
+      ],
+      "posted_date": "2025-05-10",
+      "url": "https://www.tiktok.com/@finleystevens1/video/7502730957196332290"
+    },
+    {
+      "author": "@daily.quotes.30",
+      "followers": 595800,
+      "caption": "When a woman loves you let me tell you \n\n#Man #TrueLove #LoveQuotes #Love #quotes #Relationship #motivation #motivationalvideo #LifeAdvice #lifelessons #lifequotes #CapCut #capcut_edit #usa\ud83c\uddfa\ud83c\uddf8 #usa_tik",
+      "views": 10900000,
+      "likes": 408700,
+      "comments": 8235,
+      "shares": 107900,
+      "saves": 59628,
+      "engagement_rate": 5.36,
+      "hashtags": [
+        "#man",
+        "#truelove",
+        "#lovequotes",
+        "#love",
+        "#quotes",
+        "#relationship",
+        "#motivation",
+        "#motivationalvideo"
+      ],
+      "posted_date": "2024-12-03",
+      "url": "https://www.tiktok.com/@daily.quotes.30/video/7444200881727393070"
+    },
+    {
+      "author": "@hannahandregal",
+      "followers": 5000000,
+      "caption": "WAIT FOR THE END \ud83d\ude02 @regalnoise #couple #relationship #marriage #prank #joke #pregnancy #pregnant #couplegoals #couplecomedy #couplestiktok #relationshipgoals #trending #viral #fyp #funny #humor #comed",
+      "views": 10800000,
+      "likes": 1500000,
+      "comments": 2110,
+      "shares": 23400,
+      "saves": 42628,
+      "engagement_rate": 14.52,
+      "hashtags": [
+        "#",
+        "#couple",
+        "#relationship",
+        "#marriage",
+        "#prank",
+        "#joke",
+        "#pregnancy",
+        "#pregnant"
+      ],
+      "posted_date": "2022-06-04",
+      "url": "https://www.tiktok.com/@hannahandregal/video/7105419533359500590"
+    },
+    {
+      "author": "@hannahandregal",
+      "followers": 5000000,
+      "caption": "We take movie day seriously\ud83d\ude02 \ud83c\udfa5\ud83c\udf7f @regalnoise #couple #love #pregnancy #relationship #marriage #trending #viral #fyp #hannahandregal #couplestiktok #couplegoals #funny #comedy #humor #joke #relationship",
+      "views": 9400000,
+      "likes": 985500,
+      "comments": 2067,
+      "shares": 6438,
+      "saves": 46916,
+      "engagement_rate": 11.07,
+      "hashtags": [
+        "#",
+        "#couple",
+        "#love",
+        "#pregnancy",
+        "#relationship",
+        "#marriage",
+        "#trending",
+        "#viral"
+      ],
+      "posted_date": "2022-05-27",
+      "url": "https://www.tiktok.com/@hannahandregal/video/7102406230903295278"
+    },
+    {
+      "author": "@macsmitty870",
+      "followers": 173800,
+      "caption": "REAL LOVE\u2764\ufe0f #fyp #foryou #relationship #talkaboutit  ",
+      "views": 8700000,
+      "likes": 1100000,
+      "comments": 8911,
+      "shares": 139000,
+      "saves": 241464,
+      "engagement_rate": 17.12,
       "hashtags": [
         "#fyp",
+        "#foryou",
         "#relationship",
-        "#love"
+        "#talkaboutit"
       ],
-      "sound": "original sound",
-      "duration": 39,
-      "posted_date": "2026-01-17",
-      "url": "https://www.tiktok.com/@ivrydisc/video/7596329390871498015"
+      "posted_date": "2024-03-13",
+      "url": "https://www.tiktok.com/@macsmitty870/video/7345986437893885227"
+    },
+    {
+      "author": "@king_trout",
+      "followers": 342000,
+      "caption": "It be dat way #men #women #gender #relationship #sicknessandinhealth #medical #trauma",
+      "views": 8600000,
+      "likes": 1700000,
+      "comments": 8610,
+      "shares": 73600,
+      "saves": 73501,
+      "engagement_rate": 21.58,
+      "hashtags": [
+        "#men",
+        "#women",
+        "#gender",
+        "#relationship",
+        "#sicknessandinhealth",
+        "#medical",
+        "#trauma"
+      ],
+      "posted_date": "2022-05-27",
+      "url": "https://www.tiktok.com/@king_trout/video/7102531848135380270"
+    },
+    {
+      "author": "@ask_kimberly",
+      "followers": 1900000,
+      "caption": "This might seem basic so I hope it\u2019s helpful!! \ud83e\udd70\ud83e\udd70\ud83e\udd70 #hug #hugs #kiss #advice #advicetiktok #adviceforgirls #expert #psychology #psychologytips #datingadvice #datingadviceforwomen #datingadviceforgirls ",
+      "views": 8500000,
+      "likes": 1300000,
+      "comments": 4235,
+      "shares": 4564,
+      "saves": 155432,
+      "engagement_rate": 17.23,
+      "hashtags": [
+        "#hug",
+        "#hugs",
+        "#kiss",
+        "#advice",
+        "#advicetiktok",
+        "#adviceforgirls",
+        "#expert",
+        "#psychology"
+      ],
+      "posted_date": "2022-05-20",
+      "url": "https://www.tiktok.com/@ask_kimberly/video/7099877969526689029"
+    },
+    {
+      "author": "@yolkfather",
+      "followers": 2700000,
+      "caption": "Let me know if you guys want me to start making these videos again! I get messages all the time! \u2764\ufe0f #lovebox #relationship #relationshipgoals #foryou",
+      "views": 8100000,
+      "likes": 874600,
+      "comments": 1635,
+      "shares": 11200,
+      "saves": 45112,
+      "engagement_rate": 11.51,
+      "hashtags": [
+        "#lovebox",
+        "#relationship",
+        "#relationshipgoals",
+        "#foryou"
+      ],
+      "posted_date": "2022-06-10",
+      "url": "https://www.tiktok.com/@yolkfather/video/7107751495185075499"
     },
     {
       "author": "@shadowtrial",
@@ -538,10 +565,28 @@
         "#love",
         "#loves"
       ],
-      "sound": "20200229 2",
-      "duration": 61,
       "posted_date": "2026-01-07",
       "url": "https://www.tiktok.com/@shadowtrial/video/7592693254659902750"
+    },
+    {
+      "author": "@2pasaportes1journey",
+      "followers": 8293,
+      "caption": "a perfect balance #fyp #foryoupage #relationshipgoals #couplegoals #sexycouple",
+      "views": 7400000,
+      "likes": 49700,
+      "comments": 724,
+      "shares": 11500,
+      "saves": 4823,
+      "engagement_rate": 0.9,
+      "hashtags": [
+        "#fyp",
+        "#foryoupage",
+        "#relationshipgoals",
+        "#couplegoals",
+        "#sexycouple"
+      ],
+      "posted_date": "2025-12-15",
+      "url": "https://www.tiktok.com/@2pasaportes1journey/video/7584189069115067662"
     },
     {
       "author": "@plumsoju",
@@ -563,10 +608,1496 @@
         "#aritzia",
         "#oakandfort"
       ],
-      "sound": "Merry-Go-Round of Life - from 'Howl's Moving Castle'",
-      "duration": 44,
       "posted_date": "2022-06-02",
       "url": "https://www.tiktok.com/@plumsoju/video/7104708236300881195"
+    },
+    {
+      "author": "@anna..paull",
+      "followers": 5600000,
+      "caption": "Highschool sweethearts \ud83d\udc97 Happy 7years\ud83e\udd79",
+      "views": 6700000,
+      "likes": 1100000,
+      "comments": 3518,
+      "shares": 14900,
+      "saves": 25407,
+      "engagement_rate": 17.07,
+      "hashtags": [],
+      "posted_date": "2022-12-02",
+      "url": "https://www.tiktok.com/@anna..paull/video/7172478202584124673"
+    },
+    {
+      "author": "@sophthomson23",
+      "followers": 10200,
+      "caption": "i love him@itsmaxyyyy_0 #fypage #longdistance #boyfriend #love #relationship ",
+      "views": 6700000,
+      "likes": 568700,
+      "comments": 2399,
+      "shares": 20700,
+      "saves": 14724,
+      "engagement_rate": 9.05,
+      "hashtags": [
+        "#",
+        "#fypage",
+        "#longdistance",
+        "#boyfriend",
+        "#love",
+        "#relationship"
+      ],
+      "posted_date": "2026-04-04",
+      "url": "https://www.tiktok.com/@sophthomson23/video/7624910796522327327"
+    },
+    {
+      "author": "@ali1f921",
+      "followers": 36300,
+      "caption": "Surprise from screen to reality \ud83d\udc95\u2708\ufe0f#surprise #longdistancerelationship #bf #gf #love ",
+      "views": 6700000,
+      "likes": 565500,
+      "comments": 263,
+      "shares": 6184,
+      "saves": 14334,
+      "engagement_rate": 8.75,
+      "hashtags": [
+        "#surprise",
+        "#longdistancerelationship",
+        "#bf",
+        "#gf",
+        "#love"
+      ],
+      "posted_date": "2025-08-02",
+      "url": "https://www.tiktok.com/@ali1f921/video/7533867496349142327"
+    },
+    {
+      "author": "@jimmyonrelationships",
+      "followers": 2100000,
+      "caption": "Love Isn\u2019t Enough #marriageadvice #relationships #datingadvice #marriagelife #kindness ",
+      "views": 6400000,
+      "likes": 626100,
+      "comments": 5184,
+      "shares": 98700,
+      "saves": 178472,
+      "engagement_rate": 14.19,
+      "hashtags": [
+        "#marriageadvice",
+        "#relationships",
+        "#datingadvice",
+        "#marriagelife",
+        "#kindness"
+      ],
+      "posted_date": "2023-12-04",
+      "url": "https://www.tiktok.com/@jimmyonrelationships/video/7308736502593326367"
+    },
+    {
+      "author": "@elaundefe_",
+      "followers": 4713,
+      "caption": "Tag your safe place\ud83e\udd0d#fyp #safeplace #couple #comfort  #relationshipgoals",
+      "views": 6000000,
+      "likes": 528400,
+      "comments": 2052,
+      "shares": 130100,
+      "saves": 67355,
+      "engagement_rate": 12.13,
+      "hashtags": [
+        "#fyp",
+        "#safeplace",
+        "#couple",
+        "#comfort",
+        "#relationshipgoals"
+      ],
+      "posted_date": "2025-09-13",
+      "url": "https://www.tiktok.com/@elaundefe_/video/7549629271602384150"
+    },
+    {
+      "author": "@upmentalityy_",
+      "followers": 737100,
+      "caption": "If it\u2019s meant to be, it will come back #inspiration #motivation #love #truelove #relationship #truth #lifequotes #lifelessons #mindset #inspirationalquotes #matthewmcconaughey #foryou #fyp ",
+      "views": 5800000,
+      "likes": 409100,
+      "comments": 3450,
+      "shares": 67000,
+      "saves": 122715,
+      "engagement_rate": 10.38,
+      "hashtags": [
+        "#inspiration",
+        "#motivation",
+        "#love",
+        "#truelove",
+        "#relationship",
+        "#truth",
+        "#lifequotes",
+        "#lifelessons"
+      ],
+      "posted_date": "2025-01-26",
+      "url": "https://www.tiktok.com/@upmentalityy_/video/7464014391747284254"
+    },
+    {
+      "author": "@deeperthandeep0",
+      "followers": 129500,
+      "caption": "Let\u2019s stay together forever. #fyp #iloveyou #couple #gf #bf ",
+      "views": 5400000,
+      "likes": 698500,
+      "comments": 1418,
+      "shares": 153100,
+      "saves": 90741,
+      "engagement_rate": 17.48,
+      "hashtags": [
+        "#fyp",
+        "#iloveyou",
+        "#couple",
+        "#gf",
+        "#bf"
+      ],
+      "posted_date": "2026-02-05",
+      "url": "https://www.tiktok.com/@deeperthandeep0/video/7603305460300549398"
+    },
+    {
+      "author": "@long_distance_love_",
+      "followers": 162000,
+      "caption": "Relationship guide on bio. I can never give up on you ",
+      "views": 5200000,
+      "likes": 280500,
+      "comments": 2841,
+      "shares": 242400,
+      "saves": 68535,
+      "engagement_rate": 11.43,
+      "hashtags": [],
+      "posted_date": "2026-01-16",
+      "url": "https://www.tiktok.com/@long_distance_love_/video/7596063026185243926"
+    },
+    {
+      "author": "@marthwlyngl",
+      "followers": 4627,
+      "caption": "#love #toxic #vent #relationship #relationshipquotes ",
+      "views": 5200000,
+      "likes": 152300,
+      "comments": 537,
+      "shares": 7365,
+      "saves": 13252,
+      "engagement_rate": 3.34,
+      "hashtags": [
+        "#love",
+        "#toxic",
+        "#vent",
+        "#relationship",
+        "#relationshipquotes"
+      ],
+      "posted_date": "2025-10-27",
+      "url": "https://www.tiktok.com/@marthwlyngl/video/7565998746954173718"
+    },
+    {
+      "author": "@alwaysus01",
+      "followers": 73100,
+      "caption": "Pain in every relationship nowdays\n#relationship #love #hearttouching #sad #pain #fake #heartbreaking #onesidelove #trustissues #emotional #trending #relatable #explore #foryou",
+      "views": 5000000,
+      "likes": 391100,
+      "comments": 2408,
+      "shares": 21900,
+      "saves": 49105,
+      "engagement_rate": 9.29,
+      "hashtags": [
+        "#relationship",
+        "#love",
+        "#hearttouching",
+        "#sad",
+        "#pain",
+        "#fake",
+        "#heartbreaking",
+        "#onesidelove"
+      ],
+      "posted_date": "2026-02-28",
+      "url": "https://www.tiktok.com/@alwaysus01/video/7611795445458799889"
+    },
+    {
+      "author": "@stickmindlab",
+      "followers": 43200,
+      "caption": "When A Women Calls Her Man Annoying #psychology #psychologyfacts #humanpsychology #relationships #couple  ",
+      "views": 4700000,
+      "likes": 507100,
+      "comments": 2872,
+      "shares": 52200,
+      "saves": 81369,
+      "engagement_rate": 13.69,
+      "hashtags": [
+        "#psychology",
+        "#psychologyfacts",
+        "#humanpsychology",
+        "#relationships",
+        "#couple"
+      ],
+      "posted_date": "2026-03-29",
+      "url": "https://www.tiktok.com/@stickmindlab/video/7622493384485227806"
+    },
+    {
+      "author": "@llestgonessa8",
+      "followers": 134200,
+      "caption": "i love you so much \u2764\ufe0f\ud83d\ude18\u2764\ufe0f\n#bestrong #quoteoftheday #bebrave #relationshipgoals #lifelessons #lifeline\ud83d\ude0d\ud83d\ude48 #nevergiveuponyourdreams #feel #quotesoftheday #motivation #nevergiveup  #loveyou #fehacks #quote",
+      "views": 4600000,
+      "likes": 172700,
+      "comments": 1575,
+      "shares": 134000,
+      "saves": 48158,
+      "engagement_rate": 7.75,
+      "hashtags": [
+        "#bestrong",
+        "#quoteoftheday",
+        "#bebrave",
+        "#relationshipgoals",
+        "#lifelessons",
+        "#lifeline\ud83d\ude0d\ud83d\ude48",
+        "#nevergiveuponyourdreams",
+        "#feel"
+      ],
+      "posted_date": "2024-09-06",
+      "url": "https://www.tiktok.com/@llestgonessa8/video/7411659914302557482"
+    },
+    {
+      "author": "@ray_facts",
+      "followers": 298700,
+      "caption": "\ud83d\ude2d\ud83d\udc94\ud83d\ude2d\ud83d\udc94\ud83d\ude2d\ud83d\udc94\ud83d\ude2d\ud83d\udc94\ud83d\ude2d\ud83d\udc94\ud83d\ude2d\ud83d\udc94\ud83d\ude2d\ud83d\udc94\n\n#hospital #woman #man #women #family ",
+      "views": 4200000,
+      "likes": 152400,
+      "comments": 3118,
+      "shares": 81000,
+      "saves": 12429,
+      "engagement_rate": 5.93,
+      "hashtags": [
+        "#hospital",
+        "#woman",
+        "#man",
+        "#women",
+        "#family"
+      ],
+      "posted_date": "2025-11-14",
+      "url": "https://www.tiktok.com/@ray_facts/video/7572733653034257686"
+    },
+    {
+      "author": "@ivrydisc",
+      "followers": 9011,
+      "caption": "#fyp #relationship #love ",
+      "views": 4200000,
+      "likes": 763300,
+      "comments": 1942,
+      "shares": 64600,
+      "saves": 135439,
+      "engagement_rate": 22.98,
+      "hashtags": [
+        "#fyp",
+        "#relationship",
+        "#love"
+      ],
+      "posted_date": "2026-01-17",
+      "url": "https://www.tiktok.com/@ivrydisc/video/7596329390871498015"
+    },
+    {
+      "author": "@.exel1nn",
+      "followers": 548,
+      "caption": "\ud83d\udc8c #fypp #love #relationship #inlove #mylove ",
+      "views": 3800000,
+      "likes": 584000,
+      "comments": 2399,
+      "shares": 305800,
+      "saves": 57965,
+      "engagement_rate": 25.0,
+      "hashtags": [
+        "#fypp",
+        "#love",
+        "#relationship",
+        "#inlove",
+        "#mylove"
+      ],
+      "posted_date": "2026-02-23",
+      "url": "https://www.tiktok.com/@.exel1nn/video/7610073179037420822"
+    },
+    {
+      "author": "@daily.quotes.30",
+      "followers": 595800,
+      "caption": "Adele Life Lesson..\n\n#Relationship #relationshipgoals \n#relationshipproblems #couple \n#lovequotes #adele #uk #Relationship #relationshipgoals \n#couple #TrueLove #lovequotes \n#adele #quotes #uk #usa #R",
+      "views": 3400000,
+      "likes": 181500,
+      "comments": 5170,
+      "shares": 41900,
+      "saves": 55188,
+      "engagement_rate": 8.35,
+      "hashtags": [
+        "#relationship",
+        "#relationshipgoals",
+        "#relationshipproblems",
+        "#couple",
+        "#lovequotes",
+        "#adele",
+        "#uk",
+        "#relationship"
+      ],
+      "posted_date": "2025-01-26",
+      "url": "https://www.tiktok.com/@daily.quotes.30/video/7464191798001454382"
+    },
+    {
+      "author": "@_joshuarosa",
+      "followers": 497300,
+      "caption": "The bare minimum in a relationship.\n\nTo be clear this is after you\u2019ve made the effort. \nStop begging people who are CLEARLY showing you, you don\u2019t matter to make you finally feel like you matter. \n\nIt",
+      "views": 3000000,
+      "likes": 330100,
+      "comments": 2479,
+      "shares": 23100,
+      "saves": 87920,
+      "engagement_rate": 14.79,
+      "hashtags": [
+        "#healing",
+        "#selflovequotes",
+        "#selflove",
+        "#motivation",
+        "#motivational",
+        "#creatorsearchinsights"
+      ],
+      "posted_date": "2025-01-07",
+      "url": "https://www.tiktok.com/@_joshuarosa/video/7457168039180586286"
+    },
+    {
+      "author": "@stickmindlab",
+      "followers": 43200,
+      "caption": "Couples Who Have Been Together Since High School #psychology #psychologyfacts #humanpsychology #relationships #couple ",
+      "views": 2900000,
+      "likes": 447000,
+      "comments": 1131,
+      "shares": 131200,
+      "saves": 41284,
+      "engagement_rate": 21.4,
+      "hashtags": [
+        "#psychology",
+        "#psychologyfacts",
+        "#humanpsychology",
+        "#relationships",
+        "#couple"
+      ],
+      "posted_date": "2026-04-01",
+      "url": "https://www.tiktok.com/@stickmindlab/video/7623605656305667359"
+    },
+    {
+      "author": "@growth.with.quote",
+      "followers": 49700,
+      "caption": "When The Man That Never Been Appreciated | Steve Harvey Best Relationship Quotes \n\n#steveharvey #lovequotes #relationships #motivation #fyp\u30b7 ",
+      "views": 2800000,
+      "likes": 225900,
+      "comments": 1603,
+      "shares": 115700,
+      "saves": 50342,
+      "engagement_rate": 14.06,
+      "hashtags": [
+        "#steveharvey",
+        "#lovequotes",
+        "#relationships",
+        "#motivation",
+        "#fyp\u30b7"
+      ],
+      "posted_date": "2025-10-26",
+      "url": "https://www.tiktok.com/@growth.with.quote/video/7565587501864340791"
+    },
+    {
+      "author": "@officialyaadie4tv",
+      "followers": 2000000,
+      "caption": "It's only so long a great woman will\nbe neglected...\nSpeaker: @krewseason\n#marriage #motivation #inspiration #yaadie4tv #quotelife #motivationpage #mindset #advice #lifelesson #wisewords #powerfulquot",
+      "views": 2700000,
+      "likes": 272100,
+      "comments": 1354,
+      "shares": 47800,
+      "saves": 76833,
+      "engagement_rate": 14.74,
+      "hashtags": [
+        "#marriage",
+        "#motivation",
+        "#inspiration",
+        "#yaadie4tv",
+        "#quotelife",
+        "#motivationpage",
+        "#mindset",
+        "#advice"
+      ],
+      "posted_date": "2023-11-14",
+      "url": "https://www.tiktok.com/@officialyaadie4tv/video/7301104257950813445"
+    },
+    {
+      "author": "@katclark",
+      "followers": 8300000,
+      "caption": "Love \ud83d\udc95 #husbandandwife #family ",
+      "views": 2600000,
+      "likes": 275100,
+      "comments": 1129,
+      "shares": 457,
+      "saves": 8947,
+      "engagement_rate": 10.99,
+      "hashtags": [
+        "#husbandandwife",
+        "#family"
+      ],
+      "posted_date": "2022-11-27",
+      "url": "https://www.tiktok.com/@katclark/video/7170620010358902018"
+    },
+    {
+      "author": "@butyoupromised1000",
+      "followers": 1187,
+      "caption": "#relatable #fyp\u30c4 #relationship #bf #gf ",
+      "views": 2600000,
+      "likes": 548100,
+      "comments": 730,
+      "shares": 260800,
+      "saves": 48814,
+      "engagement_rate": 33.02,
+      "hashtags": [
+        "#relatable",
+        "#fyp\u30c4",
+        "#relationship",
+        "#bf",
+        "#gf"
+      ],
+      "posted_date": "2026-04-01",
+      "url": "https://www.tiktok.com/@butyoupromised1000/video/7623842392856087839"
+    },
+    {
+      "author": "@user.10991000",
+      "followers": 295,
+      "caption": "#relation #pourtoi #fyp #foryou #boyfriend ",
+      "views": 2500000,
+      "likes": 433800,
+      "comments": 978,
+      "shares": 52200,
+      "saves": 60754,
+      "engagement_rate": 21.91,
+      "hashtags": [
+        "#relation",
+        "#pourtoi",
+        "#fyp",
+        "#foryou",
+        "#boyfriend"
+      ],
+      "posted_date": "2026-03-04",
+      "url": "https://www.tiktok.com/@user.10991000/video/7613547339298491670"
+    },
+    {
+      "author": "@musalareya",
+      "followers": 817800,
+      "caption": "When she loves you so much and she is romantic \ud83d\udc98 \ud83d\ude2d\ud83d\ude2d#fyp #musaandlareya #relationship #relatable #couple ",
+      "views": 2500000,
+      "likes": 222400,
+      "comments": 805,
+      "shares": 37200,
+      "saves": 21642,
+      "engagement_rate": 11.28,
+      "hashtags": [
+        "#fyp",
+        "#musaandlareya",
+        "#relationship",
+        "#relatable",
+        "#couple"
+      ],
+      "posted_date": "2026-03-27",
+      "url": "https://www.tiktok.com/@musalareya/video/7621765148570619149"
+    },
+    {
+      "author": "@delulugirlss",
+      "followers": 4296,
+      "caption": "Markiert ihn! \u2764\ufe0f\ud83e\udd17#meandyou #relationship #goviral #viral #foryou ",
+      "views": 2100000,
+      "likes": 292700,
+      "comments": 2630,
+      "shares": 93100,
+      "saves": 26726,
+      "engagement_rate": 19.77,
+      "hashtags": [
+        "#meandyou",
+        "#relationship",
+        "#goviral",
+        "#viral",
+        "#foryou"
+      ],
+      "posted_date": "2026-02-28",
+      "url": "https://www.tiktok.com/@delulugirlss/video/7611926096333786390"
+    },
+    {
+      "author": "@jasmcollins",
+      "followers": 31700,
+      "caption": "#relationshipadvice ",
+      "views": 1900000,
+      "likes": 306900,
+      "comments": 634,
+      "shares": 49800,
+      "saves": 66185,
+      "engagement_rate": 22.29,
+      "hashtags": [
+        "#relationshipadvice"
+      ],
+      "posted_date": "2025-12-16",
+      "url": "https://www.tiktok.com/@jasmcollins/video/7584500891969998135"
+    },
+    {
+      "author": "@spiritualmind14",
+      "followers": 237700,
+      "caption": "3 stages of relationship #psychology #deepthoughts #phylosophy #poetry\n#love ",
+      "views": 1800000,
+      "likes": 270300,
+      "comments": 2616,
+      "shares": 40500,
+      "saves": 37285,
+      "engagement_rate": 19.48,
+      "hashtags": [
+        "#psychology",
+        "#deepthoughts",
+        "#phylosophy",
+        "#poetry",
+        "#love"
+      ],
+      "posted_date": "2026-03-23",
+      "url": "https://www.tiktok.com/@spiritualmind14/video/7620592888166108438"
+    },
+    {
+      "author": "@sarahmagusara",
+      "followers": 18000000,
+      "caption": "Love you!!! It\u2019ll be our 5 year anni next month \ud83e\udd79\ud83e\udef6\ud83c\udffd",
+      "views": 1400000,
+      "likes": 155900,
+      "comments": 117,
+      "shares": 334,
+      "saves": 4406,
+      "engagement_rate": 11.48,
+      "hashtags": [],
+      "posted_date": "2022-11-21",
+      "url": "https://www.tiktok.com/@sarahmagusara/video/7168598098556620034"
+    },
+    {
+      "author": "@gabzz_fit",
+      "followers": 185600,
+      "caption": "difficult times are guaranteed and you can\u2019t escape them however finding the right person to go through it together can make them so much easier!\nhaving someone who truly believes in you is one of the",
+      "views": 1400000,
+      "likes": 188800,
+      "comments": 1230,
+      "shares": 55000,
+      "saves": 21734,
+      "engagement_rate": 19.05,
+      "hashtags": [
+        "#couple",
+        "#relationship",
+        "#gymlover"
+      ],
+      "posted_date": "2025-06-03",
+      "url": "https://www.tiktok.com/@gabzz_fit/video/7511657579311893782"
+    },
+    {
+      "author": "@secretacc.lover",
+      "followers": 401,
+      "caption": "\ud83e\udec2\u2764\ufe0f\u200d\ud83e\ude79\n\n#hugs #relationship #love #sweet #relatablevideos ",
+      "views": 1300000,
+      "likes": 219100,
+      "comments": 1387,
+      "shares": 87600,
+      "saves": 20992,
+      "engagement_rate": 25.31,
+      "hashtags": [
+        "#hugs",
+        "#relationship",
+        "#love",
+        "#sweet",
+        "#relatablevideos"
+      ],
+      "posted_date": "2026-03-01",
+      "url": "https://www.tiktok.com/@secretacc.lover/video/7612388279274458390"
+    },
+    {
+      "author": "@nickandcarrie",
+      "followers": 10100000,
+      "caption": "I think \u201cWE\u201d are perfect although \u201cYou\u201d and \u201cMe\u201d are not\u2026\ud83d\udc95",
+      "views": 1000000,
+      "likes": 89300,
+      "comments": 1180,
+      "shares": 840,
+      "saves": 7046,
+      "engagement_rate": 9.84,
+      "hashtags": [],
+      "posted_date": "2022-11-29",
+      "url": "https://www.tiktok.com/@nickandcarrie/video/7171330131405851906"
+    },
+    {
+      "author": "@latishaclarkk",
+      "followers": 3900000,
+      "caption": "My bestie tho\ud83e\udd7a @Kat Clark ",
+      "views": 802600,
+      "likes": 114200,
+      "comments": 332,
+      "shares": 268,
+      "saves": 3527,
+      "engagement_rate": 14.74,
+      "hashtags": [
+        "#"
+      ],
+      "posted_date": "2022-12-02",
+      "url": "https://www.tiktok.com/@latishaclarkk/video/7172532143258815746"
+    },
+    {
+      "author": "@kishamameridian",
+      "followers": 575400,
+      "caption": "this trend is so cute bye #couple #fyp #husbandandwife ",
+      "views": 643600,
+      "likes": 85500,
+      "comments": 494,
+      "shares": 1044,
+      "saves": 6532,
+      "engagement_rate": 14.54,
+      "hashtags": [
+        "#couple",
+        "#fyp",
+        "#husbandandwife"
+      ],
+      "posted_date": "2022-11-21",
+      "url": "https://www.tiktok.com/@kishamameridian/video/7168406270137978113"
+    },
+    {
+      "author": "@life.changes1710",
+      "followers": 117100,
+      "caption": "When he's touch isn't lust, it's love \u2764\ufe0f\n\n#Podcast #motivationalquote #inspirationalquote #inspiration #motivation #quote #foryou #relationship #love #partner #advice ",
+      "views": 636000,
+      "likes": 47200,
+      "comments": 317,
+      "shares": 21600,
+      "saves": 10943,
+      "engagement_rate": 12.59,
+      "hashtags": [
+        "#podcast",
+        "#motivationalquote",
+        "#inspirationalquote",
+        "#inspiration",
+        "#motivation",
+        "#quote",
+        "#foryou",
+        "#relationship"
+      ],
+      "posted_date": "2026-02-28",
+      "url": "https://www.tiktok.com/@life.changes1710/video/7612018385685204254"
+    },
+    {
+      "author": "@anandherproblems",
+      "followers": 8398,
+      "caption": "some things u cant live without #fyp ",
+      "views": 565000,
+      "likes": 79700,
+      "comments": 273,
+      "shares": 999,
+      "saves": 7812,
+      "engagement_rate": 15.71,
+      "hashtags": [
+        "#fyp"
+      ],
+      "posted_date": "2022-11-20",
+      "url": "https://www.tiktok.com/@anandherproblems/video/7168062981891247361"
+    },
+    {
+      "author": "@mindpower10x",
+      "followers": 216500,
+      "caption": "The One Relationship Rule That Changes Everything\n\nIn this video, Tony Robbins shares a fundamental truth about relationships that too many people overlook. He explains why prioritizing your partner i",
+      "views": 520200,
+      "likes": 38600,
+      "comments": 151,
+      "shares": 8955,
+      "saves": 11085,
+      "engagement_rate": 11.3,
+      "hashtags": [],
+      "posted_date": "2026-02-10",
+      "url": "https://www.tiktok.com/@mindpower10x/video/7605298236735245599"
+    },
+    {
+      "author": "@lilipaigebaiden",
+      "followers": 41100,
+      "caption": "The kind of love story that you see in movies #boyfriend #relationship #couple #boyfriendsoftiktok",
+      "views": 477800,
+      "likes": 90300,
+      "comments": 51,
+      "shares": 36300,
+      "saves": 6088,
+      "engagement_rate": 27.78,
+      "hashtags": [
+        "#boyfriend",
+        "#relationship",
+        "#couple",
+        "#boyfriendsoftiktok"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@lilipaigebaiden/video/7625476617900526879"
+    },
+    {
+      "author": "@kajus.tl",
+      "followers": 9628,
+      "caption": "#ilovemygirl #relationships #fyp #viral ",
+      "views": 356700,
+      "likes": 46100,
+      "comments": 385,
+      "shares": 8776,
+      "saves": 7689,
+      "engagement_rate": 17.65,
+      "hashtags": [
+        "#ilovemygirl",
+        "#relationships",
+        "#fyp",
+        "#viral"
+      ],
+      "posted_date": "2026-02-14",
+      "url": "https://www.tiktok.com/@kajus.tl/video/7606804395241540886"
+    },
+    {
+      "author": "@marina_xspam",
+      "followers": 153,
+      "caption": "#relate #relationship #bf ",
+      "views": 333000,
+      "likes": 75600,
+      "comments": 294,
+      "shares": 23500,
+      "saves": 6291,
+      "engagement_rate": 31.74,
+      "hashtags": [
+        "#relate",
+        "#relationship",
+        "#bf"
+      ],
+      "posted_date": "2026-03-16",
+      "url": "https://www.tiktok.com/@marina_xspam/video/7617939250352311574"
+    },
+    {
+      "author": "@silkyslive",
+      "followers": 610700,
+      "caption": "Wow\u2026 \ud83d\ude14\ud83e\udd70 | #sad #love #real #pain #viral | @The Desirable Truth \ud83c\udf99 ",
+      "views": 327900,
+      "likes": 45300,
+      "comments": 147,
+      "shares": 7120,
+      "saves": 5227,
+      "engagement_rate": 17.63,
+      "hashtags": [
+        "#sad",
+        "#love",
+        "#real",
+        "#pain",
+        "#viral",
+        "#"
+      ],
+      "posted_date": "2026-03-08",
+      "url": "https://www.tiktok.com/@silkyslive/video/7614827622576573726"
+    },
+    {
+      "author": "@builtforwins",
+      "followers": 2096,
+      "caption": "\u201c\ud83d\udd25If She Still Tries After You Push \ud83d\ude28 Her Away\u2026 Don\u2019t Lose Her.\u201d \u2049\ufe0f@\ud83d\udd25BuiltForWins\ud83d\udd25 #relationshipadvice \n#datingadvice #relationshiptruth #couplegoals #datingreality ",
+      "views": 325000,
+      "likes": 19300,
+      "comments": 277,
+      "shares": 6543,
+      "saves": 4525,
+      "engagement_rate": 9.43,
+      "hashtags": [
+        "#",
+        "#relationshipadvice",
+        "#datingadvice",
+        "#relationshiptruth",
+        "#couplegoals",
+        "#datingreality"
+      ],
+      "posted_date": "2026-03-22",
+      "url": "https://www.tiktok.com/@builtforwins/video/7620050655360617750"
+    },
+    {
+      "author": "@spiritualmind14",
+      "followers": 237700,
+      "caption": "A man who loves you will never fully trust you.\nPsychology in relationship #PsychologyFacts #MensMindset #RelationshipAdvice #LoveTruths #DeepThoughts ",
+      "views": 310800,
+      "likes": 33100,
+      "comments": 94,
+      "shares": 8029,
+      "saves": 5746,
+      "engagement_rate": 15.11,
+      "hashtags": [
+        "#psychologyfacts",
+        "#mensmindset",
+        "#relationshipadvice",
+        "#lovetruths",
+        "#deepthoughts"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.tiktok.com/@spiritualmind14/video/7625397942047755542"
+    },
+    {
+      "author": "@lovevibesusa1",
+      "followers": 2064,
+      "caption": "This moment says everything \u2764\ufe0f #romanticshorts\n#love\n#romance\n#couplevibes\n#relationshipgoals",
+      "views": 288800,
+      "likes": 2097,
+      "comments": 13,
+      "shares": 1139,
+      "saves": 151,
+      "engagement_rate": 1.18,
+      "hashtags": [
+        "#romanticshorts",
+        "#love",
+        "#romance",
+        "#couplevibes",
+        "#relationshipgoals"
+      ],
+      "posted_date": "2025-12-14",
+      "url": "https://www.tiktok.com/@lovevibesusa1/video/7583819093405388052"
+    },
+    {
+      "author": "@love_unlockedpod",
+      "followers": 7332,
+      "caption": "Never lie to an overthinker because...\ud83d\udc40\u2764\ufe0f\u200d\ud83e\ude79\n.\n#fyp #fypuk\ud83c\uddec\ud83c\udde7\ud83d\udccd#relationshipsadvice #lessonlearned #podcastclip ",
+      "views": 269400,
+      "likes": 31900,
+      "comments": 191,
+      "shares": 3224,
+      "saves": 6431,
+      "engagement_rate": 15.5,
+      "hashtags": [
+        "#fyp",
+        "#fypuk\ud83c\uddec\ud83c\udde7\ud83d\udccd",
+        "#relationshipsadvice",
+        "#lessonlearned",
+        "#podcastclip"
+      ],
+      "posted_date": "2026-03-31",
+      "url": "https://www.tiktok.com/@love_unlockedpod/video/7623570673499376898"
+    },
+    {
+      "author": "@filmdzack",
+      "followers": 9451,
+      "caption": "The worst feeling for a woman..... #fyp #relationshiptalk #moderndating #womenemporwerment ",
+      "views": 250600,
+      "likes": 22100,
+      "comments": 167,
+      "shares": 3309,
+      "saves": 6137,
+      "engagement_rate": 12.65,
+      "hashtags": [
+        "#fyp",
+        "#relationshiptalk",
+        "#moderndating",
+        "#womenemporwerment"
+      ],
+      "posted_date": "2026-03-22",
+      "url": "https://www.tiktok.com/@filmdzack/video/7620197648942877974"
+    },
+    {
+      "author": "@thebossmindset0",
+      "followers": 19000,
+      "caption": "When a woman is truly in love with a man\u2026 the only person who will ruin that relationship is the man himself.\n#relationships #truelove #reflection ",
+      "views": 242100,
+      "likes": 20200,
+      "comments": 172,
+      "shares": 5313,
+      "saves": 7123,
+      "engagement_rate": 13.55,
+      "hashtags": [
+        "#relationships",
+        "#truelove",
+        "#reflection"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.tiktok.com/@thebossmindset0/video/7625317065385200927"
+    },
+    {
+      "author": "@love4infiny",
+      "followers": 419300,
+      "caption": "Relatable ? #relatable #relashionship #boyfriend #girlfriend #couple ",
+      "views": 234300,
+      "likes": 29700,
+      "comments": 21,
+      "shares": 19800,
+      "saves": 1890,
+      "engagement_rate": 21.94,
+      "hashtags": [
+        "#relatable",
+        "#relashionship",
+        "#boyfriend",
+        "#girlfriend",
+        "#couple"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@love4infiny/video/7625646237294857503"
+    },
+    {
+      "author": "@lexicslfye9",
+      "followers": 1231,
+      "caption": "If he loves you he will love you the way you deserve #relationship #fyp #fyppppppppppppppppppppppp ",
+      "views": 211200,
+      "likes": 33000,
+      "comments": 263,
+      "shares": 2186,
+      "saves": 3815,
+      "engagement_rate": 18.59,
+      "hashtags": [
+        "#relationship",
+        "#fyp",
+        "#fyppppppppppppppppppppppp"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@lexicslfye9/video/7625666689207651602"
+    },
+    {
+      "author": "@couple4infiny",
+      "followers": 56000,
+      "caption": "Real #relatable #couples #couplegoals #relationships #relationshipgoals ",
+      "views": 187000,
+      "likes": 2314,
+      "comments": 70,
+      "shares": 4051,
+      "saves": 714,
+      "engagement_rate": 3.82,
+      "hashtags": [
+        "#relatable",
+        "#couples",
+        "#couplegoals",
+        "#relationships",
+        "#relationshipgoals"
+      ],
+      "posted_date": "2025-12-03",
+      "url": "https://www.tiktok.com/@couple4infiny/video/7579433822144564494"
+    },
+    {
+      "author": "@sennentamar",
+      "followers": 2158,
+      "caption": "and he ALWAYS needs to agree with me #bf #couple #relatable #relationship #fyp ",
+      "views": 180300,
+      "likes": 31300,
+      "comments": 26,
+      "shares": 16200,
+      "saves": 1789,
+      "engagement_rate": 27.35,
+      "hashtags": [
+        "#bf",
+        "#couple",
+        "#relatable",
+        "#relationship",
+        "#fyp"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@sennentamar/video/7625719299436596513"
+    },
+    {
+      "author": "@blasianflex",
+      "followers": 5913,
+      "caption": "This energy or nothing \u2764\ufe0f\u200d\ud83d\udd25 \n\n#couplegoals #relationshiptok #couplelove #blasiancouple #romanticcouple ",
+      "views": 174000,
+      "likes": 5518,
+      "comments": 44,
+      "shares": 1092,
+      "saves": 602,
+      "engagement_rate": 4.17,
+      "hashtags": [
+        "#couplegoals",
+        "#relationshiptok",
+        "#couplelove",
+        "#blasiancouple",
+        "#romanticcouple"
+      ],
+      "posted_date": "2026-03-30",
+      "url": "https://www.tiktok.com/@blasianflex/video/7622943431026887958"
+    },
+    {
+      "author": "@reealwave",
+      "followers": 98800,
+      "caption": "respecting your partner \n#relationshipgoals #toxic #relationships #relationshipadvice ",
+      "views": 144700,
+      "likes": 7830,
+      "comments": 108,
+      "shares": 2829,
+      "saves": 2736,
+      "engagement_rate": 9.33,
+      "hashtags": [
+        "#relationshipgoals",
+        "#toxic",
+        "#relationships",
+        "#relationshipadvice"
+      ],
+      "posted_date": "2024-05-18",
+      "url": "https://www.tiktok.com/@reealwave/video/7370142939483327786"
+    },
+    {
+      "author": "@a.2rr221",
+      "followers": 3934,
+      "caption": "#foryoupage #relationships #fyp\u30b7 #iloveyou #fyp he\u2019s mine too\ud83d\ude18",
+      "views": 144000,
+      "likes": 9816,
+      "comments": 2,
+      "shares": 1232,
+      "saves": 487,
+      "engagement_rate": 8.01,
+      "hashtags": [
+        "#foryoupage",
+        "#relationships",
+        "#fyp\u30b7",
+        "#iloveyou",
+        "#fyp"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@a.2rr221/video/7625449958157683981"
+    },
+    {
+      "author": "@whispered.moment",
+      "followers": 29200,
+      "caption": "You make things feel right. #lovequotes #love #relationshipquotes #couplestiktok #lovecore ",
+      "views": 128100,
+      "likes": 12600,
+      "comments": 143,
+      "shares": 9729,
+      "saves": 2669,
+      "engagement_rate": 19.63,
+      "hashtags": [
+        "#lovequotes",
+        "#love",
+        "#relationshipquotes",
+        "#couplestiktok",
+        "#lovecore"
+      ],
+      "posted_date": "2026-03-28",
+      "url": "https://www.tiktok.com/@whispered.moment/video/7622042034680909069"
+    },
+    {
+      "author": "@ourlov3storyy",
+      "followers": 2506,
+      "caption": "idk what he doing #couple #xyzbcab #touch #relationship #ilovemybf ",
+      "views": 96300,
+      "likes": 21500,
+      "comments": 38,
+      "shares": 3510,
+      "saves": 2175,
+      "engagement_rate": 28.27,
+      "hashtags": [
+        "#couple",
+        "#xyzbcab",
+        "#touch",
+        "#relationship",
+        "#ilovemybf"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@ourlov3storyy/video/7625460621022104862"
+    },
+    {
+      "author": "@reidjohnson18",
+      "followers": 36200,
+      "caption": "#truck #trucktok #trucks #fyp #fyp\u30b7 ",
+      "views": 82500,
+      "likes": 18600,
+      "comments": 19,
+      "shares": 2053,
+      "saves": 1332,
+      "engagement_rate": 26.67,
+      "hashtags": [
+        "#truck",
+        "#trucktok",
+        "#trucks",
+        "#fyp",
+        "#fyp\u30b7"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@reidjohnson18/video/7625746525938879757"
+    },
+    {
+      "author": "@lovequotes_4u",
+      "followers": 188000,
+      "caption": "Some connections feel accidental until you realize how rare they actually are. Out of every version of life, every turn, every almost, this one still found its way. Love like this isn\u2019t loud, it\u2019s ste",
+      "views": 68300,
+      "likes": 1650,
+      "comments": 45,
+      "shares": 4135,
+      "saves": 673,
+      "engagement_rate": 9.52,
+      "hashtags": [
+        "#fyp",
+        "#lovequotes",
+        "#soulmate",
+        "#love",
+        "#creatorsearchinsights"
+      ],
+      "posted_date": "2026-01-20",
+      "url": "https://www.tiktok.com/@lovequotes_4u/video/7597493620597394719"
+    },
+    {
+      "author": "@whispered.moment",
+      "followers": 29200,
+      "caption": "I love you so much. #lovequotes #lovemessage #relationshipquotes #iloveyou #mylove ",
+      "views": 55600,
+      "likes": 4172,
+      "comments": 75,
+      "shares": 4268,
+      "saves": 767,
+      "engagement_rate": 16.69,
+      "hashtags": [
+        "#lovequotes",
+        "#lovemessage",
+        "#relationshipquotes",
+        "#iloveyou",
+        "#mylove"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@whispered.moment/video/7625441518043630862"
+    },
+    {
+      "author": "@forevernalways39",
+      "followers": 842,
+      "caption": "#loveyou #love #quotes #lovequotes #relationshipgoals ",
+      "views": 47900,
+      "likes": 1634,
+      "comments": 54,
+      "shares": 3288,
+      "saves": 607,
+      "engagement_rate": 11.66,
+      "hashtags": [
+        "#loveyou",
+        "#love",
+        "#quotes",
+        "#lovequotes",
+        "#relationshipgoals"
+      ],
+      "posted_date": "2026-01-23",
+      "url": "https://www.tiktok.com/@forevernalways39/video/7598617082472828190"
+    },
+    {
+      "author": "@rix_era",
+      "followers": 185800,
+      "caption": "#fyp #couple #love #relationship #romance ",
+      "views": 41700,
+      "likes": 2689,
+      "comments": 18,
+      "shares": 1525,
+      "saves": 305,
+      "engagement_rate": 10.88,
+      "hashtags": [
+        "#fyp",
+        "#couple",
+        "#love",
+        "#relationship",
+        "#romance"
+      ],
+      "posted_date": "2026-03-30",
+      "url": "https://www.tiktok.com/@rix_era/video/7623056860500856072"
+    },
+    {
+      "author": "@wyattimprovement",
+      "followers": 255200,
+      "caption": "here\u2019s how to build a loving relationship",
+      "views": 33100,
+      "likes": 6378,
+      "comments": 48,
+      "shares": 337,
+      "saves": 1210,
+      "engagement_rate": 24.09,
+      "hashtags": [],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@wyattimprovement/video/7625727451028557086"
+    },
+    {
+      "author": "@minjacks",
+      "followers": 432100,
+      "caption": "insta: minjackss \ud83c\udf80. #foryou #disabilitytiktok #relationship #boyfriend #ilovemybf ",
+      "views": 21700,
+      "likes": 2497,
+      "comments": 20,
+      "shares": 23,
+      "saves": 154,
+      "engagement_rate": 12.41,
+      "hashtags": [
+        "#foryou",
+        "#disabilitytiktok",
+        "#relationship",
+        "#boyfriend",
+        "#ilovemybf"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@minjacks/video/7626056854476475661"
+    },
+    {
+      "author": "@hurt.myheart",
+      "followers": 167500,
+      "caption": "#\u2764\ufe0f #quotes #foryou ",
+      "views": 21500,
+      "likes": 2445,
+      "comments": 19,
+      "shares": 1356,
+      "saves": 193,
+      "engagement_rate": 18.67,
+      "hashtags": [
+        "#\u2764\ufe0f",
+        "#quotes",
+        "#foryou"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@hurt.myheart/video/7625854776814751006"
+    },
+    {
+      "author": "@shelliesaurus",
+      "followers": 6207,
+      "caption": "I love my sweet baby so much \ud83d\udc97\ud83d\udc97 @\ud83e\ude91 #ilovemygf #xyzabc #appreciation #Relationship #wlw ",
+      "views": 14100,
+      "likes": 1586,
+      "comments": 23,
+      "shares": 1249,
+      "saves": 388,
+      "engagement_rate": 23.02,
+      "hashtags": [
+        "#",
+        "#ilovemygf",
+        "#xyzabc",
+        "#appreciation",
+        "#relationship",
+        "#wlw"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@shelliesaurus/video/7625578980162620675"
+    },
+    {
+      "author": "@choose.your.lifegame",
+      "followers": 4672,
+      "caption": "#Love #cutecouple #relationship #viral #fyp ",
+      "views": 11600,
+      "likes": 1616,
+      "comments": 4,
+      "shares": 87,
+      "saves": 173,
+      "engagement_rate": 16.21,
+      "hashtags": [
+        "#love",
+        "#cutecouple",
+        "#relationship",
+        "#viral",
+        "#fyp"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.tiktok.com/@choose.your.lifegame/video/7625391004345961735"
+    },
+    {
+      "author": "@4real.corey",
+      "followers": 914400,
+      "caption": "Send this to your person\ud83e\udd0d || #relateable #love #relationships #viral #foryoupage ",
+      "views": 10400,
+      "likes": 1706,
+      "comments": 20,
+      "shares": 721,
+      "saves": 183,
+      "engagement_rate": 25.29,
+      "hashtags": [
+        "#relateable",
+        "#love",
+        "#relationships",
+        "#viral",
+        "#foryoupage"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.tiktok.com/@4real.corey/video/7625289156679273759"
+    },
+    {
+      "author": "@musalareya",
+      "followers": 817800,
+      "caption": "It's built not found \ud83e\udd1e\ud83c\udffd\u2764\ufe0f#fyp #couplegoals #relatable #musaandlareya #viral ",
+      "views": 6553,
+      "likes": 722,
+      "comments": 5,
+      "shares": 86,
+      "saves": 62,
+      "engagement_rate": 13.35,
+      "hashtags": [
+        "#fyp",
+        "#couplegoals",
+        "#relatable",
+        "#musaandlareya",
+        "#viral"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@musalareya/video/7625830579086396685"
+    },
+    {
+      "author": "@fwardjrinspire",
+      "followers": 34000,
+      "caption": "Realistic Relationships is The Key \n#RelationshipAdvice #HealthyRelationships #couples #situationship #relationshipgoals #Couples #MindsetMatters",
+      "views": 5015,
+      "likes": 248,
+      "comments": 14,
+      "shares": 107,
+      "saves": 78,
+      "engagement_rate": 8.91,
+      "hashtags": [
+        "#relationshipadvice",
+        "#healthyrelationships",
+        "#couples",
+        "#situationship",
+        "#relationshipgoals",
+        "#couples",
+        "#mindsetmatters"
+      ],
+      "posted_date": "2025-02-03",
+      "url": "https://www.tiktok.com/@fwardjrinspire/video/7467224862151560491"
+    },
+    {
+      "author": "@elevatedmotivation91",
+      "followers": 59300,
+      "caption": "This is what a realtelationship is. #love #motivation #couplegoals ",
+      "views": 3577,
+      "likes": 108,
+      "comments": 1,
+      "shares": 24,
+      "saves": 29,
+      "engagement_rate": 4.53,
+      "hashtags": [
+        "#love",
+        "#motivation",
+        "#couplegoals"
+      ],
+      "posted_date": "2024-06-04",
+      "url": "https://www.tiktok.com/@elevatedmotivation91/video/7376714573921144110"
+    },
+    {
+      "author": "@sabrina.zohar",
+      "followers": 1600000,
+      "caption": "The reality of a healthy and secure relationship not the clickbait Bs you see but how to actually have a healthy relationship. #relationshiptips #lovethoughts #relatablestories #heartbreak #relationsh",
+      "views": 3503,
+      "likes": 208,
+      "comments": 2,
+      "shares": 7,
+      "saves": 42,
+      "engagement_rate": 7.39,
+      "hashtags": [
+        "#relationshiptips",
+        "#lovethoughts",
+        "#relatablestories",
+        "#heartbreak",
+        "#relationshipadvice"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@sabrina.zohar/video/7626096125757361439"
+    },
+    {
+      "author": "@fg3cp9zjo3",
+      "followers": 24700,
+      "caption": "What a real relationship actually looks like\u00a0#love #fyp #reallove #emo ",
+      "views": 3266,
+      "likes": 132,
+      "comments": 3,
+      "shares": 67,
+      "saves": 19,
+      "engagement_rate": 6.77,
+      "hashtags": [
+        "#love",
+        "#fyp",
+        "#reallove",
+        "#emo"
+      ],
+      "posted_date": "2026-01-05",
+      "url": "https://www.tiktok.com/@fg3cp9zjo3/video/7591862183378603277"
+    },
+    {
+      "author": "@jasonbrookss",
+      "followers": 78300,
+      "caption": "The worst relationship sign...\n\n#strongwomen #womenemporwerment #feminineenergy #relationshipadvice #relationshipstruggles ",
+      "views": 2604,
+      "likes": 175,
+      "comments": 10,
+      "shares": 25,
+      "saves": 42,
+      "engagement_rate": 9.68,
+      "hashtags": [
+        "#strongwomen",
+        "#womenemporwerment",
+        "#feminineenergy",
+        "#relationshipadvice",
+        "#relationshipstruggles"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@jasonbrookss/video/7626025242980355341"
+    },
+    {
+      "author": "@.p2thetic_7",
+      "followers": 25,
+      "caption": "#fyp #relatablequotes #rls #gif #relationships ",
+      "views": 1496,
+      "likes": 185,
+      "comments": 10,
+      "shares": 11,
+      "saves": 22,
+      "engagement_rate": 15.24,
+      "hashtags": [
+        "#fyp",
+        "#relatablequotes",
+        "#rls",
+        "#gif",
+        "#relationships"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@.p2thetic_7/video/7625837777489267998"
+    },
+    {
+      "author": "@seangratton2000",
+      "followers": 24900,
+      "caption": "This is a healthy relationship #relationships #healthyrelationships #relateable ",
+      "views": 1146,
+      "likes": 109,
+      "comments": 3,
+      "shares": 3,
+      "saves": 7,
+      "engagement_rate": 10.65,
+      "hashtags": [
+        "#relationships",
+        "#healthyrelationships",
+        "#relateable"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@seangratton2000/video/7625898364332231966"
+    },
+    {
+      "author": "@tiktokad_ry8",
+      "followers": 10900,
+      "caption": "#coupletiktoks #relationshipgoals #girlfriend #fyp ",
+      "views": 1027,
+      "likes": 82,
+      "comments": 3,
+      "shares": 36,
+      "saves": 12,
+      "engagement_rate": 12.95,
+      "hashtags": [
+        "#coupletiktoks",
+        "#relationshipgoals",
+        "#girlfriend",
+        "#fyp"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@tiktokad_ry8/video/7626076879748959501"
+    },
+    {
+      "author": "@drjondabach",
+      "followers": 123300,
+      "caption": "If you\u2019ve ever felt confused, hurt, or stuck in a relationship pattern you can\u2019t seem to fix, you\u2019re not crazy and you\u2019re definitely not the only one. Most relationship problems aren\u2019t caused by one b",
+      "views": 897,
+      "likes": 69,
+      "comments": 2,
+      "shares": 13,
+      "saves": 27,
+      "engagement_rate": 12.37,
+      "hashtags": [
+        "#relationships",
+        "#couplestherapy",
+        "#relationshipadvice",
+        "#communication",
+        "#marriage"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@drjondabach/video/7626026900132990222"
+    },
+    {
+      "author": "@motivation.inspir74",
+      "followers": 9723,
+      "caption": "#motivation #success #mindset ",
+      "views": 895,
+      "likes": 104,
+      "comments": 2,
+      "shares": 42,
+      "saves": 19,
+      "engagement_rate": 18.66,
+      "hashtags": [
+        "#motivation",
+        "#success",
+        "#mindset"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@motivation.inspir74/video/7626028214825078046"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "month": "April",
   "year": 2026,
   "niche": "food",
-  "generated_at": "2026-04-07T23:44:53.202256",
+  "generated_at": "2026-04-09T01:56:28.407143",
   "data_points_analyzed": 166,
   "viral_posts_found": 166,
   "hooks": [
@@ -19,7 +19,26 @@
       "example": "Have you ever tried chicken feet? Comment RECIPE below and I\u2019ll send you step-by-step instructions on how to make these."
     }
   ],
-  "best_times": [],
+  "best_times": [
+    {
+      "day": "Tuesday",
+      "time": "Peak",
+      "engagement_avg": 431.5,
+      "sample_size": 85
+    },
+    {
+      "day": "Monday",
+      "time": "Peak",
+      "engagement_avg": 286.3,
+      "sample_size": 67
+    },
+    {
+      "day": "Sunday",
+      "time": "Peak",
+      "engagement_avg": 152.7,
+      "sample_size": 12
+    }
+  ],
   "hashtags": [
     {
       "tag": "#food",
@@ -38,11 +57,11 @@
       "usage_count": 20
     },
     {
-      "tag": "#reels",
+      "tag": "#recipe",
       "usage_count": 15
     },
     {
-      "tag": "#recipe",
+      "tag": "#reels",
       "usage_count": 15
     },
     {
@@ -66,27 +85,7 @@
       "usage_count": 5
     },
     {
-      "tag": "#dessert",
-      "usage_count": 4
-    },
-    {
-      "tag": "#kitchen",
-      "usage_count": 4
-    },
-    {
       "tag": "#travel",
-      "usage_count": 4
-    },
-    {
-      "tag": "#foodies",
-      "usage_count": 4
-    },
-    {
-      "tag": "#instagram",
-      "usage_count": 4
-    },
-    {
-      "tag": "#foodporn",
       "usage_count": 4
     },
     {
@@ -94,7 +93,15 @@
       "usage_count": 4
     },
     {
-      "tag": "#highprotein",
+      "tag": "#foodporn",
+      "usage_count": 4
+    },
+    {
+      "tag": "#dessert",
+      "usage_count": 4
+    },
+    {
+      "tag": "#foodies",
       "usage_count": 4
     },
     {
@@ -102,7 +109,19 @@
       "usage_count": 4
     },
     {
+      "tag": "#kitchen",
+      "usage_count": 4
+    },
+    {
       "tag": "#foodstagram",
+      "usage_count": 4
+    },
+    {
+      "tag": "#instagram",
+      "usage_count": 4
+    },
+    {
+      "tag": "#highprotein",
       "usage_count": 4
     },
     {
@@ -110,154 +129,62 @@
       "usage_count": 4
     },
     {
+      "tag": "#sandwich",
+      "usage_count": 3
+    },
+    {
       "tag": "#love",
       "usage_count": 3
     },
     {
-      "tag": "#dinner",
-      "usage_count": 3
-    },
-    {
-      "tag": "#bbq",
+      "tag": "#foryou",
       "usage_count": 3
     }
   ],
   "formats": [],
   "trending_sounds": [],
-  "insights": "166 Instagram reels. Avg 44,407 views, 1,287 likes.",
+  "insights": "166 posts analyzed. Avg 0 views.",
   "top_posts": [
-    {
-      "author": "@piyali_toshniwal",
-      "followers": 0,
-      "caption": "PoV: \u201cAll you need in this life is ignorance and confidence; then success is sure.\u201d \ud83e\uddff\ud83e\ude77\n\nsometimes the magic begins when you stop overthinking. \ud83c\udf0a\u2728\nA little ignorance to the noise, a little confidence i",
-      "views": 1104314,
-      "likes": 13944,
-      "comments": 609,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 1.32,
-      "hashtags": [],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW0jHMaDPF8/"
-    },
     {
       "author": "@itsdlai",
       "followers": 0,
       "caption": "Keep thinking y\u2019all friends with these wild animals #food @comedyzonegreensboro April 9th",
-      "views": 382643,
+      "views": 0,
       "likes": 18320,
       "comments": 1385,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 5.15,
+      "engagement_rate": 107.56,
       "hashtags": [
         "#food"
       ],
-      "sound": "",
-      "duration": 0,
       "posted_date": "2026-04-06",
       "url": "https://www.instagram.com/p/DWzahMtj7E3/"
     },
     {
-      "author": "@estefania_fernandezz",
+      "author": "@piyali_toshniwal",
       "followers": 0,
-      "caption": "\ud83c\uddf2\ud83c\uddfdEnchiladas Suizas Cremosas \ud83e\udd24\n\nUna receta f\u00e1cil, r\u00e1pida y deliciosa\u2026 \u00a1quedan s\u00faper cremosas y llenas de sabor! \ud83d\ude2e\u200d\ud83d\udd25\n\n\u2e3b\n\n\ud83d\udcdd Ingredientes\n\nPara el pollo:\n\t\u2022\t4 pechugas de pollo\n\t\u2022\t\u00bd cebolla\n\t\u2022\t3 hojas de",
-      "views": 232342,
-      "likes": 5369,
-      "comments": 3,
+      "caption": "PoV: \u201cAll you need in this life is ignorance and confidence; then success is sure.\u201d \ud83e\uddff\ud83e\ude77\n\nsometimes the magic begins when you stop overthinking. \ud83c\udf0a\u2728\nA little ignorance to the noise, a little confidence i",
+      "views": 0,
+      "likes": 13944,
+      "comments": 609,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 2.31,
-      "hashtags": [
-        "#enchiladas",
-        "#enchiladassuizas",
-        "#recetasf\u00e1ciles",
-        "#foodie",
-        "#comidamexicana"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWznXAvjUw0/"
-    },
-    {
-      "author": "@ayseseymabektas",
-      "followers": 0,
-      "caption": "M\u00fckemmel bir tatl\u0131 bunu mutlaka deneyin\ud83d\udcaf\ud83d\ude0b\nVideoyu kaydedip be\u011fenmeyi unutmay\u0131n\u2665\ufe0f\n\nMeyveli borcam pastas\u0131\u2728\nKeki i\u00e7in;\n5 yumurta \n1 su barda\u011f\u0131 toz \u015feker\nYar\u0131m su barda\u011f\u0131 kaynar su\n1 su barda\u011f\u0131 un\nYar\u0131m ",
-      "views": 219779,
-      "likes": 1993,
-      "comments": 24,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.92,
-      "hashtags": [
-        "#tatl\u0131",
-        "#dessert",
-        "#reels",
-        "#food",
-        "#global"
-      ],
-      "sound": "",
-      "duration": 0,
+      "engagement_rate": 104.37,
+      "hashtags": [],
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW104nyDJLw/"
-    },
-    {
-      "author": "@chatpati_.kitchen",
-      "followers": 0,
-      "caption": "\ud83e\udd23\ud83d\ude2c\ud83e\udd23 #cooking #kitchen #funny #reach #fyp",
-      "views": 158480,
-      "likes": 778,
-      "comments": 9,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.5,
-      "hashtags": [
-        "#cooking",
-        "#kitchen",
-        "#funny",
-        "#reach",
-        "#fyp"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWypqKek87d/"
-    },
-    {
-      "author": "@aapli_aaji",
-      "followers": 0,
-      "caption": "Comment - Link\ud83d\udc47\n\n#food #summer #village #health #healthyfood",
-      "views": 139180,
-      "likes": 1653,
-      "comments": 42,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 1.22,
-      "hashtags": [
-        "#food",
-        "#summer",
-        "#village",
-        "#health",
-        "#healthyfood"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW08DiBDRjF/"
+      "url": "https://www.instagram.com/p/DW0jHMaDPF8/"
     },
     {
       "author": "@ulises_cocinero",
       "followers": 0,
       "caption": "\u2b07\ufe0f\u2728 EL RELISH PERFECTO \ud83d\ude0b Nivel Perro Caliente Mundial \ud83c\udf2d\ud83e\udd52\n\nSe viene el D\u00eda Mundial del Perro Caliente y les traigo el secreto para que los suyos queden de otro nivel. \ud83e\udd73\ud83c\udf2d Olv\u00eddense de los frascos de s\u00fap",
-      "views": 133121,
+      "views": 0,
       "likes": 9174,
       "comments": 313,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 7.13,
+      "engagement_rate": 103.41,
       "hashtags": [
         "#relish",
         "#hotdog",
@@ -265,8 +192,6 @@
         "#food",
         "#recipe"
       ],
-      "sound": "",
-      "duration": 0,
       "posted_date": "2026-04-07",
       "url": "https://www.instagram.com/p/DW1QyOngK6b/"
     },
@@ -274,12 +199,12 @@
       "author": "@leonilanee",
       "followers": 0,
       "caption": "Bolo de anivers\u00e1rio \ud83c\udf82\ud83c\udf38\ud83c\udf3f\ud83c\udf53#diy #food #baking #cake #receita",
-      "views": 120128,
+      "views": 0,
       "likes": 9153,
       "comments": 76,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 7.68,
+      "engagement_rate": 100.83,
       "hashtags": [
         "#diy",
         "#food",
@@ -287,64 +212,19 @@
         "#cake",
         "#receita"
       ],
-      "sound": "",
-      "duration": 0,
       "posted_date": "2026-04-06",
       "url": "https://www.instagram.com/p/DWzhPnzjSBE/"
-    },
-    {
-      "author": "@_byneri",
-      "followers": 0,
-      "caption": "\u2728cremige Hackb\u00e4llchen-Pfanne\u2728\n\n\ud83c\udde9\ud83c\uddeaZutaten\nHackb\u00e4llchen:\n1 kg Hackfleisch \n1 Ei\n1 TL Kreuzk\u00fcmmel\n1 TL Oregano\n1 TL Paprikapulver edels\u00fc\u00df \n1 TL Salz\n0,5 TL Pfeffer\nChiliflocken (optional)\n1 EL Tomatenmar",
-      "views": 111272,
-      "likes": 2148,
-      "comments": 56,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 1.98,
-      "hashtags": [
-        "#hackb\u00e4llchen",
-        "#food",
-        "#k\u00f6fte",
-        "#foodblogger",
-        "#k\u00f6ftetarifi"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1i87QjJFa/"
-    },
-    {
-      "author": "@sailor_bailey",
-      "followers": 0,
-      "caption": "This Green Goddess Chicken Salad is a wonderful change-up from the classic. It\u2019s bright from an herby yogurt dressing and LOTS of crunch from fresh veggies. It\u2019s the perfect spring or summer lunch to ",
-      "views": 109476,
-      "likes": 3087,
-      "comments": 1323,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 4.03,
-      "hashtags": [
-        "#ReadySetCO",
-        "#food",
-        "#foodie",
-        "#delicious"
-      ],
-      "sound": "",
-      "duration": 0,
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWytNXmkcFO/"
     },
     {
       "author": "@cocinacomouncrack",
       "followers": 0,
       "caption": "Menciona al que te tiene que hacer esta groser\u00eda \ud83e\udd24 o env\u00edaselo pa\u2019 que se ponga la 10 \ud83e\udee8\n\u2022\nReceta: \n\n1 pl\u00e1tano maduro \n100g de panela \n100ml de agua \n40g de mantequilla \n\n- Hacer un melado con la panel",
-      "views": 101791,
+      "views": 0,
       "likes": 6009,
       "comments": 115,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 6.02,
+      "engagement_rate": 101.91,
       "hashtags": [
         "#recetas",
         "#colombia",
@@ -352,21 +232,152 @@
         "#recipes",
         "#parati"
       ],
-      "sound": "",
-      "duration": 0,
       "posted_date": "2026-04-06",
       "url": "https://www.instagram.com/p/DWzlXcrgGwq/"
+    },
+    {
+      "author": "@estefania_fernandezz",
+      "followers": 0,
+      "caption": "\ud83c\uddf2\ud83c\uddfdEnchiladas Suizas Cremosas \ud83e\udd24\n\nUna receta f\u00e1cil, r\u00e1pida y deliciosa\u2026 \u00a1quedan s\u00faper cremosas y llenas de sabor! \ud83d\ude2e\u200d\ud83d\udd25\n\n\u2e3b\n\n\ud83d\udcdd Ingredientes\n\nPara el pollo:\n\t\u2022\t4 pechugas de pollo\n\t\u2022\t\u00bd cebolla\n\t\u2022\t3 hojas de",
+      "views": 0,
+      "likes": 5369,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.06,
+      "hashtags": [
+        "#enchiladas",
+        "#enchiladassuizas",
+        "#recetasf\u00e1ciles",
+        "#foodie",
+        "#comidamexicana"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWznXAvjUw0/"
+    },
+    {
+      "author": "@coachjohnnoel",
+      "followers": 0,
+      "caption": "\u201cIt\u2019s Not Dining Out; It\u2019s Mixing In\u201d\n\nPanda Express Orange Chicken Bowl\n\n$8.50\n1030 calories\n36 protein \n171 carbs \n24 fat \n2 fiber\n850 sodium\n\nMy version:\n\n~$4 per meal \n508 calories \n33 protein\n64 ",
+      "views": 0,
+      "likes": 3548,
+      "comments": 150,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.23,
+      "hashtags": [
+        "#healthyrecipes",
+        "#EasyRecipe",
+        "#healthyeating",
+        "#cooking",
+        "#easycooking"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWy582QkWCN/"
+    },
+    {
+      "author": "@jeffrey_in_nyc",
+      "followers": 0,
+      "caption": "5 Fun and Cheap Things to do in NYC near Governor\u2019s Island #nyc #NewYork #food #travel #visitnyc nybucketlist",
+      "views": 0,
+      "likes": 3485,
+      "comments": 15,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.43,
+      "hashtags": [
+        "#nyc",
+        "#NewYork",
+        "#food",
+        "#travel",
+        "#visitnyc"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1HXlrAMLw/"
+    },
+    {
+      "author": "@jordanfaeth",
+      "followers": 0,
+      "caption": "If I\u2019m gonna talk burgers this much, I better be able to make one\n\nDouble smash, crispy onions, spicy jalape\u00f1os, melty pepperjack, and a chipotle garlic sauce that deserves its own fan club.\n\n#smashbu",
+      "views": 0,
+      "likes": 3166,
+      "comments": 126,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.98,
+      "hashtags": [
+        "#smashburger",
+        "#burgerlover",
+        "#foodtok",
+        "#homecooking",
+        "#foodie"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DWz0qLTjL3y/"
+    },
+    {
+      "author": "@sailor_bailey",
+      "followers": 0,
+      "caption": "This Green Goddess Chicken Salad is a wonderful change-up from the classic. It\u2019s bright from an herby yogurt dressing and LOTS of crunch from fresh veggies. It\u2019s the perfect spring or summer lunch to ",
+      "views": 0,
+      "likes": 3087,
+      "comments": 1323,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 142.86,
+      "hashtags": [
+        "#ReadySetCO",
+        "#food",
+        "#foodie",
+        "#delicious"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWytNXmkcFO/"
+    },
+    {
+      "author": "@lafoodieguy",
+      "followers": 0,
+      "caption": "One of LA\u2019s most sought after and delicious breakfast sandwiches comes from @calabama. \ud83e\udd6a It\u2019s cheesy, buttery, perfectly salty, comforting and it\u2019ll be in your hands to devour in minutes upon ordering",
+      "views": 0,
+      "likes": 2914,
+      "comments": 79,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.71,
+      "hashtags": [
+        "#losangeles",
+        "#food",
+        "#foodie",
+        "#breakfast",
+        "#sandwich"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1xeRYkoJp/"
+    },
+    {
+      "author": "@themagicmikey",
+      "followers": 0,
+      "caption": "Eating McDonald\u2019s Big Mac Burgers & fries with cheese",
+      "views": 0,
+      "likes": 2697,
+      "comments": 12,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.44,
+      "hashtags": [],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1h8_RiJ1A/"
     },
     {
       "author": "@brown_chef_india",
       "followers": 0,
       "caption": "You can replace mushrooms with paneer or even Gatta\u2019s , little oil roasted bhindi \ud83d\ude0d , banakar batana kaise bani .. promise ? \ud83d\ude07\n.\n.\n.\n#brownchef #sunnyyvyas #love #food #viral",
-      "views": 95281,
+      "views": 0,
       "likes": 2620,
       "comments": 260,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 3.02,
+      "engagement_rate": 109.92,
       "hashtags": [
         "#brownchef",
         "#sunnyyvyas",
@@ -374,41 +385,115 @@
         "#food",
         "#viral"
       ],
-      "sound": "",
-      "duration": 0,
       "posted_date": "2026-04-07",
       "url": "https://www.instagram.com/p/DW0Qf4iCHp1/"
     },
     {
-      "author": "@the_noahnator",
+      "author": "@silvanna",
       "followers": 0,
-      "caption": "Stackable Pizza Bread Loaf #recipe #cheesepizza #cooking",
-      "views": 94340,
-      "likes": 463,
-      "comments": 8,
+      "caption": "No sabia que habia una chef coreana en Xalapa\ud83c\uddf0\ud83c\uddf7\ud83e\udd70\n\n\ud83d\udccd@kimchis.xlp ( adentro de plaza cristal )\n\n#xalapa #restaurantecoreano #comidacoreana #foodie #coreadelsur",
+      "views": 0,
+      "likes": 2581,
+      "comments": 52,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 0.5,
+      "engagement_rate": 102.01,
       "hashtags": [
-        "#recipe",
-        "#cheesepizza",
-        "#cooking"
+        "#xalapa",
+        "#restaurantecoreano",
+        "#comidacoreana",
+        "#foodie",
+        "#coreadelsur"
       ],
-      "sound": "",
-      "duration": 0,
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWvDd5yjkoL/"
+    },
+    {
+      "author": "@lekkaaz",
+      "followers": 0,
+      "caption": "Dica de alimenta\u00e7\u00e3o #food #comer #humor",
+      "views": 0,
+      "likes": 2568,
+      "comments": 349,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 113.59,
+      "hashtags": [
+        "#food",
+        "#comer",
+        "#humor"
+      ],
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1o6xECF1K/"
+      "url": "https://www.instagram.com/p/DW0_kvmkTld/"
+    },
+    {
+      "author": "@justinclassic1992_official",
+      "followers": 0,
+      "caption": "#entertainment #peanutbutterandjelly #food #90smusic #nastalgia",
+      "views": 0,
+      "likes": 2551,
+      "comments": 133,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 105.21,
+      "hashtags": [
+        "#entertainment",
+        "#peanutbutterandjelly",
+        "#food",
+        "#90smusic",
+        "#nastalgia"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DWz8YgQkdXT/"
+    },
+    {
+      "author": "@thejoshjournals",
+      "followers": 0,
+      "caption": "\ud83d\ude12\ud83d\ude02\u2764\ufe0f\n\n#explore #foryou #reels #food #relatable",
+      "views": 0,
+      "likes": 2379,
+      "comments": 88,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.7,
+      "hashtags": [
+        "#explore",
+        "#foryou",
+        "#reels",
+        "#food",
+        "#relatable"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyvxY0jEOv/"
+    },
+    {
+      "author": "@cw39houston",
+      "followers": 0,
+      "caption": "Texas food trucks to benefit from new statewide permit - In our link, the concern over loss of control over other permit systems. #food #texasfoodtruck #foodtruckpermit",
+      "views": 0,
+      "likes": 2333,
+      "comments": 92,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.94,
+      "hashtags": [
+        "#food",
+        "#texasfoodtruck",
+        "#foodtruckpermit"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyrntnCt7K/"
     },
     {
       "author": "@bigmeatsfood_",
       "followers": 0,
       "caption": "Dieser Schweinebraten ist WELTREKORD! \ud83d\ude31 Schaffe ich diese Challenge im \u00e4ltesten Wirthaus der Welt? \ud83d\udd25\n\nIch versuche eine ganze Schweinebrust \ud83d\ude33\n\nDie @gaststaette_roehrl ist das \u00c4lteste Wirtshaus der Wel",
-      "views": 92952,
+      "views": 0,
       "likes": 2302,
       "comments": 61,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 2.54,
+      "engagement_rate": 102.65,
       "hashtags": [
         "#bigm",
         "#challenge",
@@ -416,21 +501,159 @@
         "#foodie",
         "#schweinebraten"
       ],
-      "sound": "",
-      "duration": 0,
       "posted_date": "2026-04-07",
       "url": "https://www.instagram.com/p/DW09E10gPaZ/"
+    },
+    {
+      "author": "@lalametisse",
+      "followers": 0,
+      "caption": "Le go\u00fbt mon p\u00e8\u00ef Boulettes fruit \u00e0 pain sardine \ud83c\udf48\ud83d\udc1f\nOu peu m\u00eame faire avec la morue ou nature \u2728\n\n\u2728Ingr\u00e9dients \u2728\nFruit \u00e0 pain \nSardine \nOignon\nOignon vert \nPersil \nSafran /sel/poivre \n\n\u2728Pr\u00e9paration \u2728\nD\u00e9c",
+      "views": 0,
+      "likes": 2190,
+      "comments": 73,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.33,
+      "hashtags": [
+        "#974",
+        "#foodporn",
+        "#foodculture",
+        "#foodcreole",
+        "#food"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWx_rTqN8uQ/"
+    },
+    {
+      "author": "@_byneri",
+      "followers": 0,
+      "caption": "\u2728cremige Hackb\u00e4llchen-Pfanne\u2728\n\n\ud83c\udde9\ud83c\uddeaZutaten\nHackb\u00e4llchen:\n1 kg Hackfleisch \n1 Ei\n1 TL Kreuzk\u00fcmmel\n1 TL Oregano\n1 TL Paprikapulver edels\u00fc\u00df \n1 TL Salz\n0,5 TL Pfeffer\nChiliflocken (optional)\n1 EL Tomatenmar",
+      "views": 0,
+      "likes": 2148,
+      "comments": 56,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.61,
+      "hashtags": [
+        "#hackb\u00e4llchen",
+        "#food",
+        "#k\u00f6fte",
+        "#foodblogger",
+        "#k\u00f6ftetarifi"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1i87QjJFa/"
+    },
+    {
+      "author": "@joe_lil_snuff_perri",
+      "followers": 0,
+      "caption": "Is this the best restaurant in Conshohocken? \n\n#snuff #food #foodie #dinner #mood",
+      "views": 0,
+      "likes": 2135,
+      "comments": 96,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.5,
+      "hashtags": [
+        "#snuff",
+        "#food",
+        "#foodie",
+        "#dinner",
+        "#mood"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DWz1yJ5jHAY/"
+    },
+    {
+      "author": "@leonilanee",
+      "followers": 0,
+      "caption": "Lanche das 3 da tarde \ud83c\udf36\ufe0f\ud83c\udf3f\ud83e\uddfa #food #receita #diy #cooking #comida",
+      "views": 0,
+      "likes": 2076,
+      "comments": 31,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.49,
+      "hashtags": [
+        "#food",
+        "#receita",
+        "#diy",
+        "#cooking",
+        "#comida"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW2FXA_DnS4/"
+    },
+    {
+      "author": "@ayseseymabektas",
+      "followers": 0,
+      "caption": "M\u00fckemmel bir tatl\u0131 bunu mutlaka deneyin\ud83d\udcaf\ud83d\ude0b\nVideoyu kaydedip be\u011fenmeyi unutmay\u0131n\u2665\ufe0f\n\nMeyveli borcam pastas\u0131\u2728\nKeki i\u00e7in;\n5 yumurta \n1 su barda\u011f\u0131 toz \u015feker\nYar\u0131m su barda\u011f\u0131 kaynar su\n1 su barda\u011f\u0131 un\nYar\u0131m ",
+      "views": 0,
+      "likes": 1993,
+      "comments": 24,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.2,
+      "hashtags": [
+        "#tatl\u0131",
+        "#dessert",
+        "#reels",
+        "#food",
+        "#global"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW104nyDJLw/"
+    },
+    {
+      "author": "@arsonn6dafoodie",
+      "followers": 0,
+      "caption": "Episode 667: All N Di Sauce (Los Angeles, California - DM @all_n_di_sauce to place your orders) #food #foodie #cheesecake #losangeles #fyp",
+      "views": 0,
+      "likes": 1919,
+      "comments": 98,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 105.11,
+      "hashtags": [
+        "#food",
+        "#foodie",
+        "#cheesecake",
+        "#losangeles",
+        "#fyp"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzfO2Vkrr7/"
+    },
+    {
+      "author": "@arsonn6dafoodie",
+      "followers": 0,
+      "caption": "Episode 667: All N Di Sauce (Los Angeles, California - DM @all_n_di_sauce to place your orders) #food #foodie #cheesecake #losangeles #fyp",
+      "views": 0,
+      "likes": 1919,
+      "comments": 98,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 105.11,
+      "hashtags": [
+        "#food",
+        "#foodie",
+        "#cheesecake",
+        "#losangeles",
+        "#fyp"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzfO2Vkrr7/"
     },
     {
       "author": "@cadena3com",
       "followers": 0,
       "caption": "\ud83c\udde6\ud83c\uddf7\ud83c\udf7d\ufe0f UNA DE LAS MEJORES MILANESA NAPOLITANA DEL MUNDO \n\n\u00bfPuede una milanesa convertirse en leyenda? En pleno coraz\u00f3n de Bariloche, la cl\u00e1sica La Fonda del T\u00edo lleva d\u00e9cadas sirviendo lo que muchos con",
-      "views": 92246,
+      "views": 0,
       "likes": 1897,
       "comments": 40,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 2.1,
+      "engagement_rate": 102.11,
       "hashtags": [
         "#CaminosDelSabor",
         "#Cadena3",
@@ -440,10 +663,2762 @@
         "#Argentina",
         "#Viaja"
       ],
-      "sound": "",
-      "duration": 0,
       "posted_date": "2026-04-06",
       "url": "https://www.instagram.com/p/DWznb4-AdHC/"
+    },
+    {
+      "author": "@drewcanole",
+      "followers": 0,
+      "caption": "Ice cream is a super food???\n\n#foodie #nutrition #natural",
+      "views": 0,
+      "likes": 1889,
+      "comments": 36,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.91,
+      "hashtags": [
+        "#foodie",
+        "#nutrition",
+        "#natural"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1oVUikU9b/"
+    },
+    {
+      "author": "@benjamin_caleb_1",
+      "followers": 0,
+      "caption": "Punjabi Kadhi Pakora \ud83c\udf5b(Comforting North Indian classic made with a tangy yogurt-based curry (kadhi) and crispy gram flour fritters (pakoras). It\u2019s rich, slightly sour, and deeply flavorful\u2014best enjoye",
+      "views": 0,
+      "likes": 1857,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#kadhipakora",
+        "#food",
+        "#foodie",
+        "#foodlover",
+        "#foodies"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzeHMREtdZ/"
+    },
+    {
+      "author": "@benjamin_caleb_1",
+      "followers": 0,
+      "caption": "Punjabi Kadhi Pakora \ud83c\udf5b(Comforting North Indian classic made with a tangy yogurt-based curry (kadhi) and crispy gram flour fritters (pakoras). It\u2019s rich, slightly sour, and deeply flavorful\u2014best enjoye",
+      "views": 0,
+      "likes": 1857,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#kadhipakora",
+        "#food",
+        "#foodie",
+        "#foodlover",
+        "#foodies"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzeHMREtdZ/"
+    },
+    {
+      "author": "@kalesefoodie",
+      "followers": 0,
+      "caption": "Taco Tuesday\ud83c\udf2e\ud83d\udc95\n#mukbang #food #foodie #explorepage #fyp",
+      "views": 0,
+      "likes": 1737,
+      "comments": 29,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.67,
+      "hashtags": [
+        "#mukbang",
+        "#food",
+        "#foodie",
+        "#explorepage",
+        "#fyp"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1maR7DqVq/"
+    },
+    {
+      "author": "@suhayl.foods",
+      "followers": 0,
+      "caption": "\ud83e\udd24Shashlikni bunaqasini hali yeb ko'rmagansiz #food #uzbbloger #fyp #streetfood #tashkent",
+      "views": 0,
+      "likes": 1712,
+      "comments": 48,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.8,
+      "hashtags": [
+        "#food",
+        "#uzbbloger",
+        "#fyp",
+        "#streetfood",
+        "#tashkent"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0qvlJCEFI/"
+    },
+    {
+      "author": "@levenetsss",
+      "followers": 0,
+      "caption": "#food #cooking #kitchen #daywithme #restaurantlife",
+      "views": 0,
+      "likes": 1696,
+      "comments": 106,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 106.25,
+      "hashtags": [
+        "#food",
+        "#cooking",
+        "#kitchen",
+        "#daywithme",
+        "#restaurantlife"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWxBTwoDImU/"
+    },
+    {
+      "author": "@maryamzekria",
+      "followers": 0,
+      "caption": "CHICKEN SALAD \u2022 Prepped for the week. Turn them into sandwiches for lunch, enjoy with crackers as a snack, or put them in your morning croissants for breakfast. When i have this prepped for the week- ",
+      "views": 0,
+      "likes": 1675,
+      "comments": 60,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.58,
+      "hashtags": [
+        "#chicken",
+        "#salad",
+        "#mealprep",
+        "#recipe",
+        "#food"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1gNDtE6zi/"
+    },
+    {
+      "author": "@camilla_creations",
+      "followers": 0,
+      "caption": "Another day, another food that I\u2019m craving \u2728 I\u2019m obsessed with how this turned out and it makes me want to eat it right off of the canvas \ud83e\udd6f Original canvas available on my website along with prints, t",
+      "views": 0,
+      "likes": 1664,
+      "comments": 31,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.86,
+      "hashtags": [
+        "#camillacreations",
+        "#foodie",
+        "#painting",
+        "#acrylicartist"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWy8ghJkZ7Q/"
+    },
+    {
+      "author": "@aapli_aaji",
+      "followers": 0,
+      "caption": "Comment - Link\ud83d\udc47\n\n#food #summer #village #health #healthyfood",
+      "views": 0,
+      "likes": 1653,
+      "comments": 42,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.54,
+      "hashtags": [
+        "#food",
+        "#summer",
+        "#village",
+        "#health",
+        "#healthyfood"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW08DiBDRjF/"
+    },
+    {
+      "author": "@roberto_avellan",
+      "followers": 0,
+      "caption": "\ud83d\udcce Guarda esta ensalada de primavera con quinoa crujiente \n\n1 manojo de esp\u00e1rragos \n150g de guisantes baby \nCebollino fresco picado \n1 aguacate \n150g de quinoa cocida \nAceite de oliva virgen extra \nSal",
+      "views": 0,
+      "likes": 1487,
+      "comments": 96,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 106.46,
+      "hashtags": [
+        "#ensalada",
+        "#ensaldadeprimavera",
+        "#recetasf\u00e1ciles",
+        "#recetassaludables",
+        "#food"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1qZy-jSSo/"
+    },
+    {
+      "author": "@larutadelagarnacha",
+      "followers": 0,
+      "caption": "\ud83d\ude14\ud83d\udc94\n\n#LaRutaDeLaGarnacha #Garnacha #Comida #mexico #Foodie #vira\u0142post #esquite #esquites",
+      "views": 0,
+      "likes": 1418,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.35,
+      "hashtags": [
+        "#LaRutaDeLaGarnacha",
+        "#Garnacha",
+        "#Comida",
+        "#mexico",
+        "#Foodie",
+        "#vira\u0142post",
+        "#esquite",
+        "#esquites"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWxV_E6D5TS/"
+    },
+    {
+      "author": "@lezzet.axtarishinda",
+      "followers": 0,
+      "caption": "A\u011fcab\u0259did\u0259 Palatka Toyunda\ud83d\ude0b\ud83d\ude0b\ud83d\udc4d\n\n#a\u011fc\u0259b\u0259di #bak\u00fc  #lezzetaxtarishinda #food #travel",
+      "views": 0,
+      "likes": 1415,
+      "comments": 11,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.78,
+      "hashtags": [
+        "#a\u011fc\u0259b\u0259di",
+        "#bak\u00fc",
+        "#lezzetaxtarishinda",
+        "#food",
+        "#travel"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwaQsCCoFo/"
+    },
+    {
+      "author": "@bruncheandoenbsas",
+      "followers": 0,
+      "caption": "La Esquina m\u00e1s Linda de Villa Urquiza \ud83e\udd70\n\ud83d\udc49\ud83c\udffb @pitigliano.ba un para\u00edso para amantes ee la merienda en el barrio, todo mega casero, delicioso y a precios IMPECABLES \ud83e\udd24 \n\nY voy a sortear un Brunch para ust",
+      "views": 0,
+      "likes": 1384,
+      "comments": 738,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 153.32,
+      "hashtags": [
+        "#icecream",
+        "#dessert",
+        "#food",
+        "#foodie",
+        "#chocolate"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzcaCfAvPe/"
+    },
+    {
+      "author": "@bruncheandoenbsas",
+      "followers": 0,
+      "caption": "La Esquina m\u00e1s Linda de Villa Urquiza \ud83e\udd70\n\ud83d\udc49\ud83c\udffb @pitigliano.ba un para\u00edso para amantes ee la merienda en el barrio, todo mega casero, delicioso y a precios IMPECABLES \ud83e\udd24 \n\nY voy a sortear un Brunch para ust",
+      "views": 0,
+      "likes": 1384,
+      "comments": 738,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 153.32,
+      "hashtags": [
+        "#icecream",
+        "#dessert",
+        "#food",
+        "#foodie",
+        "#chocolate"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzcaCfAvPe/"
+    },
+    {
+      "author": "@frajolamarola",
+      "followers": 0,
+      "caption": "Hoje a janta foi comigo \ud83d\ude38\n#cats #food #funny #humorfelino #pasta",
+      "views": 0,
+      "likes": 1322,
+      "comments": 19,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.44,
+      "hashtags": [
+        "#cats",
+        "#food",
+        "#funny",
+        "#humorfelino",
+        "#pasta"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWziVAkCZ-x/"
+    },
+    {
+      "author": "@opmsfamily",
+      "followers": 0,
+      "caption": "Dinner went like this\u2026Started as fufu with chicken light soup and ended as fufu with Chicken & Peanut butter soup \ud83d\ude01 Comment RECIPE for link #dinner #food #momlife",
+      "views": 0,
+      "likes": 1297,
+      "comments": 46,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.55,
+      "hashtags": [
+        "#dinner",
+        "#food",
+        "#momlife"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0GFjcDGpW/"
+    },
+    {
+      "author": "@chef.eiad.rafa",
+      "followers": 0,
+      "caption": "\u0627\u0644\u0645\u0642\u0627\u062f\u064a\u0631 \n\u0664 \u062d\u0628\u0627\u062a \u062c\u0632\u0631 \ud83e\udd55 \n\u0664 \u062d\u0628\u0627\u062a \u062e\u064a\u0627\u0631 \ud83e\udd52 \n\u0643\u0648\u0628 \u0630\u0631\u0629 \ud83c\udf3d \n\u0664\u0660\u0660 \u063a\u0631\u0627\u0645 \u0627\u0635\u0627\u0628\u0639 \u0643\u0631\u0627\u0628 \ud83e\udd80 \n\u0645\u0644\u0639\u0642\u0629 \u0633\u0645\u0633\u0645 \u0627\u0633\u0648\u062f \n\u0627\u0644\u0635\u0648\u0635 \n\u0646\u0635\u0641 \u0643\u0648\u0628 \u0645\u0627\u064a\u0648\u0646\u064a\u0632 \u0643\u0648\u0643\u0633\n\u0646\u0635\u0641 \u0643\u0648\u0628 \u0633\u0648\u064a\u062a \u062a\u0634\u064a\u0644\u064a \u0635\u0648\u0635\n\u0631\u0634\u0629 \u0645\u0644\u062d \n\u0645\u0644\u0639\u0642\u0629 \u0635\u0648\u064a\u0627 \u0635\u0648\u0635 \u060c\u0627\u0648 \u0645\u0644\u0639\u0642\u062a\u064a\u0646 \u0641\u064a \u062d\u0627\u0644 \u0627\u0644\u063a\u064a\u0646\u0627 \u0627\u0644\u0645\u0644\u062d \n#\u0633",
+      "views": 0,
+      "likes": 1295,
+      "comments": 148,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 111.43,
+      "hashtags": [
+        "#\u0633\u0644\u0637\u0629",
+        "#\u0648\u0635\u0641\u0627\u062a",
+        "#\u0627\u064a\u0627\u062f_\u0631\u0627\u0641\u0639",
+        "#food"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1ArpfCKDw/"
+    },
+    {
+      "author": "@vinivision_",
+      "followers": 0,
+      "caption": "Vai segurando esse risoto de alho por\u00f3 com salm\u00e3o grelhado, absurdo!! Salva e faz, depois me agradece kkkkkk \ud83d\udd25\ud83e\udee1 \n\n#receitas #risoto #salm\u00e3o #cooking #couple",
+      "views": 0,
+      "likes": 1287,
+      "comments": 12,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.93,
+      "hashtags": [
+        "#receitas",
+        "#risoto",
+        "#salm\u00e3o",
+        "#cooking",
+        "#couple"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DWz29fIjHKh/"
+    },
+    {
+      "author": "@beninthemix",
+      "followers": 0,
+      "caption": "Right here we goooooooo\n\nFancied a proper old school Italian and that what @giardinospizzeria brings, good food cooked properly. Had a lovely meal I there! Can't wait to go back! \n\n#fyp #london #food ",
+      "views": 0,
+      "likes": 1285,
+      "comments": 118,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 109.18,
+      "hashtags": [
+        "#fyp",
+        "#london",
+        "#food",
+        "#foodie",
+        "#italian"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0-dNijVkN/"
+    },
+    {
+      "author": "@amarulacore",
+      "followers": 0,
+      "caption": "big back activities supported by heaven #prophecy #christianity #satire #family #food",
+      "views": 0,
+      "likes": 1221,
+      "comments": 96,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 107.86,
+      "hashtags": [
+        "#prophecy",
+        "#christianity",
+        "#satire",
+        "#family",
+        "#food"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzjdY_jXrD/"
+    },
+    {
+      "author": "@nithapimolsri",
+      "followers": 0,
+      "caption": "\u0e44\u0e21\u0e48\u0e40\u0e19\u0e49\u0e19\u0e2d\u0e32\u0e1a\u0e19\u0e49\u0e33 \u0e40\u0e19\u0e49\u0e19\u0e1b\u0e32\u0e01\u0e2b\u0e2d\u0e21\ud83d\ude06 #food #foodstagram #foodie #foodlover #reels",
+      "views": 0,
+      "likes": 1218,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.25,
+      "hashtags": [
+        "#food",
+        "#foodstagram",
+        "#foodie",
+        "#foodlover",
+        "#reels"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1HuTtj_w2/"
+    },
+    {
+      "author": "@nithapimolsri",
+      "followers": 0,
+      "caption": "\u0e44\u0e21\u0e48\u0e40\u0e19\u0e49\u0e19\u0e2d\u0e32\u0e1a\u0e19\u0e49\u0e33 \u0e40\u0e19\u0e49\u0e19\u0e1b\u0e32\u0e01\u0e2b\u0e2d\u0e21\ud83d\ude06 #food #foodstagram #foodie #foodlover #reels",
+      "views": 0,
+      "likes": 1218,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.25,
+      "hashtags": [
+        "#food",
+        "#foodstagram",
+        "#foodie",
+        "#foodlover",
+        "#reels"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1HuTtj_w2/"
+    },
+    {
+      "author": "@lolacabeller_",
+      "followers": 0,
+      "caption": "pronta recuperaci\u00f3n para mi  #madrid #argentina #madridespa\u00f1a #comida #food",
+      "views": 0,
+      "likes": 1128,
+      "comments": 83,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 107.36,
+      "hashtags": [
+        "#madrid",
+        "#argentina",
+        "#madridespa\u00f1a",
+        "#comida",
+        "#food"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWy1hWwjYST/"
+    },
+    {
+      "author": "@farmtablewest",
+      "followers": 0,
+      "caption": "You don't need 100 Acres to make money farming. \n\nYou need a system to keep you consistent week in and week out. \n\nEach one of the 50 by 2.5 foot beds on my farm earn $800-$2000 a year depending on wh",
+      "views": 0,
+      "likes": 1123,
+      "comments": 474,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 142.21,
+      "hashtags": [
+        "#Farming",
+        "#Backyard",
+        "#Land",
+        "#Income",
+        "#Food"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzpYUuDoNL/"
+    },
+    {
+      "author": "@cyberperez",
+      "followers": 0,
+      "caption": "Opo kya! niluto ko na rin paborito nya \ud83d\ude13\n\n#food #fyp\u30b7\u2764\ufe0f\ud83d\udc9e\u2764\ufe0f #vlog #igers #foodie",
+      "views": 0,
+      "likes": 1119,
+      "comments": 7,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.63,
+      "hashtags": [
+        "#food",
+        "#fyp\u30b7\u2764\ufe0f\ud83d\udc9e\u2764\ufe0f",
+        "#vlog",
+        "#igers",
+        "#foodie"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW00F3gEgKM/"
+    },
+    {
+      "author": "@maybach_food_03",
+      "followers": 0,
+      "caption": "#laghouat #laghouat03 #food #pizzeria",
+      "views": 0,
+      "likes": 1078,
+      "comments": 23,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.13,
+      "hashtags": [
+        "#laghouat",
+        "#laghouat03",
+        "#food",
+        "#pizzeria"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyzR-XDMk6/"
+    },
+    {
+      "author": "@northeasttripuracooking",
+      "followers": 0,
+      "caption": "\ud83c\udf57#japanturningelectricityintofootsteps\ud83c\uddef\ud83c\uddf5 #fyp\u30b7\u2764\ufe0f\ud83d\udc9e\u2764\ufe0ff4frs4likeforlikeforfollow4likeforlikesback44likes4me4lramahhits #cooking #food",
+      "views": 0,
+      "likes": 1061,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.19,
+      "hashtags": [
+        "#japanturningelectricityintofootsteps\ud83c\uddef\ud83c\uddf5",
+        "#fyp\u30b7\u2764\ufe0f\ud83d\udc9e\u2764\ufe0ff4frs4likeforlikeforfollow4likeforlikesback44likes4me4lramahhits",
+        "#cooking",
+        "#food"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWxqMdCk407/"
+    },
+    {
+      "author": "@soboujaee",
+      "followers": 0,
+      "caption": "I love cooking\u2026 especially for the people I love \ud83e\udef6\ud83c\udffe\n\nMy bestfriend literally comes to my house with food for me to cook & act like it\u2019s the best meal in the world \ud83d\ude02\ud83d\ude0c\n\nDo yall cook for yall best friend",
+      "views": 0,
+      "likes": 1060,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.19,
+      "hashtags": [
+        "#cooking",
+        "#reelsinstagram",
+        "#explore",
+        "#easymeals",
+        "#breakfastinspo"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzOPKNEdxp/"
+    },
+    {
+      "author": "@kleankweensllc_",
+      "followers": 0,
+      "caption": "Who agree? #explorepage\u2728 #cooking",
+      "views": 0,
+      "likes": 1043,
+      "comments": 49,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.7,
+      "hashtags": [
+        "#explorepage\u2728",
+        "#cooking"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzlGNrj2n5/"
+    },
+    {
+      "author": "@michaeljsaab",
+      "followers": 0,
+      "caption": "My top 3 sandwiches from the first quarter of 2026\ud83e\udd13\n\n\ud83e\udd49Steak Brie and Caramelized Onions Sandwich\n\ud83e\udd48Creamy Mushroom Cheese Steak Sandwich\n\ud83e\udd47 The Surf N Turf Sandwich\n\n#steak #sandwich #cooking #kitchen #",
+      "views": 0,
+      "likes": 1035,
+      "comments": 42,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.06,
+      "hashtags": [
+        "#steak",
+        "#sandwich",
+        "#cooking",
+        "#kitchen",
+        "#dog"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWy-MqkDH1u/"
+    },
+    {
+      "author": "@cookingwithjoya",
+      "followers": 0,
+      "caption": "Turning Nuts into Meat\n\n#choppedcheese #sandwich #recipe #cooking #chefjoya",
+      "views": 0,
+      "likes": 1031,
+      "comments": 35,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.39,
+      "hashtags": [
+        "#choppedcheese",
+        "#sandwich",
+        "#recipe",
+        "#cooking",
+        "#chefjoya"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzODO3k0WT/"
+    },
+    {
+      "author": "@we4vlogs_offical",
+      "followers": 0,
+      "caption": "Welcome to we4vlog \ud83e\udd19\n\nFusk-it\u2764\ufe0f 2nd branch opening  bangalore near kammanahalli \n\n#fuskitbangalore#fuskit#foodmenu#foodie #foodlovers",
+      "views": 0,
+      "likes": 1023,
+      "comments": 6,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.59,
+      "hashtags": [
+        "#fuskitbangalore",
+        "#fuskit",
+        "#foodmenu",
+        "#foodie",
+        "#foodlovers"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwJHXmjf8E/"
+    },
+    {
+      "author": "@sarahkrafft",
+      "followers": 0,
+      "caption": "Come shopping with me #shopping #easter #deals #foodie #walmart",
+      "views": 0,
+      "likes": 983,
+      "comments": 13,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.32,
+      "hashtags": [
+        "#shopping",
+        "#easter",
+        "#deals",
+        "#foodie",
+        "#walmart"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWznHmaEY9-/"
+    },
+    {
+      "author": "@jianzhou___",
+      "followers": 0,
+      "caption": "Oggi vi mostro le nostre proposte per voi vegani\n\ud83c\udf31 \n\nPerfetti da condividere e da mangiare con le nostre bacchette di bamboo\ud83e\udd62\n\n\ud83d\udccdTi aspetto al Jia a Treviglio (BG)\n#cucinaorientale #ristorantibergamo #",
+      "views": 0,
+      "likes": 974,
+      "comments": 29,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.98,
+      "hashtags": [
+        "#cucinaorientale",
+        "#ristorantibergamo",
+        "#cibocinese",
+        "#food",
+        "#bergamo"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW05R1rCqPo/"
+    },
+    {
+      "author": "@sangita._.kitchen",
+      "followers": 0,
+      "caption": "\ud83c\udf7d\ufe0f\n.\n.\n#cooking #virel #content #virelvideo #reels",
+      "views": 0,
+      "likes": 928,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.97,
+      "hashtags": [
+        "#cooking",
+        "#virel",
+        "#content",
+        "#virelvideo",
+        "#reels"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwfINPiLPP/"
+    },
+    {
+      "author": "@daddyjai09",
+      "followers": 0,
+      "caption": "Have yall ever tried Agua de Horchata con platano? Literally it came out really good and I\u2019m going to have to make this one more often! #aguafresca #cooking #recipe #mexicanfood #dad",
+      "views": 0,
+      "likes": 925,
+      "comments": 25,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.7,
+      "hashtags": [
+        "#aguafresca",
+        "#cooking",
+        "#recipe",
+        "#mexicanfood",
+        "#dad"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzt-uJAUZ9/"
+    },
+    {
+      "author": "@_cophumor_",
+      "followers": 0,
+      "caption": "He Called The Police\u2026 But This Mom Changed Everything \ud83e\udd79 \u2764\ufe0f\n\n\ud83c\udfa5: @musa_usa1981 \n#CopHumor #Police #Food #Mom #Reels",
+      "views": 0,
+      "likes": 917,
+      "comments": 16,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.74,
+      "hashtags": [
+        "#CopHumor",
+        "#Police",
+        "#Food",
+        "#Mom",
+        "#Reels"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzgfN_ETvL/"
+    },
+    {
+      "author": "@eatwithperris",
+      "followers": 0,
+      "caption": "S/o Lincoln and @dtpizzatruck on their new business! Love the concept the vision and mindset of this young man! Inspiring 2 anyone chasing a dream! GO SUPPORT! \ud83c\udf55\ud83d\udd25 \n\nPAPI RATED \u2705\n\nWhich slice interest ",
+      "views": 0,
+      "likes": 890,
+      "comments": 23,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.58,
+      "hashtags": [],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwev39k4rY/"
+    },
+    {
+      "author": "@_mr.bhuvanesh",
+      "followers": 0,
+      "caption": "Cooking time...\ud83d\ude0b\ud83d\ude1c\n\n#telugu #indianfood #trendy #cooking #alluarjun",
+      "views": 0,
+      "likes": 884,
+      "comments": 12,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.36,
+      "hashtags": [
+        "#telugu",
+        "#indianfood",
+        "#trendy",
+        "#cooking",
+        "#alluarjun"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWy2WFWiQkf/"
+    },
+    {
+      "author": "@kicha_krishna_",
+      "followers": 0,
+      "caption": "Aracha masala-la poricha chicken \ud83d\udd25\nEvery bite full of spice, soul & tradition \ud83d\ude0d\ud83c\udf57\nThis is not just chicken\u2026 this is emotion \u2764\ufe0f\n\nFollow the video instructions for the perfect one \n\n#malaysia #fyp #recip",
+      "views": 0,
+      "likes": 884,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.45,
+      "hashtags": [
+        "#malaysia",
+        "#fyp",
+        "#recipe",
+        "#food",
+        "#viral"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0-DO3Ew34/"
+    },
+    {
+      "author": "@mylesomar",
+      "followers": 0,
+      "caption": "Been wanting to have a Irn Bru Chicken Pakora for a while! \n\n#foodie #cooking #mylesomar #comedy #fyp",
+      "views": 0,
+      "likes": 881,
+      "comments": 54,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 106.13,
+      "hashtags": [
+        "#foodie",
+        "#cooking",
+        "#mylesomar",
+        "#comedy",
+        "#fyp"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwfo0pArrF/"
+    },
+    {
+      "author": "@mylesomar",
+      "followers": 0,
+      "caption": "Been wanting to have a Irn Bru Chicken Pakora for a while! \n\n#foodie #cooking #mylesomar #comedy #fyp",
+      "views": 0,
+      "likes": 881,
+      "comments": 54,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 106.13,
+      "hashtags": [
+        "#foodie",
+        "#cooking",
+        "#mylesomar",
+        "#comedy",
+        "#fyp"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwfo0pArrF/"
+    },
+    {
+      "author": "@mulanoir",
+      "followers": 0,
+      "caption": "Restaurant @junglebamako \ud83e\udd29\ud83d\ude4f\ud83c\udffe\ud83c\uddf2\ud83c\uddf1 Incroyable #food#malijolieden\ud83c\uddf2\ud83c\uddf1#mulanoir#mali#bamako",
+      "views": 0,
+      "likes": 874,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.03,
+      "hashtags": [
+        "#food",
+        "#malijolieden\ud83c\uddf2\ud83c\uddf1",
+        "#mulanoir",
+        "#mali",
+        "#bamako"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW08mh7Derh/"
+    },
+    {
+      "author": "@simlewis__",
+      "followers": 0,
+      "caption": "A little @marksandspencerfood x @asda crossover dinner haul today. \n\n#explore #marksandspencer #fyp #tiktok #food",
+      "views": 0,
+      "likes": 874,
+      "comments": 27,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.09,
+      "hashtags": [
+        "#explore",
+        "#marksandspencer",
+        "#fyp",
+        "#tiktok",
+        "#food"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzXB3pDiG8/"
+    },
+    {
+      "author": "@simlewis__",
+      "followers": 0,
+      "caption": "This one made so much sense! \n\n#explore #food #fyp #tiktok #reels",
+      "views": 0,
+      "likes": 856,
+      "comments": 41,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.79,
+      "hashtags": [
+        "#explore",
+        "#food",
+        "#fyp",
+        "#tiktok",
+        "#reels"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0cqnaiJyZ/"
+    },
+    {
+      "author": "@sarahchuhdaryofficial",
+      "followers": 0,
+      "caption": "Ask no more \ud83e\udd2d\ud83e\udd2d\ud83c\udf38\ud83c\udf38\nLocation : @chutneychowkpk\nVideo made by : @anza_chaudhary97\n#sara #niqabi #hijab #food #yummy",
+      "views": 0,
+      "likes": 855,
+      "comments": 105,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 112.28,
+      "hashtags": [
+        "#sara",
+        "#niqabi",
+        "#hijab",
+        "#food",
+        "#yummy"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1TFUWApTb/"
+    },
+    {
+      "author": "@amnirashidi",
+      "followers": 0,
+      "caption": "Another Day Another Menu Raya\ud83c\udf19\nBerkebaya laa kiterrr masak menu raya. Orang nak mai beraya. Nasi ayam onzzz\ud83d\ude1c \n\n#cooking #menuraya #nasiayam #raya2026",
+      "views": 0,
+      "likes": 838,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.07,
+      "hashtags": [
+        "#cooking",
+        "#menuraya",
+        "#nasiayam",
+        "#raya2026"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWu1gDqyRzl/"
+    },
+    {
+      "author": "@enfarkli_mutfak",
+      "followers": 0,
+      "caption": "Nefisss \ud83d\udc4c\ud83c\udffbellerinize sa\u011fl\u0131k \ud83d\udc49\ud83c\udffb @sukrankaymak\n\u2022\nTek dilim yetmez kaydetmeyi unutmay\u0131n canlar\u0131m\ud83d\udc97\nKardelen pasta\nKeki i\u00e7in;\n4 adet yumurta\n1 \u00e7ay barda\u011f\u0131 toz \u015feker\n1 paket vanilya\n1 paket kabartma tozu\n1 ",
+      "views": 0,
+      "likes": 820,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.61,
+      "hashtags": [
+        "#food"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzKrvuCO6R/"
+    },
+    {
+      "author": "@melika_zaidi",
+      "followers": 0,
+      "caption": "The last Easter egg review w @josie_birch \n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#easteregg #easter #eastereggs #easterbunny #happyeaster #easterdecor #eastersunday #bunny #easterbasket #easteregghunt #chocolate #han",
+      "views": 0,
+      "likes": 816,
+      "comments": 20,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.45,
+      "hashtags": [
+        "#easteregg",
+        "#easter",
+        "#eastereggs",
+        "#easterbunny",
+        "#happyeaster",
+        "#easterdecor",
+        "#eastersunday",
+        "#bunny"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWy1vBeDV-6/"
+    },
+    {
+      "author": "@joegurtcooks",
+      "followers": 0,
+      "caption": "a hefty tiramisu edit \ud83d\udc40\n.\nI made the Lady fingers from scratch, but store bought is completely fine. The eggs aren't cooked so make sure to use pasteurized eggs!\n\nIngredients:\nLady fingers:\n- 3 room t",
+      "views": 0,
+      "likes": 801,
+      "comments": 18,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.25,
+      "hashtags": [
+        "#tiramisu",
+        "#edit",
+        "#cooking"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzXMurEuI1/"
+    },
+    {
+      "author": "@beardohweirdoh",
+      "followers": 0,
+      "caption": "BeardOh on a Budget - Mozzarella Stick Pizza Fingers! @pillsbury @pillsburycanada @hidden.valley #fyp #food #pizza #mozzarella #mozzarellasticks",
+      "views": 0,
+      "likes": 801,
+      "comments": 21,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.62,
+      "hashtags": [
+        "#fyp",
+        "#food",
+        "#pizza",
+        "#mozzarella",
+        "#mozzarellasticks"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DWz-7XlEeuh/"
+    },
+    {
+      "author": "@lewisofsunningdale",
+      "followers": 0,
+      "caption": "Fabulous Fore Rib of Beef \ud83e\udd69\n\n#berkshire #butcher #meat #beef #food",
+      "views": 0,
+      "likes": 798,
+      "comments": 22,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.76,
+      "hashtags": [
+        "#berkshire",
+        "#butcher",
+        "#meat",
+        "#beef",
+        "#food"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1sCkDgEV0/"
+    },
+    {
+      "author": "@magnifgoeshard",
+      "followers": 0,
+      "caption": "Mannnnn SUNDAY BRUNCH AINT NEVER GONNA BE THE SAME!!! @thetipsybullsb don\u2019t owe me a mf thang!!! If you love catching a vibe for brunch, you gon eat this one right up. The DJ gonna get you lit and the",
+      "views": 0,
+      "likes": 786,
+      "comments": 135,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 117.18,
+      "hashtags": [
+        "#food",
+        "#durham",
+        "#northcarolina"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyn29zgGBL/"
+    },
+    {
+      "author": "@rupapreethachristina",
+      "followers": 0,
+      "caption": "This weeks menu plan \ud83e\udd57\ud83e\udd59\ud83c\udf2e.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#reel #trending #tamilnadu #instagram #kerala #bahrain #trendingsong\u2764\ufe0f #menuplanning #menu #menudiet #productivity #organised #lifestyle #tamil #reelitf",
+      "views": 0,
+      "likes": 785,
+      "comments": 148,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 118.85,
+      "hashtags": [
+        "#reel",
+        "#trending",
+        "#tamilnadu",
+        "#instagram",
+        "#kerala",
+        "#bahrain",
+        "#trendingsong\u2764\ufe0f",
+        "#menuplanning"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWy0iLFDNy4/"
+    },
+    {
+      "author": "@chatpati_.kitchen",
+      "followers": 0,
+      "caption": "\ud83e\udd23\ud83d\ude2c\ud83e\udd23 #cooking #kitchen #funny #reach #fyp",
+      "views": 0,
+      "likes": 778,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.16,
+      "hashtags": [
+        "#cooking",
+        "#kitchen",
+        "#funny",
+        "#reach",
+        "#fyp"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWypqKek87d/"
+    },
+    {
+      "author": "@katy_culver",
+      "followers": 0,
+      "caption": "Before running to the grocery store, let\u2019s use what we have. \n.\n.\n.\n#baking #cooking #madefromscratch #homemade #homemadefood #ingredientsonly #homemaker #homestead #simpleliving #foodpreservation #va",
+      "views": 0,
+      "likes": 776,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.03,
+      "hashtags": [
+        "#baking",
+        "#cooking",
+        "#madefromscratch",
+        "#homemade",
+        "#homemadefood",
+        "#ingredientsonly",
+        "#homemaker",
+        "#homestead"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWxXSqxDblO/"
+    },
+    {
+      "author": "@black.ledy13",
+      "followers": 0,
+      "caption": "\u041d\u0430\u0433\u043e\u0442\u043e\u0432\u0438\u043b\u0430 \u2764\ufe0f\n\n#natalupopova #food #foryou #foodporn #family",
+      "views": 0,
+      "likes": 749,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.2,
+      "hashtags": [
+        "#natalupopova",
+        "#food",
+        "#foryou",
+        "#foodporn",
+        "#family"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0EtiuiKCw/"
+    },
+    {
+      "author": "@wildflamechef",
+      "followers": 0,
+      "caption": "Moment din Chefi la Cu\u021bite \ud83d\udd25\nNu e chiar cum pare \ud83d\udc40\nVezi c\u00e2te cu\u021bite am luat pe YouTube \ud83d\udc47\nlink \u00een bio\n#wildflamechef #cheflacutite #food #tvshow #romania",
+      "views": 0,
+      "likes": 745,
+      "comments": 6,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.81,
+      "hashtags": [
+        "#wildflamechef",
+        "#cheflacutite",
+        "#food",
+        "#tvshow",
+        "#romania"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW03RS9jE_J/"
+    },
+    {
+      "author": "@t0paa",
+      "followers": 0,
+      "caption": "Calientito y rico, si se te antoj\u00f3 d\u00e9jame en los comentarios un coraz\u00f3n \ud83d\ude0d #food #love #home",
+      "views": 0,
+      "likes": 743,
+      "comments": 31,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.17,
+      "hashtags": [
+        "#food",
+        "#love",
+        "#home"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0X-7FDSn5/"
+    },
+    {
+      "author": "@kokani_santu03",
+      "followers": 0,
+      "caption": "Location\ud83d\udc47\ud83c\udffb\nCrunchy Bites \ud83c\udf2e\nBhaji Mandai-Mahad\ud83d\udccd\n.\n.\n@kokani_santu03 \ud83c\udfa5\n.\n#trendingreels #explorepage #instagram #viral #explore #mahad#crunchy #food#foodie #bites #mahad #foodblogger #foodlover #pizza",
+      "views": 0,
+      "likes": 708,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.28,
+      "hashtags": [
+        "#trendingreels",
+        "#explorepage",
+        "#instagram",
+        "#viral",
+        "#explore",
+        "#mahad",
+        "#crunchy",
+        "#food"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0sNGZiFvK/"
+    },
+    {
+      "author": "@soydanyzuco",
+      "followers": 0,
+      "caption": "Desmintiendo Monumental Burger sin sabor. Las burgers en CDMX que son virales. La carne no tiene sabor, el pan todo aplastado. Las papas regulares, buena textura. Precio promedio\n\n#food #foodie #burge",
+      "views": 0,
+      "likes": 703,
+      "comments": 6,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.85,
+      "hashtags": [
+        "#food",
+        "#foodie",
+        "#burger",
+        "#bacon",
+        "#mexico"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DWz77oojFEJ/"
+    },
+    {
+      "author": "@soulofjamaica",
+      "followers": 0,
+      "caption": "\ud83c\uddef\ud83c\uddf2Lee's Must Sees\ud83c\uddef\ud83c\uddf2 \"New Find\" edition. YO! Make your next chicken your BEST chicken! From hotel work to her own kitchen, Janelle @v_1126jerk is doing it right! Fantastic \ud83d\udc14, amazing sauce, sweet energ",
+      "views": 0,
+      "likes": 690,
+      "comments": 18,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.61,
+      "hashtags": [
+        "#food",
+        "#love",
+        "#travel",
+        "#reelsvideo",
+        "#share"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1YoU9keKn/"
+    },
+    {
+      "author": "@cootesyy",
+      "followers": 0,
+      "caption": "\ud83d\udccdLukey Ds, Newcastle NSW \n\n- Hot honey pepperoni \ud83c\udf55 \n- Buff Norris \ud83c\udf55 \n\nthis is detroit style pizza is on a whole nother level \ud83d\udd25\n\n#fyp #food #foodie #viral #mukbang",
+      "views": 0,
+      "likes": 684,
+      "comments": 29,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.24,
+      "hashtags": [
+        "#fyp",
+        "#food",
+        "#foodie",
+        "#viral",
+        "#mukbang"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0d_tnEuIN/"
+    },
+    {
+      "author": "@cootesyy",
+      "followers": 0,
+      "caption": "\ud83d\udccdLukey Ds, Newcastle NSW \n\n- Hot honey pepperoni \ud83c\udf55 \n- Buff Norris \ud83c\udf55 \n\nthis is detroit style pizza is on a whole nother level \ud83d\udd25\n\n#fyp #food #foodie #viral #mukbang",
+      "views": 0,
+      "likes": 684,
+      "comments": 29,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.24,
+      "hashtags": [
+        "#fyp",
+        "#food",
+        "#foodie",
+        "#viral",
+        "#mukbang"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0d_tnEuIN/"
+    },
+    {
+      "author": "@iby_garibi",
+      "followers": 0,
+      "caption": "Un coco con matcha pal calor\ud83e\udd65\ud83c\udf75 \n\n#matcha #matchalove #foodie #drink #fyp\u30b7",
+      "views": 0,
+      "likes": 663,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.36,
+      "hashtags": [
+        "#matcha",
+        "#matchalove",
+        "#foodie",
+        "#drink",
+        "#fyp\u30b7"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0D-wODVaW/"
+    },
+    {
+      "author": "@shanicy_x3",
+      "followers": 0,
+      "caption": "Kennt ihr schon den Fr\u00fchst\u00fccksbrunch bei @makiandtea_restaurant? \ud83d\udc93 der findet jeden Tag von 09:00 - 12:30 Uhr in Oberhausen statt und bietet eine riesige Auswahl an diversen Speisen, sowohl klassische",
+      "views": 0,
+      "likes": 663,
+      "comments": 22,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.32,
+      "hashtags": [
+        "#makiandtea",
+        "#oberhausen",
+        "#brunch",
+        "#nrwfoodspots",
+        "#foodie"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1K1X_Dawd/"
+    },
+    {
+      "author": "@yeboah_agyekum",
+      "followers": 0,
+      "caption": "Happy weekend \u2026\n\n#weekendvibes\n#foodie\n#foodlover\n#foryoupage\u30b7\n#ghana",
+      "views": 0,
+      "likes": 639,
+      "comments": 19,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.97,
+      "hashtags": [
+        "#weekendvibes",
+        "#foodie",
+        "#foodlover",
+        "#foryoupage\u30b7",
+        "#ghana"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWw62SxANik/"
+    },
+    {
+      "author": "@aloochat_foods",
+      "followers": 0,
+      "caption": "#food #aluchips\ud83e\udd54 #potatochips #rawpotatochips",
+      "views": 0,
+      "likes": 633,
+      "comments": 25,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.95,
+      "hashtags": [
+        "#food",
+        "#aluchips\ud83e\udd54",
+        "#potatochips",
+        "#rawpotatochips"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWy-Ps1DKNU/"
+    },
+    {
+      "author": "@cesar_0792",
+      "followers": 0,
+      "caption": "Yo s\u00e9 que t\u00fa quer\u00eda un chin!\n\nCazuela de mariscos en crema de coco y tostones!\n\ud83d\udd25\ud83d\udd25\ud83c\udde9\ud83c\uddf4\ud83c\udde9\ud83c\uddf4\n\nEso con una fr\u00eda es que baja bien!\nTu chef favorito!\n#chef #food #foodie #dominicanfood #meninthekitchen",
+      "views": 0,
+      "likes": 615,
+      "comments": 12,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.95,
+      "hashtags": [
+        "#chef",
+        "#food",
+        "#foodie",
+        "#dominicanfood",
+        "#meninthekitchen"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzhkj9kbSj/"
+    },
+    {
+      "author": "@cesar_0792",
+      "followers": 0,
+      "caption": "Yo s\u00e9 que t\u00fa quer\u00eda un chin!\n\nCazuela de mariscos en crema de coco y tostones!\n\ud83d\udd25\ud83d\udd25\ud83c\udde9\ud83c\uddf4\ud83c\udde9\ud83c\uddf4\n\nEso con una fr\u00eda es que baja bien!\nTu chef favorito!\n#chef #food #foodie #dominicanfood #meninthekitchen",
+      "views": 0,
+      "likes": 615,
+      "comments": 12,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.95,
+      "hashtags": [
+        "#chef",
+        "#food",
+        "#foodie",
+        "#dominicanfood",
+        "#meninthekitchen"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzhkj9kbSj/"
+    },
+    {
+      "author": "@thefittestrealtor_",
+      "followers": 0,
+      "caption": "Crumbl Cookies \ud83c\udf6a #cookies #foodie #mukbang #asmr #fyp",
+      "views": 0,
+      "likes": 614,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.33,
+      "hashtags": [
+        "#cookies",
+        "#foodie",
+        "#mukbang",
+        "#asmr",
+        "#fyp"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0C0AUjvxY/"
+    },
+    {
+      "author": "@son_ofacook",
+      "followers": 0,
+      "caption": "This is the FRESHEST salad ever!!\n\nDelicious Beet salad Recipe : \n\nPreheat your oven to 400 f roast setting \nGrab a sheet pan and place rock salt underneath 6 medium sized beets. \nRoast for 1 - 1 1/2 ",
+      "views": 0,
+      "likes": 610,
+      "comments": 24,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.93,
+      "hashtags": [
+        "#privatechef",
+        "#vegetable",
+        "#recipe",
+        "#beets",
+        "#foodie",
+        "#cooking",
+        "#cheflife",
+        "#foodporn"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWxWIuUicA4/"
+    },
+    {
+      "author": "@themindspecialist365",
+      "followers": 0,
+      "caption": "#Food  #themindspecialist365 #thegoatoftherapy #superhuman #easterweekend",
+      "views": 0,
+      "likes": 593,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#Food",
+        "#themindspecialist365",
+        "#thegoatoftherapy",
+        "#superhuman",
+        "#easterweekend"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWy64jagly1/"
+    },
+    {
+      "author": "@jayla.sherell",
+      "followers": 0,
+      "caption": "Do We Want The Recipe Sistas? \ud83e\udd29\ud83d\udc40\n#jaylasherell #explore #reels #foodie #cooking",
+      "views": 0,
+      "likes": 581,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.38,
+      "hashtags": [
+        "#jaylasherell",
+        "#explore",
+        "#reels",
+        "#foodie",
+        "#cooking"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzPAm5k1KU/"
+    },
+    {
+      "author": "@jayla.sherell",
+      "followers": 0,
+      "caption": "Do We Want The Recipe Sistas? \ud83e\udd29\ud83d\udc40\n#jaylasherell #explore #reels #foodie #cooking",
+      "views": 0,
+      "likes": 581,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.38,
+      "hashtags": [
+        "#jaylasherell",
+        "#explore",
+        "#reels",
+        "#foodie",
+        "#cooking"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzPAm5k1KU/"
+    },
+    {
+      "author": "@heelsandroses",
+      "followers": 0,
+      "caption": "En @benditakatalina vas a disfrutar sabores que enamoran. Donde cada bocado es una excusa perfecta para volver. \u2728\n\n\ud83d\udcccCasa Club de A\u00f1oreta Golf, Rinc\u00f3n de la Victoria \n\n#food #foodie #malaga",
+      "views": 0,
+      "likes": 580,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.38,
+      "hashtags": [
+        "#food",
+        "#foodie",
+        "#malaga"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1WkfdCMS0/"
+    },
+    {
+      "author": "@hendryrh",
+      "followers": 0,
+      "caption": "AYAM POP \ud83c\udf57 \ud83d\udca5 \ud83c\uddee\ud83c\udde9 \n-\nRecipe below \ud83d\udc47 \n-\nBAHAN:\n- 1 ekor ayam kampung\n- 8 siung bawang putih\n- 1 ruas jahe\n- 2-3 buah kemiri\n- 3 batang sereh\n- 2 lembar daun salam\n- 6 lembar daun jeruk\n- air kelapa secuk",
+      "views": 0,
+      "likes": 578,
+      "comments": 12,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.08,
+      "hashtags": [
+        "#reels",
+        "#cooking",
+        "#chef",
+        "#reelsinstagram",
+        "#resepmasakan"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW04Gfvkm83/"
+    },
+    {
+      "author": "@mary_assorgi",
+      "followers": 0,
+      "caption": "Ndunderi,gnocchi di ricotta,piatto della costiera Amalfitana.\n@squisito.it \n#maryassorgichef #food #ndunderi #ricettedellatradizione #minori",
+      "views": 0,
+      "likes": 577,
+      "comments": 10,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.73,
+      "hashtags": [
+        "#maryassorgichef",
+        "#food",
+        "#ndunderi",
+        "#ricettedellatradizione",
+        "#minori"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1uQjpDOP1/"
+    },
+    {
+      "author": "@_binsha_life_vlog_",
+      "followers": 0,
+      "caption": "\u0d0e\u0d28\u0d4d\u0d24\u0d3e \u0d12\u0d30\u0d41 \u0d38\u0d4d\u0d28\u0d47\u0d39\u0d02\ud83e\udd14\ud83d\ude25\ud83d\ude02 #comedyreels #cooking #instagood #trendingreels #instagram",
+      "views": 0,
+      "likes": 573,
+      "comments": 19,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.32,
+      "hashtags": [
+        "#comedyreels",
+        "#cooking",
+        "#instagood",
+        "#trendingreels",
+        "#instagram"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWwOtYPE_uF/"
+    },
+    {
+      "author": "@dr.sharmarobin",
+      "followers": 0,
+      "caption": "\u092c\u0921\u093c\u0947 \u0915\u092e\u093e\u0932 \u0915\u093e \u091c\u094c.. #drrobin #ayurved #food #doctor #remedy",
+      "views": 0,
+      "likes": 558,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.43,
+      "hashtags": [
+        "#drrobin",
+        "#ayurved",
+        "#food",
+        "#doctor",
+        "#remedy"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1jYMpDfsz/"
+    },
+    {
+      "author": "@instapapa_live",
+      "followers": 0,
+      "caption": "#\u0438\u043d\u0441\u0442\u0430\u043f\u0430\u043f\u0430 #reels #foodporn #foodlover #food",
+      "views": 0,
+      "likes": 550,
+      "comments": 52,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 109.45,
+      "hashtags": [
+        "#\u0438\u043d\u0441\u0442\u0430\u043f\u0430\u043f\u0430",
+        "#reels",
+        "#foodporn",
+        "#foodlover",
+        "#food"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1X14jDHlU/"
+    },
+    {
+      "author": "@simlewis__",
+      "followers": 0,
+      "caption": "A nice quick sesame chicken and rice!\n\n#cooking #lunch #explore #fyp #tiktok",
+      "views": 0,
+      "likes": 550,
+      "comments": 17,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.09,
+      "hashtags": [
+        "#cooking",
+        "#lunch",
+        "#explore",
+        "#fyp",
+        "#tiktok"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWyvG46CLI8/"
+    },
+    {
+      "author": "@mkay_gonzalez",
+      "followers": 0,
+      "caption": "Starting to feel like myself again \ud83d\ude4c\n\nSwitching to a low-fat diet because of my gallbladder issues wasn\u2019t easy at first, but it\u2019s been so worth it. I have more energy and overall just feel healthier a",
+      "views": 0,
+      "likes": 541,
+      "comments": 10,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.85,
+      "hashtags": [
+        "#gallstones",
+        "#lowfatdiet",
+        "#foodie",
+        "#healthymealoptions"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzUn-rgWhj/"
+    },
+    {
+      "author": "@tetuan4life",
+      "followers": 0,
+      "caption": "One of our favorite meal after a long day\ud83c\udf72\nThis bowl is super easy to make! All you need is salmon, cucumber, asparagus, rice, parsley, cilantro, garlic, honey, your favorite spices\u2026 and lots of love ",
+      "views": 0,
+      "likes": 539,
+      "comments": 20,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.71,
+      "hashtags": [
+        "#cooking",
+        "#EasyRecipes",
+        "#dinner",
+        "#salmon",
+        "#couplegoals"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1_2kKklds/"
+    },
+    {
+      "author": "@zoro14k",
+      "followers": 0,
+      "caption": "La Primera y \u00fanica Alcapurria de jam\u00f3n queso y \ud83e\udd5a en Todo PR \ud83c\uddf5\ud83c\uddf7 #zoro14k #explorerpage #llorenstorres #10pulgadas #food",
+      "views": 0,
+      "likes": 536,
+      "comments": 54,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 110.07,
+      "hashtags": [
+        "#zoro14k",
+        "#explorerpage",
+        "#llorenstorres",
+        "#10pulgadas",
+        "#food"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzmM__ARsq/"
+    },
+    {
+      "author": "@l1.abdullah",
+      "followers": 0,
+      "caption": "Try Lahsa!\n\n#foodie #instagood #food #foodstagram #reels",
+      "views": 0,
+      "likes": 534,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.69,
+      "hashtags": [
+        "#foodie",
+        "#instagood",
+        "#food",
+        "#foodstagram",
+        "#reels"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1PPQTCnAn/"
+    },
+    {
+      "author": "@dr.afia_abroad",
+      "followers": 0,
+      "caption": "[SAVE + SHARE] Have you visited any of these?\n\n\ud83d\udccdPhilly:\n1519\nSavu\nNew Era \nBookers\nToast Cafe \nHoneysuckle \nThe Saints\nSophusion\nStar Fusion\n48th St. Grille\nChateau Rouge\nBaken Bacon\nAkwabaa Tea Salon",
+      "views": 0,
+      "likes": 511,
+      "comments": 24,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.7,
+      "hashtags": [
+        "#blackownedbusinesses",
+        "#foodie",
+        "#phillyinfluencer",
+        "#travel"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWznXY0jsl_/"
+    },
+    {
+      "author": "@emilionavarro1",
+      "followers": 0,
+      "caption": "spend the day w me in the Central Valley \n#explore #centralvalley #food #party #fyp",
+      "views": 0,
+      "likes": 510,
+      "comments": 20,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.92,
+      "hashtags": [
+        "#explore",
+        "#centralvalley",
+        "#food",
+        "#party",
+        "#fyp"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW13iuzCVPw/"
+    },
+    {
+      "author": "@berry.moo56",
+      "followers": 0,
+      "caption": "\u0627\u062d\u0633\u0646 \u0648 \u0627\u0636\u0645\u0646 \u0637\u0631\u064a\u0642\u0647 \u0646\u062d\u0627\u0641\u0638 \u0628\u064a\u0647\u0627 \u0639\u0644\u064a \u0627\u0644\u0646\u0639\u0646\u0627\u0639 \u0641\u0631\u064a\u0634 20 \u064a\u0648\u0645 \ud83d\ude0b\u2763\ufe0f\u2763\ufe0f #reviews #review #berry_mooo #berry_moo #Chiefs #taste #fyp\u30b7\u309a #\u0627\u0643\u0644\u0627\u062a\u064a #foodie #foodgasm #\u0627\u0643\u0644\u0627\u062a #food52 #meatballs #\u0627\u0643\u0644 #shorts #foodtruck #fo",
+      "views": 0,
+      "likes": 509,
+      "comments": 17,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.34,
+      "hashtags": [
+        "#reviews",
+        "#review",
+        "#berry_mooo",
+        "#berry_moo",
+        "#Chiefs",
+        "#taste",
+        "#fyp\u30b7\u309a",
+        "#\u0627\u0643\u0644\u0627\u062a\u064a"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1v5RoAK0V/"
+    },
+    {
+      "author": "@luke_palladino",
+      "followers": 0,
+      "caption": "If you\u2019ve never had Passito di Pantelleria, this is where you start.\nToday we\u2019re opening a 2011 Ben Ry\u00e9 by Donnafugata - with age, it shows deeper notes of dried apricot, caramel, toasted almond, and ",
+      "views": 0,
+      "likes": 506,
+      "comments": 35,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 106.92,
+      "hashtags": [
+        "#chefluke",
+        "#onedishonewine",
+        "#wine",
+        "#cookwithlove",
+        "#italia",
+        "#winetasting",
+        "#vino",
+        "#italianwine"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzJP5-EiD3/"
+    },
+    {
+      "author": "@shalimortiz",
+      "followers": 0,
+      "caption": "s\u00edgueme para mas caos/comedia diario \ud83d\udc41\ufe0f\n#food #cocina #fyp #latin #comedia",
+      "views": 0,
+      "likes": 498,
+      "comments": 48,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 109.64,
+      "hashtags": [
+        "#food",
+        "#cocina",
+        "#fyp",
+        "#latin",
+        "#comedia"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzZ0EoAYHn/"
+    },
+    {
+      "author": "@the_noahnator",
+      "followers": 0,
+      "caption": "Stackable Pizza Bread Loaf #recipe #cheesepizza #cooking",
+      "views": 0,
+      "likes": 463,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.73,
+      "hashtags": [
+        "#recipe",
+        "#cheesepizza",
+        "#cooking"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1o6xECF1K/"
+    },
+    {
+      "author": "@variedadesnice",
+      "followers": 0,
+      "caption": "Aprende desde cero a elaborar tortas esponjosas, relleno y decoraci\u00f3n \ud83d\ude32 en nuestro taller presencial de Reposter\u00eda b\u00e1sica \ud83e\uddc1 en Maracay y Caracas \ud83c\uddfb\ud83c\uddea \n\n\ud83e\uddc1 Reposter\u00eda B\u00e1sica: (Duraci\u00f3n 1 d\u00eda)\nMaracay: S\u00e1b",
+      "views": 0,
+      "likes": 460,
+      "comments": 33,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 107.17,
+      "hashtags": [
+        "#quedateencasa",
+        "#fotodeldia",
+        "#foods",
+        "#food",
+        "#bread"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzxYzmjibR/"
+    },
+    {
+      "author": "@narpavi_honey",
+      "followers": 0,
+      "caption": "\u0baa\u0bbf\u0bb0\u0ba3\u0bcd\u0b9f\u0bc8 \u0ba4\u0bca\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bbe ? | To buy call.9487706061 | #trendingreel #honey #TAMIL #tirunelveli #viral #trending #food #honey #nellai #tamil #honey #organic #tips #agriculture #farming #f",
+      "views": 0,
+      "likes": 456,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.44,
+      "hashtags": [
+        "#trendingreel",
+        "#honey",
+        "#TAMIL",
+        "#tirunelveli",
+        "#viral",
+        "#trending",
+        "#food",
+        "#nellai"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1C81Wj-AG/"
+    },
+    {
+      "author": "@ertanozturan",
+      "followers": 0,
+      "caption": "Open Fire Mood \ud83c\udf3f\ud83d\udd25\ud83d\udd25\ud83d\udd25\n@maderaistanbul \n\n#foodblogger \n#foodies \n#foodgasm \n#cooking \n#bbq",
+      "views": 0,
+      "likes": 442,
+      "comments": 25,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 105.66,
+      "hashtags": [
+        "#foodblogger",
+        "#foodies",
+        "#foodgasm",
+        "#cooking",
+        "#bbq"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzdPxiCIPn/"
+    },
+    {
+      "author": "@eat.m3.raghid",
+      "followers": 0,
+      "caption": "\u0627\u0644\u0645\u062c\u0628\u0648\u0633 \u0645\u0627 \u0628\u064a\u0627\u0643\u0644 \u063a\u064a\u0631 \u0628\u0627\u0644\u0623\u064a\u062f \u0643\u0631\u0645\u0627\u0644 \u0646\u062e\u062a\u0635\u0631 \u0639\u0644\u0649 \u0628\u0639\u0636 \ud83d\ude06\ud83d\ude06\n\u0627\u0644\u0645\u0642\u0627\u062f\u064a\u0631 \u0647\u064a \u0644 \u0664 \u0643\u0627\u0633\u0627\u062a \u0631\u0632 \u0637\u0648\u064a\u0644 \n\u0632\u064a\u062a \u0646\u0628\u0627\u062a\u064a \u0646\u0632\u0644\u0648 \u0627\u0644\u0628\u0647\u0627\u0631\u0627\u062a\u0627\u0644\u0635\u062d\u064a\u062d\u0629 \u0648\u0631\u0642 \u063a\u0627\u0631\u060c \u0633\u062a\u0627\u0631 \u0627\u0646\u064a\u0633\u060c \u0641\u0644\u0641\u0644 \u062d\u0644\u0648\u060c \u0641\u0644\u0641\u0644 \u0627\u0633\u0648\u062f\u060c  \u0642\u0631\u0646\u0641\u0644 \u0645\u0645\u0643\u0646 \u0627\u0636\u0627\u0641\u0629 \u0627\u0644\u0644\u0648\u0645\u064a \u0648 \u0627\u0644\u0641\u0644\u0641\u0644 \u0627\u0644\u062d\u0627\u0631 (\u0627\u0646\u0627 \u0645",
+      "views": 0,
+      "likes": 432,
+      "comments": 56,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 112.96,
+      "hashtags": [
+        "#\u0637\u0628\u062e",
+        "#\u0644\u062d\u0645",
+        "#\u0648\u0635\u0641\u0627\u062a",
+        "#\u0627\u0643\u0644",
+        "#food"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0vj61gRap/"
+    },
+    {
+      "author": "@fernando.rigoni2784",
+      "followers": 0,
+      "caption": "Pudim #food #recipe #viral",
+      "views": 0,
+      "likes": 424,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.71,
+      "hashtags": [
+        "#food",
+        "#recipe",
+        "#viral"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1GzcOjuuA/"
+    },
+    {
+      "author": "@kaseyleecooke",
+      "followers": 0,
+      "caption": "MUSTARD & LEMON DRESSING ON A SALAD OF ENDIVE, TANGERINE, ALMONDS, AND HERBS \ud83c\udf3f \ud83e\udd57 \ud83c\udf4a\nSPRING SHOWED UP AND SAID \u201cI AM FEELING CRISP, JUICY, CRUNCHY\u201d. FEELING ITSELF. \nAND THIS DRESSING? PUT IT ON LITERAL",
+      "views": 0,
+      "likes": 414,
+      "comments": 14,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.38,
+      "hashtags": [
+        "#salad",
+        "#recipe",
+        "#dressing",
+        "#chef",
+        "#cooking"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzi21yEve4/"
+    },
+    {
+      "author": "@kaseyleecooke",
+      "followers": 0,
+      "caption": "MUSTARD & LEMON DRESSING ON A SALAD OF ENDIVE, TANGERINE, ALMONDS, AND HERBS \ud83c\udf3f \ud83e\udd57 \ud83c\udf4a\nSPRING SHOWED UP AND SAID \u201cI AM FEELING CRISP, JUICY, CRUNCHY\u201d. FEELING ITSELF. \nAND THIS DRESSING? PUT IT ON LITERAL",
+      "views": 0,
+      "likes": 414,
+      "comments": 14,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.38,
+      "hashtags": [
+        "#salad",
+        "#recipe",
+        "#dressing",
+        "#chef",
+        "#cooking"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzi21yEve4/"
+    },
+    {
+      "author": "@imperfectlydes",
+      "followers": 0,
+      "caption": "Can\u2019t even decide what my favorite is right now \u2014 shrimp ga pow or ramen gumbo \ud83d\ude29\ud83d\udd25 You could give me either on any given day and I\u2019m clearing the bowl!\n\nLet me know your favorite order from Thai NOLA R",
+      "views": 0,
+      "likes": 409,
+      "comments": 30,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 107.33,
+      "hashtags": [
+        "#nolaeats",
+        "#foodie",
+        "#neworleansfood",
+        "#localeats",
+        "#neworleans"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW00FYKjgmp/"
+    },
+    {
+      "author": "@the_masked_eater77",
+      "followers": 0,
+      "caption": "\u0643\u0631\u0633\u0628\u064a \u062a\u0634\u0643\u0646 \n\n#reels #viral #reels #food #foodie",
+      "views": 0,
+      "likes": 407,
+      "comments": 12,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.95,
+      "hashtags": [
+        "#reels",
+        "#viral",
+        "#food",
+        "#foodie"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1lMUVDG7m/"
+    },
+    {
+      "author": "@anasuazotips",
+      "followers": 0,
+      "caption": "\u00bfConoc\u00edas este lugar en Honduras? \n\n@plazatracoma un lugar que me sorprendi\u00f3 en Tegucigalpa. Absolutamente cada lugar en la plaza me encant\u00f3 \ud83d\udc4c\ud83c\udffb\ud83e\udd70\n\n#Honduras #Tegucigalpa #foodie #viajes #turismo",
+      "views": 0,
+      "likes": 406,
+      "comments": 47,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 111.58,
+      "hashtags": [
+        "#Honduras",
+        "#Tegucigalpa",
+        "#foodie",
+        "#viajes",
+        "#turismo"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DWz4Gs6DXdm/"
+    },
+    {
+      "author": "@momdavila29",
+      "followers": 0,
+      "caption": "#\ud83d\udc99 #frijoles #foodie #recipe #musttry",
+      "views": 0,
+      "likes": 399,
+      "comments": 12,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.01,
+      "hashtags": [
+        "#\ud83d\udc99",
+        "#frijoles",
+        "#foodie",
+        "#recipe",
+        "#musttry"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0F_hWDJ7C/"
+    },
+    {
+      "author": "@edwincasacorrea",
+      "followers": 0,
+      "caption": "RECETA COMPLETA\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\n.\nAprovechando el fin de semana y que mi vecino trajo unos peces bien fresquitos decid\u00ed preparar este pescado que en lo personal me encanta. Crocante por fuera, suave y jugoso por ",
+      "views": 0,
+      "likes": 397,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.27,
+      "hashtags": [
+        "#food",
+        "#ecuador\ud83c\uddea\ud83c\udde8",
+        "#instagram",
+        "#viralreels",
+        "#instafood"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW18-G2jYAI/"
+    },
+    {
+      "author": "@guarnaschelli",
+      "followers": 0,
+      "caption": "Have you ever tried chicken feet? Comment RECIPE below and I\u2019ll send you step-by-step instructions on how to make these. \n\n#chickenfeet #chicken #feet #chef #cooking",
+      "views": 0,
+      "likes": 391,
+      "comments": 95,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 124.3,
+      "hashtags": [
+        "#chickenfeet",
+        "#chicken",
+        "#feet",
+        "#chef",
+        "#cooking"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW2HphBGNM6/"
+    },
+    {
+      "author": "@_jackperez_",
+      "followers": 0,
+      "caption": "TERIYAKI HONEY GARLIC CHICKEN PASTA \ud83e\uddc4\ud83c\udf57\ud83c\udf6f\n(Makes 8 Servings: Each Serving is 1/8 of the Crockpot)\n\nMacros (Per Serving):\n-469 Calories\n-5g Fat\n-56g Carbs\n-50g Protein\n\n\ud83d\udcd8 Comment \u201cCOOKBOOK\u201d and I will DM",
+      "views": 0,
+      "likes": 390,
+      "comments": 32,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 108.21,
+      "hashtags": [
+        "#cooking",
+        "#recipe",
+        "#lowcalorie",
+        "#highprotein",
+        "#mealprep",
+        "#diet",
+        "#healthy",
+        "#food"
+      ],
+      "posted_date": "2026-04-02",
+      "url": "https://www.instagram.com/p/DWpUYUdkzwi/"
+    },
+    {
+      "author": "@lezzetdogadagizli",
+      "followers": 0,
+      "caption": "Do\u011fada lava\u015f kebap\nLavash kebab in nature\n\n#asmr #food #cooking #yemek #reklamde\u011filtavsiye",
+      "views": 0,
+      "likes": 386,
+      "comments": 18,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 104.66,
+      "hashtags": [
+        "#asmr",
+        "#food",
+        "#cooking",
+        "#yemek",
+        "#reklamde\u011filtavsiye"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1YBvADAd8/"
+    },
+    {
+      "author": "@the_noahnator",
+      "followers": 0,
+      "caption": "is this steak cooked or raw #bbq #food #meat",
+      "views": 0,
+      "likes": 384,
+      "comments": 12,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.12,
+      "hashtags": [
+        "#bbq",
+        "#food",
+        "#meat"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW19ULpjHLC/"
+    },
+    {
+      "author": "@tourismcalgary",
+      "followers": 0,
+      "caption": "Looking to have a night out with great food? Here are 3 Chinese restaurants you\u2019re going to want seconds at:\n \n\ud83d\udccd@greattaste_chinatown (123 2 Ave SE)\n\ud83d\udccd@silverdragonyyc (106 3 Ave SE)\n\ud83d\udccd@chinehotpotcalga",
+      "views": 0,
+      "likes": 366,
+      "comments": 12,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.28,
+      "hashtags": [
+        "#calgary",
+        "#chinese",
+        "#food",
+        "#restaurant",
+        "#foodie"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzhA8tkkb1/"
+    },
+    {
+      "author": "@tourismcalgary",
+      "followers": 0,
+      "caption": "Looking to have a night out with great food? Here are 3 Chinese restaurants you\u2019re going to want seconds at:\n \n\ud83d\udccd@greattaste_chinatown (123 2 Ave SE)\n\ud83d\udccd@silverdragonyyc (106 3 Ave SE)\n\ud83d\udccd@chinehotpotcalga",
+      "views": 0,
+      "likes": 366,
+      "comments": 12,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.28,
+      "hashtags": [
+        "#calgary",
+        "#chinese",
+        "#food",
+        "#restaurant",
+        "#foodie"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzhA8tkkb1/"
+    },
+    {
+      "author": "@imahomecook_",
+      "followers": 0,
+      "caption": "Homecooks I\u2019m back, and I did a little switch up to my jerk wings. I ordered some pimento wood from Jamaica to cook the chicken with and my lawd, let me tell yall\u2026. Them island folks are on to somethi",
+      "views": 0,
+      "likes": 365,
+      "comments": 64,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 117.53,
+      "hashtags": [
+        "#foodie",
+        "#atlanta",
+        "#homecooking",
+        "#bbq",
+        "#grill"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DWz0BpsgP_V/"
+    },
+    {
+      "author": "@mirunaalecsandra2812_lashart",
+      "followers": 0,
+      "caption": "\ud83c\udf54Am vrut s\u0103 v\u0103 ar\u0103t acest loc pentru c\u0103 vibe-ul este super cool, dar vedetele zilei au fost, evident, burgerii. \nSe vede c\u0103 pun pre\u021b pe calitate \u0219i pe prospe\u021bime. Mi-a pl\u0103cut la nebunie mixul de arome",
+      "views": 0,
+      "likes": 360,
+      "comments": 53,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 114.72,
+      "hashtags": [
+        "#food",
+        "#burger",
+        "#narco",
+        "#elpapito",
+        "#viral"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzg0evCN3o/"
+    },
+    {
+      "author": "@californiakistan",
+      "followers": 0,
+      "caption": "Desserts + Hors d\u2019oeuvres ~ by Californiakistan\n\nSilverware: @tablewarepk \n\nAppetizers:\nEggplant Raita ~ @californiakistan \nSalmon Bites ~ @californiakistan \nCheese Canvas ~ @californiakistan \nBeef Al",
+      "views": 0,
+      "likes": 359,
+      "comments": 58,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 116.16,
+      "hashtags": [
+        "#tabledecor",
+        "#decor",
+        "#party",
+        "#dessert",
+        "#appetizer"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzfSF8kpN3/"
+    },
+    {
+      "author": "@sandralaprida",
+      "followers": 0,
+      "caption": "Nuevo descubrimiento @ladulceilusion_coriadelrio que sin duda se ha convertido en mi FAV para brunch con las ni\u00f1as \ud83c\udf38\ud83e\udef6\ud83c\udffb\n\n\ud83d\udccdCoria del R\u00edo \nAvenida Palomares 94\n\nAp\u00fantatelo porque me lo agradecer\u00e1s !\n\n#fo",
+      "views": 0,
+      "likes": 357,
+      "comments": 58,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 116.25,
+      "hashtags": [
+        "#foodie",
+        "#foodstagram",
+        "#food",
+        "#foodies",
+        "#foodlover"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW08MIcDSCN/"
+    },
+    {
+      "author": "@slimesterg",
+      "followers": 0,
+      "caption": "#fastfood #drivethru #car #food #comedy",
+      "views": 0,
+      "likes": 352,
+      "comments": 7,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.99,
+      "hashtags": [
+        "#fastfood",
+        "#drivethru",
+        "#car",
+        "#food",
+        "#comedy"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0XAtnja9m/"
+    },
+    {
+      "author": "@unique_sritam02",
+      "followers": 0,
+      "caption": "\ud83e\udd24\ud83e\udd24#trendingreels #cooking #food #foryou #instamood",
+      "views": 0,
+      "likes": 344,
+      "comments": 10,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.91,
+      "hashtags": [
+        "#trendingreels",
+        "#cooking",
+        "#food",
+        "#foryou",
+        "#instamood"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1Lt-ND_vd/"
+    },
+    {
+      "author": "@this_is_raichel",
+      "followers": 0,
+      "caption": "\u26c5\ufe0f\n#uk #trending #cooking #kitchen #vintage",
+      "views": 0,
+      "likes": 338,
+      "comments": 29,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 108.58,
+      "hashtags": [
+        "#uk",
+        "#trending",
+        "#cooking",
+        "#kitchen",
+        "#vintage"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1f-nrDmhH/"
+    },
+    {
+      "author": "@giovanni.castaldi",
+      "followers": 0,
+      "caption": "#adv @latteriasorrentina\nDimenticate la solita frittata! Ho trasformato la frittata, mio salvacena per eccellenza, in un bel rotolo. Nell'impasto ho frullato gli spinaci e per ripieno prosciutto e un ",
+      "views": 0,
+      "likes": 337,
+      "comments": 17,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 105.04,
+      "hashtags": [
+        "#adv",
+        "#LatteriaSorrentina",
+        "#giovannicastaldi",
+        "#\u00e8sapuritassaje"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1N_htjMuV/"
+    },
+    {
+      "author": "@fefe_143",
+      "followers": 0,
+      "caption": "Baibing thaks tui vet vawtt#aizawlmizoram #foodlover #cooking #mizo #reels",
+      "views": 0,
+      "likes": 336,
+      "comments": 7,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.08,
+      "hashtags": [
+        "#aizawlmizoram",
+        "#foodlover",
+        "#cooking",
+        "#mizo",
+        "#reels"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1Kx-jk8ql/"
+    },
+    {
+      "author": "@sanjukta__dutta",
+      "followers": 0,
+      "caption": "Only 20/-\ud83d\udc95\n\n#jorhat #fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp #newpost\ud83d\ude0d #food #goviral",
+      "views": 0,
+      "likes": 328,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 101.52,
+      "hashtags": [
+        "#jorhat",
+        "#fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp",
+        "#newpost\ud83d\ude0d",
+        "#food",
+        "#goviral"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1QS84E_UI/"
+    },
+    {
+      "author": "@dessert_parisian",
+      "followers": 0,
+      "caption": "\ud83c\udf54 \u00c0 GAGNER 3 MENUS pour 2 personnes ! \ud83c\udf54\n\nPour tenter votre chance, il vous suffit de :\n\n\ud83e\udd69 Liker et enregistrer ce Reel\n\ud83e\udd53 Vous abonner \u00e0 @thesmokedmeat et @dessert_parisian \n\ud83c\udf54 Mentionner en commentaire",
+      "views": 0,
+      "likes": 320,
+      "comments": 186,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 158.12,
+      "hashtags": [
+        "#food",
+        "#chef",
+        "#concours",
+        "#halal",
+        "#burger"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0z3tUNXRm/"
+    },
+    {
+      "author": "@jiffermann28",
+      "followers": 0,
+      "caption": "#hilarious #food",
+      "views": 0,
+      "likes": 314,
+      "comments": 12,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.82,
+      "hashtags": [
+        "#hilarious",
+        "#food"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW0CMxuDE49/"
+    },
+    {
+      "author": "@paytonrutkowski",
+      "followers": 0,
+      "caption": "Korean rotisserie chicken is unreal\u2026 hannam oriental roast chicken, I love you \n\n#foodie #reels #eatwithme #koreanfood #seoulfood",
+      "views": 0,
+      "likes": 310,
+      "comments": 19,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 106.13,
+      "hashtags": [
+        "#foodie",
+        "#reels",
+        "#eatwithme",
+        "#koreanfood",
+        "#seoulfood"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzjx71Dhz-/"
+    },
+    {
+      "author": "@_jackperez_",
+      "followers": 0,
+      "caption": "LEMON GARLIC CHICKEN, SPINACH & RICE \ud83c\udf4b\ud83e\uddc4\ud83c\udf57\ud83c\udf5a\n(Makes 7 Servings: Each Serving is 1 Bowl)\n\nMacros (Per Serving):\n-532 Calories\n-12g Fat\n-46g Carbs\n-60g Protein\n\n\ud83d\udcd8 Comment \u201cCOOKBOOK\u201d and I will DM you a lin",
+      "views": 0,
+      "likes": 306,
+      "comments": 7,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.29,
+      "hashtags": [
+        "#cooking",
+        "#recipe",
+        "#lowcalorie",
+        "#highprotein",
+        "#mealprep",
+        "#diet",
+        "#healthy",
+        "#food"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzZjGRFIth/"
+    },
+    {
+      "author": "@_jackperez_",
+      "followers": 0,
+      "caption": "LEMON GARLIC CHICKEN, SPINACH & RICE \ud83c\udf4b\ud83e\uddc4\ud83c\udf57\ud83c\udf5a\n(Makes 7 Servings: Each Serving is 1 Bowl)\n\nMacros (Per Serving):\n-532 Calories\n-12g Fat\n-46g Carbs\n-60g Protein\n\n\ud83d\udcd8 Comment \u201cCOOKBOOK\u201d and I will DM you a lin",
+      "views": 0,
+      "likes": 306,
+      "comments": 7,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.29,
+      "hashtags": [
+        "#cooking",
+        "#recipe",
+        "#lowcalorie",
+        "#highprotein",
+        "#mealprep",
+        "#diet",
+        "#healthy",
+        "#food"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzZjGRFIth/"
+    },
+    {
+      "author": "@royal_raita_",
+      "followers": 0,
+      "caption": "\ud83e\udd0c#india #terindingreels #farmerlife\u2764\ufe0f\ud83d\ude9c\ud83d\udc51 #food #money",
+      "views": 0,
+      "likes": 305,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.62,
+      "hashtags": [
+        "#india",
+        "#terindingreels",
+        "#farmerlife\u2764\ufe0f\ud83d\ude9c\ud83d\udc51",
+        "#food",
+        "#money"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1Diojkxwp/"
+    },
+    {
+      "author": "@fatimas_grill",
+      "followers": 0,
+      "caption": "It\u2019s Just My Opinion\u2026..\ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f #downey #burrito #foodie #losangeles #abc7eyewitness",
+      "views": 0,
+      "likes": 303,
+      "comments": 150,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 149.5,
+      "hashtags": [
+        "#downey",
+        "#burrito",
+        "#foodie",
+        "#losangeles",
+        "#abc7eyewitness"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzMxBfJCTq/"
+    },
+    {
+      "author": "@x_.mounir.16._x",
+      "followers": 0,
+      "caption": "#foryoupage #car #carlifestyle #food #creative \u0627\u0639\u0627\u062f\u0629 \u0646\u0634\u0631 \ud83d\udd03 \ud83d\udc97",
+      "views": 0,
+      "likes": 291,
+      "comments": 7,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 102.41,
+      "hashtags": [
+        "#foryoupage",
+        "#car",
+        "#carlifestyle",
+        "#food",
+        "#creative"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1kzaVjcOO/"
+    },
+    {
+      "author": "@hojetemjp",
+      "followers": 0,
+      "caption": "\ud83d\udea8Conhe\u00e7a o famoso Rod\u00edzio de petiscos do @donabrancajpoficial em Jo\u00e3o Pessoa \ud83d\ude31\n\nO @donabrancajpoficial tem um Rod\u00edzio de Petiscos para voc\u00ea aproveitar todos os dias da semana.\n\nSegunda a segunda das 1",
+      "views": 0,
+      "likes": -1,
+      "comments": 10,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 900.0,
+      "hashtags": [],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW2G-Z_ARaf/"
+    },
+    {
+      "author": "@chrys_no_i",
+      "followers": 0,
+      "caption": "You guys have been asking me for the longest to come here. So, I FINALLY stopped by @pattyscakesandchicken . When I arrived, there were many customers of all different backgrounds, telling me how they",
+      "views": 0,
+      "likes": -1,
+      "comments": 185,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 18400.0,
+      "hashtags": [
+        "#soulfood",
+        "#chicken",
+        "#foodreview",
+        "#foodie",
+        "#fyp"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DWz4rUTCdXK/"
+    },
+    {
+      "author": "@thesecarbsdontcount",
+      "followers": 0,
+      "caption": "Top bites in NYC recently \ud83c\udfd9\ufe0f #glutenfree #nyc",
+      "views": 0,
+      "likes": -1,
+      "comments": 40,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3900.0,
+      "hashtags": [
+        "#glutenfree",
+        "#nyc"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWziR7Bjskl/"
+    },
+    {
+      "author": "@alexxiusss",
+      "followers": 0,
+      "caption": "TACO HASH BROWN CASSEROLE \ud83e\udd24\ud83c\udf2e\n\nOweee this meal prep is FIRE\ud83d\udd25\n\nOnly 484 calories & packed with 48g of protein EACH! \n\nIngredients:\n3/4 cup of season ground beef ( use 1 pack & a half of taco seasoning f",
+      "views": 0,
+      "likes": -1,
+      "comments": 16,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1500.0,
+      "hashtags": [
+        "#highprotein",
+        "#caloriedefecit",
+        "#lowcarb",
+        "#mealprep",
+        "#easycooking",
+        "#easyrecipe",
+        "#cooking",
+        "#recipe"
+      ],
+      "posted_date": "2026-04-04",
+      "url": "https://www.instagram.com/p/DWt51l0Dqkn/"
+    },
+    {
+      "author": "@ranianiri",
+      "followers": 0,
+      "caption": "Sunday Tajine Day Series \u2728 EP1 \u2728 Tajine de poisson marocain ultra facile \ud83d\udc1f\u2728\n\n\ud83e\udd63 Ingr\u00e9dients\n\n* Poisson (sardines ou autre)\n* L\u00e9gumes au choix \ud83e\udd54\ud83e\udd55\ud83c\udf36\ufe0f\n\n\ud83c\udf3f Charmoula\nAil + persil + sel + poivre + paprika + c",
+      "views": 0,
+      "likes": -1,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 700.0,
+      "hashtags": [
+        "#tagine",
+        "#moroccanfood",
+        "#foodlover",
+        "#fyp",
+        "#cooking"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.instagram.com/p/DWvwFB5jV-5/"
+    },
+    {
+      "author": "@medic.chaos",
+      "followers": 0,
+      "caption": "Wait for end\ud83d\ude2d.......\n#friendship #hostel #food #dhurandhar #ipl",
+      "views": 0,
+      "likes": -1,
+      "comments": 84,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 8300.0,
+      "hashtags": [
+        "#friendship",
+        "#hostel",
+        "#food",
+        "#dhurandhar",
+        "#ipl"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.instagram.com/p/DWzdh0KDEdv/"
+    },
+    {
+      "author": "@tasdhaliwal",
+      "followers": 0,
+      "caption": "I got hungry and went to Costco again \ud83c\udf65\ud83e\udd5f\ud83c\udf2d",
+      "views": 0,
+      "likes": -1,
+      "comments": 6,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 500.0,
+      "hashtags": [],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1lrpvRqbE/"
+    },
+    {
+      "author": "@lil_trini",
+      "followers": 0,
+      "caption": "Creamy, juicy, and full of flavor\u203c\ufe0f My alfredo never misses\ud83d\udcaf\nIt tastes as good as it looks \ud83c\udf72 \n#reelsinstagram #explorepage\u2728 #cooking #momlife\ud83d\udc95 #food \n\nI do not own copyright for the music playing in t",
+      "views": 0,
+      "likes": -1,
+      "comments": 31,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3000.0,
+      "hashtags": [
+        "#reelsinstagram",
+        "#explorepage\u2728",
+        "#cooking",
+        "#momlife\ud83d\udc95",
+        "#food"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DWz2TsgCZ_U/"
+    },
+    {
+      "author": "@taiwanfood_kao",
+      "followers": 0,
+      "caption": "\u5168\u53f0\u6700chill\uff01\u6d77\u666f\u7b2c\u4e00\u6392\u9c3b\u9b5a\u5c08\u8ce3\n\u8fd1\u671f\u5403\u5230\u6700\u597d\u5403\u7684\u84b2\u71d2\u9c3b\u9b5a\uff0c\u79d8\u88fd\u91ac\u6c41\u53cd\u8986\u5237\u70e4\n\u8272\u6fa4\u4e5f\u592a\u5165\u5473\u8a98\u4eba\uff5e\u5f88\u958b\u80c3\ud83e\udd24\u518d\u914d\u9ad8\u96c4\u6e2f\u6d77\u666f\ud83d\udcaf\n\u559c\u6b61\u5403\u9c3b\u9b5a\u672c\u8eab\u7684\u5473\u9053\u670b\u53cb\u53ef\u4ee5\u9ede\u767d\u71d2\u9c3b\u9b5a\u5957\u9910\n\u9084\u6709\u5176\u4ed6\u9c3b\u9b5a\u6599\u7406\uff0c\u670b\u53cb\u6700\u611b\u9c3b\u9b5a\u7389\u5b50\u71d2\u9999\u751c\u53ef\u53e3\n\u9023\u4e32\u985e\u90fd\u6709\u63d0\u4f9b\u2728\u5fc5\u9ede\u849c\u982d\u96de\u8ddf\u725b\u808b\u4e32\u8089\u8cea\u4e0d\u67f4\n\n\ud83d\udea9\u5e97\u540d\uff1a\u9c3b\u60a0-Focus13\u4e8c\u6a13\n\ud83d\udc63\u9ad8\u96c4\u5e02\u82d3\u96c5\u5340\u6d77\u908a\u8def110\u865f2\u6a13\n\u231a\ufe0f11:00-22:00\n\u260e\ufe0f072693886",
+      "views": 0,
+      "likes": -1,
+      "comments": 20,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1900.0,
+      "hashtags": [],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW04MD9kpj1/"
+    },
+    {
+      "author": "@holly_andrea_",
+      "followers": 0,
+      "caption": "a day on my plate to look good AND feel good, focusing on fat loss and muscle growth \ud83e\udd0d\n\nmy fit is @aybl code HOLS to save \n\nas a short girly I always feel like I hold weight around my waist and back, ",
+      "views": 0,
+      "likes": -1,
+      "comments": 10,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 900.0,
+      "hashtags": [
+        "#wieiad",
+        "#whatieat",
+        "#highprotien",
+        "#protientips",
+        "#food"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1R3s1DODU/"
+    },
+    {
+      "author": "@lilylightss",
+      "followers": 0,
+      "caption": "These are the little changes that I\u2019ve been doing to get to a healthy me \n\n.\n#food #healthy #healthyfoodporn #overnightoats #explore",
+      "views": 0,
+      "likes": -1,
+      "comments": 30,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2900.0,
+      "hashtags": [
+        "#food",
+        "#healthy",
+        "#healthyfoodporn",
+        "#overnightoats",
+        "#explore"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1yDBokcgJ/"
     }
   ]
 }

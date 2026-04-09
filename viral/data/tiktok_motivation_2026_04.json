@@ -4,14 +4,23 @@
   "month": "April",
   "year": 2026,
   "niche": "motivation",
-  "generated_at": "2026-04-07T21:19:04.870888",
+  "generated_at": "2026-04-09T01:56:28.407143",
   "data_points_analyzed": 100,
   "viral_posts_found": 100,
   "hooks": [
     {
-      "pattern": "If you [X]",
+      "pattern": "Don't/Never",
+      "example_count": 3,
+      "example": "Never give up"
+    },
+    {
+      "pattern": "You need to",
       "example_count": 1,
-      "trend_pct": 70,
+      "example": "No more excuses anymore. You need to have discipline and love yourself enough to put in work. #lifeadvice #selfimproveme"
+    },
+    {
+      "pattern": "If you",
+      "example_count": 1,
       "example": "If you want to be great, successful or rich. Watch this everyday \ud83c\udfc1 #morningroutine #5amclub #successmotivation #gymtok #"
     }
   ],
@@ -62,359 +71,398 @@
   "hashtags": [
     {
       "tag": "#motivation",
-      "usage_count": 82,
-      "avg_views": 2569131
+      "usage_count": 82
     },
     {
       "tag": "#fyp",
-      "usage_count": 30,
-      "avg_views": 4380043
+      "usage_count": 30
     },
     {
       "tag": "#mindset",
-      "usage_count": 24,
-      "avg_views": 2273642
+      "usage_count": 24
     },
     {
       "tag": "#discipline",
-      "usage_count": 22,
-      "avg_views": 779529
+      "usage_count": 22
     },
     {
       "tag": "#success",
-      "usage_count": 18,
-      "avg_views": 3857169
+      "usage_count": 18
     },
     {
       "tag": "#motivational",
-      "usage_count": 14,
-      "avg_views": 4113911
+      "usage_count": 14
     },
     {
       "tag": "#selfimprovement",
-      "usage_count": 14,
-      "avg_views": 897207
+      "usage_count": 14
     },
     {
       "tag": "#davidgoggins",
-      "usage_count": 12,
-      "avg_views": 383799
+      "usage_count": 12
     },
     {
       "tag": "#inspiration",
-      "usage_count": 11,
-      "avg_views": 781854
+      "usage_count": 11
     },
     {
       "tag": "#mentality",
-      "usage_count": 10,
-      "avg_views": 1973784
+      "usage_count": 10
     },
     {
       "tag": "#viral",
-      "usage_count": 9,
-      "avg_views": 1670208
+      "usage_count": 9
     },
     {
       "tag": "#quotes",
-      "usage_count": 8,
-      "avg_views": 1579978
+      "usage_count": 8
     },
     {
       "tag": "#hopecore",
-      "usage_count": 6,
-      "avg_views": 1391683
+      "usage_count": 6
     },
     {
       "tag": "#growthmindset",
-      "usage_count": 6,
-      "avg_views": 197770
-    },
-    {
-      "tag": "#warriormindset",
-      "usage_count": 5,
-      "avg_views": 524558
-    },
-    {
-      "tag": "#real",
-      "usage_count": 5,
-      "avg_views": 2227720
-    },
-    {
-      "tag": "#gymmotivation",
-      "usage_count": 5,
-      "avg_views": 1590549
-    },
-    {
-      "tag": "#mindsetmotivation",
-      "usage_count": 5,
-      "avg_views": 535974
+      "usage_count": 6
     },
     {
       "tag": "#motivationalquotes",
-      "usage_count": 5,
-      "avg_views": 2686711
-    },
-    {
-      "tag": "#gymtok",
-      "usage_count": 4,
-      "avg_views": 567270
-    },
-    {
-      "tag": "#motivationalvideo",
-      "usage_count": 4,
-      "avg_views": 2631438
-    },
-    {
-      "tag": "#davidgogginsmotivation",
-      "usage_count": 4,
-      "avg_views": 221303
-    },
-    {
-      "tag": "#riseandconquer",
-      "usage_count": 4,
-      "avg_views": 592248
-    },
-    {
-      "tag": "#faithoverfear",
-      "usage_count": 4,
-      "avg_views": 592248
-    },
-    {
-      "tag": "#motivationalmessage",
-      "usage_count": 4,
-      "avg_views": 592248
-    }
-  ],
-  "formats": [
-    {
-      "name": "Question / engagement",
-      "avg_engagement": 23.4,
-      "post_count": 5
-    },
-    {
-      "name": "Challenge / trend",
-      "avg_engagement": 10.3,
-      "post_count": 1
-    },
-    {
-      "name": "Before/after",
-      "avg_engagement": 7.5,
-      "post_count": 1
-    }
-  ],
-  "trending_sounds": [
-    {
-      "name": "original sound",
-      "usage_count": 57
-    },
-    {
-      "name": "Originalton",
       "usage_count": 5
     },
     {
-      "name": "som original",
-      "usage_count": 2
+      "tag": "#real",
+      "usage_count": 5
     },
     {
-      "name": "Freedom (Originally Performed By Pharrell Williams) [Instrumental Version]",
-      "usage_count": 2
+      "tag": "#gymmotivation",
+      "usage_count": 5
     },
     {
-      "name": "Porn Factory",
-      "usage_count": 2
+      "tag": "#mindsetmotivation",
+      "usage_count": 5
     },
     {
-      "name": "alkuper\u00e4inen \u00e4\u00e4ni",
-      "usage_count": 2
+      "tag": "#warriormindset",
+      "usage_count": 5
     },
     {
-      "name": "Freeze III",
-      "usage_count": 1
+      "tag": "#motivationalvideo",
+      "usage_count": 4
     },
     {
-      "name": "i was born to be alone",
-      "usage_count": 1
+      "tag": "#riseandconquer",
+      "usage_count": 4
     },
     {
-      "name": "original sound - Luke Belmar Only",
-      "usage_count": 1
+      "tag": "#faithoverfear",
+      "usage_count": 4
     },
     {
-      "name": "original sound - moody",
-      "usage_count": 1
+      "tag": "#motivationalmessage",
+      "usage_count": 4
+    },
+    {
+      "tag": "#gymtok",
+      "usage_count": 4
+    },
+    {
+      "tag": "#davidgogginsmotivation",
+      "usage_count": 4
     }
   ],
-  "insights": "Question / engagement content leads with 23.4% avg engagement. \"If you [X]\" hook appears in 1 viral posts. Avg engagement: 17.5%. 100 posts analyzed.",
+  "formats": [],
+  "trending_sounds": [],
+  "insights": "100 posts analyzed. Avg 2,318,015 views.",
   "top_posts": [
     {
-      "author": "@francisshad.co",
-      "followers": 139900,
-      "caption": "How it\u2019s going is NOT how it ends. GET UP. \ud83e\udd0d #mindset #easter #motivation #selfdevelopment ",
-      "views": 817600,
-      "likes": 211500,
-      "comments": 857,
-      "shares": 8339,
-      "saves": 31834,
-      "engagement_rate": 30.89,
+      "author": "@officiale_ethan",
+      "followers": 1800000,
+      "caption": "Heres to a better tomorrow \ud83d\udcaa #mensmentalhealth #mentalhealth #fyp\u30b7 #end22aday #mensmentalhealthmatters #fyp #motivation #happiness #fyp ",
+      "views": 61400000,
+      "likes": 6200000,
+      "comments": 80400,
+      "shares": 614700,
+      "saves": 1079987,
+      "engagement_rate": 12.99,
       "hashtags": [
+        "#mensmentalhealth",
+        "#mentalhealth",
+        "#fyp\u30b7",
+        "#end22aday",
+        "#mensmentalhealthmatters",
+        "#fyp",
+        "#motivation",
+        "#happiness"
+      ],
+      "posted_date": "2023-04-28",
+      "url": "https://www.tiktok.com/@officiale_ethan/video/7226941360962669830"
+    },
+    {
+      "author": "@nature.motivation23",
+      "followers": 782100,
+      "caption": "Amazing Speech by Denzel Washington.\n#foryou #vairal #motivational #motivation #quotelife #success #quote #fyp #inspiration #denzelwashington #vairal #fy #mindset #speech",
+      "views": 28300000,
+      "likes": 2000000,
+      "comments": 12100,
+      "shares": 349800,
+      "saves": 409646,
+      "engagement_rate": 9.79,
+      "hashtags": [
+        "#foryou",
+        "#vairal",
+        "#motivational",
+        "#motivation",
+        "#quotelife",
+        "#success",
+        "#quote",
+        "#fyp"
+      ],
+      "posted_date": "2024-06-22",
+      "url": "https://www.tiktok.com/@nature.motivation23/video/7383298157934939424"
+    },
+    {
+      "author": "@elite_think",
+      "followers": 1300000,
+      "caption": "Keep Going. \ud83d\udd17699+ Viral Clips (link in bio).\n-\n@writers cramp \n-\n#motivational #motivation #mindset #fyp #success ",
+      "views": 10600000,
+      "likes": 1500000,
+      "comments": 6994,
+      "shares": 136100,
+      "saves": 269281,
+      "engagement_rate": 18.04,
+      "hashtags": [
+        "#",
+        "#motivational",
+        "#motivation",
         "#mindset",
-        "#easter",
-        "#motivation",
-        "#selfdevelopment"
-      ],
-      "sound": "original sound",
-      "duration": 60,
-      "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@francisshad.co/video/7625458076719615262"
-    },
-    {
-      "author": "@mindinggrinding",
-      "followers": 13300,
-      "caption": "Stick to your plan. \nNot your mood. \nKeep going you can do it. \n#viral #inspirational #motivational #fyp #hustle ",
-      "views": 570200,
-      "likes": 139100,
-      "comments": 166,
-      "shares": 6740,
-      "saves": 26399,
-      "engagement_rate": 30.24,
-      "hashtags": [
-        "#viral",
-        "#inspirational",
-        "#motivational",
         "#fyp",
-        "#hustle"
+        "#success"
       ],
-      "sound": "original sound",
-      "duration": 13,
-      "posted_date": "2026-04-05",
-      "url": "https://www.tiktok.com/@mindinggrinding/video/7625388684795186464"
+      "posted_date": "2026-01-26",
+      "url": "https://www.tiktok.com/@elite_think/video/7599700236101045534"
     },
     {
-      "author": "@juliecarstairs",
-      "followers": 82100,
-      "caption": "The foundation of self improvement starts with actually doing what you said you were going to do. Repeatedly.\n#selfimprovement #selftrust #motivation ",
-      "views": 290400,
-      "likes": 65300,
-      "comments": 445,
-      "shares": 3004,
-      "saves": 17401,
-      "engagement_rate": 29.67,
+      "author": "@wisewords.7",
+      "followers": 552700,
+      "caption": "The Most Dangerous Anger Comes from Someone with a good Heart \u2764\ufe0f\u2764\ufe0f. \n#motivation #podcast #quotes  #podcastclips #womenempowerment ",
+      "views": 9900000,
+      "likes": 814700,
+      "comments": 3378,
+      "shares": 99200,
+      "saves": 119909,
+      "engagement_rate": 10.48,
       "hashtags": [
+        "#motivation",
+        "#podcast",
+        "#quotes",
+        "#podcastclips",
+        "#womenempowerment"
+      ],
+      "posted_date": "2026-04-02",
+      "url": "https://www.tiktok.com/@wisewords.7/video/7624077320474709270"
+    },
+    {
+      "author": "@sidequestcertified",
+      "followers": 113800,
+      "caption": "Good morning!! #gm #motivation #positivity #gooodmorning #motivationalvideos #motivational #motivationalquotes #wintheday #teammotivation #affirmations ",
+      "views": 9400000,
+      "likes": 255100,
+      "comments": 2351,
+      "shares": 305600,
+      "saves": 63495,
+      "engagement_rate": 6.67,
+      "hashtags": [
+        "#gm",
+        "#motivation",
+        "#positivity",
+        "#gooodmorning",
+        "#motivationalvideos",
+        "#motivational",
+        "#motivationalquotes",
+        "#wintheday"
+      ],
+      "posted_date": "2024-03-07",
+      "url": "https://www.tiktok.com/@sidequestcertified/video/7343588684043750699"
+    },
+    {
+      "author": "@mindestcore",
+      "followers": 363200,
+      "caption": "ignore the distractions. #mentality #motivation #mindset ",
+      "views": 9000000,
+      "likes": 648200,
+      "comments": 1159,
+      "shares": 14000,
+      "saves": 115666,
+      "engagement_rate": 8.66,
+      "hashtags": [
+        "#mentality",
+        "#motivation",
+        "#mindset"
+      ],
+      "posted_date": "2023-11-24",
+      "url": "https://www.tiktok.com/@mindestcore/video/7305068293423893793"
+    },
+    {
+      "author": "@hustle.bibl3",
+      "followers": 15500,
+      "caption": "There Is No Tommorrow. #gym #motivation #commitment #mindset #nevergiveup ",
+      "views": 8700000,
+      "likes": 1400000,
+      "comments": 1628,
+      "shares": 64700,
+      "saves": 241064,
+      "engagement_rate": 19.63,
+      "hashtags": [
+        "#gym",
+        "#motivation",
+        "#commitment",
+        "#mindset",
+        "#nevergiveup"
+      ],
+      "posted_date": "2026-02-17",
+      "url": "https://www.tiktok.com/@hustle.bibl3/video/7607901179242220822"
+    },
+    {
+      "author": "@studyingwithtierra",
+      "followers": 20300,
+      "caption": "Toxic Study Motivation\u2026 #study #stress #motivate #doit #studying ",
+      "views": 6900000,
+      "likes": 801700,
+      "comments": 4164,
+      "shares": 43600,
+      "saves": 147951,
+      "engagement_rate": 14.46,
+      "hashtags": [
+        "#study",
+        "#stress",
+        "#motivate",
+        "#doit",
+        "#studying"
+      ],
+      "posted_date": "2025-10-29",
+      "url": "https://www.tiktok.com/@studyingwithtierra/video/7566662467640691988"
+    },
+    {
+      "author": "@18successmindset",
+      "followers": 90400,
+      "caption": "Learn from failures \ud83c\udfaf\n\n#motivation #fyp #success #viral #motivationalvideo ",
+      "views": 6600000,
+      "likes": 682100,
+      "comments": 5150,
+      "shares": 91700,
+      "saves": 129777,
+      "engagement_rate": 13.77,
+      "hashtags": [
+        "#motivation",
+        "#fyp",
+        "#success",
+        "#viral",
+        "#motivationalvideo"
+      ],
+      "posted_date": "2025-08-28",
+      "url": "https://www.tiktok.com/@18successmindset/video/7543684775479921950"
+    },
+    {
+      "author": "@nosnoozemotivation",
+      "followers": 106200,
+      "caption": "Give me 20 minutes and I\u2019ll show you how your subconscious can make you successful.\n\n#subconciousmind #mindset #success #motivation #personaldevelopment",
+      "views": 5200000,
+      "likes": 796500,
+      "comments": 7110,
+      "shares": 84100,
+      "saves": 351804,
+      "engagement_rate": 23.84,
+      "hashtags": [
+        "#subconciousmind",
+        "#mindset",
+        "#success",
+        "#motivation",
+        "#personaldevelopment"
+      ],
+      "posted_date": "2026-02-16",
+      "url": "https://www.tiktok.com/@nosnoozemotivation/video/7607474850696875278"
+    },
+    {
+      "author": "@masteringdiscipiine",
+      "followers": 83300,
+      "caption": "Hustle Hustle Hustle\ud83d\udd31\ud83e\udde0\n\n#matthewmcconaughey #motivation #hustle #speech #edit ",
+      "views": 4000000,
+      "likes": 589600,
+      "comments": 862,
+      "shares": 19600,
+      "saves": 106766,
+      "engagement_rate": 17.92,
+      "hashtags": [
+        "#matthewmcconaughey",
+        "#motivation",
+        "#hustle",
+        "#speech",
+        "#edit"
+      ],
+      "posted_date": "2025-10-07",
+      "url": "https://www.tiktok.com/@masteringdiscipiine/video/7558284511532846358"
+    },
+    {
+      "author": "@grind4future2",
+      "followers": 1000000,
+      "caption": "You are a man.\n-\n#motivation #mindset #mentality #success #real #selfimprovement #usa ",
+      "views": 3700000,
+      "likes": 431100,
+      "comments": 1939,
+      "shares": 22800,
+      "saves": 92330,
+      "engagement_rate": 14.82,
+      "hashtags": [
+        "#motivation",
+        "#mindset",
+        "#mentality",
+        "#success",
+        "#real",
         "#selfimprovement",
-        "#selftrust",
-        "#motivation"
+        "#usa"
       ],
-      "sound": "Freeze III",
-      "duration": 70,
-      "posted_date": "2026-03-21",
-      "url": "https://www.tiktok.com/@juliecarstairs/video/7619541076818300191"
+      "posted_date": "2024-12-31",
+      "url": "https://www.tiktok.com/@grind4future2/video/7454522340651699478"
     },
     {
-      "author": "@dreftym",
-      "followers": 2081,
-      "caption": "#dontgiveuponyourdreams #dontgiveup #makeithappen #motivation #stoicism ",
-      "views": 1500000,
-      "likes": 359300,
-      "comments": 477,
-      "shares": 17200,
-      "saves": 65360,
-      "engagement_rate": 29.49,
+      "author": "@elite_think",
+      "followers": 1300000,
+      "caption": "Watch Your Thoughts. \ud83d\udd17elite growth kit (link in bio).\n-\n#motivational #motivation #mindset #fyp #success ",
+      "views": 3400000,
+      "likes": 506800,
+      "comments": 1479,
+      "shares": 50800,
+      "saves": 133073,
+      "engagement_rate": 20.36,
       "hashtags": [
-        "#dontgiveuponyourdreams",
-        "#dontgiveup",
-        "#makeithappen",
-        "#motivation",
-        "#stoicism"
-      ],
-      "sound": "original sound",
-      "duration": 18,
-      "posted_date": "2026-04-01",
-      "url": "https://www.tiktok.com/@dreftym/video/7623743758227492118"
-    },
-    {
-      "author": "@motivationhoops",
-      "followers": 254300,
-      "caption": "#motivationhoops ",
-      "views": 136600,
-      "likes": 31600,
-      "comments": 104,
-      "shares": 1203,
-      "saves": 6730,
-      "engagement_rate": 29.02,
-      "hashtags": [
-        "#motivationhoops"
-      ],
-      "sound": "original sound",
-      "duration": 11,
-      "posted_date": "2026-04-04",
-      "url": "https://www.tiktok.com/@motivationhoops/video/7624933021786950925"
-    },
-    {
-      "author": "@betterhopecore",
-      "followers": 482000,
-      "caption": "You only have yourself.\n#hopecore #motivation #inspiration #gregplitt #selfimprovement ",
-      "views": 314300,
-      "likes": 72400,
-      "comments": 72,
-      "shares": 2766,
-      "saves": 13566,
-      "engagement_rate": 28.25,
-      "hashtags": [
-        "#hopecore",
-        "#motivation",
-        "#inspiration",
-        "#gregplitt",
-        "#selfimprovement"
-      ],
-      "sound": "original sound",
-      "duration": 37,
-      "posted_date": "2026-04-05",
-      "url": "https://www.tiktok.com/@betterhopecore/video/7625375233964363022"
-    },
-    {
-      "author": "@mindinggrinding",
-      "followers": 13300,
-      "caption": "It\u2019s not hard it\u2019s just new. \nNever give up \n#viral #motivational #inspirational #fyp #hustle ",
-      "views": 919300,
-      "likes": 207500,
-      "comments": 279,
-      "shares": 10600,
-      "saves": 38345,
-      "engagement_rate": 27.93,
-      "hashtags": [
-        "#viral",
         "#motivational",
-        "#inspirational",
+        "#motivation",
+        "#mindset",
         "#fyp",
-        "#hustle"
+        "#success"
       ],
-      "sound": "original sound",
-      "duration": 13,
-      "posted_date": "2026-04-03",
-      "url": "https://www.tiktok.com/@mindinggrinding/video/7624598020960636193"
+      "posted_date": "2026-01-23",
+      "url": "https://www.tiktok.com/@elite_think/video/7598586567606799629"
     },
     {
-      "author": "@mikerosadofit",
-      "followers": 2352,
-      "caption": "What if the battle you\u2019re in right now\u2026\nis one God is bragging about?\n\nWhat if in Heaven He\u2019s saying,\n\u201cWatch this one.\nI know what he\u2019s made of.\u201d\n\nBecause the storm didn\u2019t break you.\nThe pain didn\u2019t s",
-      "views": 253800,
-      "likes": 46800,
-      "comments": 1195,
-      "shares": 12900,
-      "saves": 8577,
-      "engagement_rate": 27.37,
+      "author": "@nocturnalpurpose",
+      "followers": 184000,
+      "caption": "THE STORM. #darkmotivation #motivation #dailymotivation #fyp #motivationalvideo ",
+      "views": 3200000,
+      "likes": 367500,
+      "comments": 1477,
+      "shares": 14900,
+      "saves": 100249,
+      "engagement_rate": 15.13,
       "hashtags": [
-        "#faithanddiscipline",
-        "#christianmotivation",
-        "#warriormindset",
-        "#godfirst",
-        "#menspurpose"
+        "#darkmotivation",
+        "#motivation",
+        "#dailymotivation",
+        "#fyp",
+        "#motivationalvideo"
       ],
-      "sound": "original sound",
-      "duration": 41,
-      "posted_date": "2026-03-08",
-      "url": "https://www.tiktok.com/@mikerosadofit/video/7614944862030269726"
+      "posted_date": "2025-07-16",
+      "url": "https://www.tiktok.com/@nocturnalpurpose/video/7527720242349362454"
     },
     {
       "author": "@lyric_hermanson",
@@ -433,54 +481,520 @@
         "#motivation",
         "#godbless"
       ],
-      "sound": "original sound",
-      "duration": 71,
       "posted_date": "2026-03-09",
       "url": "https://www.tiktok.com/@lyric_hermanson/video/7615373651390631199"
     },
     {
-      "author": "@motivated.mentality0",
-      "followers": 6640,
-      "caption": "#fyp #kanyewest #ye #motivation #mentality ",
-      "views": 469800,
-      "likes": 101200,
-      "comments": 76,
-      "shares": 4272,
-      "saves": 16450,
-      "engagement_rate": 25.97,
+      "author": "@elevation.mindset",
+      "followers": 585100,
+      "caption": "We created a 2-hour audio playlist with edits like these to keep you locked in during training. Use it at the gym without having to scroll. Check the link in my bio. #animemotivation #trainingmotivati",
+      "views": 3100000,
+      "likes": 471200,
+      "comments": 1598,
+      "shares": 30800,
+      "saves": 84554,
+      "engagement_rate": 18.97,
       "hashtags": [
-        "#fyp",
-        "#kanyewest",
-        "#ye",
+        "#animemotivation",
+        "#trainingmotivation",
+        "#gymmotivation",
+        "#mightguy",
+        "#narutoshippuden"
+      ],
+      "posted_date": "2025-12-28",
+      "url": "https://www.tiktok.com/@elevation.mindset/video/7589030833470672146"
+    },
+    {
+      "author": "@elevation.mindset",
+      "followers": 585100,
+      "caption": "We created a 2.5 hour anime motivation playlist to keep you locked in during training. Use it at the gym without having to scroll. Check the link in my bio. #animemotivation #trainingmotivation #gymmo",
+      "views": 3000000,
+      "likes": 471500,
+      "comments": 1024,
+      "shares": 26700,
+      "saves": 95032,
+      "engagement_rate": 19.81,
+      "hashtags": [
+        "#animemotivation",
+        "#trainingmotivation",
+        "#gymmotivation",
+        "#tojifushiguro",
+        "#disciplineequalsfreedom"
+      ],
+      "posted_date": "2026-02-08",
+      "url": "https://www.tiktok.com/@elevation.mindset/video/7604621517946670344"
+    },
+    {
+      "author": "@qu1z.verse",
+      "followers": 14900,
+      "caption": "Depression is a trap.\nStop drowning in your thoughts.\nFocus on yourself.\nBuild discipline.\nBuild your life. \n#motivation #Discipline #fyp #viral #depresion #you #treanding",
+      "views": 2800000,
+      "likes": 373800,
+      "comments": 1084,
+      "shares": 20700,
+      "saves": 74374,
+      "engagement_rate": 16.78,
+      "hashtags": [
         "#motivation",
+        "#discipline",
+        "#fyp",
+        "#viral",
+        "#depresion",
+        "#you",
+        "#treanding"
+      ],
+      "posted_date": "2026-03-26",
+      "url": "https://www.tiktok.com/@qu1z.verse/video/7621359170943487254"
+    },
+    {
+      "author": "@inspiredgrowth0",
+      "followers": 167900,
+      "caption": "Best video to motivate you! #advice #discipline #motivation ",
+      "views": 2800000,
+      "likes": 288700,
+      "comments": 1231,
+      "shares": 13800,
+      "saves": 66671,
+      "engagement_rate": 13.23,
+      "hashtags": [
+        "#advice",
+        "#discipline",
+        "#motivation"
+      ],
+      "posted_date": "2023-05-21",
+      "url": "https://www.tiktok.com/@inspiredgrowth0/video/7235606416713616667"
+    },
+    {
+      "author": "@_path_to_greatness_",
+      "followers": 274400,
+      "caption": "Work Hard.\n-\n#success #motivation #mindset #quotes #inspiration #UnitedStates #motivationalquotes #real #motivational #discipline #America ",
+      "views": 2700000,
+      "likes": 335000,
+      "comments": 2597,
+      "shares": 22500,
+      "saves": 76002,
+      "engagement_rate": 16.15,
+      "hashtags": [
+        "#success",
+        "#motivation",
+        "#mindset",
+        "#quotes",
+        "#inspiration",
+        "#unitedstates",
+        "#motivationalquotes",
+        "#real"
+      ],
+      "posted_date": "2025-06-25",
+      "url": "https://www.tiktok.com/@_path_to_greatness_/video/7519933208411000086"
+    },
+    {
+      "author": "@saberlike1500",
+      "followers": 289400,
+      "caption": "YOUR FUTURE IS YOUR CHOICE. #motivation #hopecore #future #mha #allmight ",
+      "views": 2400000,
+      "likes": 394800,
+      "comments": 4398,
+      "shares": 35800,
+      "saves": 89782,
+      "engagement_rate": 21.87,
+      "hashtags": [
+        "#motivation",
+        "#hopecore",
+        "#future",
+        "#mha",
+        "#allmight"
+      ],
+      "posted_date": "2025-12-23",
+      "url": "https://www.tiktok.com/@saberlike1500/video/7586912159838260535"
+    },
+    {
+      "author": "@tomsmotiv",
+      "followers": 125800,
+      "caption": "Never give up\n\n#motivation #peakmotivation #mindset #discipline #fyp #tomsmotiv #success #lockin #nevergiveup ",
+      "views": 2400000,
+      "likes": 296200,
+      "comments": 2118,
+      "shares": 15300,
+      "saves": 70320,
+      "engagement_rate": 16.0,
+      "hashtags": [
+        "#motivation",
+        "#peakmotivation",
+        "#mindset",
+        "#discipline",
+        "#fyp",
+        "#tomsmotiv",
+        "#success",
+        "#lockin"
+      ],
+      "posted_date": "2025-05-25",
+      "url": "https://www.tiktok.com/@tomsmotiv/video/7508446820360572182"
+    },
+    {
+      "author": "@sovyn.co",
+      "followers": 85000,
+      "caption": "Rock bottom.\n#motivation #inspiring #mindset #davidgoggins #mentality ",
+      "views": 2200000,
+      "likes": 327300,
+      "comments": 1420,
+      "shares": 16900,
+      "saves": 68611,
+      "engagement_rate": 18.83,
+      "hashtags": [
+        "#motivation",
+        "#inspiring",
+        "#mindset",
+        "#davidgoggins",
         "#mentality"
       ],
-      "sound": "original sound",
-      "duration": 21,
-      "posted_date": "2026-03-30",
-      "url": "https://www.tiktok.com/@motivated.mentality0/video/7623188243399380255"
+      "posted_date": "2026-02-15",
+      "url": "https://www.tiktok.com/@sovyn.co/video/7607106179050786062"
+    },
+    {
+      "author": "@betterhopecore",
+      "followers": 482000,
+      "caption": "It's all about the choices you make.\n#hopecore #motivation #inspiration #gregplitt #selfimprovement ",
+      "views": 2200000,
+      "likes": 367500,
+      "comments": 606,
+      "shares": 27600,
+      "saves": 81047,
+      "engagement_rate": 21.67,
+      "hashtags": [
+        "#hopecore",
+        "#motivation",
+        "#inspiration",
+        "#gregplitt",
+        "#selfimprovement"
+      ],
+      "posted_date": "2025-12-14",
+      "url": "https://www.tiktok.com/@betterhopecore/video/7583820919680798007"
+    },
+    {
+      "author": "@axrikk5",
+      "followers": 6182,
+      "caption": "Do it for yourself and not for others. You got this. #stoicism #mindsetmotivation \n#discipline #fyp #viral? ",
+      "views": 2000000,
+      "likes": 303600,
+      "comments": 724,
+      "shares": 16300,
+      "saves": 72163,
+      "engagement_rate": 19.64,
+      "hashtags": [
+        "#stoicism",
+        "#mindsetmotivation",
+        "#discipline",
+        "#fyp",
+        "#viral?"
+      ],
+      "posted_date": "2026-03-24",
+      "url": "https://www.tiktok.com/@axrikk5/video/7620972107022732576"
+    },
+    {
+      "author": "@3amquiet",
+      "followers": 11800,
+      "caption": "10 Minutes For The Hardest Set Of Your Life\ud83d\ude24                                  #Fyp #ViralVideo #Motivation #Wealth #Viral #hardwork #Win #Mentality #Gymtok #Gym #Fitness ",
+      "views": 2000000,
+      "likes": 248300,
+      "comments": 1426,
+      "shares": 7345,
+      "saves": 64207,
+      "engagement_rate": 16.06,
+      "hashtags": [
+        "#fyp",
+        "#viralvideo",
+        "#motivation",
+        "#wealth",
+        "#viral",
+        "#hardwork",
+        "#win",
+        "#mentality"
+      ],
+      "posted_date": "2025-04-05",
+      "url": "https://www.tiktok.com/@3amquiet/video/7489923963250806059"
+    },
+    {
+      "author": "@song.edits_love",
+      "followers": 29100,
+      "caption": "Motivation. #kellyrowland #lilwayne #motivation #music #fyp #edit #foryou #lyrics_songs #song ",
+      "views": 1700000,
+      "likes": 101000,
+      "comments": 1932,
+      "shares": 11800,
+      "saves": 15603,
+      "engagement_rate": 7.67,
+      "hashtags": [
+        "#kellyrowland",
+        "#lilwayne",
+        "#motivation",
+        "#music",
+        "#fyp",
+        "#edit",
+        "#foryou",
+        "#lyrics_songs"
+      ],
+      "posted_date": "2025-04-15",
+      "url": "https://www.tiktok.com/@song.edits_love/video/7493640533361937686"
+    },
+    {
+      "author": "@growthofwisdom",
+      "followers": 624900,
+      "caption": "It\u2018s time to lock in.\n\u2022\nGet +1000 viral clips in my bio\n(+Free Ebook).\n\u2022\n@damii \ud83c\uddf3\ud83c\uddec \n\u2022\n#motivational #algorithm #selfimprovement #success #hopecore ",
+      "views": 1600000,
+      "likes": 299100,
+      "comments": 1295,
+      "shares": 18000,
+      "saves": 65418,
+      "engagement_rate": 23.99,
+      "hashtags": [
+        "#",
+        "#motivational",
+        "#algorithm",
+        "#selfimprovement",
+        "#success",
+        "#hopecore"
+      ],
+      "posted_date": "2026-02-02",
+      "url": "https://www.tiktok.com/@growthofwisdom/video/7602314818049051926"
+    },
+    {
+      "author": "@betterhopecore",
+      "followers": 482000,
+      "caption": "Failure makes the weak strong.\n#hopecore #motivation #inspiration #gregplitt #selfimprovement ",
+      "views": 1500000,
+      "likes": 239500,
+      "comments": 420,
+      "shares": 20700,
+      "saves": 56377,
+      "engagement_rate": 21.13,
+      "hashtags": [
+        "#hopecore",
+        "#motivation",
+        "#inspiration",
+        "#gregplitt",
+        "#selfimprovement"
+      ],
+      "posted_date": "2026-01-18",
+      "url": "https://www.tiktok.com/@betterhopecore/video/7596816494504201485"
+    },
+    {
+      "author": "@dreftym",
+      "followers": 2081,
+      "caption": "#dontgiveuponyourdreams #dontgiveup #makeithappen #motivation #stoicism ",
+      "views": 1500000,
+      "likes": 359300,
+      "comments": 477,
+      "shares": 17200,
+      "saves": 65360,
+      "engagement_rate": 29.49,
+      "hashtags": [
+        "#dontgiveuponyourdreams",
+        "#dontgiveup",
+        "#makeithappen",
+        "#motivation",
+        "#stoicism"
+      ],
+      "posted_date": "2026-04-01",
+      "url": "https://www.tiktok.com/@dreftym/video/7623743758227492118"
+    },
+    {
+      "author": "@jaxensaeed",
+      "followers": 27100,
+      "caption": "Pain is there to ask you one simple question.. do you really want to achieve your goals?.. Or are you just a talker.\n#motivation #discipline #fyp #viral #foryou ",
+      "views": 1400000,
+      "likes": 164800,
+      "comments": 449,
+      "shares": 8718,
+      "saves": 29774,
+      "engagement_rate": 14.55,
+      "hashtags": [
+        "#motivation",
+        "#discipline",
+        "#fyp",
+        "#viral",
+        "#foryou"
+      ],
+      "posted_date": "2026-03-21",
+      "url": "https://www.tiktok.com/@jaxensaeed/video/7619744391162252566"
     },
     {
       "author": "@elite_think",
       "followers": 1300000,
-      "caption": "Obsession. \ud83d\udd17730+ exclusive clips (link in bio).\n-\n#motivational #motivation #mindset #success #fyp ",
-      "views": 301800,
-      "likes": 63600,
-      "comments": 127,
-      "shares": 2773,
-      "saves": 11070,
-      "engagement_rate": 25.7,
+      "caption": "Keep Trying. \ud83d\udd17730+ elite clips (link in bio).\n-\nSpeaker (@AG )\n-\n#motivational #motivation #mindset #success #fyp ",
+      "views": 1300000,
+      "likes": 189400,
+      "comments": 848,
+      "shares": 16700,
+      "saves": 35015,
+      "engagement_rate": 18.61,
       "hashtags": [
+        "#",
         "#motivational",
         "#motivation",
         "#mindset",
         "#success",
         "#fyp"
       ],
-      "sound": "original sound",
-      "duration": 25,
-      "posted_date": "2026-04-06",
-      "url": "https://www.tiktok.com/@elite_think/video/7625674362925911310"
+      "posted_date": "2026-03-08",
+      "url": "https://www.tiktok.com/@elite_think/video/7614917117120367886"
+    },
+    {
+      "author": "@talking.rob",
+      "followers": 10500,
+      "caption": "Take action. \n#tjr #motivation ",
+      "views": 1300000,
+      "likes": 259500,
+      "comments": 707,
+      "shares": 17900,
+      "saves": 44872,
+      "engagement_rate": 24.84,
+      "hashtags": [
+        "#tjr",
+        "#motivation"
+      ],
+      "posted_date": "2025-11-18",
+      "url": "https://www.tiktok.com/@talking.rob/video/7574080316306967830"
+    },
+    {
+      "author": "@ironfaith777",
+      "followers": 56000,
+      "caption": "Remember who you are\u2026\n\n#Motivation #WarriorMindset #RiseAndConquer #FaithOverFear #motivationalmessage ",
+      "views": 1200000,
+      "likes": 103100,
+      "comments": 2778,
+      "shares": 34800,
+      "saves": 31683,
+      "engagement_rate": 14.36,
+      "hashtags": [
+        "#motivation",
+        "#warriormindset",
+        "#riseandconquer",
+        "#faithoverfear",
+        "#motivationalmessage"
+      ],
+      "posted_date": "2026-03-18",
+      "url": "https://www.tiktok.com/@ironfaith777/video/7618578039219260694"
+    },
+    {
+      "author": "@1ronmindset",
+      "followers": 548800,
+      "caption": "One life. #motivation #discipline #mindset",
+      "views": 1100000,
+      "likes": 178300,
+      "comments": 594,
+      "shares": 13900,
+      "saves": 44271,
+      "engagement_rate": 21.55,
+      "hashtags": [
+        "#motivation",
+        "#discipline",
+        "#mindset"
+      ],
+      "posted_date": "2026-03-24",
+      "url": "https://www.tiktok.com/@1ronmindset/video/7620871361547799831"
+    },
+    {
+      "author": "@mentalitywin24",
+      "followers": 150900,
+      "caption": "Lock in.\n#motivation #real #mentality #discipline #mindset #success #selfimprovement #davidgoggins #hopecore #inspiration #quotes #motivational \n@DamiBTS @Damii \ud83c\uddf3\ud83c\uddec ",
+      "views": 1000000,
+      "likes": 112000,
+      "comments": 2099,
+      "shares": 6465,
+      "saves": 33520,
+      "engagement_rate": 15.41,
+      "hashtags": [
+        "#motivation",
+        "#real",
+        "#mentality",
+        "#discipline",
+        "#mindset",
+        "#success",
+        "#selfimprovement",
+        "#davidgoggins"
+      ],
+      "posted_date": "2025-04-01",
+      "url": "https://www.tiktok.com/@mentalitywin24/video/7488184275834113311"
+    },
+    {
+      "author": "@daily.inspire77",
+      "followers": 128100,
+      "caption": "Don't care\n#inspiration\n#qoutes\n#motivationalquotes\n#motivation\n#Love ",
+      "views": 979500,
+      "likes": 86600,
+      "comments": 284,
+      "shares": 8740,
+      "saves": 13777,
+      "engagement_rate": 11.17,
+      "hashtags": [
+        "#inspiration",
+        "#qoutes",
+        "#motivationalquotes",
+        "#motivation",
+        "#love"
+      ],
+      "posted_date": "2026-03-19",
+      "url": "https://www.tiktok.com/@daily.inspire77/video/7618869285565238559"
+    },
+    {
+      "author": "@ironfaith777",
+      "followers": 56000,
+      "caption": "Why do you care if rhey believe in you\u2026\n\n#Motivation #WarriorMindset #RiseAndConquer #FaithOverFear #motivationalmessage ",
+      "views": 978500,
+      "likes": 76900,
+      "comments": 3140,
+      "shares": 20600,
+      "saves": 21865,
+      "engagement_rate": 12.52,
+      "hashtags": [
+        "#motivation",
+        "#warriormindset",
+        "#riseandconquer",
+        "#faithoverfear",
+        "#motivationalmessage"
+      ],
+      "posted_date": "2026-03-31",
+      "url": "https://www.tiktok.com/@ironfaith777/video/7623531094041758998"
+    },
+    {
+      "author": "@elevation.mindset",
+      "followers": 585100,
+      "caption": "We launched our new 2.5hr training playlist. Grab it now in our link in bio. #animemotivation #trainingmotivation #gymmotivation #disciplineequalsfreedom #successmindset ",
+      "views": 964700,
+      "likes": 144100,
+      "comments": 319,
+      "shares": 7582,
+      "saves": 37165,
+      "engagement_rate": 19.61,
+      "hashtags": [
+        "#animemotivation",
+        "#trainingmotivation",
+        "#gymmotivation",
+        "#disciplineequalsfreedom",
+        "#successmindset"
+      ],
+      "posted_date": "2026-02-06",
+      "url": "https://www.tiktok.com/@elevation.mindset/video/7603860286235364616"
+    },
+    {
+      "author": "@mindinggrinding",
+      "followers": 13300,
+      "caption": "It\u2019s not hard it\u2019s just new. \nNever give up \n#viral #motivational #inspirational #fyp #hustle ",
+      "views": 919300,
+      "likes": 207500,
+      "comments": 279,
+      "shares": 10600,
+      "saves": 38345,
+      "engagement_rate": 27.93,
+      "hashtags": [
+        "#viral",
+        "#motivational",
+        "#inspirational",
+        "#fyp",
+        "#hustle"
+      ],
+      "posted_date": "2026-04-03",
+      "url": "https://www.tiktok.com/@mindinggrinding/video/7624598020960636193"
     },
     {
       "author": "@ozzy82545",
@@ -499,40 +1013,38 @@
         "#gymmotivation",
         "#unc"
       ],
-      "sound": "original sound",
-      "duration": 36,
       "posted_date": "2026-04-04",
       "url": "https://www.tiktok.com/@ozzy82545/video/7624752214044658957"
     },
     {
-      "author": "@talking.rob",
-      "followers": 10500,
-      "caption": "Take action. \n#tjr #motivation ",
-      "views": 1300000,
-      "likes": 259500,
-      "comments": 707,
-      "shares": 17900,
-      "saves": 44872,
-      "engagement_rate": 24.84,
+      "author": "@francisshad.co",
+      "followers": 139900,
+      "caption": "How it\u2019s going is NOT how it ends. GET UP. \ud83e\udd0d #mindset #easter #motivation #selfdevelopment ",
+      "views": 817600,
+      "likes": 211500,
+      "comments": 857,
+      "shares": 8339,
+      "saves": 31834,
+      "engagement_rate": 30.89,
       "hashtags": [
-        "#tjr",
-        "#motivation"
+        "#mindset",
+        "#easter",
+        "#motivation",
+        "#selfdevelopment"
       ],
-      "sound": "Originalton",
-      "duration": 36,
-      "posted_date": "2025-11-18",
-      "url": "https://www.tiktok.com/@talking.rob/video/7574080316306967830"
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@francisshad.co/video/7625458076719615262"
     },
     {
       "author": "@growthofwisdom",
       "followers": 624900,
-      "caption": "You can do it.\n\u2022\nGet clips, sounds, modules and more \ud83d\udd17 in bio.\n\u2022\n#motivational #algorithm #selfimprovement #success #Mindset ",
-      "views": 3198,
-      "likes": 620,
-      "comments": 11,
-      "shares": 64,
-      "saves": 91,
-      "engagement_rate": 24.58,
+      "caption": "Focus on getting better.\n\u2022\nGet hundreds of clips and more \ud83d\udd17 in bio.\n\u2022\n#motivational #algorithm #selfimprovement #success #Mindset ",
+      "views": 801200,
+      "likes": 134600,
+      "comments": 423,
+      "shares": 5123,
+      "saves": 26178,
+      "engagement_rate": 20.76,
       "hashtags": [
         "#motivational",
         "#algorithm",
@@ -540,10 +1052,586 @@
         "#success",
         "#mindset"
       ],
-      "sound": "Originalton",
-      "duration": 55,
-      "posted_date": "2026-04-07",
-      "url": "https://www.tiktok.com/@growthofwisdom/video/7626050971151469857"
+      "posted_date": "2026-04-01",
+      "url": "https://www.tiktok.com/@growthofwisdom/video/7623819354664209696"
+    },
+    {
+      "author": "@mentalyrising",
+      "followers": 7628,
+      "caption": "Stay hard by David Goggins \n\n#discpline #motivation #davidgoggins #davidgogginsmotivation #mentality ",
+      "views": 754900,
+      "likes": 103900,
+      "comments": 703,
+      "shares": 7078,
+      "saves": 17133,
+      "engagement_rate": 17.06,
+      "hashtags": [
+        "#discpline",
+        "#motivation",
+        "#davidgoggins",
+        "#davidgogginsmotivation",
+        "#mentality"
+      ],
+      "posted_date": "2026-03-24",
+      "url": "https://www.tiktok.com/@mentalyrising/video/7620858851662761238"
+    },
+    {
+      "author": "@quikmotivationn",
+      "followers": 70100,
+      "caption": "I'm working on something.\n#motivation #mindset #discipline #success #GymTok #viral #fitness #nevergiveup #mindsetmotivation #focusonyourself #wewillwin #prime #mentality #fyp #foryou #fitnessmotivatio",
+      "views": 740400,
+      "likes": 110700,
+      "comments": 517,
+      "shares": 9476,
+      "saves": 23112,
+      "engagement_rate": 19.42,
+      "hashtags": [
+        "#motivation",
+        "#mindset",
+        "#discipline",
+        "#success",
+        "#gymtok",
+        "#viral",
+        "#fitness",
+        "#nevergiveup"
+      ],
+      "posted_date": "2026-03-02",
+      "url": "https://www.tiktok.com/@quikmotivationn/video/7612674671795916054"
+    },
+    {
+      "author": "@gutspotion",
+      "followers": 13300,
+      "caption": "short but sweet today | made this on the live come check it out! #motivation #motivationalvideo #discipline #determination #edit ",
+      "views": 725000,
+      "likes": 126500,
+      "comments": 278,
+      "shares": 7423,
+      "saves": 24761,
+      "engagement_rate": 21.93,
+      "hashtags": [
+        "#motivation",
+        "#motivationalvideo",
+        "#discipline",
+        "#determination",
+        "#edit"
+      ],
+      "posted_date": "2026-03-31",
+      "url": "https://www.tiktok.com/@gutspotion/video/7623288684833426718"
+    },
+    {
+      "author": "@dailyinspire32",
+      "followers": 44900,
+      "caption": "When God Starts Blessing You, Be Careful. Denzel Washington Motivational speech. #denzelwashington #motivation #motivationalspeech #SuccessMotivation #fyp ",
+      "views": 678900,
+      "likes": 68800,
+      "comments": 7940,
+      "shares": 28000,
+      "saves": 8818,
+      "engagement_rate": 16.73,
+      "hashtags": [
+        "#denzelwashington",
+        "#motivation",
+        "#motivationalspeech",
+        "#successmotivation",
+        "#fyp"
+      ],
+      "posted_date": "2026-02-07",
+      "url": "https://www.tiktok.com/@dailyinspire32/video/7604197424160115990"
+    },
+    {
+      "author": "@motivation.guru6",
+      "followers": 13200,
+      "caption": "#God #motivation #discipline #gymtok #real ",
+      "views": 638600,
+      "likes": 124600,
+      "comments": 144,
+      "shares": 2758,
+      "saves": 17141,
+      "engagement_rate": 22.65,
+      "hashtags": [
+        "#god",
+        "#motivation",
+        "#discipline",
+        "#gymtok",
+        "#real"
+      ],
+      "posted_date": "2026-04-02",
+      "url": "https://www.tiktok.com/@motivation.guru6/video/7624172416507383062"
+    },
+    {
+      "author": "@elite_motivation2025",
+      "followers": 130400,
+      "caption": "Find a way to win. Stop wasting time and start taking action. #lifeadvice #selfimprovement #selfgrowth #growthmindset #mindsetmotivation ",
+      "views": 634300,
+      "likes": 64900,
+      "comments": 460,
+      "shares": 14400,
+      "saves": 15513,
+      "engagement_rate": 15.02,
+      "hashtags": [
+        "#lifeadvice",
+        "#selfimprovement",
+        "#selfgrowth",
+        "#growthmindset",
+        "#mindsetmotivation"
+      ],
+      "posted_date": "2026-03-20",
+      "url": "https://www.tiktok.com/@elite_motivation2025/video/7619291953380855071"
+    },
+    {
+      "author": "@tjrclipss_",
+      "followers": 38300,
+      "caption": "Listen\u2026 #tjr #motivation ",
+      "views": 626800,
+      "likes": 100200,
+      "comments": 389,
+      "shares": 3979,
+      "saves": 14963,
+      "engagement_rate": 19.07,
+      "hashtags": [
+        "#tjr",
+        "#motivation"
+      ],
+      "posted_date": "2026-02-08",
+      "url": "https://www.tiktok.com/@tjrclipss_/video/7604497333169982728"
+    },
+    {
+      "author": "@apexmotivatio3",
+      "followers": 59800,
+      "caption": "Life have to go on #sucess #motivation #discipline #mentality #winners ",
+      "views": 588900,
+      "likes": 95200,
+      "comments": 134,
+      "shares": 4014,
+      "saves": 17383,
+      "engagement_rate": 19.82,
+      "hashtags": [
+        "#sucess",
+        "#motivation",
+        "#discipline",
+        "#mentality",
+        "#winners"
+      ],
+      "posted_date": "2026-02-25",
+      "url": "https://www.tiktok.com/@apexmotivatio3/video/7610879855755906326"
+    },
+    {
+      "author": "@mindinggrinding",
+      "followers": 13300,
+      "caption": "Stick to your plan. \nNot your mood. \nKeep going you can do it. \n#viral #inspirational #motivational #fyp #hustle ",
+      "views": 570200,
+      "likes": 139100,
+      "comments": 166,
+      "shares": 6740,
+      "saves": 26399,
+      "engagement_rate": 30.24,
+      "hashtags": [
+        "#viral",
+        "#inspirational",
+        "#motivational",
+        "#fyp",
+        "#hustle"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.tiktok.com/@mindinggrinding/video/7625388684795186464"
+    },
+    {
+      "author": "@motivationversum",
+      "followers": 1300000,
+      "caption": "\u201cSome days you move mountains, other days you climb them. What matters is that you keep going.\u201d - Unknown \n\n\ud83c\udfa5 Nipsey Hussle\n \n#motivation #inspiration #growthmindset #stayfocused #keeppushing #trustth",
+      "views": 499700,
+      "likes": 32900,
+      "comments": 495,
+      "shares": 6685,
+      "saves": 8294,
+      "engagement_rate": 9.68,
+      "hashtags": [
+        "#motivation",
+        "#inspiration",
+        "#growthmindset",
+        "#stayfocused",
+        "#keeppushing",
+        "#trusttheprocess",
+        "#selfimprovement",
+        "#embracethejourney"
+      ],
+      "posted_date": "2025-01-11",
+      "url": "https://www.tiktok.com/@motivationversum/video/7458796259231452438"
+    },
+    {
+      "author": "@motivated.mentality0",
+      "followers": 6640,
+      "caption": "#fyp #kanyewest #ye #motivation #mentality ",
+      "views": 469800,
+      "likes": 101200,
+      "comments": 76,
+      "shares": 4272,
+      "saves": 16450,
+      "engagement_rate": 25.97,
+      "hashtags": [
+        "#fyp",
+        "#kanyewest",
+        "#ye",
+        "#motivation",
+        "#mentality"
+      ],
+      "posted_date": "2026-03-30",
+      "url": "https://www.tiktok.com/@motivated.mentality0/video/7623188243399380255"
+    },
+    {
+      "author": "@apexmindset00",
+      "followers": 6906,
+      "caption": "Just Keep Working\n\nSpeaker: @justin.graham00 \n\n#fyp #motivation #success #mindset #tiktokmotivation ",
+      "views": 420400,
+      "likes": 64200,
+      "comments": 299,
+      "shares": 6484,
+      "saves": 15197,
+      "engagement_rate": 20.5,
+      "hashtags": [
+        "#",
+        "#fyp",
+        "#motivation",
+        "#success",
+        "#mindset",
+        "#tiktokmotivation"
+      ],
+      "posted_date": "2026-01-15",
+      "url": "https://www.tiktok.com/@apexmindset00/video/7595406492442873101"
+    },
+    {
+      "author": "@nvrstopmindset",
+      "followers": 7460,
+      "caption": "No excuses.|#motivation #motivational #discipline #inspiration #fyp ",
+      "views": 389900,
+      "likes": 43300,
+      "comments": 363,
+      "shares": 13100,
+      "saves": 10457,
+      "engagement_rate": 17.24,
+      "hashtags": [
+        "#motivation",
+        "#motivational",
+        "#discipline",
+        "#inspiration",
+        "#fyp"
+      ],
+      "posted_date": "2026-02-18",
+      "url": "https://www.tiktok.com/@nvrstopmindset/video/7608006883055586574"
+    },
+    {
+      "author": "@motivationaltrained",
+      "followers": 115600,
+      "caption": "Gym motivation #motivation #discipline #gym #consistency #motivationalquotes #success #davidgoggins #fyp #lifestyle #entrepreneur #fitness #staystrong #focusonyourself ",
+      "views": 353300,
+      "likes": 26000,
+      "comments": 245,
+      "shares": 2885,
+      "saves": 6655,
+      "engagement_rate": 10.13,
+      "hashtags": [
+        "#motivation",
+        "#discipline",
+        "#gym",
+        "#consistency",
+        "#motivationalquotes",
+        "#success",
+        "#davidgoggins",
+        "#fyp"
+      ],
+      "posted_date": "2025-06-15",
+      "url": "https://www.tiktok.com/@motivationaltrained/video/7516303299390328086"
+    },
+    {
+      "author": "@motivationalinsight",
+      "followers": 993500,
+      "caption": "Do it scared. #pain #motivation #hopecore #mentalhealthmatters #core ",
+      "views": 335800,
+      "likes": 54200,
+      "comments": 104,
+      "shares": 2089,
+      "saves": 10228,
+      "engagement_rate": 19.84,
+      "hashtags": [
+        "#pain",
+        "#motivation",
+        "#hopecore",
+        "#mentalhealthmatters",
+        "#core"
+      ],
+      "posted_date": "2026-04-01",
+      "url": "https://www.tiktok.com/@motivationalinsight/video/7623602431129160991"
+    },
+    {
+      "author": "@betterhopecore",
+      "followers": 482000,
+      "caption": "You only have yourself.\n#hopecore #motivation #inspiration #gregplitt #selfimprovement ",
+      "views": 314300,
+      "likes": 72400,
+      "comments": 72,
+      "shares": 2766,
+      "saves": 13566,
+      "engagement_rate": 28.25,
+      "hashtags": [
+        "#hopecore",
+        "#motivation",
+        "#inspiration",
+        "#gregplitt",
+        "#selfimprovement"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.tiktok.com/@betterhopecore/video/7625375233964363022"
+    },
+    {
+      "author": "@elite_think",
+      "followers": 1300000,
+      "caption": "Obsession. \ud83d\udd17730+ exclusive clips (link in bio).\n-\n#motivational #motivation #mindset #success #fyp ",
+      "views": 301800,
+      "likes": 63600,
+      "comments": 127,
+      "shares": 2773,
+      "saves": 11070,
+      "engagement_rate": 25.7,
+      "hashtags": [
+        "#motivational",
+        "#motivation",
+        "#mindset",
+        "#success",
+        "#fyp"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@elite_think/video/7625674362925911310"
+    },
+    {
+      "author": "@juliecarstairs",
+      "followers": 82100,
+      "caption": "The foundation of self improvement starts with actually doing what you said you were going to do. Repeatedly.\n#selfimprovement #selftrust #motivation ",
+      "views": 290400,
+      "likes": 65300,
+      "comments": 445,
+      "shares": 3004,
+      "saves": 17401,
+      "engagement_rate": 29.67,
+      "hashtags": [
+        "#selfimprovement",
+        "#selftrust",
+        "#motivation"
+      ],
+      "posted_date": "2026-03-21",
+      "url": "https://www.tiktok.com/@juliecarstairs/video/7619541076818300191"
+    },
+    {
+      "author": "@mikerosadofit",
+      "followers": 2352,
+      "caption": "What if the battle you\u2019re in right now\u2026\nis one God is bragging about?\n\nWhat if in Heaven He\u2019s saying,\n\u201cWatch this one.\nI know what he\u2019s made of.\u201d\n\nBecause the storm didn\u2019t break you.\nThe pain didn\u2019t s",
+      "views": 253800,
+      "likes": 46800,
+      "comments": 1195,
+      "shares": 12900,
+      "saves": 8577,
+      "engagement_rate": 27.37,
+      "hashtags": [
+        "#faithanddiscipline",
+        "#christianmotivation",
+        "#warriormindset",
+        "#godfirst",
+        "#menspurpose"
+      ],
+      "posted_date": "2026-03-08",
+      "url": "https://www.tiktok.com/@mikerosadofit/video/7614944862030269726"
+    },
+    {
+      "author": "@minimotivationking5",
+      "followers": 42500,
+      "caption": "#The wrong man teaches you that you can do everything on your own.##MiniMotivationKing #BWEdit\n#AestheticMotivation #DeepQuotes",
+      "views": 227400,
+      "likes": 17000,
+      "comments": 172,
+      "shares": 2948,
+      "saves": 3202,
+      "engagement_rate": 10.26,
+      "hashtags": [
+        "#the",
+        "#minimotivationking",
+        "#bwedit",
+        "#aestheticmotivation",
+        "#deepquotes"
+      ],
+      "posted_date": "2026-04-03",
+      "url": "https://www.tiktok.com/@minimotivationking5/video/7624413087919115550"
+    },
+    {
+      "author": "@ironfaith777",
+      "followers": 56000,
+      "caption": "You asked for this\u2026\n\n#Motivation #WarriorMindset #RiseAndConquer #FaithOverFear #motivationalmessage ",
+      "views": 190100,
+      "likes": 18900,
+      "comments": 720,
+      "shares": 4119,
+      "saves": 5499,
+      "engagement_rate": 15.38,
+      "hashtags": [
+        "#motivation",
+        "#warriormindset",
+        "#riseandconquer",
+        "#faithoverfear",
+        "#motivationalmessage"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@ironfaith777/video/7625676303894662422"
+    },
+    {
+      "author": "@motivationhoops",
+      "followers": 254300,
+      "caption": "#motivationhoops ",
+      "views": 136600,
+      "likes": 31600,
+      "comments": 104,
+      "shares": 1203,
+      "saves": 6730,
+      "engagement_rate": 29.02,
+      "hashtags": [
+        "#motivationhoops"
+      ],
+      "posted_date": "2026-04-04",
+      "url": "https://www.tiktok.com/@motivationhoops/video/7624933021786950925"
+    },
+    {
+      "author": "@mentalyrising",
+      "followers": 7628,
+      "caption": "There is no excuses by David Goggins \n#discpline #motivation #davidgoggins #davidgogginsmotivation #succes ",
+      "views": 124600,
+      "likes": 18500,
+      "comments": 118,
+      "shares": 1216,
+      "saves": 3218,
+      "engagement_rate": 18.5,
+      "hashtags": [
+        "#discpline",
+        "#motivation",
+        "#davidgoggins",
+        "#davidgogginsmotivation",
+        "#succes"
+      ],
+      "posted_date": "2026-03-27",
+      "url": "https://www.tiktok.com/@mentalyrising/video/7621941791901928707"
+    },
+    {
+      "author": "@abefromanx",
+      "followers": 50600,
+      "caption": "how you show up for yourself iis imperative to self respect #selfdiscipline #selfgrowth #motivation #consistency #self ",
+      "views": 93500,
+      "likes": 17900,
+      "comments": 143,
+      "shares": 1379,
+      "saves": 2645,
+      "engagement_rate": 23.6,
+      "hashtags": [
+        "#selfdiscipline",
+        "#selfgrowth",
+        "#motivation",
+        "#consistency",
+        "#self"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@abefromanx/video/7625657792526863630"
+    },
+    {
+      "author": "@gymshark",
+      "followers": 6500000,
+      "caption": "do it over and over again. @sam_sulek #samsulek #samsulekeffect #mindset #motivation #Gymshark ",
+      "views": 81000,
+      "likes": 14100,
+      "comments": 54,
+      "shares": 424,
+      "saves": 1546,
+      "engagement_rate": 19.91,
+      "hashtags": [
+        "#",
+        "#samsulek",
+        "#samsulekeffect",
+        "#mindset",
+        "#motivation",
+        "#gymshark"
+      ],
+      "posted_date": "2026-04-03",
+      "url": "https://www.tiktok.com/@gymshark/video/7624598554920701206"
+    },
+    {
+      "author": "@drivyn.co",
+      "followers": 27800,
+      "caption": "its april and some of you never achieved your goals. #fyp #davidgoggins #motivation #discipline #mindset ",
+      "views": 69800,
+      "likes": 13200,
+      "comments": 49,
+      "shares": 560,
+      "saves": 2497,
+      "engagement_rate": 23.36,
+      "hashtags": [
+        "#fyp",
+        "#davidgoggins",
+        "#motivation",
+        "#discipline",
+        "#mindset"
+      ],
+      "posted_date": "2026-04-03",
+      "url": "https://www.tiktok.com/@drivyn.co/video/7624582019539914015"
+    },
+    {
+      "author": "@discipline.mix",
+      "followers": 15800,
+      "caption": "Kobe Bryant - Get Better Every Day #kobebryant #mambamentality #motivation #discipline #fyp",
+      "views": 68200,
+      "likes": 11500,
+      "comments": 22,
+      "shares": 457,
+      "saves": 2695,
+      "engagement_rate": 21.52,
+      "hashtags": [
+        "#kobebryant",
+        "#mambamentality",
+        "#motivation",
+        "#discipline",
+        "#fyp"
+      ],
+      "posted_date": "2026-02-14",
+      "url": "https://www.tiktok.com/@discipline.mix/video/7606752017297444127"
+    },
+    {
+      "author": "@aidenhiko",
+      "followers": 1100000,
+      "caption": "David Goggins on motivaton.\n#davidgoggins #motivation #fyp ",
+      "views": 51600,
+      "likes": 2358,
+      "comments": 4,
+      "shares": 123,
+      "saves": 371,
+      "engagement_rate": 5.53,
+      "hashtags": [
+        "#davidgoggins",
+        "#motivation",
+        "#fyp"
+      ],
+      "posted_date": "2023-06-10",
+      "url": "https://www.tiktok.com/@aidenhiko/video/7243170650473385243"
+    },
+    {
+      "author": "@freya.loren",
+      "followers": 560600,
+      "caption": "Only you will know your full potential \ud83c\udf05##study##motivation##studytok",
+      "views": 46300,
+      "likes": 4943,
+      "comments": 15,
+      "shares": 68,
+      "saves": 940,
+      "engagement_rate": 12.89,
+      "hashtags": [
+        "#study",
+        "#motivation",
+        "#studytok"
+      ],
+      "posted_date": "2026-03-12",
+      "url": "https://www.tiktok.com/@freya.loren/video/7616405487978073347"
     },
     {
       "author": "@trueemindset",
@@ -562,10 +1650,556 @@
         "#growthmindset",
         "#davidgoggins"
       ],
-      "sound": "som original",
-      "duration": 28,
       "posted_date": "2026-04-06",
       "url": "https://www.tiktok.com/@trueemindset/video/7625642645154663702"
+    },
+    {
+      "author": "@thedailyrise.capcut",
+      "followers": 1100000,
+      "caption": "This is the mindset of a king...\ud83d\udd25@\ud835\uddd6\ud835\uddee\ud835\uddfd\ud835\uddd6\ud835\ude02\ud835\ude01 #quotes #motivation #motivationtok  #mindsetmotivation #CapCut ",
+      "views": 26200,
+      "likes": 1193,
+      "comments": 21,
+      "shares": 91,
+      "saves": 369,
+      "engagement_rate": 6.39,
+      "hashtags": [
+        "#",
+        "#quotes",
+        "#motivation",
+        "#motivationtok",
+        "#mindsetmotivation",
+        "#capcut"
+      ],
+      "posted_date": "2025-12-12",
+      "url": "https://www.tiktok.com/@thedailyrise.capcut/video/7582763696837922070"
+    },
+    {
+      "author": "@dailymotivation.227",
+      "followers": 9265,
+      "caption": "Daily motivation. Follow for more.\n#motivation #mentality #discipline #mindset #tiktok ",
+      "views": 20500,
+      "likes": 2133,
+      "comments": 15,
+      "shares": 126,
+      "saves": 658,
+      "engagement_rate": 14.3,
+      "hashtags": [
+        "#motivation",
+        "#mentality",
+        "#discipline",
+        "#mindset",
+        "#tiktok"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@dailymotivation.227/video/7625472133124082974"
+    },
+    {
+      "author": "@bestofshetty",
+      "followers": 278,
+      "caption": "This beautiful quote\u2026\n@Jay Shetty \n\n#jayshetty #quote #motivation #wisdom #mindsetmotivation ",
+      "views": 12700,
+      "likes": 1048,
+      "comments": 3,
+      "shares": 184,
+      "saves": 244,
+      "engagement_rate": 11.65,
+      "hashtags": [
+        "#",
+        "#jayshetty",
+        "#quote",
+        "#motivation",
+        "#wisdom",
+        "#mindsetmotivation"
+      ],
+      "posted_date": "2026-04-01",
+      "url": "https://www.tiktok.com/@bestofshetty/video/7623904622381518102"
+    },
+    {
+      "author": "@mswellnesspro",
+      "followers": 89200,
+      "caption": "Idk it only makes sense to work on myself rn #wellness #motivation #workonyourself #women #selfimprovement ",
+      "views": 11100,
+      "likes": 2225,
+      "comments": 1,
+      "shares": 32,
+      "saves": 248,
+      "engagement_rate": 22.58,
+      "hashtags": [
+        "#wellness",
+        "#motivation",
+        "#workonyourself",
+        "#women",
+        "#selfimprovement"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@mswellnesspro/video/7625472173112691998"
+    },
+    {
+      "author": "@purvose",
+      "followers": 139100,
+      "caption": "All of my clips and sounds link im bio! #motivation #discipline #success #mindset #fyp\u30b7\u309a ",
+      "views": 8753,
+      "likes": 1116,
+      "comments": 8,
+      "shares": 75,
+      "saves": 201,
+      "engagement_rate": 15.99,
+      "hashtags": [
+        "#motivation",
+        "#discipline",
+        "#success",
+        "#mindset",
+        "#fyp\u30b7\u309a"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@purvose/video/7625684562907057429"
+    },
+    {
+      "author": "@hackingyourmindset",
+      "followers": 38800,
+      "caption": "Working on myself. #quotes #inspiration #motivation #2026 #usa ",
+      "views": 6918,
+      "likes": 1505,
+      "comments": 1,
+      "shares": 29,
+      "saves": 156,
+      "engagement_rate": 24.44,
+      "hashtags": [
+        "#quotes",
+        "#inspiration",
+        "#motivation",
+        "#2026",
+        "#usa"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@hackingyourmindset/video/7625631119307836702"
+    },
+    {
+      "author": "@elite_motivation2025",
+      "followers": 130400,
+      "caption": "No more excuses anymore. You need to have discipline and love yourself enough to put in work. #lifeadvice #selfimprovement #selfgrowth #growthmindset #mindsetmotivation ",
+      "views": 6672,
+      "likes": 599,
+      "comments": 5,
+      "shares": 23,
+      "saves": 95,
+      "engagement_rate": 10.82,
+      "hashtags": [
+        "#lifeadvice",
+        "#selfimprovement",
+        "#selfgrowth",
+        "#growthmindset",
+        "#mindsetmotivation"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@elite_motivation2025/video/7625808254341319966"
+    },
+    {
+      "author": "@andys.collectionss",
+      "followers": 6552,
+      "caption": "that\u2019s why you have to be happy, live your life and do whatever you want \ud83e\uddd8\u200d\u2640\ufe0f\ud83e\udef6\ud83e\udd0d #relatablequotes #positiveenergy #motivationquotes #morningaffirmations ",
+      "views": 5424,
+      "likes": 982,
+      "comments": 8,
+      "shares": 13,
+      "saves": 102,
+      "engagement_rate": 20.37,
+      "hashtags": [
+        "#relatablequotes",
+        "#positiveenergy",
+        "#motivationquotes",
+        "#morningaffirmations"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@andys.collectionss/video/7625674979551546655"
+    },
+    {
+      "author": "@r3m._x",
+      "followers": 2732,
+      "caption": "Making this motivated me to go do my work \ud83d\ude2d #motivational #studytok #toxicmotivation #number1 #fyp ",
+      "views": 5416,
+      "likes": 685,
+      "comments": 3,
+      "shares": 6,
+      "saves": 65,
+      "engagement_rate": 14.01,
+      "hashtags": [
+        "#motivational",
+        "#studytok",
+        "#toxicmotivation",
+        "#number1",
+        "#fyp"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@r3m._x/video/7625778428385578270"
+    },
+    {
+      "author": "@trueemindset",
+      "followers": 46000,
+      "caption": "If it\u2019s easy\u2026 your not trying hard.\u2660\ufe0f #mindsetshift #discipline #motivation #growthmindset #davidgoggins ",
+      "views": 4632,
+      "likes": 921,
+      "comments": 9,
+      "shares": 34,
+      "saves": 157,
+      "engagement_rate": 24.2,
+      "hashtags": [
+        "#mindsetshift",
+        "#discipline",
+        "#motivation",
+        "#growthmindset",
+        "#davidgoggins"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@trueemindset/video/7625974639457520918"
+    },
+    {
+      "author": "@neffex",
+      "followers": 1000000,
+      "caption": "IT\u2019S ALL ON YOU \ud83d\ude24\u23f3 #motivation #keepgoing #nevergiveup #inspiration #neffex ",
+      "views": 4476,
+      "likes": 609,
+      "comments": 24,
+      "shares": 9,
+      "saves": 87,
+      "engagement_rate": 16.29,
+      "hashtags": [
+        "#motivation",
+        "#keepgoing",
+        "#nevergiveup",
+        "#inspiration",
+        "#neffex"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@neffex/video/7626048922795986207"
+    },
+    {
+      "author": "@mentalyrising",
+      "followers": 7628,
+      "caption": "No passion no motivation.Stay hard\n\nI post daily mindset content \u2014 and the best clips are available in my bio.\n\n#motivation #discpline #davidgogginsmotivation #davidgoggins #growthmindset ",
+      "views": 4017,
+      "likes": 606,
+      "comments": 2,
+      "shares": 23,
+      "saves": 117,
+      "engagement_rate": 18.62,
+      "hashtags": [
+        "#motivation",
+        "#discpline",
+        "#davidgogginsmotivation",
+        "#davidgoggins",
+        "#growthmindset"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@mentalyrising/video/7625581991857048854"
+    },
+    {
+      "author": "@4.flow_",
+      "followers": 339100,
+      "caption": "what happened?\n|\n700+ Motivational Clips \u2192 Bio\n|\n#motivational #motivation #inspiration #mentality #davidgoggins ",
+      "views": 3748,
+      "likes": 734,
+      "comments": 3,
+      "shares": 9,
+      "saves": 103,
+      "engagement_rate": 22.65,
+      "hashtags": [
+        "#motivational",
+        "#motivation",
+        "#inspiration",
+        "#mentality",
+        "#davidgoggins"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@4.flow_/video/7626009385097088278"
+    },
+    {
+      "author": "@growthofwisdom",
+      "followers": 624900,
+      "caption": "You can do it.\n\u2022\nGet clips, sounds, modules and more \ud83d\udd17 in bio.\n\u2022\n#motivational #algorithm #selfimprovement #success #Mindset ",
+      "views": 3198,
+      "likes": 620,
+      "comments": 11,
+      "shares": 64,
+      "saves": 91,
+      "engagement_rate": 24.58,
+      "hashtags": [
+        "#motivational",
+        "#algorithm",
+        "#selfimprovement",
+        "#success",
+        "#mindset"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@growthofwisdom/video/7626050971151469857"
+    },
+    {
+      "author": "@self.mindshift",
+      "followers": 29700,
+      "caption": "You get successful when you stop depending on motivation, mood, or expectations - and just do the work. #mindset #discipline #workout #motivation #transformation ",
+      "views": 2720,
+      "likes": 143,
+      "comments": 4,
+      "shares": 12,
+      "saves": 44,
+      "engagement_rate": 7.46,
+      "hashtags": [
+        "#mindset",
+        "#discipline",
+        "#workout",
+        "#motivation",
+        "#transformation"
+      ],
+      "posted_date": "2025-12-13",
+      "url": "https://www.tiktok.com/@self.mindshift/video/7583478396412529922"
+    },
+    {
+      "author": "@life.advice57",
+      "followers": 106800,
+      "caption": "Vin diesel Motivational Video #Motivate #Quotes #inspire #lifeadvice#usa ",
+      "views": 2619,
+      "likes": 166,
+      "comments": 10,
+      "shares": 38,
+      "saves": 25,
+      "engagement_rate": 9.13,
+      "hashtags": [
+        "#motivate",
+        "#quotes",
+        "#inspire",
+        "#lifeadvice",
+        "#usa"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@life.advice57/video/7625999500695391519"
+    },
+    {
+      "author": "@motivated.af",
+      "followers": 5736,
+      "caption": "If you want to be great, successful or rich. Watch this everyday \ud83c\udfc1 #morningroutine #5amclub #successmotivation #gymtok #successmotivation ",
+      "views": 2481,
+      "likes": 295,
+      "comments": 6,
+      "shares": 6,
+      "saves": 47,
+      "engagement_rate": 14.27,
+      "hashtags": [
+        "#morningroutine",
+        "#5amclub",
+        "#successmotivation",
+        "#gymtok",
+        "#successmotivation"
+      ],
+      "posted_date": "2026-03-28",
+      "url": "https://www.tiktok.com/@motivated.af/video/7622300969212087582"
+    },
+    {
+      "author": "@unstoppable._.mindset",
+      "followers": 130400,
+      "caption": "Stop Begging People...#Inspiration #Quotes #Speech #Motivation ",
+      "views": 1859,
+      "likes": 142,
+      "comments": 7,
+      "shares": 15,
+      "saves": 18,
+      "engagement_rate": 9.79,
+      "hashtags": [
+        "#inspiration",
+        "#quotes",
+        "#speech",
+        "#motivation"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@unstoppable._.mindset/video/7626072204937006367"
+    },
+    {
+      "author": "@relentless.mindsettt",
+      "followers": 29800,
+      "caption": "Stay Hard.\ud83d\udd17700+ Viral Clips.(link in bio). #davidgoggins #fyp #motivation #davidgogginsmotivation #davidgogginsmentality ",
+      "views": 1696,
+      "likes": 272,
+      "comments": 3,
+      "shares": 40,
+      "saves": 55,
+      "engagement_rate": 21.82,
+      "hashtags": [
+        "#davidgoggins",
+        "#fyp",
+        "#motivation",
+        "#davidgogginsmotivation",
+        "#davidgogginsmentality"
+      ],
+      "posted_date": "2026-04-06",
+      "url": "https://www.tiktok.com/@relentless.mindsettt/video/7625693571718401294"
+    },
+    {
+      "author": "@quotes.growth.mindset",
+      "followers": 41,
+      "caption": "Watch this video to keep yourself motivated #wisdom #learnontiktok #discipline #viral #motivation #quotes ",
+      "views": 1615,
+      "likes": 59,
+      "comments": 2,
+      "shares": 1,
+      "saves": 12,
+      "engagement_rate": 4.58,
+      "hashtags": [
+        "#wisdom",
+        "#learnontiktok",
+        "#discipline",
+        "#viral",
+        "#motivation",
+        "#quotes"
+      ],
+      "posted_date": "2023-08-09",
+      "url": "https://www.tiktok.com/@quotes.growth.mindset/video/7265188749393415470"
+    },
+    {
+      "author": "@usafunnyvideo32",
+      "followers": 1078,
+      "caption": "best motivational speech liife lesson;  must wach #motivacional  #motivationalvideo  #motivacion  #motivattionalquotes  #motivation  #voiceeffects  #foryoupage\u2764\ufe0f\u2764\ufe0f  #motivationalquotes  #motivacao  #u",
+      "views": 755,
+      "likes": 41,
+      "comments": 0,
+      "shares": 3,
+      "saves": 9,
+      "engagement_rate": 7.02,
+      "hashtags": [
+        "#motivacional",
+        "#motivationalvideo",
+        "#motivacion",
+        "#motivattionalquotes",
+        "#motivation",
+        "#voiceeffects",
+        "#foryoupage\u2764\ufe0f\u2764\ufe0f",
+        "#motivationalquotes"
+      ],
+      "posted_date": "2025-07-19",
+      "url": "https://www.tiktok.com/@usafunnyvideo32/video/7528852506412109078"
+    },
+    {
+      "author": "@successfullife44",
+      "followers": 78100,
+      "caption": "powerful motivation #motivation #dailymotivation #motivationspeechonly #motivation #quotes ",
+      "views": 618,
+      "likes": 67,
+      "comments": 1,
+      "shares": 4,
+      "saves": 6,
+      "engagement_rate": 12.62,
+      "hashtags": [
+        "#motivation",
+        "#dailymotivation",
+        "#motivationspeechonly",
+        "#motivation",
+        "#quotes"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@successfullife44/video/7626053529999805709"
+    },
+    {
+      "author": "@motivatedmindstate",
+      "followers": 225100,
+      "caption": "Are you the optimized version of yourself? - Speaker: Bedros Keuilian #motivation #bedroskeuilianmotivation #fyp #fypage #motivatedmindstate #fitness #fitnessmotivation #gymmotivation #exercise #gym #",
+      "views": 447,
+      "likes": 38,
+      "comments": 1,
+      "shares": 1,
+      "saves": 4,
+      "engagement_rate": 9.84,
+      "hashtags": [
+        "#motivation",
+        "#bedroskeuilianmotivation",
+        "#fyp",
+        "#fypage",
+        "#motivatedmindstate",
+        "#fitness",
+        "#fitnessmotivation",
+        "#gymmotivation"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@motivatedmindstate/video/7626094374409047309"
+    },
+    {
+      "author": "@hq.motivation5",
+      "followers": 4508,
+      "caption": "Remember who you are\u2026 #Motivation #WarriorMindset #RiseAndConquer #FaithOverFear #motivationalmessage \n\nDownload Video",
+      "views": 393,
+      "likes": 28,
+      "comments": 3,
+      "shares": 10,
+      "saves": 8,
+      "engagement_rate": 12.47,
+      "hashtags": [
+        "#motivation",
+        "#warriormindset",
+        "#riseandconquer",
+        "#faithoverfear",
+        "#motivationalmessage"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@hq.motivation5/video/7626023038726704414"
+    },
+    {
+      "author": "@nevergiveup_motivatixn",
+      "followers": 19,
+      "caption": "Never stop working\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#fyp #fyp\u30b7 #fyp\u30b7\u309a #foryoupage #viral #viralvideo #motivation #successful #luxury #lifestyle #trending #quote #disciplineovermotivation #motivational",
+      "views": 359,
+      "likes": 28,
+      "comments": 2,
+      "shares": 2,
+      "saves": 5,
+      "engagement_rate": 10.31,
+      "hashtags": [
+        "#fyp",
+        "#fyp\u30b7",
+        "#fyp\u30b7\u309a",
+        "#foryoupage",
+        "#viral",
+        "#viralvideo",
+        "#motivation",
+        "#successful"
+      ],
+      "posted_date": "2026-04-05",
+      "url": "https://www.tiktok.com/@nevergiveup_motivatixn/video/7625409622110653710"
+    },
+    {
+      "author": "@bebigmotivation4",
+      "followers": 5,
+      "caption": "Get up. Don\u2019t quit. Keep going. You GOT this! #motivation #fitness #fyp",
+      "views": 157,
+      "likes": 5,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.18,
+      "hashtags": [
+        "#motivation",
+        "#fitness",
+        "#fyp"
+      ],
+      "posted_date": "2026-03-31",
+      "url": "https://www.tiktok.com/@bebigmotivation4/video/7623462778874940686"
+    },
+    {
+      "author": "@thefearlessstruggle",
+      "followers": 24800,
+      "caption": "You\u2019re stuck on repeat.\n\n#mindset #motivation #discipline #selfimprovement #fyp",
+      "views": 39,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 5.13,
+      "hashtags": [
+        "#mindset",
+        "#motivation",
+        "#discipline",
+        "#selfimprovement",
+        "#fyp"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.tiktok.com/@thefearlessstruggle/video/7626079314806672662"
     }
   ]
 }
