@@ -4,95 +4,92 @@
   "month": "April",
   "year": 2026,
   "niche": "motivation",
-  "generated_at": "2026-04-09T01:56:28.407143",
-  "data_points_analyzed": 229,
-  "viral_posts_found": 229,
+  "generated_at": "2026-04-09T02:11:12.851028",
+  "data_points_analyzed": 267,
+  "viral_posts_found": 267,
   "hooks": [
     {
       "pattern": "Don't/Never",
-      "example_count": 2,
+      "example_count": 5,
       "example": "Don\u2019t skip this. 4 simple band exercises = stronger, faster, injury-free runs. Save to try later!"
+    },
+    {
+      "pattern": "If you",
+      "example_count": 1,
+      "example": "If you train your mind to find the beauty, it will find it."
     }
   ],
   "best_times": [
     {
-      "day": "Thursday",
+      "day": "Saturday",
       "time": "Peak",
-      "engagement_avg": 537.4,
-      "sample_size": 11
+      "engagement_avg": 668.3,
+      "sample_size": 3
     },
     {
       "day": "Monday",
       "time": "Peak",
-      "engagement_avg": 442.7,
-      "sample_size": 37
+      "engagement_avg": 352.8,
+      "sample_size": 25
     },
     {
       "day": "Tuesday",
       "time": "Peak",
-      "engagement_avg": 405.4,
-      "sample_size": 124
-    },
-    {
-      "day": "Saturday",
-      "time": "Peak",
-      "engagement_avg": 388.9,
-      "sample_size": 8
+      "engagement_avg": 250.4,
+      "sample_size": 214
     },
     {
       "day": "Friday",
       "time": "Peak",
-      "engagement_avg": 143.3,
-      "sample_size": 16
+      "engagement_avg": 169.0,
+      "sample_size": 6
     },
     {
       "day": "Wednesday",
       "time": "Peak",
-      "engagement_avg": 104.9,
-      "sample_size": 7
+      "engagement_avg": 106.2,
+      "sample_size": 5
     },
     {
       "day": "Sunday",
       "time": "Peak",
-      "engagement_avg": 102.6,
-      "sample_size": 26
+      "engagement_avg": 103.5,
+      "sample_size": 7
+    },
+    {
+      "day": "Thursday",
+      "time": "Peak",
+      "engagement_avg": 101.1,
+      "sample_size": 7
     }
   ],
   "hashtags": [
     {
-      "tag": "#motivation",
-      "usage_count": 103
-    },
-    {
       "tag": "#mindset",
-      "usage_count": 37
+      "usage_count": 122
     },
     {
-      "tag": "#entrepreneur",
-      "usage_count": 28
-    },
-    {
-      "tag": "#businessmindset",
-      "usage_count": 27
+      "tag": "#motivation",
+      "usage_count": 113
     },
     {
       "tag": "#grind",
       "usage_count": 26
     },
     {
+      "tag": "#discipline",
+      "usage_count": 20
+    },
+    {
       "tag": "#fyp",
-      "usage_count": 19
+      "usage_count": 16
     },
     {
       "tag": "#reels",
-      "usage_count": 16
+      "usage_count": 13
     },
     {
       "tag": "#viral",
-      "usage_count": 16
-    },
-    {
-      "tag": "#explore",
       "usage_count": 13
     },
     {
@@ -104,106 +101,74 @@
       "usage_count": 11
     },
     {
-      "tag": "#discipline",
+      "tag": "#explore",
       "usage_count": 10
-    },
-    {
-      "tag": "#business",
-      "usage_count": 10
-    },
-    {
-      "tag": "#trending",
-      "usage_count": 8
-    },
-    {
-      "tag": "#success",
-      "usage_count": 8
     },
     {
       "tag": "#inspiration",
+      "usage_count": 10
+    },
+    {
+      "tag": "#entrepreneur",
+      "usage_count": 10
+    },
+    {
+      "tag": "#focus",
+      "usage_count": 10
+    },
+    {
+      "tag": "#success",
+      "usage_count": 9
+    },
+    {
+      "tag": "#growth",
+      "usage_count": 9
+    },
+    {
+      "tag": "#selfimprovement",
+      "usage_count": 9
+    },
+    {
+      "tag": "#technology",
       "usage_count": 8
     },
     {
-      "tag": "#viralreels",
+      "tag": "#tech",
+      "usage_count": 8
+    },
+    {
+      "tag": "#businessowner",
+      "usage_count": 8
+    },
+    {
+      "tag": "#digitalmarketing",
+      "usage_count": 8
+    },
+    {
+      "tag": "#artificialintelligence",
+      "usage_count": 8
+    },
+    {
+      "tag": "#branding",
+      "usage_count": 8
+    },
+    {
+      "tag": "#startup",
+      "usage_count": 8
+    },
+    {
+      "tag": "#selfgrowth",
       "usage_count": 7
     },
     {
-      "tag": "#toronto",
-      "usage_count": 5
-    },
-    {
-      "tag": "#forsale",
-      "usage_count": 5
-    },
-    {
-      "tag": "#house",
-      "usage_count": 5
-    },
-    {
-      "tag": "#home",
-      "usage_count": 5
-    },
-    {
-      "tag": "#homes",
-      "usage_count": 5
-    },
-    {
-      "tag": "#listing",
-      "usage_count": 5
-    },
-    {
-      "tag": "#torontorealestate",
-      "usage_count": 5
-    },
-    {
-      "tag": "#broker",
-      "usage_count": 5
+      "tag": "#trending",
+      "usage_count": 6
     }
   ],
   "formats": [],
   "trending_sounds": [],
-  "insights": "229 posts analyzed. Avg 0 views.",
+  "insights": "267 posts. Avg 0 views.",
   "top_posts": [
-    {
-      "author": "@nk.business.talks",
-      "followers": 0,
-      "caption": "Stop selling to everyone.\nStart owning a position in customer\u2019s mind.\n\nSegmentation creates clarity.\nPositioning creates demand.\n\nThat\u2019s how strong brands are built.\n\n#entrepreneurship #successmindset",
-      "views": 0,
-      "likes": 66300,
-      "comments": 2454,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 103.7,
-      "hashtags": [
-        "#entrepreneurship",
-        "#successmindset",
-        "#businessmindset",
-        "#smallbusiness",
-        "#startuplife"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW0Z4znyPmn/"
-    },
-    {
-      "author": "@andrewtatelegacyy",
-      "followers": 0,
-      "caption": "Andrew Tate (born Emory Andrew Tate III on December 1, 1986) is a British-American entrepreneur, former professional kickboxer, and online personality. He first rose to prominence through his success ",
-      "views": 0,
-      "likes": 6277,
-      "comments": 13,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.21,
-      "hashtags": [
-        "#AndrewTate",
-        "#TopG",
-        "#KickboxingChampion",
-        "#Entrepreneur",
-        "#OnlinePersonality"
-      ],
-      "posted_date": "2026-04-02",
-      "url": "https://www.instagram.com/p/DWpHFyrjKPf/"
-    },
     {
       "author": "@breonma_",
       "followers": 0,
@@ -223,26 +188,6 @@
       ],
       "posted_date": "2026-03-12",
       "url": "https://www.instagram.com/p/DVxFWMvCkfL/"
-    },
-    {
-      "author": "@harshsevani",
-      "followers": 0,
-      "caption": "Everything\u2019s a joke until you actually prove it \u270c\ufe0f\nYour Gut & Your Vision can never be wrong. Just do it.\n\n#startup #entrepreneur #food #delivery #liveit",
-      "views": 0,
-      "likes": 5259,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#startup",
-        "#entrepreneur",
-        "#food",
-        "#delivery",
-        "#liveit"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwaRu9COgE/"
     },
     {
       "author": "@theinsidertoronto",
@@ -329,45 +274,6 @@
       "url": "https://www.instagram.com/p/DWZPwADFyWD/"
     },
     {
-      "author": "@im.diaraye",
-      "followers": 0,
-      "caption": "Partie 12| Bienvenue chez NANI cr\u00eapes et douceurs\u2763\ufe0f\nRendez-vous le 11 avril \u00e0 14h pr\u00e8s de l\u2019universit\u00e9 Koffi Annan pour l\u2019ouverture officielle \ud83c\uddec\ud83c\uddf3#entrepreneur #restaurant #guin\u00e9e #investirenguin\u00e9e #cr",
-      "views": 0,
-      "likes": 3116,
-      "comments": 219,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 107.03,
-      "hashtags": [
-        "#entrepreneur",
-        "#restaurant",
-        "#guin\u00e9e",
-        "#investirenguin\u00e9e",
-        "#creperie"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzMPFMjZik/"
-    },
-    {
-      "author": "@georgeclem",
-      "followers": 0,
-      "caption": "Life Hack: Charge every 4 weeks instead of monthly \n\n\ud83d\udc49Follow @georgeclem for more valuable videos on scaling your agency to $100K-$200K/mo\n\n#entrepreneur #agency #scaling #info",
-      "views": 0,
-      "likes": 3065,
-      "comments": 88,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 102.87,
-      "hashtags": [
-        "#entrepreneur",
-        "#agency",
-        "#scaling",
-        "#info"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWxDAoJjEJ-/"
-    },
-    {
       "author": "@slyida.b",
       "followers": 0,
       "caption": "\u201cRated X\u201d by Nine Dog Dick, from the album Rated X/Mothership. #freejazz #psychojazz #grind #milesdavis #larryyoung",
@@ -411,26 +317,6 @@
       "url": "https://www.instagram.com/p/DW0V14dkvYq/"
     },
     {
-      "author": "@pilarcastrosvp",
-      "followers": 0,
-      "caption": "Top 5 Licencias en \ud83c\uddfa\ud83c\uddf8 que mejor ingreso generan \ud83d\ude4c\ud83c\udffb\n\nSab\u00edas que en este pa\u00eds no necesitas un t\u00edtulo universitario para ganar como un profesional, pero s\u00ed necesitas las licencias correctas? \ud83c\udf93\u274c \u27a1\ufe0f \ud83d\udcdc\u2705\n\nLa",
-      "views": 0,
-      "likes": 2637,
-      "comments": 1312,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 149.75,
-      "hashtags": [
-        "#Seguros",
-        "#oportunidad",
-        "#licencias",
-        "#finanzas",
-        "#ingresosextras"
-      ],
-      "posted_date": "2026-04-03",
-      "url": "https://www.instagram.com/p/DWrkM0mkXgA/"
-    },
-    {
       "author": "@campbellcorp",
       "followers": 0,
       "caption": "Use @ironshinesupply products now! \n\n#kenworth #peterbilt #truck #work #grind",
@@ -469,26 +355,6 @@
       "url": "https://www.instagram.com/p/DWvgJ50Abzp/"
     },
     {
-      "author": "@itzjblair",
-      "followers": 0,
-      "caption": "\u201cbe realistic\u201d #daytrading #trading #nq #entrepreneurship #entrepreneur",
-      "views": 0,
-      "likes": 2527,
-      "comments": 14,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.55,
-      "hashtags": [
-        "#daytrading",
-        "#trading",
-        "#nq",
-        "#entrepreneurship",
-        "#entrepreneur"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwQlctkU_d/"
-    },
-    {
       "author": "@prisci_corona",
       "followers": 0,
       "caption": "Glutes & Hamstrings on the menu \u2728\n\nSave for your next workout / Guarda esta rutina si quieres un buen pump \ud83d\udd25\n\nWorkout: \n1. Heavy hip thrusts 4x15/10/8/6 adding weight each set\n2. Step ups 3x10-12 each",
@@ -507,46 +373,6 @@
       ],
       "posted_date": "2026-04-07",
       "url": "https://www.instagram.com/p/DW11CldRc0u/"
-    },
-    {
-      "author": "@the_millertime1320",
-      "followers": 0,
-      "caption": "A strong mind is more than money can ever afford.\n\nDM \u201cSALES\u201d let\u2019s get you started today\ud83e\udeb2\n\n#fyp #explorer #entrepreneur #trendingreels #astonmartin sales motivation wealth",
-      "views": 0,
-      "likes": 2210,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.05,
-      "hashtags": [
-        "#fyp",
-        "#explorer",
-        "#entrepreneur",
-        "#trendingreels",
-        "#astonmartin"
-      ],
-      "posted_date": "2026-04-03",
-      "url": "https://www.instagram.com/p/DWrcnj3DiDL/"
-    },
-    {
-      "author": "@samantha.schueller",
-      "followers": 0,
-      "caption": "Hand aufs Herz: Verkaufst du noch \u201eBalayage\u201c laut Preisliste? Dann machst du dich vergleichbar.\ud83e\udd13\n\nDenn eine Balayage kriegt man an jeder Ecke. Aber was man dort NICHT bekommt, ist deine Haltung, deine",
-      "views": 0,
-      "likes": 2188,
-      "comments": 48,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 102.19,
-      "hashtags": [
-        "#kopfsacheakademie",
-        "#preiskalkulation",
-        "#friseure",
-        "#selbstst\u00e4ndig",
-        "#businessmindset"
-      ],
-      "posted_date": "2026-03-17",
-      "url": "https://www.instagram.com/p/DV-jXYYCAi0/"
     },
     {
       "author": "@sofiyaaaa___",
@@ -587,26 +413,6 @@
       ],
       "posted_date": "2026-04-07",
       "url": "https://www.instagram.com/p/DW0F-9SDUEE/"
-    },
-    {
-      "author": "@jamieseaofficial",
-      "followers": 0,
-      "caption": "#entrepreneur #businessowner#businesscoaching #onlinemarketing #digitalmarketing",
-      "views": 0,
-      "likes": 1984,
-      "comments": 111,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 105.59,
-      "hashtags": [
-        "#entrepreneur",
-        "#businessowner",
-        "#businesscoaching",
-        "#onlinemarketing",
-        "#digitalmarketing"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWxAJRtkaHz/"
     },
     {
       "author": "@jaunpuriyabinita",
@@ -689,26 +495,6 @@
       "url": "https://www.instagram.com/p/DW1Mx2zgH2B/"
     },
     {
-      "author": "@businessmind_hindi",
-      "followers": 0,
-      "caption": "\u2728 \u092c\u093f\u091c\u0928\u0947\u0938 \u0914\u0930 \u092b\u093e\u0907\u0928\u0947\u0902\u0936\u093f\u092f\u0932 \u090f\u091c\u0941\u0915\u0947\u0936\u0928 \u0915\u0947 \u0932\u093f\u090f \u0939\u092e\u0947\u0902 \u092b\u0949\u0932\u094b \u0915\u0930\u0947\u0902 \u27a1\ufe0f @businessmind_hindi\n\n\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\n\n#StockMarketIndia\n#BusinessMindset\n#WealthBuilding\n#TradingMindset\n#EntrepreneurIndia\n\n\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796",
-      "views": 0,
-      "likes": 1724,
-      "comments": 377,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 121.87,
-      "hashtags": [
-        "#StockMarketIndia",
-        "#BusinessMindset",
-        "#WealthBuilding",
-        "#TradingMindset",
-        "#EntrepreneurIndia"
-      ],
-      "posted_date": "2026-03-23",
-      "url": "https://www.instagram.com/p/DWOm0BIihvC/"
-    },
-    {
       "author": "@terrica_moore",
       "followers": 0,
       "caption": "No days Off NO EXCUSES! In order to be apart of the 1% you have to be willing to do what the 99% won\u2019t do! Right after this race Harmony received great feedback and advice from the GOAT himself Reggie",
@@ -727,26 +513,6 @@
       ],
       "posted_date": "2026-03-26",
       "url": "https://www.instagram.com/p/DWW7nsuFbge/"
-    },
-    {
-      "author": "@trustedtouchh",
-      "followers": 0,
-      "caption": "you know what i mean!? sometimes i\u2019ll even drive back to make sure the the door is still locked\ud83e\udd23\ud83e\udd23\ud83e\udd23\n\n#beauty #explore #explorepage #businessmindset #salon",
-      "views": 0,
-      "likes": 1670,
-      "comments": 31,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 101.86,
-      "hashtags": [
-        "#beauty",
-        "#explore",
-        "#explorepage",
-        "#businessmindset",
-        "#salon"
-      ],
-      "posted_date": "2026-04-04",
-      "url": "https://www.instagram.com/p/DWucIqiApVD/"
     },
     {
       "author": "@nexco.inc",
@@ -948,26 +714,6 @@
       "url": "https://www.instagram.com/p/DWts7WfDZjJ/"
     },
     {
-      "author": "@annabellekoch.95",
-      "followers": 0,
-      "caption": "Man merkt es nicht sofort...\n\nNicht, wenn man immer gibt.\nNicht, wenn man immer da ist.\nNicht, wenn man denkt,\nes kommt irgendwann zur\u00fcck.\n\nAber irgendwann f\u00fchlst du es.\nDiese Leere.\nDieses Ungleichge",
-      "views": 0,
-      "likes": 1339,
-      "comments": 16,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 101.19,
-      "hashtags": [
-        "#workingmom",
-        "#businesswoman",
-        "#businessmindset",
-        "#reichweiteaufbauen",
-        "#glaubeandich"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwbie0DSMe/"
-    },
-    {
       "author": "@maroc_fut19",
       "followers": 0,
       "caption": "\ud83d\udc94\n.\n.\n.\n.\n.\n.\n.\n.\n#reels #fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp #football #motivation #morocco",
@@ -1011,46 +757,6 @@
       "url": "https://www.instagram.com/p/DW1WuLWlBsc/"
     },
     {
-      "author": "@eldosthrift",
-      "followers": 0,
-      "caption": "Totoo.\n \n\n#thrift #thriftbusiness #reels #ukayukay #businessmindset Thrifting is the practice of buying secondhand items\u2014usually clothes, accessories, or home goods\u2014from thrift stores, vintage shops, ",
-      "views": 0,
-      "likes": 1302,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.38,
-      "hashtags": [
-        "#thrift",
-        "#thriftbusiness",
-        "#reels",
-        "#ukayukay",
-        "#businessmindset"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWvBajLj-wh/"
-    },
-    {
-      "author": "@financewithmariya",
-      "followers": 0,
-      "caption": "5 best advice for the age of 20-25 \n..\n\n@financewithmariya\n..\n\u0964\n..\n#moneytips #savingsgoals health insurance, term insurance #moneymanagement#businessmindset #instgaramreels",
-      "views": 0,
-      "likes": 1282,
-      "comments": 66,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 105.15,
-      "hashtags": [
-        "#moneytips",
-        "#savingsgoals",
-        "#moneymanagement",
-        "#businessmindset",
-        "#instgaramreels"
-      ],
-      "posted_date": "2026-04-03",
-      "url": "https://www.instagram.com/p/DWrfy0tDwFH/"
-    },
-    {
       "author": "@sk_trader_19",
       "followers": 0,
       "caption": "Welldone powell \u270c\ufe0f #reel #reelinstagram #motivation #learning #fyp",
@@ -1069,26 +775,6 @@
       ],
       "posted_date": "2026-04-07",
       "url": "https://www.instagram.com/p/DWz4r0biDQ5/"
-    },
-    {
-      "author": "@mahakelsalhy",
-      "followers": 0,
-      "caption": "The secret to closing multi-million dollar deals? Shutting up. \n\nThe biggest mistake you can make when a client pushes back is over-explaining. You don't need to defend your worth\u2014you need more inform",
-      "views": 0,
-      "likes": 1252,
-      "comments": 31,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 102.48,
-      "hashtags": [
-        "#SalesTraining",
-        "#EntrepreneurLife",
-        "#CommunicationSkills",
-        "#SalesHacks",
-        "#BusinessMindset"
-      ],
-      "posted_date": "2026-03-25",
-      "url": "https://www.instagram.com/p/DWUQ8WaDMrF/"
     },
     {
       "author": "@emprendimientosalvaje",
@@ -1227,85 +913,6 @@
       "url": "https://www.instagram.com/p/DW1J-n2CaHl/"
     },
     {
-      "author": "@andrewtatelegacyy",
-      "followers": 0,
-      "caption": "Andrew Tate (born Emory Andrew Tate III on December 1, 1986) is a British-American entrepreneur, former professional kickboxer, and online personality. He first rose to prominence through his success ",
-      "views": 0,
-      "likes": 1134,
-      "comments": 3,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.26,
-      "hashtags": [
-        "#AndrewTate",
-        "#TopG",
-        "#KickboxingChampion",
-        "#Entrepreneur",
-        "#OnlinePersonality"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWuwVDKCLur/"
-    },
-    {
-      "author": "@themorganmay",
-      "followers": 0,
-      "caption": "Comment \u201cmask\u201d for the free masterclass xx\n\n#power #darkfeminine #confidence #leader #entrepreneur",
-      "views": 0,
-      "likes": 1127,
-      "comments": 52,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 104.61,
-      "hashtags": [
-        "#power",
-        "#darkfeminine",
-        "#confidence",
-        "#leader",
-        "#entrepreneur"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwVjbTjVfS/"
-    },
-    {
-      "author": "@raaacheel_ll",
-      "followers": 0,
-      "caption": "Ahahahha #marketing #businessenligne #digital #bussiness #businessmindset",
-      "views": 0,
-      "likes": 1121,
-      "comments": 3,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.27,
-      "hashtags": [
-        "#marketing",
-        "#businessenligne",
-        "#digital",
-        "#bussiness",
-        "#businessmindset"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwhlHhDDy3/"
-    },
-    {
-      "author": "@clucio10",
-      "followers": 0,
-      "caption": "My friday night owning a soccer field in Miami \u26bd\ufe0f\n\n#miami #miamisoccer #vlog #entrepreneur",
-      "views": 0,
-      "likes": 1111,
-      "comments": 8,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.72,
-      "hashtags": [
-        "#miami",
-        "#miamisoccer",
-        "#vlog",
-        "#entrepreneur"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwjLsPkV2K/"
-    },
-    {
       "author": "@sorrentinogiordana",
       "followers": 0,
       "caption": "DITEMI CHE NON SONO L\u2019UNICA\u2026 \ud83d\ude2e\u200d\ud83d\udca8\n#diet #motivation #noparty #nomovida #training",
@@ -1408,26 +1015,6 @@
       "url": "https://www.instagram.com/p/DW1QA1Ejrey/"
     },
     {
-      "author": "@lala.ji1860",
-      "followers": 0,
-      "caption": "\ud83d\udcaf\n.\n.\n.\n.\n.\n.\n#instagramreels #reel #stugglelife\u2764\ufe0f #businessmindset #trend",
-      "views": 0,
-      "likes": 1034,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#instagramreels",
-        "#reel",
-        "#stugglelife\u2764\ufe0f",
-        "#businessmindset",
-        "#trend"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWyxno9D3v2/"
-    },
-    {
       "author": "@adarshhjr.25",
       "followers": 0,
       "caption": "\ud83e\udd37\ud83c\udffb\ud83e\udd37\ud83c\udffb\n\n#football#grind#viralree\u013as#trending#fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp",
@@ -1464,26 +1051,6 @@
       ],
       "posted_date": "2026-04-06",
       "url": "https://www.instagram.com/p/DWzzEO0E2pU/"
-    },
-    {
-      "author": "@howie_sackstein",
-      "followers": 0,
-      "caption": "Natie Kirsh is now the richest South African having sold Jetro and Restaurant Depot in America for $29billion or R500 billion.  Natie Kirsh is one of South Africa\u2019s greatest entrepreneurs. But Ii\u2019s a ",
-      "views": 0,
-      "likes": 1010,
-      "comments": 36,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 103.56,
-      "hashtags": [
-        "#jetro",
-        "#kirsh",
-        "#entrepreneur",
-        "#business",
-        "#checkers"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwpf3AiAQN/"
     },
     {
       "author": "@stargirllyx",
@@ -1551,45 +1118,6 @@
       "url": "https://www.instagram.com/p/DW0N4gxjmYu/"
     },
     {
-      "author": "@lucaassramirez",
-      "followers": 0,
-      "caption": "Fully available\u2026 just not for free \ud83d\ude0e\n\n#businessowner #entrepreneur #mindset",
-      "views": 0,
-      "likes": 979,
-      "comments": 6,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.61,
-      "hashtags": [
-        "#businessowner",
-        "#entrepreneur",
-        "#mindset"
-      ],
-      "posted_date": "2026-04-04",
-      "url": "https://www.instagram.com/p/DWsRRtcEn3O/"
-    },
-    {
-      "author": "@dailydeals.news",
-      "followers": 0,
-      "caption": "Jamie Dimon is one of the most influential figures in global finance, serving as the longtime CEO of JPMorgan Chase. Known for his straightforward leadership style and strong risk management, he helpe",
-      "views": 0,
-      "likes": 972,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.1,
-      "hashtags": [
-        "#Finance",
-        "#WallStreet",
-        "#JamieDimon",
-        "#BusinessMindset",
-        "#Leadership",
-        "#Investing"
-      ],
-      "posted_date": "2026-04-03",
-      "url": "https://www.instagram.com/p/DWsEDrLDq39/"
-    },
-    {
       "author": "@theinsidertoronto",
       "followers": 0,
       "caption": "Join 145,000 Torontonians who enjoy InsiderToronto. If you liked this post, click the link in our bio for our free newsletter. \n\noronto\u2019s secret bridge. Did you know that if you\u2019re walking on Crawford",
@@ -1631,64 +1159,6 @@
       ],
       "posted_date": "2026-03-24",
       "url": "https://www.instagram.com/p/DWRqBmtiFMo/"
-    },
-    {
-      "author": "@arun_nadar_p",
-      "followers": 0,
-      "caption": "\u0ba8\u0bbe\u0ba9\u0bcd \u0b95\u0bb1\u0bcd\u0bb1 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd \u0b8e\u0ba9\u0bcd\u0ba9\u0bc8 \u0b95\u0bc8\u0bb5\u0bbf\u0b9f\u0bbe\u0ba4\u0bc1 \ud83d\udcc8\ud83d\udcaf\ud83d\udcaf\ud83d\udcaf#chennai #businessmindset #tamilnadu #thirunelvelikaran\u2694\ufe0f #money",
-      "views": 0,
-      "likes": 955,
-      "comments": 6,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.63,
-      "hashtags": [
-        "#chennai",
-        "#businessmindset",
-        "#tamilnadu",
-        "#thirunelvelikaran\u2694\ufe0f",
-        "#money"
-      ],
-      "posted_date": "2026-03-25",
-      "url": "https://www.instagram.com/p/DWT4x5EDxfZ/"
-    },
-    {
-      "author": "@yusuftruth",
-      "followers": 0,
-      "caption": "obsessed with creating this version of myself I always saw\n.\n.\n.\n.\n.\n.\n.\n#information #masculinity #reels #entrepreneur",
-      "views": 0,
-      "likes": 952,
-      "comments": 3,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.32,
-      "hashtags": [
-        "#information",
-        "#masculinity",
-        "#reels",
-        "#entrepreneur"
-      ],
-      "posted_date": "2026-04-02",
-      "url": "https://www.instagram.com/p/DWovxTijjKf/"
-    },
-    {
-      "author": "@ankitfoodsvlog",
-      "followers": 0,
-      "caption": "\ud83d\udc49 \u092c\u093f\u091c\u0928\u0947\u0938 \u091b\u094b\u091f\u093e \u0939\u094b \u092f\u093e \u092c\u0921\u093c\u093e,\n\u0938\u094b\u091a \u0939\u092e\u0947\u0936\u093e \u092e\u093e\u0932\u093f\u0915 \u092c\u0928\u0928\u0947 \u0915\u0940 \u0930\u0916\u094b \ud83d\udcbc\ud83d\udd25\n\n\u091b\u094b\u091f\u093e \u0936\u0941\u0930\u0942 \u0915\u0930\u0928\u093e \u0917\u0932\u0924 \u0928\u0939\u0940\u0902,\n\u091b\u094b\u091f\u093e \u0938\u094b\u091a \u0932\u0947\u0928\u093e \u0917\u0932\u0924 \u0939\u0948 \ud83d\udcaf\ud83d\ude80\n##BusinessMindset #Motivation #EntrepreneurLife #SmallBusiness DreamBig SuccessMindset HardWo",
-      "views": 0,
-      "likes": 945,
-      "comments": 6,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.63,
-      "hashtags": [
-        "#BusinessMindset",
-        "#Motivation",
-        "#EntrepreneurLife",
-        "#SmallBusiness"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwKY5miW5r/"
     },
     {
       "author": "@yanivrosenberg1",
@@ -1771,60 +1241,6 @@
       "url": "https://www.instagram.com/p/DW0UTr2jeUd/"
     },
     {
-      "author": "@eraldorosa",
-      "followers": 0,
-      "caption": "O come\u00e7o desse encontro sobre hist\u00f3rias que inspiram. D\u00e1 o play e sinta o que vem pela frente\u2026",
-      "views": 0,
-      "likes": 894,
-      "comments": 32,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 103.58,
-      "hashtags": [],
-      "posted_date": "2026-03-27",
-      "url": "https://www.instagram.com/p/DWZG6odEYF1/"
-    },
-    {
-      "author": "@nazan_art_insurance",
-      "followers": 0,
-      "caption": "*\u201cSanat iyile\u015ftirir, birle\u015ftirir.\u201d*\n\nBu c\u00fcmlenin izinde, uzun zamand\u0131r kalbimde ta\u015f\u0131d\u0131\u011f\u0131m bir hayali sizinle payla\u015fman\u0131n heyecan\u0131n\u0131 ya\u015f\u0131yorum.\n\u201cNazan ile \u00c7izgi D\u0131\u015f\u0131\u201d \u00e7ok yak\u0131nda YouTube\u2019da hayat bulac",
-      "views": 0,
-      "likes": 893,
-      "comments": 39,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 104.37,
-      "hashtags": [
-        "#fineartflowers",
-        "#businessmindset",
-        "#fineart",
-        "#life",
-        "#art"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwQRqMIGHY/"
-    },
-    {
-      "author": "@aliasherbals",
-      "followers": 0,
-      "caption": "You will never be criticized by someone who is doing more than you. You will only be criticized by those who are doing less\ud83d\udda4 #entrepreneur #bossbabe #entrepreneurship #girlboss #businessowner",
-      "views": 0,
-      "likes": 893,
-      "comments": 40,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 104.48,
-      "hashtags": [
-        "#entrepreneur",
-        "#bossbabe",
-        "#entrepreneurship",
-        "#girlboss",
-        "#businessowner"
-      ],
-      "posted_date": "2026-04-03",
-      "url": "https://www.instagram.com/p/DWplbHEkTSv/"
-    },
-    {
       "author": "@gladysphillip",
       "followers": 0,
       "caption": "Can\u2019t convince me there\u2019s a hotter body part than the back \nFits: one pieces by @dfyne.official code GLADYS \n.\n.\n.\n.\n.\n.\n.\n \n#fitness #gymreels #motivation #fitgirl",
@@ -1865,26 +1281,6 @@
       ],
       "posted_date": "2026-04-05",
       "url": "https://www.instagram.com/p/DWviYPviI3N/"
-    },
-    {
-      "author": "@henda.kini",
-      "followers": 0,
-      "caption": "A Chinese billionaire level executive\u2026 helped me with a parking ticket.\n\n\u2e3b\n\nThe Vice President of the world\u2019s largest automobile design company\u2026 walked downstairs to help me with my parking ticket.\n\nT",
-      "views": 0,
-      "likes": 880,
-      "comments": 30,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 103.41,
-      "hashtags": [
-        "#HendaKini",
-        "#Leadership",
-        "#BusinessMindset",
-        "#ChinaAfrica",
-        "#Success"
-      ],
-      "posted_date": "2026-04-04",
-      "url": "https://www.instagram.com/p/DWtOKX0gPgS/"
     },
     {
       "author": "@joshlevitan",
@@ -1928,26 +1324,6 @@
       ],
       "posted_date": "2026-04-07",
       "url": "https://www.instagram.com/p/DW1LHY5P4kc/"
-    },
-    {
-      "author": "@lyndolwoodruff",
-      "followers": 0,
-      "caption": "Full episode out now everywhere you get your podcasts, plus YouTube!\n\nSuch an amazing story of resilience and finding clarity in the chaos.\n\n#claritychangeseverything #podcast #businessmindset #apple ",
-      "views": 0,
-      "likes": 862,
-      "comments": 3,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.35,
-      "hashtags": [
-        "#claritychangeseverything",
-        "#podcast",
-        "#businessmindset",
-        "#apple",
-        "#spotify"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzmEF0gGJz/"
     },
     {
       "author": "@zarasilver",
@@ -2002,25 +1378,6 @@
       "hashtags": [],
       "posted_date": "2026-04-04",
       "url": "https://www.instagram.com/p/DWtAXyKDzlp/"
-    },
-    {
-      "author": "@patflynn",
-      "followers": 0,
-      "caption": "If you're not live streaming yet, you're missing out.\n\nIn a world of AI, real-time connection is what sets you apart. \n\nShow up, be human, and build trust with your audience. \n\nIt's easier than you th",
-      "views": 0,
-      "likes": 833,
-      "comments": 31,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 103.72,
-      "hashtags": [
-        "#livestreaming",
-        "#contentcreator",
-        "#entrepreneur",
-        "#ad"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzp3c4kRCs/"
     },
     {
       "author": "@ansh008713",
@@ -2116,46 +1473,6 @@
       "url": "https://www.instagram.com/p/DWzx4-hACt2/"
     },
     {
-      "author": "@lkb_trading",
-      "followers": 0,
-      "caption": "Jai shree shyam baba ji \ud83d\udea9\nLkb trading company 8717835427 #tomato #instagram #farming #export #businessmindset",
-      "views": 0,
-      "likes": 799,
-      "comments": 4,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.5,
-      "hashtags": [
-        "#tomato",
-        "#instagram",
-        "#farming",
-        "#export",
-        "#businessmindset"
-      ],
-      "posted_date": "2026-04-04",
-      "url": "https://www.instagram.com/p/DWsnQi0jOyP/"
-    },
-    {
-      "author": "@neelkanth_petroleum7",
-      "followers": 0,
-      "caption": "\ud83d\udd31\u26fd\ufe0f\n#nayaraenergylimited #businessmindset #viralreels #viralree\u013as #business",
-      "views": 0,
-      "likes": 797,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#nayaraenergylimited",
-        "#businessmindset",
-        "#viralreels",
-        "#viralree\u013as",
-        "#business"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWvJXS6DmQ5/"
-    },
-    {
       "author": "@36oz_of_game",
       "followers": 0,
       "caption": "Be excited to give me some paper bihh #36ozofgame #motivation #inspiration #game #lifestyle",
@@ -2198,45 +1515,6 @@
       "url": "https://www.instagram.com/p/DW1Iv0KFBDi/"
     },
     {
-      "author": "@lee_forsberg",
-      "followers": 0,
-      "caption": "Is the sports grind worth it? \u2026. Yes. Here is why:\n\n95 percent of Fortune 500 CEOs played competitive sports.\nNot 50. Not 60. 95.\n\n94 percent of women in C-suite executive positions were former athlet",
-      "views": 0,
-      "likes": 757,
-      "comments": 27,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 103.57,
-      "hashtags": [
-        "#athlete",
-        "#leadership",
-        "#entrepreneur",
-        "#sports"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW0B9aSjrnh/"
-    },
-    {
-      "author": "@celebwealthline",
-      "followers": 0,
-      "caption": "Stop trading your sanity for a paycheck that will never love you back.\n\n\u200bThe harsh reality of the modern workplace is that \"family culture\" often ends where your personal crisis begins. You can be the",
-      "views": 0,
-      "likes": 750,
-      "comments": 4,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.53,
-      "hashtags": [
-        "#financialfreedom",
-        "#wealthmindset",
-        "#corporatelife",
-        "#businessmindset",
-        "#workculture"
-      ],
-      "posted_date": "2026-04-03",
-      "url": "https://www.instagram.com/p/DWq5gLEDKct/"
-    },
-    {
       "author": "@jackathee",
       "followers": 0,
       "caption": "Grindr in Helldivers\u2026 #helldivers2 #gaming #grind #grindr #funny",
@@ -2255,29 +1533,6 @@
       ],
       "posted_date": "2026-03-22",
       "url": "https://www.instagram.com/p/DWL7ErsDK37/"
-    },
-    {
-      "author": "@its_deva_1112",
-      "followers": 0,
-      "caption": "\u0938\u093e\u0924\u094d\u0935\u093f\u0915 \u0921\u0940 \u092b\u0941\u0921\u094d\u0938 - \u0930\u093e\u091c\u0941\u0930\u0940 , \u091c\u0941\u0928\u094d\u0928\u0930\n\ud83d\udcf2 +91 98508 73106\n\n#viral #trending #junnar #foryou #alephata #instagood #foodlover #foodie #diwali #festival #fyp #reels #motivation #startup #influencer #business ",
-      "views": 0,
-      "likes": 748,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.13,
-      "hashtags": [
-        "#viral",
-        "#trending",
-        "#junnar",
-        "#foryou",
-        "#alephata",
-        "#instagood",
-        "#foodlover",
-        "#foodie"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWywj6UDQ5x/"
     },
     {
       "author": "@just_motiv__",
@@ -2401,20 +1656,6 @@
       "url": "https://www.instagram.com/p/DWzgvplkkqN/"
     },
     {
-      "author": "@ceotipsdaily",
-      "followers": 0,
-      "caption": "\u201cIt's a scam.\u201d\n\nThat\u2019s how fast Mark Cuban shut it down on Shark Tank. Ryan Naylor walked in with Esso Watches showing real profit, $120K in revenue and $70K in profit, but the moment he explained the",
-      "views": 0,
-      "likes": 694,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.14,
-      "hashtags": [],
-      "posted_date": "2026-04-03",
-      "url": "https://www.instagram.com/p/DWrTMbzEvuo/"
-    },
-    {
       "author": "@alina_letsopoulou",
       "followers": 0,
       "caption": "\u0394\u03b5\u03bd \u03b8\u03c5\u03bc\u03ce\u03bd\u03b5\u03b9\n\u0391\u03c0\u03bb\u03ac \u03bc\u03b1\u03c2 \u03b8\u03c5\u03bc\u03af\u03b6\u03b5\u03b9 \u03b3\u03b9\u03b1\u03c4\u03af \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf \u03b2\u03b1\u03c3\u03b9\u03bb\u03b9\u03ac\u03c2 \u03c4\u03bf\u03c5 Zodiac Zoo\ud83e\udd81\ud83d\udc51\n\n#lion #king #mindset #power #alpha",
@@ -2433,26 +1674,6 @@
       ],
       "posted_date": "2026-04-07",
       "url": "https://www.instagram.com/p/DW0w-8hjX6R/"
-    },
-    {
-      "author": "@kmxtrades",
-      "followers": 0,
-      "caption": "#forex #fyp #entrepreneur #forextrader #forextrading",
-      "views": 0,
-      "likes": 664,
-      "comments": 17,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 102.56,
-      "hashtags": [
-        "#forex",
-        "#fyp",
-        "#entrepreneur",
-        "#forextrader",
-        "#forextrading"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW05cP1CNbr/"
     },
     {
       "author": "@mankind_ifbbpro",
@@ -2566,26 +1787,6 @@
       ],
       "posted_date": "2026-04-07",
       "url": "https://www.instagram.com/p/DW1JSKMkf5X/"
-    },
-    {
-      "author": "@arieniadriena",
-      "followers": 0,
-      "caption": "Watch me and my mini me bake my signature butter cake for raya makan makan! \ud83d\ude0d\ud83d\ude0d\ud83d\ude0b \n\nTak berjaya nak open orders yet cuz been so packed with operations and the kids. Soon okay? \ud83d\ude0b\ud83d\ude0d #gulacakery #baker #che",
-      "views": 0,
-      "likes": 626,
-      "comments": 32,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 105.11,
-      "hashtags": [
-        "#gulacakery",
-        "#baker",
-        "#cheflife",
-        "#entrepreneur",
-        "#buttercake"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW0aM3ykmta/"
     },
     {
       "author": "@alex_gonzius",
@@ -2979,45 +2180,6 @@
       "url": "https://www.instagram.com/p/DW1nWp_iOpf/"
     },
     {
-      "author": "@__shn.d",
-      "followers": 0,
-      "caption": "larp larp larp\n-\n\u2022 \n-\n#lifestyle #fyp #entrepreneur #explore #reels",
-      "views": 0,
-      "likes": 536,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#lifestyle",
-        "#fyp",
-        "#entrepreneur",
-        "#explore",
-        "#reels"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwTLFQknaI/"
-    },
-    {
-      "author": "@msc_mangos",
-      "followers": 0,
-      "caption": "#businessowner #businessmindset #business #businessman",
-      "views": 0,
-      "likes": 535,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.93,
-      "hashtags": [
-        "#businessowner",
-        "#businessmindset",
-        "#business",
-        "#businessman"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWx4ojuDojT/"
-    },
-    {
       "author": "@fabianaaa_cort",
       "followers": 0,
       "caption": "#mentalidad #amorpropr\u00edo #mujeresconprop\u00f3sito #mindset",
@@ -3035,80 +2197,6 @@
       ],
       "posted_date": "2026-04-06",
       "url": "https://www.instagram.com/p/DWzxZJ7kXwj/"
-    },
-    {
-      "author": "@jakeswiz",
-      "followers": 0,
-      "caption": "the things you\u2019re looking for is always going to be hidden in the work you\u2019re not putting in. Keep pushing I promise you\u2019ve got so much more in you than you think. \n\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n#swizsecurity #hacking #",
-      "views": 0,
-      "likes": 509,
-      "comments": 16,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 103.14,
-      "hashtags": [
-        "#swizsecurity",
-        "#hacking",
-        "#entrepreneur",
-        "#cybersecurity",
-        "#motivate"
-      ],
-      "posted_date": "2026-04-02",
-      "url": "https://www.instagram.com/p/DWnZTaxjS6s/"
-    },
-    {
-      "author": "@santtigiraldo",
-      "followers": 0,
-      "caption": "El problema no es el hierro\u2026 es la falta de criterio. \ud83d\udd25\n\nAqu\u00ed hay mucho que trabaja en autom\u00e1tico\ny despu\u00e9s se preguntan por qu\u00e9 el caballo no mejora. \ud83d\udc40\n\nCada caballo pide algo distinto.\nPero si no ha",
-      "views": 0,
-      "likes": 507,
-      "comments": 80,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 115.78,
-      "hashtags": [
-        "#herradorprofesional",
-        "#herreros",
-        "#caballos",
-        "#santtigiraldocaballista",
-        "#entrepreneur"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwchBzDeu_/"
-    },
-    {
-      "author": "@agprofits_",
-      "followers": 0,
-      "caption": "Include Him in everything. #praiseGod #believe #catholic #entrepreneur #daytrading",
-      "views": 0,
-      "likes": 506,
-      "comments": 4,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.79,
-      "hashtags": [
-        "#praiseGod",
-        "#believe",
-        "#catholic",
-        "#entrepreneur",
-        "#daytrading"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzownbDZdv/"
-    },
-    {
-      "author": "@olivier_roland",
-      "followers": 0,
-      "caption": "Je suis actuellement \u00e0 Dubai car je voulais voir sur place ce qui se passe. Car tu as plus de risque de te faire agresser \u00e0 Paris que de te prendre un missile ici.\n\nCe que je constate sur place :",
-      "views": 0,
-      "likes": 500,
-      "comments": 71,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 114.2,
-      "hashtags": [],
-      "posted_date": "2026-04-03",
-      "url": "https://www.instagram.com/p/DWrM26ciiUy/"
     },
     {
       "author": "@rohitansal_",
@@ -3149,49 +2237,6 @@
       ],
       "posted_date": "2026-04-07",
       "url": "https://www.instagram.com/p/DW11z4ejHHY/"
-    },
-    {
-      "author": "@shree_samarth_steel_furniture",
-      "followers": 0,
-      "caption": "Booking No:9730504474\n  7385762887\n\n#explorepage\u2728 #trendingreelsvideo #viral #trend #business #businessman #businessmindset #phaltankar #offersale\u2728\u2764\ufe0f #offer",
-      "views": 0,
-      "likes": 443,
-      "comments": 13,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 102.93,
-      "hashtags": [
-        "#explorepage\u2728",
-        "#trendingreelsvideo",
-        "#viral",
-        "#trend",
-        "#business",
-        "#businessman",
-        "#businessmindset",
-        "#phaltankar"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW0z8VTiB9D/"
-    },
-    {
-      "author": "@manelouteiro",
-      "followers": 0,
-      "caption": "descobri onde fazer poly mailers personalizados, comenta \u201cQuero\u201d que eu envio-te o site ;)\n\n#clothingbrandowner #brandowner #clothingstartup #clothingbusiness #entrepreneur",
-      "views": 0,
-      "likes": 442,
-      "comments": 343,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 177.6,
-      "hashtags": [
-        "#clothingbrandowner",
-        "#brandowner",
-        "#clothingstartup",
-        "#clothingbusiness",
-        "#entrepreneur"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzURRwipCE/"
     },
     {
       "author": "@theinsidertoronto",
@@ -3309,67 +2354,6 @@
       ],
       "posted_date": "2026-04-07",
       "url": "https://www.instagram.com/p/DW1DBjgie8g/"
-    },
-    {
-      "author": "@sallan_traders_rbl",
-      "followers": 0,
-      "caption": "Business \u269c\ufe0f\n.\n.\n.\n.\n.\n.\n#businessmindset #campa #viralree\u013as",
-      "views": 0,
-      "likes": 419,
-      "comments": 4,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.95,
-      "hashtags": [
-        "#businessmindset",
-        "#campa",
-        "#viralree\u013as"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWvw4kcyRNG/"
-    },
-    {
-      "author": "@travis_chambers",
-      "followers": 0,
-      "caption": "3 months \u26a1\ufe0f\n\n#experiencedesign #outpostx #entrepreneur #uniquehotels #realestateinvesting",
-      "views": 0,
-      "likes": 419,
-      "comments": 21,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 105.01,
-      "hashtags": [
-        "#experiencedesign",
-        "#outpostx",
-        "#entrepreneur",
-        "#uniquehotels",
-        "#realestateinvesting"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzfs3lAM2d/"
-    },
-    {
-      "author": "@wyassine44",
-      "followers": 0,
-      "caption": "#viralvideoal #explore #rels #viral #morocco #business #fryp #foryo #entrepreneur #reels #fyp\u30b7\u309aviral\u30b7 #\u0645\u0634\u0631\u0648\u0639 #\u062a\u062c\u0627\u0631\u0629",
-      "views": 0,
-      "likes": 413,
-      "comments": 17,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 104.12,
-      "hashtags": [
-        "#viralvideoal",
-        "#explore",
-        "#rels",
-        "#viral",
-        "#morocco",
-        "#business",
-        "#fryp",
-        "#foryo"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1q2jGDBJ1/"
     },
     {
       "author": "@revsamoye",
@@ -3547,26 +2531,6 @@
       "url": "https://www.instagram.com/p/DW1zIV8D7l9/"
     },
     {
-      "author": "@laertejr_mkt.eua",
-      "followers": 0,
-      "caption": "\ud83d\ude80 Live like a millionaire without breaking the bank: mini luxury homes for the price of a car.\nJoin the revolution and turn your empty land into a goldmine with these innovative, plug-and-play homes -",
-      "views": 0,
-      "likes": 356,
-      "comments": 153,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 142.98,
-      "hashtags": [
-        "#eua",
-        "#Business",
-        "#Entrepreneur",
-        "#Success",
-        "#Innovation"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzcAIAjnS0/"
-    },
-    {
       "author": "@meganlavorato",
       "followers": 0,
       "caption": "It\u2019s so easy to disqualify ourselves before we\u2019ve even started something.\n\nNot ready. Not experienced enough. Not that kind of person. So we wait.\n\nBut most of the things that end up changing our live",
@@ -3605,26 +2569,6 @@
       ],
       "posted_date": "2026-04-07",
       "url": "https://www.instagram.com/p/DW1Ni38Anom/"
-    },
-    {
-      "author": "@vogacy.co",
-      "followers": 0,
-      "caption": "\u00bfSientes que no est\u00e1s progresando? \ud83d\udc47\ud83c\udffb\n\nTu marca no est\u00e1 estancada\u2026 est\u00e1 desalineada.\n\nY mientras no entiendas exactamente d\u00f3nde est\u00e1 la falla, vas a seguir invirtiendo tiempo, dinero y energ\u00eda sin cam",
-      "views": 0,
-      "likes": 337,
-      "comments": 7,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 102.08,
-      "hashtags": [
-        "#businesswoman",
-        "#mujeresqueinspiran",
-        "#businessmindset",
-        "#emprendimiento",
-        "#mujeresemprendedoras"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWzzzdLicgZ/"
     },
     {
       "author": "@eemil.johanness",
@@ -4108,6 +3052,1873 @@
       "url": "https://www.instagram.com/p/DW0zw9HCJN-/"
     },
     {
+      "author": "@mxttcartier",
+      "followers": 0,
+      "caption": "Time for growth and happiness \ud83d\ude4f\n\n#motivation #mindset #explore #lifestyle #mindsetmotivation",
+      "views": 0,
+      "likes": 123,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 103.25,
+      "hashtags": [
+        "#motivation",
+        "#mindset",
+        "#explore",
+        "#lifestyle",
+        "#mindsetmotivation"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10uABgUkU/"
+    },
+    {
+      "author": "@gogulgupta",
+      "followers": 0,
+      "caption": "Everyone gets their time\u2026 mine will be different. \ud83d\udd25\nThose who talk behind you will never move ahead.\nA coin has two sides\u2026 but I choose the one that wins.\n\n#mindset #realones #focus #growth #attitude ",
+      "views": 0,
+      "likes": 28,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#mindset",
+        "#realones",
+        "#focus",
+        "#growth",
+        "#attitude"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10kRPk547/"
+    },
+    {
+      "author": "@atlas.rituals",
+      "followers": 0,
+      "caption": "Atlas Rituals - Little glimmers live closer than we think.\n\nIn the small moments.\nIn the quiet shifts.\nIn the parts of the day we almost move past too quickly.\n\nA breath that settles you.\nLight moving",
+      "views": 0,
+      "likes": 18,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 150.0,
+      "hashtags": [
+        "#mindset",
+        "#selfgrowth",
+        "#innerpeace",
+        "#wellness",
+        "#atlasrituals"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10hrPjGPd/"
+    },
+    {
+      "author": "@omega_path",
+      "followers": 0,
+      "caption": "\u039f\u03b9 \u03c0\u03b5\u03c0\u03bf\u03b9\u03b8\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c3\u03bf\u03c5 \u03b4\u03b9\u03b1\u03bc\u03bf\u03c1\u03c6\u03ce\u03bd\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1.\n\n\u0391\u03bd \u03b8\u03b5\u03c2 \u03bd\u03b1 \u03b1\u03bd\u03b5\u03b2\u03ac\u03c3\u03b5\u03b9\u03c2 \u03b5\u03c0\u03af\u03c0\u03b5\u03b4\u03bf \n\u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03b9\u03ba\u03ae \u03c3\u03bf\u03c5 \u03b1\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b1, \u03b1\u03ba\u03bf\u03bb\u03bf\u03cd\u03b8\u03b7\u03c3\u03ad \u03bc\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03ba\u03b1\u03b8\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03ae \u03ad\u03bc\u03c0\u03bd\u03b5\u03c5\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c0\u03c1\u03b1\u03ba\u03c4\u03b9\u03ba\u03ad\u03c2 \u03bb\u03cd\u03c3\u03b5\u03b9\u03c2.\ud83d\ude80\n\n\ud83d\udc49 @omega_",
+      "views": 0,
+      "likes": 13,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#OmegaPath",
+        "#\u0391\u03c5\u03c4\u03bf\u03b2\u03b5\u03bb\u03c4\u03af\u03c9\u03c3\u03b7",
+        "#\u0395\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b1",
+        "#Mindset",
+        "#Motivation"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11e5nDv_G/"
+    },
+    {
+      "author": "@theperformancecodeorg",
+      "followers": 0,
+      "caption": "Meet the Co-Founder - Paige \ud83e\udde0\n\nA licensed provisional psychologist, co-founder of The Performance Code, and author of The Performance Code: How Belief, Perception, and the Mind Predict Performance.\n\nH",
+      "views": 0,
+      "likes": 7,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 171.43,
+      "hashtags": [],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10JG8D01e/"
+    },
+    {
+      "author": "@theperformancecodeorg",
+      "followers": 0,
+      "caption": "Meet the Co-Founder.\n\nEduard \ud83c\udfca\u200d\u2642\ufe0f\n\nEntrepreneur, performance coach, and co-founder of The Performance Code.\n\nEduard\u2019s work is built at the intersection of elite sport, entrepreneurship, and high-perfo",
+      "views": 0,
+      "likes": 6,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 183.33,
+      "hashtags": [],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10Zhbj73h/"
+    },
+    {
+      "author": "@federicomarando",
+      "followers": 0,
+      "caption": "_ \" Sto cercando di diventare una persona che si sceglie, prima di cercare di essere scelta. \" _\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#mindset #selfgrowth #attitude #vibes #presence",
+      "views": 0,
+      "likes": 6,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#mindset",
+        "#selfgrowth",
+        "#attitude",
+        "#vibes",
+        "#presence"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10ZkbDFzg/"
+    },
+    {
+      "author": "@deepdailytalks",
+      "followers": 0,
+      "caption": "Talent gets the attention.\n\nBut consistency gets the results.\n\nShowing up every day...\nEven when you don't feel like it -\nThat's what sepersted you.\n\nStay focused. Keep going.\n\nSave this as a reminder",
+      "views": 0,
+      "likes": 5,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#consistency",
+        "#focus",
+        "#discipline",
+        "#hustle",
+        "#mindset"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10aSjDjR_/"
+    },
+    {
+      "author": "@anna_krupa_cristescu",
+      "followers": 0,
+      "caption": "Czy\u017c nie jest \u0142atwiej zosta\u0107 w miejscu, kt\u00f3re wszyscy rozumiej\u0105, ni\u017c zrobi\u0107 ruch, kt\u00f3rego nikt jeszcze nie nazwa\u0142\u2753\n\n\u015awiat daje nam mas\u0119 mo\u017cliwo\u015bci ka\u017cdego dnia:\n\n\ud83e\udde0 na zamian\u0119 my\u015blenia\n\ud83e\udd28 na zmian\u0119 nast",
+      "views": 0,
+      "likes": 3,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#mindset",
+        "#kobiecybiznes",
+        "#zarabianieonline",
+        "#motywacja"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10BnVjVTx/"
+    },
+    {
+      "author": "@freiheiterfolgt",
+      "followers": 0,
+      "caption": "Hunde sind keine Denker \u2013 sie sind Meister im Sein. W\u00e4hrend wir zwischen Vergangenheit und Zukunft pendeln, leben sie im Moment. Ihre Routinen sind keine Langeweile, sondern Sicherheit.\n\nSchon kurze I",
+      "views": 0,
+      "likes": 3,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#neuanfang",
+        "#selbstverwirklichung",
+        "#mindset",
+        "#mutzur\u00e4nderung",
+        "#onlinegeldverdienen"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11H96jkb5/"
+    },
+    {
+      "author": "@conciergerieettansactionbyso",
+      "followers": 0,
+      "caption": "On avance mieux lorsque l\u2019on prend le temps de se pr\u00e9server : le bien-\u00eatre personnel est le socle de toute r\u00e9ussite durable\n#mindset #performancedurable #conciergerie #immobilier",
+      "views": 0,
+      "likes": 3,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#mindset",
+        "#performancedurable",
+        "#conciergerie",
+        "#immobilier"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10s0-jM-2/"
+    },
+    {
+      "author": "@garagedoorrepairsandiego",
+      "followers": 0,
+      "caption": "Your mindset shapes everything.\n\nA positive life starts with the way you think, the way you respond, and the way you keep moving forward even when things get hard. Motivation comes and goes, but the r",
+      "views": 0,
+      "likes": 3,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 133.33,
+      "hashtags": [
+        "#mindset",
+        "#positivity",
+        "#commitment",
+        "#growth",
+        "#discipline"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10a6oEsWc/"
+    },
+    {
+      "author": "@theechomind0",
+      "followers": 0,
+      "caption": "\ud83e\udde0 Your mind is more powerful than you think!\nWhich fact surprised you the most? Comment below \ud83d\udc47\n.\nFollow @theechomind0 for daily psychology insights!\n.\n#psychology #psychologyfacts #mentalhealth #mind",
+      "views": 0,
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 150.0,
+      "hashtags": [
+        "#psychology",
+        "#psychologyfacts",
+        "#mentalhealth",
+        "#mindset",
+        "#selfimprovement",
+        "#motivation",
+        "#mindpower",
+        "#facts"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11MMPjHyn/"
+    },
+    {
+      "author": "@dennis.lorne",
+      "followers": 0,
+      "caption": "Ever notice how you feel \u201ctired\u201d\nbut still scroll for hours?\n\nIt\u2019s not really tired.\n\nIt\u2019s scattered.\n\nToo many tabs open.\nToo many things at once.\nToo much switching.\n\nYour brain isn\u2019t low on energy.",
+      "views": 0,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#focus",
+        "#discipline",
+        "#mindset",
+        "#selfgrowth",
+        "#innerwork"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW107LrjHeg/"
+    },
+    {
+      "author": "@bbntimesofficial",
+      "followers": 0,
+      "caption": "China's SSE Composite Index, which tracks all A-shares and B-shares traded on the Shanghai Stock Exchange, returned to trading on Tuesday, April 7, 2026, following a one-day closure on Monday for the ",
+      "views": 0,
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 150.0,
+      "hashtags": [
+        "#technology",
+        "#tech",
+        "#businessowner",
+        "#entrepreneur",
+        "#digitalmarketing",
+        "#artificialintelligence",
+        "#branding",
+        "#startup"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW100rdjMrJ/"
+    },
+    {
+      "author": "@michaeldorang",
+      "followers": 0,
+      "caption": "Are you caught in the Productivity Trap?\n\nWhen the exhaustion creeps in, most of us treat it like a logistical problem.\n\nOptimize the schedule. Sleep more. Take a vacation. Download a meditation app.\n",
+      "views": 0,
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 150.0,
+      "hashtags": [
+        "#mindsetcoach",
+        "#coaching",
+        "#Alignment",
+        "#PersonalGrowth",
+        "#personalDevelopment",
+        "#coach",
+        "#alignmentcoach",
+        "#habits"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10zpfD9v3/"
+    },
+    {
+      "author": "@bbntimesofficial",
+      "followers": 0,
+      "caption": "France's flagship CAC 40 index returned to trading on Tuesday, April 7, 2026, following a four-day Easter holiday break, with the index rising approximately 0.4% to 7,994 points in early trading.\n\nRea",
+      "views": 0,
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 150.0,
+      "hashtags": [
+        "#technology",
+        "#tech",
+        "#businessowner",
+        "#entrepreneur",
+        "#digitalmarketing",
+        "#artificialintelligence",
+        "#branding",
+        "#startup"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10w1nDEZv/"
+    },
+    {
+      "author": "@bbntimesofficial",
+      "followers": 0,
+      "caption": "The word \u201cfuttitinni\u201d has special meaning for Sicilians.\n\nRead More: https://www.bbntimes.com/society/letting-go-and-living-life-fully\n\nFollow @bbntimesofficial for more updates.\n\n#technology #tech #b",
+      "views": 0,
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 150.0,
+      "hashtags": [
+        "#technology",
+        "#tech",
+        "#businessowner",
+        "#entrepreneur",
+        "#digitalmarketing",
+        "#artificialintelligence",
+        "#branding",
+        "#startup"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10snRDC0c/"
+    },
+    {
+      "author": "@beyondperfectparenting",
+      "followers": 0,
+      "caption": "\ud83d\udc49\ud83c\udffc Send to a mom always in overdrive! \n\nThe reason you feel overwhelmed as a mom is not what you think. People always say it\u2019s because moms are doing too much. (Don\u2019t get me wrong, they do!)\n\nBut it\u2019s",
+      "views": 0,
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 150.0,
+      "hashtags": [
+        "#momlife",
+        "#overwhelmedmom",
+        "#mentalload",
+        "#momstress",
+        "#mindset"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10r9_CbdO/"
+    },
+    {
+      "author": "@thenanahspark_",
+      "followers": 0,
+      "caption": "Parfois la vie te hit fort pour que tu puisse revoir tes objectifs #thenanahspark #mindset #women",
+      "views": 0,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#thenanahspark",
+        "#mindset",
+        "#women"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10o_uCO6S/"
+    },
+    {
+      "author": "@daruma_conceptlife",
+      "followers": 0,
+      "caption": "Visualizza il tuo successo, poi agisci\u2705 \n\nOgni sogno inizia con una visione. Immagina chiaramente i tuoi obiettivi, poi procedi con determinazione. \ud83c\udf0c\n\nCredi in te stesso, nella trasformazione delle as",
+      "views": 0,
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 150.0,
+      "hashtags": [
+        "#daruma_conceptlife",
+        "#daruma",
+        "#coachingenergetico",
+        "#CreaLaTuaReata",
+        "#Mindset",
+        "#CrescitaPersonale",
+        "#SviluppoPersonale",
+        "#Coerenza"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10fPRk18Z/"
+    },
+    {
+      "author": "@mouhasinshape",
+      "followers": 0,
+      "caption": "3 Income Streams To Start With  Zero Money:\n\nRefuse to stay average \ud83d\udd25\nDiscipline > Motivation \u26a1\n\ud83d\udcbc Build Income | \ud83e\udde0 Strong Mind\nTurn potential into results \ud83d\ude80\nFollow for daily mindset & income content\n\ud83d\udc51",
+      "views": 0,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#mouhasinshape",
+        "#discipline",
+        "#motivation",
+        "#mindset",
+        "#selfdiscipline",
+        "#entrepreneur",
+        "#consistency",
+        "#passiveincome"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10cPLjKlC/"
+    },
+    {
+      "author": "@freiheitsbibliothek",
+      "followers": 0,
+      "caption": "Die meisten Menschen wissen, was sie tun m\u00fcssten\u2026\naber sie tun es einfach nicht.\nGenau das unterscheidet Gewinner von allen anderen.\nNicht Talent. Nicht Gl\u00fcck. Sondern Denken, Verantwortung und Diszip",
+      "views": 0,
+      "likes": 2,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#mindset",
+        "#erfolg",
+        "#erfolgreich",
+        "#disziplin",
+        "#motivation",
+        "#pers\u00f6nlichkeitsentwicklung",
+        "#mindsetshift",
+        "#wachstum"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10a1qCE0y/"
+    },
+    {
+      "author": "@audrena_officiel",
+      "followers": 0,
+      "caption": "Tu ne manques pas de motivation.\n\nTu attends de te sentir pr\u00eat.e. Et cette attente, elle peut durer des ann\u00e9es.\n\nTu comprends le probl\u00e8me. Tu sais ce qu'il faudrait faire. Tu consommes du contenu pour",
+      "views": 0,
+      "likes": 2,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 150.0,
+      "hashtags": [
+        "#mindset",
+        "#mindsetshift",
+        "#motivation",
+        "#developpementpersonnel"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10YoKiGbd/"
+    },
+    {
+      "author": "@marcel_grass_finanzcoach",
+      "followers": 0,
+      "caption": "Versicherungen werden teurer \u2013 hast du es schon gemerkt? \ud83d\udcc8\n\nViele Beitr\u00e4ge steigen aktuell sp\u00fcrbar an. Doch was viele nicht wissen:\nNicht jede Erh\u00f6hung musst du einfach hinnehmen.\n\nOft lohnt sich ein ",
+      "views": 0,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#finanzcoach",
+        "#mindset",
+        "#versicherung",
+        "#sparen",
+        "#freiheit"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10MZgCDt5/"
+    },
+    {
+      "author": "@mind.glows",
+      "followers": 0,
+      "caption": "A soft reminder\u2026 \ud83e\udd0d\nYou are allowed to grow at your own pace.\nYou don\u2019t have to rush your journey.\nEverything is unfolding exactly as it should. \ud83c\udf3f\nSave this for when you need it most \ud83d\udcad\n\u2014 mind.glows \u2728\n#",
+      "views": 0,
+      "likes": 1,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#mindglows",
+        "#selflove",
+        "#healingjourney",
+        "#growthmindset",
+        "#innerpeace",
+        "#positivemindset",
+        "#selfgrowth",
+        "#mentalhealthmatters"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11bo7jDba/"
+    },
+    {
+      "author": "@bbntimesofficial",
+      "followers": 0,
+      "caption": "Italy's FTSE MIB index resumed trading on Tuesday, April 7, 2026, following the Easter holiday break, as Borsa Italiana \u2014 now part of Euronext Milan \u2014 reopened after the Good Friday and Easter Monday ",
+      "views": 0,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#technology",
+        "#tech",
+        "#businessowner",
+        "#entrepreneur",
+        "#digitalmarketing",
+        "#artificialintelligence",
+        "#branding",
+        "#startup"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11VUFDISr/"
+    },
+    {
+      "author": "@bbntimesofficial",
+      "followers": 0,
+      "caption": "How many hours does your team waste staring at stale data?\n\nMore than 2.5 quintillion bytes of data are created every day, yet most dashboards show yesterday's news. You can bridge this gap by focusin",
+      "views": 0,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#technology",
+        "#tech",
+        "#businessowner",
+        "#entrepreneur",
+        "#digitalmarketing",
+        "#artificialintelligence",
+        "#branding",
+        "#startup"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11QK9DMlc/"
+    },
+    {
+      "author": "@paulwienck",
+      "followers": 0,
+      "caption": "Die meisten Menschen glauben, ihr Problem sitzt im Kopf. Dabei sitzt es im K\u00f6rper.\n\nJe weniger du dich bewegst, desto schwerer wird alles. Deine Gedanken werden lauter, deine Zweifel gr\u00f6\u00dfer, und irgen",
+      "views": 0,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#mindset",
+        "#growth",
+        "#sport",
+        "#movement",
+        "#overthinking"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11PZ3gIOR/"
+    },
+    {
+      "author": "@leolumi__",
+      "followers": 0,
+      "caption": "Des images qui font r\u00e9fl\u00e9chir, pas juste scroller.\nParfois, il suffit d\u2019un visuel pour tout remettre en question.\n\n#philosophie #mindset #psychologie #r\u00e9flexion",
+      "views": 0,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#philosophie",
+        "#mindset",
+        "#psychologie",
+        "#r\u00e9flexion"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11N3UFx7r/"
+    },
+    {
+      "author": "@she_ownsherstory",
+      "followers": 0,
+      "caption": "Not everything that was lost was meant to stay gone.\n\nSome things were taken away\u2026\nso she could rebuild them stronger, better, and with deeper purpose.\n\nShe is not starting over.\nShe is starting again",
+      "views": 0,
+      "likes": 1,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#personalgrowth",
+        "#mindset",
+        "#growthmindset",
+        "#selfdevelopment",
+        "#becomingher"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11JiVk8Zu/"
+    },
+    {
+      "author": "@bbntimesofficial",
+      "followers": 0,
+      "caption": "Japan's Nikkei 225 Index closed nearly flat on Tuesday, April 7, 2026, finishing at approximately 53,429.51, an increase of just 0.03% from the prior session, as Asia-Pacific markets digested a cautio",
+      "views": 0,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#technology",
+        "#tech",
+        "#businessowner",
+        "#entrepreneur",
+        "#digitalmarketing",
+        "#artificialintelligence",
+        "#branding",
+        "#startup"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11G0ADHYw/"
+    },
+    {
+      "author": "@bms.bear",
+      "followers": 0,
+      "caption": "Everybody wants results\u2026 \nbut nobody respects the balance it takes to get them.\n\nFocus without execution is just thinking. \nExecution without focus is just movement.\n\nYou need both.\n\nBecause while you",
+      "views": 0,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#BMSBear",
+        "#Focus",
+        "#Discipline",
+        "#Execution",
+        "#Mindset"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11DkOCJIY/"
+    },
+    {
+      "author": "@jeniva_zufrieden",
+      "followers": 0,
+      "caption": "Manchmal merkst du erst am Ende eines Weges,\ndass er dich genau dorthin gef\u00fchrt hat,\nwo du bereit bist f\u00fcr mehr.\n\nUnklarheit f\u00fchlt sich nicht immer gut an.\nAber sie ist oft der Anfang von etwas,\ndas n",
+      "views": 0,
+      "likes": 1,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#neuanfang",
+        "#umbruch",
+        "#wachstum",
+        "#mindset",
+        "#selbstentwicklung",
+        "#mentalhealth",
+        "#realtalk",
+        "#pers\u00f6nlichkeitsentwicklung"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11DV-CP-F/"
+    },
+    {
+      "author": "@bbntimesofficial",
+      "followers": 0,
+      "caption": "Germany's DAX 40 index returned to trading on Tuesday, April 7, 2026, following the Easter holiday break, navigating a complex backdrop of geopolitical risk, energy market volatility, and a deteriorat",
+      "views": 0,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#technology",
+        "#tech",
+        "#businessowner",
+        "#entrepreneur",
+        "#digitalmarketing",
+        "#artificialintelligence",
+        "#branding",
+        "#startup"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11AoHjLgf/"
+    },
+    {
+      "author": "@bbntimesofficial",
+      "followers": 0,
+      "caption": "The Hong Kong Stock Exchange (HKEX) and the Hang Seng Index remain closed on Tuesday, April 7, 2026, as Hong Kong observes an extended Easter holiday period.\n\nRead More: https://www.bbntimes.com/globa",
+      "views": 0,
+      "likes": 1,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#technology",
+        "#tech",
+        "#businessowner",
+        "#entrepreneur",
+        "#digitalmarketing",
+        "#artificialintelligence",
+        "#branding",
+        "#startup"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW108bxDGu5/"
+    },
+    {
+      "author": "@redsdirschoen",
+      "followers": 0,
+      "caption": "Oft fangen wir nicht an etwas zu ver\u00e4ndern, weil uns der Weg zu 'gro\u00df' erscheint.\nDoch du musst nicht dein gesamtes Leben auf den Kopf stellen. Es reicht ein kleiner Schritt \ud83d\ude4c\ud83c\udffb\n\n\ud83c\udfa7 H\u00f6re dir dazu gern m",
+      "views": 0,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#neuanfang",
+        "#sch\u00f6pferkraft",
+        "#mut",
+        "#mindset",
+        "#gedanken"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10rP3DAoK/"
+    },
+    {
+      "author": "@stefanie_graffigna_cfnc_",
+      "followers": 0,
+      "caption": "Healing isn\u2019t always gentle.\nSometimes it feels like everything is being stripped back.\n\nWhen you choose to trust Jesus with your healing, He doesn\u2019t just cover the surface\u2014He reveals the wounds you d",
+      "views": 0,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#firmfoundationsprotocol",
+        "#jesusisthehealer",
+        "#mindset",
+        "#prayplanmove",
+        "#ebullientliving\ud83d\udc9c"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10Tf5ASt5/"
+    },
+    {
+      "author": "@prime.xcore",
+      "followers": 0,
+      "caption": "\u2022\tKeep this as a reminder. \u2022\t#discipline\n\t\u2022\t#selfimprovement\n\t\u2022\t#focus\n\t\u2022\t#mindset\n\t\u2022\t#consistency",
+      "views": 0,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 100.0,
+      "hashtags": [
+        "#discipline",
+        "#selfimprovement",
+        "#focus",
+        "#mindset",
+        "#consistency"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10ZTRgivH/"
+    },
+    {
+      "author": "@imhassankhan223",
+      "followers": 0,
+      "caption": "DON\u2019T TRUST ME, I HAVE A BEAUTIFUL HEART WITH A CRIMINAL MINDSET.\u2764\ufe0f\u200d\ud83d\udd25\ud83d\uddfd\n\n#trendingpost #follow #selfmade #fypage #mindset \n\nMindset discipline explorer like comment share",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#trendingpost",
+        "#follow",
+        "#selfmade",
+        "#fypage",
+        "#mindset"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11oK6Epi-/"
+    },
+    {
+      "author": "@motivationmitschub",
+      "followers": 0,
+      "caption": "Alltag \ud83e\udde0\n\nNicht jeder Tag ist gleich, aber Struktur hilft mir, trotzdem voranzukommen. Planen, rausgehen, abschalten \u2013 kleine Dinge, die einen gro\u00dfen Unterschied machen. Balance entsteht im Alltag.\n\n#",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#alltag",
+        "#routine",
+        "#struktur",
+        "#balance",
+        "#mindset"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11mBNCv4W/"
+    },
+    {
+      "author": "@patrickdimaio",
+      "followers": 0,
+      "caption": "This\u2026 \ud83e\udee1 #pure #mindset #performance #yorkshiretennis #mentalstrenght",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#pure",
+        "#mindset",
+        "#performance",
+        "#yorkshiretennis",
+        "#mentalstrenght"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11ZM2CF-7/"
+    },
+    {
+      "author": "@frenypatel4572",
+      "followers": 0,
+      "caption": "\ud83c\udf0d Global Online Business \u0ab6\u0ab0\u0ac2 \u0a95\u0ab0\u0ab5\u0ac1\u0a82 \u0a9b\u0ac7\u2026\n\u0aaa\u0aa3 confusion \u0a9b\u0ac7 \u0a95\u0acd\u0aaf\u0abe\u0a82\u0aa5\u0ac0 \u0ab6\u0ab0\u0ac2 \u0a95\u0ab0\u0ab5\u0ac1\u0a82?\n\n\u0ab9\u0ac1\u0a82 \u0aaa\u0aa3 \u0a8f \u0a9c place \u0aaa\u0ab0 \u0ab9\u0aa4\u0ac0\u2026\n\ud83d\udc49 Doubt\n\ud83d\udc49 Fear\n\ud83d\udc49 Overthinking\n\n\u0aaa\u0aa3 \u0a8f\u0a95 decision \u0a8f \u0aac\u0aa7\u0ac1\u0a82 \u0aac\u0aa6\u0ab2\u0ac0 \u0aa6\u0ac0\u0aa7\u0ac1\u0a82 \ud83d\udcab\n\n\u2714\ufe0f Simple process\n\u2714\ufe0f Step-by-step",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#mindset",
+        "#facebookpost",
+        "#usareels",
+        "#DigitalSuccess",
+        "#DreamBig",
+        "#Leadership"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11lD4D8Vz/"
+    },
+    {
+      "author": "@hatershope",
+      "followers": 0,
+      "caption": "Nicht alles, was dich verletzt, ist gegen dich.\nDennoch ist es wichtig die Grenze zu erkennen oder eben nicht zu \u00fcberschreiten.\nOft werden wir schneller zu T\u00e4tern als gedacht.\nManchmal sogar ohne es z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#psychologie",
+        "#mindset",
+        "#hater",
+        "#kritik",
+        "#wachstum"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11keACOhx/"
+    },
+    {
+      "author": "@hatershope",
+      "followers": 0,
+      "caption": "Nicht alles, was dich verletzt, ist gegen dich.\nDennoch ist es wichtig die Grenze zu erkennen oder eben nicht zu \u00fcberschreiten.\nOft werden wir schneller zu T\u00e4tern als gedacht.\nManchmal sogar ohne es z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#psychologie",
+        "#mindset",
+        "#hater",
+        "#kritik",
+        "#wachstum"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10-iOiEVd/"
+    },
+    {
+      "author": "@itsgeorgia.life",
+      "followers": 0,
+      "caption": "Ta maison int\u00e9rieure c\u2019est pas de la spiritualit\u00e9. C\u2019est une pratique quotidienne. \ud83c\udfe0\ud83c\udf3f\nEst-ce que tu te sens chez toi en toi-m\u00eame en ce moment ? \nCr\u00e9dit image : Pinterest \n#mindset #devperso #innerchil",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#mindset",
+        "#devperso",
+        "#innerchild",
+        "#f\u00e9minit\u00e9",
+        "#reminder"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11jIpAvJT/"
+    },
+    {
+      "author": "@chamovega",
+      "followers": 0,
+      "caption": "No clubbing - No Parting - No Problems \n-JUST BUILDING AND EXECUTING GOALS-\nWith God In The Center Of Everything \ud83d\ude4fAmen\n#believe #God #firstlove #chamovega #inspiration #followersreelsfyp\u30b7\u309aviral\u30b7fyp\u30b7\u309av",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#believe",
+        "#God",
+        "#firstlove",
+        "#chamovega",
+        "#inspiration",
+        "#followersreelsfyp\u30b7\u309aviral\u30b7fyp\u30b7\u309aviral\u30b7al\u30b7",
+        "#mindset",
+        "#motivation"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11i6Ekrhq/"
+    },
+    {
+      "author": "@itsgeorgia.life",
+      "followers": 0,
+      "caption": "Ta maison int\u00e9rieure c\u2019est pas de la spiritualit\u00e9. C\u2019est une pratique quotidienne. \ud83c\udfe0\ud83c\udf3f\nEst-ce que tu te sens chez toi en toi-m\u00eame en ce moment ? \nCr\u00e9dit image : Pinterest \n#mindset #devperso #innerchil",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#mindset",
+        "#devperso",
+        "#innerchild",
+        "#f\u00e9minit\u00e9",
+        "#reminder"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11XFrAozH/"
+    },
+    {
+      "author": "@motivationmitschub",
+      "followers": 0,
+      "caption": "Mindset \ud83d\udcda\n\nWas du in deinen Kopf l\u00e4sst, bestimmt, wie du dich f\u00fchlst. Ich versuche bewusst, mich mit positiven Dingen zu umgeben \u2013 weniger L\u00e4rm, mehr Klarheit. Das ver\u00e4ndert mehr, als man denkt.\n\n#min",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#mindset",
+        "#positivedenken",
+        "#gedanken",
+        "#pers\u00f6nlichkeitsentwicklung",
+        "#fokus"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11hFYCjK9/"
+    },
+    {
+      "author": "@45mma_essen",
+      "followers": 0,
+      "caption": "Dein einziger Gegner bist du selbst.\n\nStell dich ihm \u2013 kostenloses Probetraining.\n\n#45MMA #Mindset #kampfsport",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#45MMA",
+        "#Mindset",
+        "#kampfsport"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11eR_CsCJ/"
+    },
+    {
+      "author": "@okkioni_verdi_olly",
+      "followers": 0,
+      "caption": "Essere di Cristallo ma sembrare di Ferro....sar\u00e0 sempre questo il mio Super Potere....\u2764\ufe0f\ud83d\udcaa\ud83c\udffe\nGIRL POWER\ud83e\udd81\n\n#instagood #life #love #mindset #staystrong",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#instagood",
+        "#life",
+        "#love",
+        "#mindset",
+        "#staystrong"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11frCjDRU/"
+    },
+    {
+      "author": "@abiggerplan",
+      "followers": 0,
+      "caption": "If you train your mind to find the beauty, it will find it.\nThis is the bigger plan. \n\n#mindset #findthebeauty #believeinyourself #feelalive",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#mindset",
+        "#findthebeauty",
+        "#believeinyourself",
+        "#feelalive"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11QBiibeV/"
+    },
+    {
+      "author": "@albertkollmanncoaching",
+      "followers": 0,
+      "caption": "Du verstehst dich.\nDu wei\u00dft, warum du so reagierst.\nDu erkennst deine Muster.\nDu kannst es logisch einordnen.\nUnd genau das f\u00fchlt sich an\nwie Fortschritt.\nDoch im entscheidenden Moment\npassiert wieder",
+      "views": 0,
+      "likes": 0,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 200.0,
+      "hashtags": [
+        "#albertkollmanncoaching",
+        "#pers\u00f6nlichkeitsentwicklung",
+        "#selbstentwicklung",
+        "#mindset",
+        "#achtsamkeit"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11ah-DmJA/"
+    },
+    {
+      "author": "@albertkollmanncoaching",
+      "followers": 0,
+      "caption": "Du verstehst dich.\nDu wei\u00dft, warum du so reagierst.\nDu erkennst deine Muster.\nDu kannst es logisch einordnen.\nUnd genau das f\u00fchlt sich an\nwie Fortschritt.\nDoch im entscheidenden Moment\npassiert wieder",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#albertkollmanncoaching",
+        "#pers\u00f6nlichkeitsentwicklung",
+        "#selbstentwicklung",
+        "#mindset",
+        "#achtsamkeit"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11Xa_jlW1/"
+    },
+    {
+      "author": "@lestymvouama",
+      "followers": 0,
+      "caption": "Un roi ne cherche pas\u2026 il reconna\u00eet ses connexions\n\nTu n\u2019as pas rat\u00e9 certaines opportunit\u00e9s\u2026\n\nTu n\u2019as juste pas reconnu\nles personnes envoy\u00e9es pour t\u2019\u00e9lever.\n\nPlus tu t\u2019alignes,\nplus tu reconnais ce q",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#kingl",
+        "#alignement",
+        "#connexion",
+        "#mindset",
+        "#lestymvouama"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11Yi8DUi4/"
+    },
+    {
+      "author": "@lestymvouama",
+      "followers": 0,
+      "caption": "Un roi ne cherche pas\u2026 il reconna\u00eet ses connexions\n\nTu n\u2019as pas rat\u00e9 certaines opportunit\u00e9s\u2026\n\nTu n\u2019as juste pas reconnu\nles personnes envoy\u00e9es pour t\u2019\u00e9lever.\n\nPlus tu t\u2019alignes,\nplus tu reconnais ce q",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#kingl",
+        "#alignement",
+        "#connexion",
+        "#mindset",
+        "#lestymvouama"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11YVlDX8X/"
+    },
+    {
+      "author": "@studio33.com.pl",
+      "followers": 0,
+      "caption": "Nie ka\u017cdy, kto milczy, jest s\u0142aby. \nNie ka\u017cdy, kto patrzy \u2014 jest cz\u0142owiekiem. \n\n#Mindset #Power #Silence #Energy #777 \n\nFaith on my neck. \nWar in my eyes.",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#Mindset",
+        "#Power",
+        "#Silence",
+        "#Energy",
+        "#777"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11SNjDETg/"
+    },
+    {
+      "author": "@koima.richard",
+      "followers": 0,
+      "caption": "Sign in\nJoin now\nJared Mwanduka\u2019s Post\nView profile for Jared Mwanduka\nJared Mwanduka\n20h\n\nAt some point, many of us have quietly\u2014or loudly\u2014blamed where we came from.\n\nOur parents.\nOur background.\nOur",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#GrowthMindset",
+        "#Leadership",
+        "#Responsibility",
+        "#PersonalDevelopment",
+        "#Mindset"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11XbMgKcW/"
+    },
+    {
+      "author": "@titan___club",
+      "followers": 0,
+      "caption": "#ecommerce #mindset #leadership #success",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#ecommerce",
+        "#mindset",
+        "#leadership",
+        "#success"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11WZcCJds/"
+    },
+    {
+      "author": "@titan___club",
+      "followers": 0,
+      "caption": "#ecommerce #mindset #leadership #success",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#ecommerce",
+        "#mindset",
+        "#leadership",
+        "#success"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11MtICInn/"
+    },
+    {
+      "author": "@omarbraz7",
+      "followers": 0,
+      "caption": "\u201cO desfecho \u00e9 tudo.\u201d \ud83d\udcd6\u2728\nPlanejar at\u00e9 o fim significa n\u00e3o deixar a gl\u00f3ria do seu trabalho nas m\u00e3os da sorte. \u00c9 antecipar as reviravoltas para nunca ser dominado por elas. No jogo da vida, quem pensa l\u00e1",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#Mindset",
+        "#Crescimento",
+        "#RobertGreene",
+        "#Sucesso"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11V_DDJWc/"
+    },
+    {
+      "author": "@hardestry_team",
+      "followers": 0,
+      "caption": "Don\u2019t get mad get distant.\n\u2022\n\u2022\nFollow @hardestry_team for a better mindset .\n\u2022\n\u2022\n#hardwork #motivation #mindset #discipline",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#hardwork",
+        "#motivation",
+        "#mindset",
+        "#discipline"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11BXdCK-U/"
+    },
+    {
+      "author": "@omarbraz7",
+      "followers": 0,
+      "caption": "\u201cO desfecho \u00e9 tudo.\u201d \ud83d\udcd6\u2728\nPlanejar at\u00e9 o fim significa n\u00e3o deixar a gl\u00f3ria do seu trabalho nas m\u00e3os da sorte. \u00c9 antecipar as reviravoltas para nunca ser dominado por elas. No jogo da vida, quem pensa l\u00e1",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#Mindset",
+        "#Crescimento",
+        "#RobertGreene",
+        "#Sucesso"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11RI2DBL-/"
+    },
+    {
+      "author": "@hardestry_team",
+      "followers": 0,
+      "caption": "Don\u2019t get mad get distant.\n\u2022\n\u2022\nFollow @hardestry_team for a better mindset .\n\u2022\n\u2022\n#hardwork #motivation #mindset #discipline",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#hardwork",
+        "#motivation",
+        "#mindset",
+        "#discipline"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11RWrCJWs/"
+    },
+    {
+      "author": "@die.motivationsfee",
+      "followers": 0,
+      "caption": "##mindset #motivation #souls of animals \nLass ein \ud83e\udd0d da und kommentiere mit ERFOLG, wenn dir der Beitrag gef\u00e4llt .\nFolge mir @die.motivationsfee \nF\u00fcr t\u00e4glich inspirierenden Content \nAlle Urheberrechte ",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#mindset",
+        "#motivation",
+        "#souls"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11QjxiOia/"
+    },
+    {
+      "author": "@paulwienck",
+      "followers": 0,
+      "caption": "Die meisten Menschen glauben, ihr Problem sitzt im Kopf. Dabei sitzt es im K\u00f6rper.\n\nJe weniger du dich bewegst, desto schwerer wird alles. Deine Gedanken werden lauter, deine Zweifel gr\u00f6\u00dfer, und irgen",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#mindset",
+        "#growth",
+        "#sport",
+        "#movement",
+        "#overthinking"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10iH6gA6A/"
+    },
+    {
+      "author": "@leolumi__",
+      "followers": 0,
+      "caption": "Des images qui font r\u00e9fl\u00e9chir, pas juste scroller.\nParfois, il suffit d\u2019un visuel pour tout remettre en question.\n\n#philosophie #mindset #psychologie #r\u00e9flexion",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#philosophie",
+        "#mindset",
+        "#psychologie",
+        "#r\u00e9flexion"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11GgLDwO9/"
+    },
+    {
+      "author": "@minadigital25",
+      "followers": 0,
+      "caption": "Success is built one block at a time. \ud83c\udfd7\ufe0f\u2728\n\n\"You learn more from failure than from success. Don\u2019t let it stop you. Failure builds character.\"\n\nWhen I first looked into starting a digital business, I wa",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#opportunity",
+        "#businessjourney",
+        "#sidehustles",
+        "#digitalbusiness",
+        "#BusinessJourney",
+        "#sidehustle",
+        "#digitalenterpreneur",
+        "#mindset"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11NgfDcuB/"
+    },
+    {
+      "author": "@rustymusik",
+      "followers": 0,
+      "caption": "\ud83e\udd87\ud83c\udf15\n#blackandwhite #music #love #mindset #energy",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#blackandwhite",
+        "#music",
+        "#love",
+        "#mindset",
+        "#energy"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW101YcDFJ0/"
+    },
+    {
+      "author": "@chloe.softlife.secret",
+      "followers": 0,
+      "caption": "Choosing where my energy goes, one thought at a time.\nComing back to what feels true, quiet, and mine.\n\nThis season, I choose to listen inward. \u2728\n\n#wellness #mindset #quote #healthylife #healthylifest",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#wellness",
+        "#mindset",
+        "#quote",
+        "#healthylife",
+        "#healthylifestyle"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW101Rykd4Y/"
+    },
+    {
+      "author": "@_gaurav_kumar_rider_01",
+      "followers": 0,
+      "caption": "NOTE\ud83d\udcdd\n.\n.\n.\n.\n.\n.\n.\n#dailypost #linesfordays #lifethought #mindset",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#dailypost",
+        "#linesfordays",
+        "#lifethought",
+        "#mindset"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10_Itkver/"
+    },
+    {
+      "author": "@dennis.lorne",
+      "followers": 0,
+      "caption": "Ever notice how you feel \u201ctired\u201d\nbut still scroll for hours?\n\nIt\u2019s not really tired.\n\nIt\u2019s scattered.\n\nToo many tabs open.\nToo many things at once.\nToo much switching.\n\nYour brain isn\u2019t low on energy.",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#focus",
+        "#discipline",
+        "#mindset",
+        "#selfgrowth",
+        "#innerwork"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW106xhjP-I/"
+    },
+    {
+      "author": "@freckledacorndesigns",
+      "followers": 0,
+      "caption": "Been working on some horizontal weaves this afternoon, I didn\u2019t really snooze in the garden for too long \ud83d\udca4 \ud83d\ude02\n\nGetting your head around the mindset of symmetry and working from the outsides in. Also ge",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#horizontalweave",
+        "#mindset",
+        "#weavingloom",
+        "#weavingartist",
+        "#freckledacorndesigns"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10MXuDFpD/"
+    },
+    {
+      "author": "@zenite.labs",
+      "followers": 0,
+      "caption": "\ud83c\udfa8\u2728 Quer desbloquear a sua criatividade? Ent\u00e3o prepare-se para um pensamento fora da caixa! Vamos falar sobre 5 erros propositais que podem acionar sua mente e turbinar suas ideias! \ud83d\ude80\n\n\ud83e\uddd0 1. Limite op\u00e7\u00f5",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#criatividade",
+        "#inova\u00e7\u00e3o",
+        "#pensamentocr\u00edtico",
+        "#desenvolvimentopessoal",
+        "#dicascriativas",
+        "#mindset",
+        "#designthinking",
+        "#solu\u00e7\u00f5escriativas"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1047hFACk/"
+    },
+    {
+      "author": "@curlsnbuns",
+      "followers": 0,
+      "caption": "\u2022 #Motivated\n\u2022 #Mindset\n\u2022 #PersonalDevelopment\n\u2022 #SelfImprovement\n\u2022 #InspirationDaily",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#Motivated",
+        "#Mindset",
+        "#PersonalDevelopment",
+        "#SelfImprovement",
+        "#InspirationDaily"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW103pWCEZZ/"
+    },
+    {
+      "author": "@notesforthis",
+      "followers": 0,
+      "caption": "Whatever we make a home for, comes knocking \n.\n.\n.\n.\n.\n.\n.\n#thoughtoftheday\ud83d\udcad #mindset #notesforthis #joy",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#thoughtoftheday\ud83d\udcad",
+        "#mindset",
+        "#notesforthis",
+        "#joy"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW101u9EYGO/"
+    },
+    {
+      "author": "@notesforthis",
+      "followers": 0,
+      "caption": "Whatever we make a home for, comes knocking \n.\n.\n.\n.\n.\n.\n.\n#thoughtoftheday\ud83d\udcad #mindset #notesforthis #joy",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#thoughtoftheday\ud83d\udcad",
+        "#mindset",
+        "#notesforthis",
+        "#joy"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10Bt1Eaia/"
+    },
+    {
+      "author": "@sorgentabymandy",
+      "followers": 0,
+      "caption": "*Werbung \n\nHalbea Obsidian Heritage 263 ist ein intensiver und magnetischer Duft, eine olfaktorische Reise zwischen Geheimnis und Verf\u00fchrung.\nDie Er\u00f6ffnung, dominiert von Gew\u00fcrzen, Weihrauch, Ingwer u",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#dufterlebnis",
+        "#Duft",
+        "#madeinitaly",
+        "#Lifestyle",
+        "#mindset"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10u_sDBCS/"
+    },
+    {
+      "author": "@beyondperfectparenting",
+      "followers": 0,
+      "caption": "\ud83d\udc49\ud83c\udffc Send to a mom always in overdrive! \n\nThe reason you feel overwhelmed as a mom is not what you think. People always say it\u2019s because moms are doing too much. (Don\u2019t get me wrong, they do!)\n\nBut it\u2019s",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#momlife",
+        "#overwhelmedmom",
+        "#mentalload",
+        "#momstress",
+        "#mindset"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW1zB9Sidwq/"
+    },
+    {
+      "author": "@thenanahspark_",
+      "followers": 0,
+      "caption": "Parfois la vie te hit fort pour que tu puisse revoir tes objectifs #thenanahspark #mindset #women",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#thenanahspark",
+        "#mindset",
+        "#women"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10kxYiAe-/"
+    },
+    {
+      "author": "@dailydose.ofmindset",
+      "followers": 0,
+      "caption": "Wachstum passiert oft leise \ud83c\udf38\n\nNicht jeder Fortschritt ist laut, nicht jeder Schritt sichtbar.\nManchmal entsteht die gr\u00f6\u00dfte Ver\u00e4nderung genau dann, wenn niemand hinschaut.\n\nVertrau deinem Prozess.\nAuc",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#mindset",
+        "#wachstum",
+        "#pers\u00f6nlichkeitsentwicklung",
+        "#vertrauen",
+        "#geduld"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10iYBDoah/"
+    },
+    {
+      "author": "@mindset_belief_action",
+      "followers": 0,
+      "caption": "Manifesting Made Simple Think it, Believe it, Do it!\t#manifestation #mindset #manifestyourdreams",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#manifestation",
+        "#mindset",
+        "#manifestyourdreams"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10oAbiM21/"
+    },
+    {
+      "author": "@luca.sconceicaox",
+      "followers": 0,
+      "caption": "\ud83d\udd25 CAP\u00cdTULO 10 \u2014 O DESPERTAR FINAL \ud83d\udd25\n\nVoc\u00ea chegou at\u00e9 aqui\u2026 e isso n\u00e3o \u00e9 por acaso.\nEnquanto seus olhos percorrem essas palavras, algo dentro de voc\u00ea j\u00e1 come\u00e7ou a mudar \u2014 silenciosamente, profundamente",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#mindset"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10l95kf66/"
+    },
+    {
+      "author": "@gogulgupta",
+      "followers": 0,
+      "caption": "Everyone gets their time\u2026 mine will be different. \ud83d\udd25\nThose who talk behind you will never move ahead.\nA coin has two sides\u2026 but I choose the one that wins.\n\n#mindset #realones #focus #growth #attitude ",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#mindset",
+        "#realones",
+        "#focus",
+        "#growth",
+        "#attitude"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10kG2E-Yo/"
+    },
+    {
+      "author": "@trainertruecom",
+      "followers": 0,
+      "caption": "A strong body is the result of a decided mind\u2026 and the right data. \ud83e\udde0 Take control of your transformation with the tools the pros use. Click the link in our bio to access our calculators. \ud83d\udcf2\ud83d\udc47 #Mindset #",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#Mindset",
+        "#FitnessTools",
+        "#TrainerTrue\u201d"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10ik4CfeC/"
+    },
+    {
+      "author": "@your_inner_reset",
+      "followers": 0,
+      "caption": "Ken je dat gevoel\u2026\ndat je \u2019s ochtends wakker wordt en de dag nog moet beginnen, maar jij al moe bent?\n\nNiet van het slapen.\nMaar van het dragen.\n\nVan alles wat op je schouders ligt.\nVan alles wat je n",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#yourinnnerreset",
+        "#mindset",
+        "#innerpeace",
+        "#transformatie",
+        "#zelfliefde",
+        "#groei",
+        "#vrouwelijkekracht",
+        "#reset"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10jSLDXen/"
+    },
+    {
+      "author": "@mindset_belief_action",
+      "followers": 0,
+      "caption": "Manifesting Made Simple Think it, Believe it, Do it!\t#manifestation #mindset #manifestyourdreams",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#manifestation",
+        "#mindset",
+        "#manifestyourdreams"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10hxFCNoK/"
+    },
+    {
+      "author": "@vibetoself",
+      "followers": 0,
+      "caption": "You are not the criticism someone gave you in a hard moment. You are so much more than their worst take on you. \n\n#motivation #mindset #success #selfimprovement #inspiration",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#motivation",
+        "#mindset",
+        "#success",
+        "#selfimprovement",
+        "#inspiration"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10hgtgem4/"
+    },
+    {
+      "author": "@codiigo_da.mente",
+      "followers": 0,
+      "caption": "Se voc\u00ea n\u00e3o controla sua mente\u2026 ela controla voc\u00ea.\n\nA maioria das pessoas n\u00e3o fracassa por falta de capacidade.\nFracassa porque nunca aprendeu a dominar os pr\u00f3prios pensamentos.\n\nProcrastina\u00e7\u00e3o, falta",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#menteforte",
+        "#disciplina",
+        "#mindset",
+        "#motivacao",
+        "#foconamente"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10gZtiXPm/"
+    },
+    {
+      "author": "@mindset_belief_action",
+      "followers": 0,
+      "caption": "Manifesting Made Simple Think it, Believe it, Do it!\t#manifestation #mindset #manifestyourdreams",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#manifestation",
+        "#mindset",
+        "#manifestyourdreams"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10eVniFDt/"
+    },
+    {
+      "author": "@mindset_belief_action",
+      "followers": 0,
+      "caption": "Manifesting Made Simple Think it, Believe it, Do it!\t#manifestation #mindset #manifestyourdreams",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#manifestation",
+        "#mindset",
+        "#manifestyourdreams"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10VdoiHjE/"
+    },
+    {
+      "author": "@aestheticacademy.smileperfecto",
+      "followers": 0,
+      "caption": "\u2728 Viele sehen heute nur das Ergebnis\u2026 aber nicht den Weg dorthin. \n\nZwischen damals und heute liegen unz\u00e4hlige Stunden voller Geduld, Lernen und Durchhalteverm\u00f6gen. \n\nIch war nie perfekt \u2013 aber ich ha",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#mindset",
+        "#erfolg",
+        "#beautybusiness"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10MOYjJKf/"
+    },
+    {
+      "author": "@prime.xcore",
+      "followers": 0,
+      "caption": "\u2022\tKeep this as a reminder. \u2022\t#discipline\n\t\u2022\t#selfimprovement\n\t\u2022\t#focus\n\t\u2022\t#mindset\n\t\u2022\t#consistency",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#discipline",
+        "#selfimprovement",
+        "#focus",
+        "#mindset",
+        "#consistency"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10TyKggpf/"
+    },
+    {
       "author": "@rayluhh",
       "followers": 0,
       "caption": "Comment \u201dClap\u201d if you want that booty to clap when you walk \ud83e\udd23 We\u2019ll get you started today! All jokes aside, it\u2019s time to lock in Twin!!! \ud83d\ude02\n.\n.\n.\n.\n.\n.\n.\n.\n#fitnessmotivation #gymgirl #gymmotivation #g",
@@ -4542,170 +5353,142 @@
       "url": "https://www.instagram.com/p/DW1T5_BJOQe/"
     },
     {
-      "author": "@sandiglandt",
+      "author": "@lifestyle_bianca",
       "followers": 0,
-      "caption": "You\u2019re putting in the work\u2026 so why isn\u2019t your business scaling?\n\nIt\u2019s not more hustle you need\u2014it\u2019s the right strategy and the right room.\n\nThe High Performance Ladies Mixer is a private, invite-only ",
+      "caption": "Ich erschaffe mir Schritt f\u00fcr Schritt das Leben, von dem ich fr\u00fcher nur getr\u00e4umt habe. \ud83d\udcad\n\nMit klaren Entscheidungen.\nMit Fokus. \nUnd mit dem Wissen, wof\u00fcr ich losgehe.\n\nF\u00fcr mich.\nF\u00fcr meine Familie.\nF\u00fc",
       "views": 0,
       "likes": -1,
-      "comments": 2,
+      "comments": 0,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 100.0,
+      "engagement_rate": -100.0,
       "hashtags": [
-        "#WomenInBusiness",
-        "#EntrepreneurLife",
-        "#BusinessMindset",
-        "#BossBabe",
-        "#SlayYourDay"
+        "#mindquotes",
+        "#mindsetiseverything",
+        "#mindsetquotes",
+        "#mindsetcoaching",
+        "#mindset"
       ],
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW130FhDi6O/"
+      "url": "https://www.instagram.com/p/DW10nqMDnOu/"
     },
     {
-      "author": "@nex_motivational",
+      "author": "@just__kris__",
       "followers": 0,
-      "caption": "\ud83d\udc80\n\u201cFollow @nex_motivational for daily mindset \ud83d\udd25\u201d\n\u201cShare with your friend\u201d\n\u201cComment MORE \"\n\n#motivation #money #mindset #discipline #success #wealth #reelsindia #hustle #richmindset #successmindset #hu",
+      "caption": "Peace of mind is the real luxury \u2728\n\n#mindset #focus #lifestyle #mensstyle #calmenergy",
       "views": 0,
       "likes": -1,
-      "comments": 4,
+      "comments": 0,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 300.0,
+      "engagement_rate": -100.0,
+      "hashtags": [
+        "#mindset",
+        "#focus",
+        "#lifestyle",
+        "#mensstyle",
+        "#calmenergy"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10yTvihXe/"
+    },
+    {
+      "author": "@rustymusik",
+      "followers": 0,
+      "caption": "\ud83e\udd87\ud83c\udf15\n#blackandwhite #music #love #mindset #energy\n.\n.\n.\n\ud83d\udcf8 @balu.tiff",
+      "views": 0,
+      "likes": -1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": -100.0,
+      "hashtags": [
+        "#blackandwhite",
+        "#music",
+        "#love",
+        "#mindset",
+        "#energy"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW11Es1DOy5/"
+    },
+    {
+      "author": "@stoicversehq",
+      "followers": 0,
+      "caption": "Everyone wants success\u2026 until it requires sacrifice.\n\nThe truth is simple:\nIf you wanted it bad enough, you\u2019d already be working for it.\n\nSo ask yourself \u2014 how bad do you really want it?\n\n#motivation ",
+      "views": 0,
+      "likes": -1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": -100.0,
       "hashtags": [
         "#motivation",
-        "#money",
         "#mindset",
-        "#discipline",
         "#success",
-        "#wealth",
-        "#reelsindia",
-        "#hustle"
-      ],
-      "posted_date": "2026-03-27",
-      "url": "https://www.instagram.com/p/DWZCITaDfj3/"
-    },
-    {
-      "author": "@itzallprath",
-      "followers": 0,
-      "caption": "Tarbooz bechne wale is bache ka dimaag dekh kar aap bhi hairan reh jayenge! \ud83e\udd2f\ud83c\udf49\nPehle isne ek arrogant businessman ko outsmart kiya, aur phir bada hokar seedha airline ke system ka loophole nikal liya ",
-      "views": 0,
-      "likes": -1,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#BusinessMindset",
-        "#AirlineHack",
-        "#Mastermind",
-        "#ItzAllPrath",
-        "#HindiFacts"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWvS9qIjLgi/"
-    },
-    {
-      "author": "@shri_yaade_rj47",
-      "followers": 0,
-      "caption": "Business \n\n#businessmindset #viralreels #new #business #marketingdigital",
-      "views": 0,
-      "likes": -1,
-      "comments": 8,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 700.0,
-      "hashtags": [
-        "#businessmindset",
-        "#viralreels",
-        "#new",
-        "#business",
-        "#marketingdigital"
-      ],
-      "posted_date": "2026-04-04",
-      "url": "https://www.instagram.com/p/DWtJfYBEqmu/"
-    },
-    {
-      "author": "@anshrathi0001_",
-      "followers": 0,
-      "caption": "\ud83d\udcc8\n.\n.\n.\n#trending #thekedar #khananmafiya\ud83d\udea8\ud83c\udff4\u200d\u2620\ufe0f #businessmindset #businessmotivation",
-      "views": 0,
-      "likes": -1,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#trending",
-        "#thekedar",
-        "#khananmafiya\ud83d\udea8\ud83c\udff4\u200d\u2620\ufe0f",
-        "#businessmindset",
-        "#businessmotivation"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwAhrVkjPv/"
-    },
-    {
-      "author": "@pouvalu1",
-      "followers": 0,
-      "caption": "Us as entrepreneurs rely on influencers\u2026 but it should be the other way around !\n\nWe know the sacrifices\nWe know the late nights\nWe know what it takes to build something from nothing \ud83d\udcaa\ud83c\udffd\n\nSo why not st",
-      "views": 0,
-      "likes": -1,
-      "comments": 64,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 6300.0,
-      "hashtags": [
-        "#entrepreneur",
-        "#founder",
-        "#bettertogether",
-        "#influencers",
-        "#supportingsmallbusinesses"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWyJkNhCrHO/"
-    },
-    {
-      "author": "@rosy.daily",
-      "followers": 0,
-      "caption": "Basic to Iconique \u2014 \u00c9pisode 5 : Personal Branding, ma\u00eetrise tes codes\n\n@k.mbappe n\u2019a jamais fait de media training.\nEt pourtant \u2014 son image est l\u2019une des plus ma\u00eetris\u00e9es du sport mondial, gr\u00e2ce \u00e0 son ",
-      "views": 0,
-      "likes": -1,
-      "comments": 10,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 900.0,
-      "hashtags": [
-        "#softskills",
-        "#PersonalBranding",
-        "#BasicToIconique",
-        "#ImageArchitect",
-        "#Mbapp\u00e9",
-        "#Iconique",
-        "#\u00c9l\u00e9gance",
-        "#Mindset"
+        "#selfimprovement",
+        "#discipline"
       ],
       "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW0xm8kDFFL/"
+      "url": "https://www.instagram.com/p/DW11CCmjRbj/"
     },
     {
-      "author": "@dee_jnae",
+      "author": "@chloe.softlife.secret",
       "followers": 0,
-      "caption": "Same Goals, Same Vision, Same Grind\ud83d\udcaa\ud83c\udffe\ud83d\ude4f\ud83c\udffe #explore #marriedlife #entrepreneur #marriage #business",
+      "caption": "Choosing where my energy goes, one thought at a time.\nComing back to what feels true, quiet, and mine.\n\nThis season, I choose to listen inward. \u2728\n\n#wellness #mindset #quote #healthylife #healthylifest",
       "views": 0,
       "likes": -1,
-      "comments": 50,
+      "comments": 5,
       "shares": 0,
       "saves": 0,
-      "engagement_rate": 4900.0,
+      "engagement_rate": 400.0,
       "hashtags": [
-        "#explore",
-        "#marriedlife",
-        "#entrepreneur",
-        "#marriage",
-        "#business"
+        "#wellness",
+        "#mindset",
+        "#quote",
+        "#healthylife",
+        "#healthylifestyle"
       ],
-      "posted_date": "2026-04-02",
-      "url": "https://www.instagram.com/p/DWo1a4YkQGs/"
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10_k3mHPp/"
+    },
+    {
+      "author": "@bintou_sissokho_beautemindset",
+      "followers": 0,
+      "caption": "Pendant longtemps, on a voulu me faire croire\nqu\u2019\u00eatre une femme, c\u2019\u00e9tait \u00eatre douce\u2026 mais silencieuse.\n\nQu\u2019il fallait rentrer dans un cadre.\nNe pas d\u00e9ranger.\nNe pas trop ressentir.\n\nMais j\u2019ai compris ",
+      "views": 0,
+      "likes": -1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": -100.0,
+      "hashtags": [
+        "#leadershipfeminin",
+        "#femmespuissantes",
+        "#developpementpersonnel",
+        "#mindset",
+        "#femmesentrepreneures"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10UNtDr_Q/"
+    },
+    {
+      "author": "@aestheticacademy.smileperfecto",
+      "followers": 0,
+      "caption": "\u2728 Viele sehen heute nur das Ergebnis\u2026 aber nicht den Weg dorthin. \n\nZwischen damals und heute liegen unz\u00e4hlige Stunden voller Geduld, Lernen und Durchhalteverm\u00f6gen. \n\nIch war nie perfekt \u2013 aber ich ha",
+      "views": 0,
+      "likes": -1,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.0,
+      "hashtags": [
+        "#mindset",
+        "#erfolg",
+        "#beautybusiness"
+      ],
+      "posted_date": "2026-04-07",
+      "url": "https://www.instagram.com/p/DW10Zf8DBI0/"
     }
   ]
 }

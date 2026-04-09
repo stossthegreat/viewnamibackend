@@ -4,34 +4,34 @@
   "month": "April",
   "year": 2026,
   "niche": "creators",
-  "generated_at": "2026-04-09T01:56:28.407143",
-  "data_points_analyzed": 265,
-  "viral_posts_found": 265,
+  "generated_at": "2026-04-09T02:11:12.851028",
+  "data_points_analyzed": 165,
+  "viral_posts_found": 165,
   "hooks": [
     {
       "pattern": "How to",
-      "example_count": 6,
+      "example_count": 3,
       "example": "Getting to 400,000 wasn\u2019t easy for me- mostly because I wasted my time in the beginning trying to figure out how to make"
-    },
-    {
-      "pattern": "Nobody talks about",
-      "example_count": 2,
-      "example": "Nobody talks about this \u2014 and it's costing kids their growth window. \ud83d\udea8"
-    },
-    {
-      "pattern": "X things/tips",
-      "example_count": 2,
-      "example": "7 things to stop doing this month:"
-    },
-    {
-      "pattern": "Here's why",
-      "example_count": 2,
-      "example": "Your Cold Emails Are Going to SPAM \u2014 Here's Why."
     },
     {
       "pattern": "Stop doing",
       "example_count": 1,
       "example": "Stop using boring flat icons."
+    },
+    {
+      "pattern": "Nobody talks about",
+      "example_count": 1,
+      "example": "Nobody talks about this \u2014 and it's costing kids their growth window. \ud83d\udea8"
+    },
+    {
+      "pattern": "X things/tips",
+      "example_count": 1,
+      "example": "7 things to stop doing this month:"
+    },
+    {
+      "pattern": "Here's why",
+      "example_count": 1,
+      "example": "Your Cold Emails Are Going to SPAM \u2014 Here's Why."
     }
   ],
   "best_times": [
@@ -50,14 +50,14 @@
     {
       "day": "Tuesday",
       "time": "Peak",
-      "engagement_avg": 259.7,
-      "sample_size": 121
+      "engagement_avg": 356.7,
+      "sample_size": 81
     },
     {
       "day": "Monday",
       "time": "Peak",
-      "engagement_avg": 164.6,
-      "sample_size": 74
+      "engagement_avg": 157.5,
+      "sample_size": 40
     },
     {
       "day": "Wednesday",
@@ -68,35 +68,27 @@
     {
       "day": "Sunday",
       "time": "Peak",
-      "engagement_avg": 74.8,
-      "sample_size": 50
+      "engagement_avg": 82.4,
+      "sample_size": 27
     },
     {
       "day": "Saturday",
       "time": "Peak",
-      "engagement_avg": 37.6,
-      "sample_size": 9
+      "engagement_avg": 54.7,
+      "sample_size": 6
     }
   ],
   "hashtags": [
     {
       "tag": "#growthtips",
-      "usage_count": 140
-    },
-    {
-      "tag": "#digitalmarketing",
-      "usage_count": 58
-    },
-    {
-      "tag": "#marketingstrategy",
-      "usage_count": 40
-    },
-    {
-      "tag": "#contentstrategy",
-      "usage_count": 32
+      "usage_count": 70
     },
     {
       "tag": "#instagramreels",
+      "usage_count": 29
+    },
+    {
+      "tag": "#digitalmarketing",
       "usage_count": 29
     },
     {
@@ -104,85 +96,93 @@
       "usage_count": 24
     },
     {
-      "tag": "#socialmediatips",
-      "usage_count": 22
+      "tag": "#marketingstrategy",
+      "usage_count": 20
     },
     {
-      "tag": "#marketingtips",
-      "usage_count": 18
-    },
-    {
-      "tag": "#businessgrowth",
-      "usage_count": 18
-    },
-    {
-      "tag": "#instagramgrowth",
-      "usage_count": 18
-    },
-    {
-      "tag": "#onlinebusiness",
+      "tag": "#contentstrategy",
       "usage_count": 16
-    },
-    {
-      "tag": "#contentcreator",
-      "usage_count": 16
-    },
-    {
-      "tag": "#explorepage",
-      "usage_count": 14
-    },
-    {
-      "tag": "#contentmarketing",
-      "usage_count": 14
-    },
-    {
-      "tag": "#smallbusiness",
-      "usage_count": 14
     },
     {
       "tag": "#fyp",
-      "usage_count": 12
+      "usage_count": 11
+    },
+    {
+      "tag": "#socialmediatips",
+      "usage_count": 11
     },
     {
       "tag": "#viralreels",
-      "usage_count": 12
-    },
-    {
-      "tag": "#leadgeneration",
       "usage_count": 10
     },
     {
-      "tag": "#customerexperience",
+      "tag": "#explorepage",
       "usage_count": 10
+    },
+    {
+      "tag": "#marketingtips",
+      "usage_count": 9
+    },
+    {
+      "tag": "#businessgrowth",
+      "usage_count": 9
+    },
+    {
+      "tag": "#instagramgrowth",
+      "usage_count": 9
     },
     {
       "tag": "#trendingreels",
-      "usage_count": 9
+      "usage_count": 8
     },
     {
-      "tag": "#socialmediagrowth",
-      "usage_count": 9
+      "tag": "#onlinebusiness",
+      "usage_count": 8
     },
     {
-      "tag": "#support",
-      "usage_count": 9
+      "tag": "#contentcreator",
+      "usage_count": 8
     },
     {
       "tag": "#reels",
-      "usage_count": 8
+      "usage_count": 7
+    },
+    {
+      "tag": "#viral",
+      "usage_count": 7
+    },
+    {
+      "tag": "#contentmarketing",
+      "usage_count": 7
+    },
+    {
+      "tag": "#smallbusiness",
+      "usage_count": 7
     },
     {
       "tag": "#digitalcreator",
-      "usage_count": 8
+      "usage_count": 6
     },
     {
-      "tag": "#socialmediamarketing",
-      "usage_count": 8
+      "tag": "#trending",
+      "usage_count": 5
+    },
+    {
+      "tag": "#socialmediagrowth",
+      "usage_count": 5
+    },
+    {
+      "tag": "#support",
+      "usage_count": 5
+    },
+    {
+      "tag": "#leadgeneration",
+      "usage_count": 5
     }
   ],
   "formats": [],
   "trending_sounds": [],
-  "insights": "265 posts analyzed. Avg 0 views.",
+  "insights": "165 posts. Avg 0 views.",
   "top_posts": [
     {
       "author": "@mosaicodestrellas",
@@ -566,26 +566,6 @@
       ],
       "posted_date": "2026-04-04",
       "url": "https://www.instagram.com/p/DWtrRtrgCf9/"
-    },
-    {
-      "author": "@lisahoogendoorn",
-      "followers": 0,
-      "caption": "It can actually be easier than you think! Just tweak your reels a bit, otherwise they might flag it for being too similar. \ud83e\uddda\ud83c\udffb\ud83d\udc97\n\n#trialreels #trialreelsstrategy #iggrowth #growthtips #carousels",
-      "views": 0,
-      "likes": 864,
-      "comments": 88,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 110.19,
-      "hashtags": [
-        "#trialreels",
-        "#trialreelsstrategy",
-        "#iggrowth",
-        "#growthtips",
-        "#carousels"
-      ],
-      "posted_date": "2026-04-04",
-      "url": "https://www.instagram.com/p/DWuGoP5Co5m/"
     },
     {
       "author": "@lisahoogendoorn",
@@ -1148,26 +1128,6 @@
       "url": "https://www.instagram.com/p/DWwpkdimAAy/"
     },
     {
-      "author": "@dorinhirvi",
-      "followers": 0,
-      "caption": "Getting to 400,000 wasn\u2019t easy for me- mostly because I wasted my time in the beginning trying to figure out how to make it right.\n\nI hated the burn out cycle, I always tell you about it because it\u2019s ",
-      "views": 0,
-      "likes": 134,
-      "comments": 8,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 105.97,
-      "hashtags": [
-        "#contentmarketingstrategy",
-        "#contentcreatortips",
-        "#contentmonetization",
-        "#growthtips",
-        "#creatorsofinstagram"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwpkdimAAy/"
-    },
-    {
       "author": "@shaikh_sameer_58",
       "followers": 0,
       "caption": "\ud83e\udef6 Tenu Takda Rava \u2728\n.\n.\n.\n.\n.#\u1d04\u1d0f\u0274\u1d1b\u1d07\u0274\u1d1b\u1d04\u0280\u1d07\u1d00\u1d1b\u1d0f\u0280 #support #growthtips #virltips #motivationdeutsch viral instagram india trending surat love khwaja_garib_nawaz",
@@ -1186,46 +1146,6 @@
       ],
       "posted_date": "2026-04-05",
       "url": "https://www.instagram.com/p/DWwQoI1jMou/"
-    },
-    {
-      "author": "@shaikh_sameer_58",
-      "followers": 0,
-      "caption": "\ud83e\udef6 Tenu Takda Rava \u2728\n.\n.\n.\n.\n.#\u1d04\u1d0f\u0274\u1d1b\u1d07\u0274\u1d1b\u1d04\u0280\u1d07\u1d00\u1d1b\u1d0f\u0280 #support #growthtips #virltips #motivationdeutsch viral instagram india trending surat love khwaja_garib_nawaz",
-      "views": 0,
-      "likes": 68,
-      "comments": 14,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 120.59,
-      "hashtags": [
-        "#\u1d04\u1d0f\u0274\u1d1b\u1d07\u0274\u1d1b\u1d04\u0280\u1d07\u1d00\u1d1b\u1d0f\u0280",
-        "#support",
-        "#growthtips",
-        "#virltips",
-        "#motivationdeutsch"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwQoI1jMou/"
-    },
-    {
-      "author": "@sayyed_husain_777",
-      "followers": 0,
-      "caption": "\ud83d\udcab kya baat hai lala ,\u270c\ud83c\udffb\n.\n.\n.\n..#\u1d04\u1d0f\u0274\u1d1b\u1d07\u0274\u1d1b\u1d04\u0280\u1d07\u1d00\u1d1b\u1d0f\u0280 #support #growthtips #virltips #motivationdeutsch viral instagram india trending surat love khwaja_garib_nawaz",
-      "views": 0,
-      "likes": 56,
-      "comments": 9,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 116.07,
-      "hashtags": [
-        "#\u1d04\u1d0f\u0274\u1d1b\u1d07\u0274\u1d1b\u1d04\u0280\u1d07\u1d00\u1d1b\u1d0f\u0280",
-        "#support",
-        "#growthtips",
-        "#virltips",
-        "#motivationdeutsch"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwTbDOiAEj/"
     },
     {
       "author": "@sayyed_husain_777",
@@ -1267,44 +1187,6 @@
       "url": "https://www.instagram.com/p/DWwSWwVEtz5/"
     },
     {
-      "author": "@bgmi__ramesh__rd",
-      "followers": 0,
-      "caption": "my best dost\ud83d\udc95\u270c\ufe0fReel remix to use this hashtag \ud83d\udc47\n\nMy personal use hashtag\n\n______pleaze_____\n\n____suscribe for more video______\n\n______full waching video________\n\n_______follow____20k______\ud83d\ude4f\n\n______rea",
-      "views": 0,
-      "likes": 46,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#trendingaudios",
-        "#trendingaudioreels",
-        "#explorepage",
-        "#growthtips"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwSWwVEtz5/"
-    },
-    {
-      "author": "@stephs.bookshelf09",
-      "followers": 0,
-      "caption": "\ud835\uddea\ud835\uddf2\ud835\uddf9\ud835\uddf0\ud835\uddfc\ud835\uddfa\ud835\uddf2 \ud835\uddea\ud835\uddf2\ud835\uddf2\ud835\uddf8\ud835\uddf9\ud835\ude06 \ud835\udde6\ud835\uddf5\ud835\uddf2\ud835\uddf9\ud835\uddf3 \ud835\uddd6\ud835\uddee\ud835\uddff\ud835\uddf2 \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 \ud835\udde6\ud835\ude01\ud835\uddf2\ud835\uddfd\ud835\uddf5 \ud83d\udc9b\n\n- - - - - \nThis week\u2019s Shelf Care \ud83d\udc9b\ud83d\udcda \n\nCelebration- It\u2019s Easter Sunday \ud83d\udc23 but everyone celebrates a little differently and that\u2019s okay! Holidays are supposed to ",
-      "views": 0,
-      "likes": 41,
-      "comments": 23,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 156.1,
-      "hashtags": [
-        "#weeklyshelfcare",
-        "#bookstagram",
-        "#growthtips",
-        "#togetherwegrow"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwPVxSlPUW/"
-    },
-    {
       "author": "@stephs.bookshelf09",
       "followers": 0,
       "caption": "\ud835\uddea\ud835\uddf2\ud835\uddf9\ud835\uddf0\ud835\uddfc\ud835\uddfa\ud835\uddf2 \ud835\uddea\ud835\uddf2\ud835\uddf2\ud835\uddf8\ud835\uddf9\ud835\ude06 \ud835\udde6\ud835\uddf5\ud835\uddf2\ud835\uddf9\ud835\uddf3 \ud835\uddd6\ud835\uddee\ud835\uddff\ud835\uddf2 \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 \ud835\udde6\ud835\ude01\ud835\uddf2\ud835\uddfd\ud835\uddf5 \ud83d\udc9b\n\n- - - - - \nThis week\u2019s Shelf Care \ud83d\udc9b\ud83d\udcda \n\nCelebration- It\u2019s Easter Sunday \ud83d\udc23 but everyone celebrates a little differently and that\u2019s okay! Holidays are supposed to ",
@@ -1344,26 +1226,6 @@
       "url": "https://www.instagram.com/p/DWvNm43k6rm/"
     },
     {
-      "author": "@nima_.henna",
-      "followers": 0,
-      "caption": "#your_niche_tip #your_niche_daily #your_nichecommunity\n#growthtips #reelsstrategy contentcreator\ninstagramtips viralreels",
-      "views": 0,
-      "likes": 23,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#your_niche_tip",
-        "#your_niche_daily",
-        "#your_nichecommunity",
-        "#growthtips",
-        "#reelsstrategy"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWvNm43k6rm/"
-    },
-    {
       "author": "@molaclava",
       "followers": 0,
       "caption": "You spent hours on that post. Then\u2026 nothing. \ud83e\udd97\n\nIt's rarely the content that's the problem \u2014 it's the habits around it.\n\nSmall mistakes like disappearing after you post, leading with a weak hook, or t",
@@ -1381,48 +1243,6 @@
       ],
       "posted_date": "2026-04-05",
       "url": "https://www.instagram.com/p/DWwPBf0mIn3/"
-    },
-    {
-      "author": "@molaclava",
-      "followers": 0,
-      "caption": "You spent hours on that post. Then\u2026 nothing. \ud83e\udd97\n\nIt's rarely the content that's the problem \u2014 it's the habits around it.\n\nSmall mistakes like disappearing after you post, leading with a weak hook, or t",
-      "views": 0,
-      "likes": 21,
-      "comments": 4,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 119.05,
-      "hashtags": [
-        "#trending",
-        "#growth",
-        "#personalbrand",
-        "#growthtips"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwPBf0mIn3/"
-    },
-    {
-      "author": "@tenx_socialmx",
-      "followers": 0,
-      "caption": "Vender en redes no es cuesti\u00f3n de suerte\u2026 es de hacerlo bien\u26a1\ufe0f\u26a1\ufe0f\n\nSi sientes que subes contenido pero no se convierte en ventas, probablemente te falta esto\u27a1\ufe0f\u27a1\ufe0f\n\nGuarda este post porque esto es lo que",
-      "views": 0,
-      "likes": 9,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 122.22,
-      "hashtags": [
-        "#MarketingDigital",
-        "#VentasEnRedes",
-        "#ContenidoQueVende",
-        "#SocialMediaTips",
-        "#EstrategiaDigital",
-        "#WhatsAppBusiness",
-        "#VentasOnline",
-        "#TipsDeMarketing"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzTJTUmEL0/"
     },
     {
       "author": "@tenx_socialmx",
@@ -1551,109 +1371,6 @@
       "url": "https://www.instagram.com/p/DWyY8l8kxpl/"
     },
     {
-      "author": "@techdocklabs",
-      "followers": 0,
-      "caption": "Your website might look good\u2026 but is it secretly killing your sales? \ud83d\udc40\nSlow speed = people leave before you even say hello \u26a1\nFix this before your competitors do \ud83d\ude80\n\n#digitalmarketingtips #seogrowth #we",
-      "views": 0,
-      "likes": 8,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#digitalmarketingtips",
-        "#seogrowth",
-        "#websitetips",
-        "#marketinghacks",
-        "#growthtips"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1cwuJk7Yn/"
-    },
-    {
-      "author": "@anslation_official",
-      "followers": 0,
-      "caption": "Not every platform is meant for you\u2026 \nand that\u2019s exactly where most brands go wrong. \n\nYou don\u2019t need to be everywhere. \nYou just need to be where your audience actually is. \n\nInstagram \u2192 for attentio",
-      "views": 0,
-      "likes": 8,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#socialmediamarketing",
-        "#digitalstrategy",
-        "#branding",
-        "#contentmarketing",
-        "#growthtips"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1ISMPiPbi/"
-    },
-    {
-      "author": "@belayetmarketingofficial",
-      "followers": 0,
-      "caption": "Sales and Marketing are not the same!\nThey work together to grow a business \ud83d\udcaf\n\n\ud83d\udcac Which one do you like more \u2014 Sales or Marketing?\n\ud83d\udccc Save this post\n\ud83d\udd14 Follow for more tips\n\nSales vs Marketing\n\n\u2694\ufe0f Sales ",
-      "views": 0,
-      "likes": 8,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 125.0,
-      "hashtags": [
-        "#sales",
-        "#marketing",
-        "#salesvsmaketing",
-        "#digitalmarketing",
-        "#businesstips",
-        "#marketingstrategy",
-        "#salesstrategy",
-        "#onlinebusiness"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW0IkA1DbM7/"
-    },
-    {
-      "author": "@themarketingmag",
-      "followers": 0,
-      "caption": "Stop guessing. Start noticing.\nWhat worked before is literally showing you what to do next.\nCheck your Insights. Your audience already told you what they want. \ud83d\udca1\n.\n.\n.\n#instagram #hacks #growthtips #m",
-      "views": 0,
-      "likes": 8,
-      "comments": 3,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 137.5,
-      "hashtags": [
-        "#instagram",
-        "#hacks",
-        "#growthtips",
-        "#marketingtips",
-        "#follow4follow"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWyr3a-GNHV/"
-    },
-    {
-      "author": "@skillcircle.lucknow",
-      "followers": 0,
-      "caption": "\ud83d\ude80 Master these 5 steps & watch your digital marketing actually deliver real results \ud83d\udcc8\u2728\n.\n.\n.\n.\n.\n.\n#skillcircle #digitalmarketing #growthtips #onlinebusiness #marketingstartegy \n.\n.\n.\n.\n[digital marke",
-      "views": 0,
-      "likes": 8,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#skillcircle",
-        "#digitalmarketing",
-        "#growthtips",
-        "#onlinebusiness",
-        "#marketingstartegy"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWyY8l8kxpl/"
-    },
-    {
       "author": "@vikash_giri36",
       "followers": 0,
       "caption": "\"New creator \u0939\u094b \u0906\u092a \u0915\u093e \u0915\u092d\u0940 \u0907\u0924\u0928\u0947 views \u092a\u0947 Earning \u0906\u092f\u093e \u0939\u0948 \u092f\u0947 \u0915\u093f\u0938\u0940 \u0917\u093f\u092b\u094d\u091f \u0915\u093e \u0928\u0939\u0940 \u0939\u0948 only contant monetization \u0915\u0940 Earning \u0939\u0948 Live \u092a\u094d\u0930\u0942\u092b \u0939\u0948 \u0906\u092a \u092d\u0940 \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u094b \u092e\u0948\u0902 \u0905\u092a\u0928\u0947 \u0906\u092a \u0915\u093f\u0938\u0915\u094b \u092c\u0924\u093e \u0926\u0942 \u0938\u092e\u091d \u0928\u0939\u0940 \u0906\u0924\u093e power of onli",
@@ -1672,49 +1389,6 @@
       ],
       "posted_date": "2026-04-05",
       "url": "https://www.instagram.com/p/DWvhR-eEpM8/"
-    },
-    {
-      "author": "@vikash_giri36",
-      "followers": 0,
-      "caption": "\"New creator \u0939\u094b \u0906\u092a \u0915\u093e \u0915\u092d\u0940 \u0907\u0924\u0928\u0947 views \u092a\u0947 Earning \u0906\u092f\u093e \u0939\u0948 \u092f\u0947 \u0915\u093f\u0938\u0940 \u0917\u093f\u092b\u094d\u091f \u0915\u093e \u0928\u0939\u0940 \u0939\u0948 only contant monetization \u0915\u0940 Earning \u0939\u0948 Live \u092a\u094d\u0930\u0942\u092b \u0939\u0948 \u0906\u092a \u092d\u0940 \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u094b \u092e\u0948\u0902 \u0905\u092a\u0928\u0947 \u0906\u092a \u0915\u093f\u0938\u0915\u094b \u092c\u0924\u093e \u0926\u0942 \u0938\u092e\u091d \u0928\u0939\u0940 \u0906\u0924\u093e power of onli",
-      "views": 0,
-      "likes": 6,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#onlineearning",
-        "#contantmonetization",
-        "#vikashgiri",
-        "#growthtips",
-        "#creator"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWvhR-eEpM8/"
-    },
-    {
-      "author": "@dheonmedia",
-      "followers": 0,
-      "caption": "Aseg\u00farate de optimizar tu embudo de ventas \nCada etapa cuenta: atrae, convierte y fideliza.\n\n#MarketingDigital #EmbudoDeVentas #GrowthTips #Conversiones #Negocios #Emprendedores #Estrategia #DheonMedi",
-      "views": 0,
-      "likes": 5,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#MarketingDigital",
-        "#EmbudoDeVentas",
-        "#GrowthTips",
-        "#Conversiones",
-        "#Negocios",
-        "#Emprendedores",
-        "#Estrategia",
-        "#DheonMedia"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwWO7jCrrh/"
     },
     {
       "author": "@dheonmedia",
@@ -1822,197 +1496,6 @@
       ],
       "posted_date": "2026-04-06",
       "url": "https://www.instagram.com/p/DWyIBi2DFJz/"
-    },
-    {
-      "author": "@bizflexhq",
-      "followers": 0,
-      "caption": "Most businesses don\u2019t fail from bad ideas, but from avoidable mistakes.\n\nFix your finances, streamline payments, and stay in control with BizFlex.\n\n#businesst\u00edps #smallbusinessnigeria #bizflexafrica #",
-      "views": 0,
-      "likes": 4,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#businesst\u00edps",
-        "#smallbusinessnigeria",
-        "#bizflexafrica",
-        "#growthtips"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1KClXjfkS/"
-    },
-    {
-      "author": "@kdscreationstudio",
-      "followers": 0,
-      "caption": "\ud83d\ude80 5 Powerful Ways To Market Your Business (2026 Growth Guide)\n\nWant to grow your brand faster? Use these proven strategies \ud83d\udc47\n\n\ud83d\udc49 1. Leverage Social Media\nConnect with a global audience instantly \ud83c\udf0d\nBuil",
-      "views": 0,
-      "likes": 4,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 125.0,
-      "hashtags": [
-        "#businessgrowth",
-        "#marketingstrategy",
-        "#digitalmarketing",
-        "#socialmediamarketing",
-        "#smallbusinessindia",
-        "#entrepreneurlife",
-        "#startupindia",
-        "#growthtips"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW0FEsDgfyz/"
-    },
-    {
-      "author": "@contentbundles.online",
-      "followers": 0,
-      "caption": "Sirf product bechna kafi nahi hai! \ud83d\uded1 \ud83d\udcc8\n\nAapne kabhi \u063a\u0648\u0631 kiya hai ke baray brands (Big Brands) aksar aisi videos ya posts kyun karte hain jin mein unka product nazar bhi nahi aata? \ud83e\uddd0\n\nWajah boht simple",
-      "views": 0,
-      "likes": 4,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#ContentBundles",
-        "#BrandingStrategy",
-        "#Storytelling",
-        "#BusinessGrowth",
-        "#SocialMediaAutomation",
-        "#SialkotBusiness",
-        "#IdentityDesign",
-        "#DigitalMarketingPakistan"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWydfH4iL8-/"
-    },
-    {
-      "author": "@orbitriseagency",
-      "followers": 0,
-      "caption": "The 4-1-1 Rule for posting on Instagram. \n\n#instagrowth #contentstrategy #socialmediaagency #growthtips",
-      "views": 0,
-      "likes": 4,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#instagrowth",
-        "#contentstrategy",
-        "#socialmediaagency",
-        "#growthtips"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWyIBi2DFJz/"
-    },
-    {
-      "author": "@rankriseup",
-      "followers": 0,
-      "caption": "Only real marketers will get this right \ud83d\udd25\n\nWhat is another term for Online Advertising?\n\n\ud83d\udc49 Comment your answer now\n\u23f3 Answer coming soon!\n\n#DigitalMarketing #LeadGeneration #MarketingStrategy #OnlineBu",
-      "views": 0,
-      "likes": 3,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#DigitalMarketing",
-        "#LeadGeneration",
-        "#MarketingStrategy",
-        "#OnlineBusiness",
-        "#growthtips"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1WMqyjGxG/"
-    },
-    {
-      "author": "@misha.infotech",
-      "followers": 0,
-      "caption": "\ud835\udc18\ud835\udc28\ud835\udc2e\ud835\udc2b \ud835\udc1c\ud835\udc28\ud835\udc27\ud835\udc2d\ud835\udc1e\ud835\udc27\ud835\udc2d \ud835\udc22\ud835\udc2c\ud835\udc27\u2019\ud835\udc2d \ud835\udc1f\ud835\udc1a\ud835\udc22\ud835\udc25\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc1b\ud835\udc1e\ud835\udc1c\ud835\udc1a\ud835\udc2e\ud835\udc2c\ud835\udc1e \ud835\udc28\ud835\udc1f \ud835\udc25\ud835\udc2e\ud835\udc1c\ud835\udc24\u2026 \ud835\udc22\ud835\udc2d\u2019\ud835\udc2c \ud835\udc1f\ud835\udc1a\ud835\udc22\ud835\udc25\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc1b\ud835\udc1e\ud835\udc1c\ud835\udc1a\ud835\udc2e\ud835\udc2c\ud835\udc1e \ud835\udc28\ud835\udc1f \ud835\udc1f\ud835\udc2e\ud835\udc27\ud835\udc1d\ud835\udc1a\ud835\udc26\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc1a\ud835\udc25\ud835\udc2c.\n\nWeak hooks \u2192 \ud835\udc25\ud835\udc28\ud835\udc30 \ud835\udc2b\ud835\udc1e\ud835\udc2d\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27\nBoring content \u2192 \ud835\udc27\ud835\udc28 \ud835\udc1e\ud835\udc27\ud835\udc20\ud835\udc1a\ud835\udc20\ud835\udc1e\ud835\udc26\ud835\udc1e\ud835\udc27\ud835\udc2d\nNo CTA \u2192 \ud835\udc27\ud835\udc28 \ud835\udc1c\ud835\udc28\ud835\udc27\ud835\udc2f\ud835\udc1e\ud835\udc2b\ud835\udc2c\ud835\udc22\ud835\udc28\ud835\udc27\nInconsistency \u2192 \ud835\udc27\ud835\udc28 \ud835\udc20\ud835\udc2b\ud835\udc28\ud835\udc30\ud835\udc2d\ud835\udc21\n\n\ud835\udc05\ud835\udc22\ud835\udc31 \ud835\udc2d\ud835\udc21\ud835\udc1e \ud835\udc1b",
-      "views": 0,
-      "likes": 3,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#contentstrategy",
-        "#contentcreator",
-        "#growthtips",
-        "#digitalmarketing",
-        "#socialmediagrowth",
-        "#creatoreconomy"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1P47NDFPE/"
-    },
-    {
-      "author": "@naavsoch",
-      "followers": 0,
-      "caption": "Low reach?\nIt\u2019s not the algorithm. It\u2019s your content.\n\nFix your hook.\nFix your message.\nFix your results.\n\n#lowreach #instagramgrowth #contentproblem #marketingfix #naavsoch #growthstrategy #brandingh",
-      "views": 0,
-      "likes": 3,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 133.33,
-      "hashtags": [
-        "#lowreach",
-        "#instagramgrowth",
-        "#contentproblem",
-        "#marketingfix",
-        "#naavsoch",
-        "#growthstrategy",
-        "#brandinghelp",
-        "#socialmediahelp"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW0ZY9IFJ4t/"
-    },
-    {
-      "author": "@the_ardigitalhub",
-      "followers": 0,
-      "caption": "Faceless content is not a limitation\u2026 it\u2019s your biggest advantage \ud83d\ude80\n\nYou don\u2019t need a camera, expensive setup, or perfect skills to grow online.\nAll you need is a smart strategy \ud83d\udc47\n\n1\ufe0f\u20e3 Start creating ",
-      "views": 0,
-      "likes": 3,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#digitalmarketing",
-        "#facelesscontent",
-        "#contentcreator",
-        "#growthtips",
-        "#onlinemarketing"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWy6N5FgXL3/"
-    },
-    {
-      "author": "@smartlogic_ai",
-      "followers": 0,
-      "caption": "Start Growing with Better Content Today\n\nGrowth starts with better visuals.\nBetter visuals bring real results.\n\n\ud83d\udcac DM me to create a post design and videos for your brand and services\n\ud83c\udf10 https://smartlo",
-      "views": 0,
-      "likes": 3,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 166.67,
-      "hashtags": [
-        "#growthmindset",
-        "#contentstrategy",
-        "#brandingpower",
-        "#creativecontent",
-        "#marketingstrategy",
-        "#instagrowth",
-        "#businessgrowth",
-        "#digitalcreator"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWy0QSfk_kY/"
     },
     {
       "author": "@rankriseup",
@@ -2356,536 +1839,6 @@
       ],
       "posted_date": "2026-04-05",
       "url": "https://www.instagram.com/p/DWwRf65CP1Y/"
-    },
-    {
-      "author": "@junbiolab",
-      "followers": 0,
-      "caption": "Nobody talks about this \u2014 and it's costing kids their growth window. \ud83d\udea8\n\nThese 5 height-boosting secrets aren't trends. They're backed by pediatric nutrition science \u2014 and they work best when parents a",
-      "views": 0,
-      "likes": 2,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#JunbiolabUSA",
-        "#HeightBooster",
-        "#GrowthTips",
-        "#KidsSupplements",
-        "#TrustYourGut",
-        "#PedsApproved"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1dYjFDpuV/"
-    },
-    {
-      "author": "@aspiringmillions",
-      "followers": 0,
-      "caption": "When the single source stops  and eventually every single source does  there is no backup.\n\nThe most financially secure people don't have more money than you. They have more columns. More sources feed",
-      "views": 0,
-      "likes": 2,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 150.0,
-      "hashtags": [
-        "#luxury",
-        "#wealth",
-        "#billionaires",
-        "#aspiringmillionaire",
-        "#win",
-        "#mindset",
-        "#getit",
-        "#millionaire"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1bR9dAWXa/"
-    },
-    {
-      "author": "@vortex_.ai",
-      "followers": 0,
-      "caption": "Staying ahead of the April 2026 Instagram algorithm.#InstagramAlgorithm, #SocialMediaTrends, #GrowthTips, #VortexAI, #marketingstrategy",
-      "views": 0,
-      "likes": 2,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#InstagramAlgorithm,",
-        "#SocialMediaTrends,",
-        "#GrowthTips,",
-        "#VortexAI,",
-        "#marketingstrategy"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1VafziD7H/"
-    },
-    {
-      "author": "@growmedia.digital",
-      "followers": 0,
-      "caption": "No guesswork.\nJust a clear roadmap. \ud83e\udde0\n\nSave this for your strategy.\n\nHashtags:\n#marketingplan #businessstrategy #marketingframework #contentstrategy #brandstrategy #digitalgrowth #marketing101 #startu",
-      "views": 0,
-      "likes": 2,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 150.0,
-      "hashtags": [
-        "#marketingplan",
-        "#businessstrategy",
-        "#marketingframework",
-        "#contentstrategy",
-        "#brandstrategy",
-        "#digitalgrowth",
-        "#marketing101",
-        "#startupgrowth"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1GY7bDevD/"
-    },
-    {
-      "author": "@aspiringmillions",
-      "followers": 0,
-      "caption": "You can learn every investment strategy and still self-sabotage your way back to zero.\n\nBecause the strategy lives in your head, but the behavior lives in your beliefs. The belief that money is hard t",
-      "views": 0,
-      "likes": 2,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 150.0,
-      "hashtags": [
-        "#luxury",
-        "#wealth",
-        "#billionaires",
-        "#aspiringmillionaire",
-        "#win",
-        "#mindset",
-        "#getit",
-        "#millionaire"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1It8yFxx8/"
-    },
-    {
-      "author": "@smartlogic_ai",
-      "followers": 0,
-      "caption": "Stop Posting Average Content Today\n\nAverage content gets ignored.\nStrong content gets results.\n\n\ud83d\udcac DM me to create a post design and videos for your brand and services\n\ud83c\udf10 https://smartlogicai.blogspot.c",
-      "views": 0,
-      "likes": 2,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 150.0,
-      "hashtags": [
-        "#contentstrategy",
-        "#brandingpower",
-        "#creativecontent",
-        "#marketingstrategy",
-        "#instagrowth",
-        "#businessgrowth",
-        "#digitalcreator",
-        "#designagency"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWyzwVkk_1P/"
-    },
-    {
-      "author": "@tga_coaching_classes_bahiya",
-      "followers": 0,
-      "caption": "Good evening \ud83e\udd70\ud83d\udc9e \n#fbpost #positivevibes #fbphotoviral #motivation #growthtips",
-      "views": 0,
-      "likes": 2,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#fbpost",
-        "#positivevibes",
-        "#fbphotoviral",
-        "#motivation",
-        "#growthtips"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWyebQWCe9G/"
-    },
-    {
-      "author": "@boldbixdotcom",
-      "followers": 0,
-      "caption": "Data gives numbers, insights give direction.\nUnderstand what works and scale it.\n\n#Insights #MarketingData #Analytics #GrowthTips #Boldbix",
-      "views": 0,
-      "likes": 2,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#Insights",
-        "#MarketingData",
-        "#Analytics",
-        "#GrowthTips",
-        "#Boldbix"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWyNBDtksm6/"
-    },
-    {
-      "author": "@tanusingroul208",
-      "followers": 0,
-      "caption": "\ud83d\ude80 Growth \u0915\u094b\u0908 \u091c\u093e\u0926\u0942 \u0928\u0939\u0940\u0902 \u0939\u0948\u2026 \u092f\u0947 \u0930\u094b\u091c\u093c \u0915\u0940 \u0906\u0926\u0924\u094b\u0902 \u0915\u093e \u0930\u093f\u091c\u093c\u0932\u094d\u091f \u0939\u0948!\n\u0905\u0917\u0930 \u0938\u091a \u092e\u0947\u0902 Social Media \u092a\u0930 grow \u0915\u0930\u0928\u093e \u0939\u0948 \u0924\u094b \u092f\u0947 5 \u092c\u093e\u0924\u0947\u0902 \u0939\u092e\u0947\u0936\u093e \u092f\u093e\u0926 \u0930\u0916\u094b\ud83d\udc47\n1\ufe0f\u20e3 Consistency \u0939\u0940 King \u0939\u0948 \u2013 \u0930\u094b\u091c\u093c \u092a\u094b\u0938\u094d\u091f \u0915\u0930\u094b, \u091a\u093e\u0939\u0947 views \u0915\u092e \u0939\u0940 \u0915\u094d\u092f\u094b\u0902 \u0928 \u0906\u090f",
-      "views": 0,
-      "likes": 2,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#fbpost",
-        "#Growthtips",
-        "#CreatorJourney",
-        "#nonfollowers",
-        "#tuneshwarisingroul"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWyCzeeCSKK/"
-    },
-    {
-      "author": "@d_hubs_marketing",
-      "followers": 0,
-      "caption": "Common misconception in 2026: AI content automatically ranks lower.\n\nThe truth is simple \u2014 content ranks based on value, not the tool used to create it.\n\nAI can speed up your work, but strategy, creat",
-      "views": 0,
-      "likes": 2,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#DigitalMarketing",
-        "#SEO",
-        "#ContentMarketing",
-        "#AIContent",
-        "#InstagramMarketing",
-        "#MarketingTips",
-        "#SocialMediaStrategy",
-        "#GrowthTips"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWx6P0cExW4/"
-    },
-    {
-      "author": "@the_abdealizakir",
-      "followers": 0,
-      "caption": "Not ranking on Google? \ud83d\udc40\n\nYou\u2019re probably missing these simple On-Page SEO basics \ud83d\udc47\n\nMost people think SEO is complicated\u2026\nBut in reality, small changes = massive traffic \ud83d\udcc8\n\nIn this carousel, you\u2019ll l",
-      "views": 0,
-      "likes": 2,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#seo",
-        "#digitalmarketing",
-        "#marketingtips",
-        "#contentmarketing",
-        "#growthtips"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwRf65CP1Y/"
-    },
-    {
-      "author": "@kamiakmalofficial",
-      "followers": 0,
-      "caption": "Comment \"Engage\" and you will get a complete understanding and framework in your particular niche for creating engaging content and increasing your engagement \ud83d\ude80\n\nMost people think Instagram growth is ",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#instagramtips",
-        "#instagramgrowth",
-        "#instagramgrowthtips",
-        "#instagramgrowthhacks",
-        "#engagement",
-        "#growthtips",
-        "#kamiakmal"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1h8OmgZ6o/"
-    },
-    {
-      "author": "@aspiringmillions",
-      "followers": 0,
-      "caption": "While your cash sits still, everything around it gets more expensive.\n\nThat money in the account that feels safe is quietly shrinking in real value every single year. The people who understand this do",
-      "views": 0,
-      "likes": 1,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 300.0,
-      "hashtags": [
-        "#luxury",
-        "#wealth",
-        "#billionaires",
-        "#aspiringmillionaire",
-        "#win",
-        "#mindset",
-        "#getit",
-        "#millionaire"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1T-bQl3z1/"
-    },
-    {
-      "author": "@impactlivetv",
-      "followers": 0,
-      "caption": "I Remember Writing My Goals\u2026 And Feeling Scared\n\nI remember sitting down at the beginning of the year, writing my goals. Not just the usual \u201cI want to succeed\u201d kind of goals, but real ones. Big ones. ",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#GrowthTips",
-        "#automation",
-        "#virtualassistant",
-        "#DigitalSuccess"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1PvvOCK7P/"
-    },
-    {
-      "author": "@ami_socials",
-      "followers": 0,
-      "caption": "Why your content isn\u2019t converting , save this and fix your content today #socialmediastrat\u00e9gy #socialmediaagency #growthtips #businessmindset #fyppppppppppppppppppppppppppppppppppppppppppppppppppppppp",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#socialmediastrat\u00e9gy",
-        "#socialmediaagency",
-        "#growthtips",
-        "#businessmindset",
-        "#fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1Lh-ICDIH/"
-    },
-    {
-      "author": "@jktravels_18",
-      "followers": 0,
-      "caption": "AMANDEEP SINGH (JK TRAVELS)\n9877315352 \n\n77K & 13.5L #viralreels #trendingnow #explorepage #reelitfeelit #fyp #foryou #viralvideo #instareels #growthtips #explore #immigration #visa #studyabroad #work",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#viralreels",
-        "#trendingnow",
-        "#explorepage",
-        "#reelitfeelit",
-        "#fyp",
-        "#foryou",
-        "#viralvideo",
-        "#instareels"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1RcaRmqt7/"
-    },
-    {
-      "author": "@conciergethedigital",
-      "followers": 0,
-      "caption": "What I\u2019d do if I had 0 followers today\u2026\n\n1.Pick ONE niche (no more confusion)\n2.Post value content every single day\n3.Focus on solving problems, not chasing likes\n4.Use hooks that stop the scroll in 3",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#GrowthTips",
-        "#ContentStrategy",
-        "#SocialMediaGrowth",
-        "#StartFromZero",
-        "#DigitalMarketing"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW0zZ9XlX5b/"
-    },
-    {
-      "author": "@zulfi.tech",
-      "followers": 0,
-      "caption": "Getting traffic online is harder than ever.\n\nAI-powered SEO, using top AI models like ChatGPT, Claude, and Gemini, helps businesses:\n\nImprove visibility\nAttract the right audience\nTurn website visitor",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#seoservices",
-        "#digitalmarketing",
-        "#zulfitech",
-        "#zulficrm",
-        "#aitools",
-        "#marketingtips",
-        "#growthtips"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzERIIkk_H/"
-    },
-    {
-      "author": "@inayah.zee",
-      "followers": 0,
-      "caption": "Luxury Pret (3PC) is a chic and elegant summer outfit designed for comfort and style. The breathable cotton shirt is adorned with intricate embroidery and subtle 3D detailing, giving it a polished and",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#summeroutfit\u2600\ufe0f",
-        "#ootd",
-        "#clothingbusiness",
-        "#growthtips",
-        "#explorepage"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzAvqsDgfa/"
-    },
-    {
-      "author": "@maisonmireille20",
-      "followers": 0,
-      "caption": "Things killing your Instagram growth \ud83d\udc47 \n\n\u274c Inconsistent posting \n\u274c Poor visuals \n\u274c No clear niche \n\u274c Ignoring trends \n\nFix these and watch your page improve \ud83d\udcc8\u2728 \n#socialmediatips #contentstrategy\n#smal",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#socialmediatips",
-        "#contentstrategy",
-        "#smallbusinesstips",
-        "#instagramgrowth",
-        "#growthtips"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWy4uqJDGbS/"
-    },
-    {
-      "author": "@smartlogic_ai",
-      "followers": 0,
-      "caption": "Turn Your Ideas Into Viral Content\n\nIdeas are not enough.\nExecution makes content viral.\n\n\ud83d\udcac DM me to create a post design and videos for your brand and services\n\ud83c\udf10 https://smartlogicai.blogspot.com/\n\n\ud83d\udcbc",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#viralcontent",
-        "#contentstrategy",
-        "#instagramgrowth",
-        "#digitalmarketing",
-        "#creativecontent",
-        "#marketingstrategy",
-        "#brandingideas",
-        "#socialmediatips"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWyz_xuE1GO/"
-    },
-    {
-      "author": "@smartlogic_ai",
-      "followers": 0,
-      "caption": "Design That Turns Views Into Sales\n\nGood design looks nice.\nSmart design sells your brand.\n\n\ud83d\udcac DM me to create a post design and videos for your brand and services\n\ud83c\udf10 https://smartlogicai.blogspot.com/\n",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#salesdesign",
-        "#marketingdesign",
-        "#creativebranding",
-        "#brandgrowth",
-        "#instagrammarketing",
-        "#contentstrategy",
-        "#designagency",
-        "#postdesign"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWyzswMk4Fi/"
-    },
-    {
-      "author": "@numerogen",
-      "followers": 0,
-      "caption": "Your GSA MAS approval depends on the details.\nAvoid these mistakes and increase your chances \u2714\ufe0f\n\nFor More Info\nWebsite: www.numerogen.com\nMail: info@numerogen.com\nPhone:+918882621373\n\n#GSAMAS #GSACont",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#GSAMAS",
-        "#GSAContract",
-        "#GovernmentContracting",
-        "#GovCon",
-        "#FederalContracts",
-        "#BusinessGrowth",
-        "#SmallBusiness",
-        "#B2BMarketing"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWyOvVLD4UP/"
-    },
-    {
-      "author": "@theskysocial",
-      "followers": 0,
-      "caption": "If this helped, save it \ud83d\udd16\nBecause you\u2019ll forget\u2026 and your engagement will remind you \ud83d\ude0c\n\n#growthtips #SkySocial #marketingstrategy",
-      "views": 0,
-      "likes": 1,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 200.0,
-      "hashtags": [
-        "#growthtips",
-        "#SkySocial",
-        "#marketingstrategy"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWvYZXylAZT/"
-    },
-    {
-      "author": "@theskysocial",
-      "followers": 0,
-      "caption": "Let's test all this together, post 10 videos with each hook\n\n#viralhook #growthtips #marketingstrategy",
-      "views": 0,
-      "likes": 1,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 200.0,
-      "hashtags": [
-        "#viralhook",
-        "#growthtips",
-        "#marketingstrategy"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWvUxrglI5j/"
     },
     {
       "author": "@kamiakmalofficial",
@@ -4161,1070 +3114,6 @@
       ],
       "posted_date": "2026-04-04",
       "url": "https://www.instagram.com/p/DWuGSSIiueB/"
-    },
-    {
-      "author": "@primepixelit",
-      "followers": 0,
-      "caption": "Growing on social media isn\u2019t about luck\u2014it\u2019s about strategy. \ud83d\ude80 Many people post consistently but still don\u2019t see results because they miss the key fundamentals.\n\nStart by understanding your audience ",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#socialmediagrowth",
-        "#digitalmarketing",
-        "#socialmediatips",
-        "#contentcreator",
-        "#instagramgrowth",
-        "#infotanvir",
-        "#marketingstrategy",
-        "#onlinemarketing"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1y0b4kyXP/"
-    },
-    {
-      "author": "@infotanvir",
-      "followers": 0,
-      "caption": "Growing on social media isn\u2019t about luck\u2014it\u2019s about strategy. \ud83d\ude80 Many people post consistently but still don\u2019t see results because they miss the key fundamentals.\n\nStart by understanding your audience ",
-      "views": 0,
-      "likes": 0,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#socialmediagrowth",
-        "#digitalmarketing",
-        "#socialmediatips",
-        "#contentcreator",
-        "#instagramgrowth",
-        "#infotanvir",
-        "#marketingstrategy",
-        "#onlinemarketing"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1xIVlk_Mg/"
-    },
-    {
-      "author": "@seoexpertakhibd",
-      "followers": 0,
-      "caption": "\ud83e\udd2b 3 Secret Tips to Grow Your Videos Faster (Used by Top Creators)\n\n\ud83d\udd0d Secret #1: \u201cHook Before Value\u201d Rule\nYour first 3\u20135 seconds decide everything.\nDon\u2019t start with intro\u2014start with a bold statement or",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#1:",
-        "#2:",
-        "#3:",
-        "#seoexpertbd",
-        "#youtubeseo",
-        "#secrettips",
-        "#contentstrategy",
-        "#videomarketing"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1tDT5mBEI/"
-    },
-    {
-      "author": "@skylinkwebsolutions",
-      "followers": 0,
-      "caption": "Getting clicks but no sales? \ud83e\udd14\n\nBecause attention \u2260 conversion\n\nPeople are clicking\u2026\nbut they\u2019re not buying \ud83d\udc47\n\nWhy?\n\u2714 Your offer is unclear\n\u2714 Landing page doesn\u2019t match expectations\n\u2714 No strong value ",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#DigitalMarketing",
-        "#ConversionRate",
-        "#MarketingStrategy",
-        "#OnlineBusiness",
-        "#LeadGeneration",
-        "#SalesGrowth",
-        "#ContentMarketing",
-        "#SkylinkWebSolutions"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1j4pTmD-W/"
-    },
-    {
-      "author": "@yorkemployment",
-      "followers": 0,
-      "caption": "Transformation Tuesday Tip #GrowthTips #Transformation #CareerGrowth #PersonalDevelopment #BetterYou #KnowledgeisPower #QuickTip #YorkEmployment #StaffingExpert",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#GrowthTips",
-        "#Transformation",
-        "#CareerGrowth",
-        "#PersonalDevelopment",
-        "#BetterYou",
-        "#KnowledgeisPower",
-        "#QuickTip",
-        "#YorkEmployment"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1Vw3FlU6W/"
-    },
-    {
-      "author": "@maminurrahmanmithu",
-      "followers": 0,
-      "caption": "\u09ab\u09cd\u09b0\u09bf \u099f\u09cd\u09b0\u09be\u09ab\u09bf\u0995 \u09aa\u09be\u0993\u09df\u09be\u09b0 \u0989\u09aa\u09be\u09df \u0995\u09bf?\n\n\u09ab\u09cd\u09b0\u09bf \u099f\u09cd\u09b0\u09be\u09ab\u09bf\u0995 \u09aa\u09be\u0993\u09df\u09be\u09b0 \u0989\u09aa\u09be\u09df (\u09aa\u09df\u09c7\u09a8\u09cd\u099f \u0986\u0995\u09be\u09b0\u09c7)\u2014\n\n\u09b0\u09bf\u09b2\u09b8 \u0993 \u09b6\u09b0\u09cd\u099f \u09ad\u09bf\u09a1\u09bf\u0993 \u09a8\u09bf\u09df\u09ae\u09bf\u09a4 \u09aa\u09cb\u09b8\u09cd\u099f \u0995\u09b0\u09c1\u09a8\n\n\u09ab\u09c7\u09b8\u09ac\u09c1\u0995 \u0997\u09cd\u09b0\u09c1\u09aa\u09c7 \u09ad\u09cd\u09af\u09be\u09b2\u09c1 \u09aa\u09cb\u09b8\u09cd\u099f \u09b6\u09c7\u09df\u09be\u09b0 \u0995\u09b0\u09c1\u09a8\n\nSEO \u0995\u09bf\u0993\u09df\u09be\u09b0\u09cd\u09a1 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0 \u0995\u09b0\u09c1\u09a8\n\n\u099f\u09cd\u09b0\u09c7\u09a8\u09cd\u09a1\u09bf\u0982 \u099f\u09aa\u09bf\u0995\u09c7 \u0995\u09a8\u099f\u09c7\u09a8\u09cd\u099f \u09ac",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#FreeTraffic",
-        "#SEO",
-        "#ContentMarketing",
-        "#SocialMediaMarketing",
-        "#DigitalMarketing",
-        "#OnlineGrowth",
-        "#MarketingTips",
-        "#WebsiteTraffic"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1URy7FGaF/"
-    },
-    {
-      "author": "@impactlivetv",
-      "followers": 0,
-      "caption": "I Remember Writing My Goals\u2026 And Feeling Scared\n\nI remember sitting down at the beginning of the year, writing my goals. Not just the usual \u201cI want to succeed\u201d kind of goals, but real ones. Big ones. ",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#GrowthTips",
-        "#automation",
-        "#virtualassistant",
-        "#DigitalSuccess"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1PRXzgDGb/"
-    },
-    {
-      "author": "@axiantpartners",
-      "followers": 0,
-      "caption": "Grow Revenue Without a Cash-Flow Crisis\n\nRevenue is vanity, profit is sanity, but cash is reality. \ud83d\udcb8\n\nYou can have a record-breaking sales month and still go out of business if your cash is tied up in",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#CashFlow",
-        "#BusinessOwner",
-        "#Entrepreneurship",
-        "#FinancialStrategy",
-        "#GrowthTips",
-        "#AxiantPartners"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1NTOJDdRq/"
-    },
-    {
-      "author": "@aiskill_share",
-      "followers": 0,
-      "caption": "Tools can improve quality, but they don\u2019t replace thinking.\nA strong idea will always outperform perfect editing with no clarity.\nFocus on the message first.\n\n#contentcreation #digitalmarketing #growt",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#contentcreation",
-        "#digitalmarketing",
-        "#growthtips",
-        "#contentstrategy",
-        "#marketingtips"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1M7mrDHCx/"
-    },
-    {
-      "author": "@ami_socials",
-      "followers": 0,
-      "caption": "Why your content isn\u2019t converting , save this and fix your content today #socialmediastrat\u00e9gy #socialmediaagency #growthtips #businessmindset #fyppppppppppppppppppppppppppppppppppppppppppppppppppppppp",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#socialmediastrat\u00e9gy",
-        "#socialmediaagency",
-        "#growthtips",
-        "#businessmindset",
-        "#fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1LL-UiIYg/"
-    },
-    {
-      "author": "@height.sutra",
-      "followers": 0,
-      "caption": "Har parent ka dream strong body, better growth & full confidence \ud83d\udcaf\u2728\nBachpan ki right nutrition = life bhar ka advantage \ud83d\ude80\nLet them grow naturally, let them shine brighter \ud83c\udf1f\u201d\n\n#HeightGrowth #HealthyKid",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#HeightGrowth",
-        "#HealthyKids",
-        "#GrowthJourney",
-        "#StrongBones",
-        "#ParentingGoals",
-        "#NutritionMatters",
-        "#KidsHealth",
-        "#NaturalGrowth"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1KoxGjFE6/"
-    },
-    {
-      "author": "@bizflexhq",
-      "followers": 0,
-      "caption": "Most businesses don\u2019t fail from bad ideas, but from avoidable mistakes.\n\nFix your finances, streamline payments, and stay in control with BizFlex.\n\n#businesst\u00edps #smallbusinessnigeria #bizflexafrica #",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#businesst\u00edps",
-        "#smallbusinessnigeria",
-        "#bizflexafrica",
-        "#growthtips"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1JxuiDZKj/"
-    },
-    {
-      "author": "@anslation_official",
-      "followers": 0,
-      "caption": "Not every platform is meant for you\u2026 \nand that\u2019s exactly where most brands go wrong. \n\nYou don\u2019t need to be everywhere. \nYou just need to be where your audience actually is. \n\nInstagram \u2192 for attentio",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#socialmediamarketing",
-        "#digitalstrategy",
-        "#branding",
-        "#contentmarketing",
-        "#growthtips"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1IQBhiK38/"
-    },
-    {
-      "author": "@herientasocials",
-      "followers": 0,
-      "caption": "Hi \nMy name is Herienta \nI help brands grow on social media through content ,copywriting & strategy \n\nI\u2019m just getting started,but I\u2019m ready to work and deliver results \ud83d\udcaf\n\nFollow me for tips on growin",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#socialmediamanager",
-        "#contentcreator",
-        "#smallbusiness",
-        "#growthtips",
-        "#instagramgrowth"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW0xi66iKiq/"
-    },
-    {
-      "author": "@try_jewel",
-      "followers": 0,
-      "caption": "Augmented Reality is transforming how customers interact with products. In jewelry retail, it allows customers to try designs virtually using their mobile devices.\nThis creates an interactive and enga",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#AugmentedReality",
-        "#RetailTech",
-        "#JewelryInnovation",
-        "#TryJewel",
-        "#FutureShopping",
-        "#TechIndia",
-        "#BusinessGrowth",
-        "#DigitalRetail"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW0ZQVxlUE9/"
-    },
-    {
-      "author": "@emporiumdigitals",
-      "followers": 0,
-      "caption": "\ud83d\udd25 \u0995\u09be\u09b0\u09cd\u099f\u09c7 \u09af\u09cb\u0997 \u0995\u09b0\u09b2\u09cb\u2026 \u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u0995\u09c7\u09a8 \u0995\u09bf\u09a8\u09b2\u09cb \u09a8\u09be?\n~~\n\u0986\u09aa\u09a8\u09bf \u099f\u09cd\u09b0\u09be\u09ab\u09bf\u0995 \u0986\u09a8\u09b2\u09c7\u09a8, audience \u09a4\u09c8\u09b0\u09bf \u0995\u09b0\u09b2\u09c7\u09a8, \u09ae\u09be\u09a8\u09c1\u09b7 \u0986\u09aa\u09a8\u09be\u09b0 product cart-\u098f add \u0995\u09b0\u09b2\u09cb\u2026\n\u09a4\u09be\u09b0\u09aa\u09b0? \ud83d\udc47\n\ud83d\udc49 \u09a4\u09be\u09b0\u09be checkout \u09b6\u09c7\u09b7 \u09a8\u09be \u0995\u09b0\u09c7\u0987 \u099a\u09b2\u09c7 \u0997\u09c7\u09b2\u0964\n\u098f\u0987 abandoned cart \u09b6\u09c1\u09a7\u09c1 \u098f\u0995\u099f\u09be \u09b8\u09ae\u09b8\u09cd\u09af",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#AbandonedCart",
-        "#EcommerceTips",
-        "#DigitalProducts",
-        "#OnlineSales",
-        "#ConversionRate",
-        "#CustomerExperience",
-        "#SalesFunnel",
-        "#MarketingStrategy"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW0XUR2jwh6/"
-    },
-    {
-      "author": "@inomadigital",
-      "followers": 0,
-      "caption": "Ready to unlock your business potential?\nEvery business has opportunities waiting to be discovered \nWith the right support, growth becomes faster and more sustainable \nYou don\u2019t have to figure it out ",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#businessgrowth",
-        "#entrepreneur",
-        "#digitalmarketing",
-        "#successmindset",
-        "#branding",
-        "#marketingstrategy",
-        "#onlinebusiness",
-        "#growthtips"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW0WPGbDRhQ/"
-    },
-    {
-      "author": "@technocraft_adityad",
-      "followers": 0,
-      "caption": "People don\u2019t read everything\u2026\n\ud83d\udc49 They decide in seconds\nIf your content doesn\u2019t hook fast,\n\ud83d\udc49 It gets ignored\n\ud83d\udca1 First line matters most\n\ud83d\udc49 Make it powerful\n\n#ContentStrategy #Hook #PersonalBranding #Buil",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#ContentStrategy",
-        "#Hook",
-        "#PersonalBranding",
-        "#BuildInPublic",
-        "#GrowthTips"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW0BIlmAWRs/"
-    },
-    {
-      "author": "@anirodigital",
-      "followers": 0,
-      "caption": "\u00b8\u201e.-\u2022~\u00b9\u00b0\u201d\u02c6\u02dc\u00a8 \ud83c\udf80  \ud835\udc0b\ud835\udc1e\ud835\udc2d\u2019\ud835\udc2c \ud835\udc1b\ud835\udc1e \ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc25\u2026 \ud835\udc2c\ud835\udc28\ud835\udc1c\ud835\udc22\ud835\udc1a\ud835\udc25 \ud835\udc26\ud835\udc1e\ud835\udc1d\ud835\udc22\ud835\udc1a \ud835\udc22\ud835\udc2c \ud835\udc27\ud835\udc28\ud835\udc2d \ud835\udc1e\ud835\udc1a\ud835\udc2c\ud835\udc32 \ud83d\ude05 \n \n\ud835\udc00 \ud835\udc25\ud835\udc28\ud835\udc2d \ud835\udc28\ud835\udc1f \ud835\udc2c\ud835\udc26\ud835\udc1a\ud835\udc25\ud835\udc25 \ud835\udc1b\ud835\udc2e\ud835\udc2c\ud835\udc22\ud835\udc27\ud835\udc1e\ud835\udc2c\ud835\udc2c\ud835\udc1e\ud835\udc2c \ud835\udc2c\ud835\udc2d\ud835\udc2b\ud835\udc2e\ud835\udc20\ud835\udc20\ud835\udc25\ud835\udc1e \ud835\udc27\ud835\udc28\ud835\udc2d \ud835\udc1b\ud835\udc1e\ud835\udc1c\ud835\udc1a\ud835\udc2e\ud835\udc2c\ud835\udc1e \ud835\udc2d\ud835\udc21\ud835\udc1e\ud835\udc32\u2019\ud835\udc2b\ud835\udc1e \ud835\udc27\ud835\udc28\ud835\udc2d \ud835\udc20\ud835\udc28\ud835\udc28\ud835\udc1d \u2014 \ud835\udc1b\ud835\udc2e\ud835\udc2d \ud835\udc1b\ud835\udc1e\ud835\udc1c\ud835\udc1a\ud835\udc2e\ud835\udc2c\ud835\udc1e \ud835\udc28\ud835\udc1f \ud835\udc2c\ud835\udc22\ud835\udc26\ud835\udc29\ud835\udc25\ud835\udc1e \ud835\udc26\ud835\udc22\ud835\udc2c\ud835\udc2d\ud835\udc1a\ud835\udc24\ud835\udc1e\ud835\udc2c \ud835\udc25\ud835\udc22\ud835\udc24\ud835\udc1e \ud835\udc2d\ud835\udc21\ud835\udc1e\ud835\udc2c\ud835\udc1e.\n\n\ud835\uddec\ud835\uddfc\ud835\ude02 \ud835\uddf1\ud835\uddfc\ud835\uddfb\u2019\ud835\ude01 \ud835\uddfb\ud835\uddf2\ud835\uddf2\ud835\uddf1 \ud835\ude01\ud835\uddfc \ud835\uddef\ud835\uddf2 \ud835\uddfd\ud835\uddf2\ud835\uddff\ud835\uddf3\ud835\uddf2\ud835\uddf0\ud835\ude01.",
-      "views": 0,
-      "likes": 0,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#Aniro",
-        "#Coaches",
-        "#Business",
-        "#socialmediatips",
-        "#smallbusinesshelp",
-        "#contentstrategy",
-        "#businessgrowth",
-        "#digitalmarketing"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DWz62SLgUKu/"
-    },
-    {
-      "author": "@propulso.uk",
-      "followers": 0,
-      "caption": "\ud83d\udea8 UX mistakes that are killing your sales (and how to fix them)\n\nToo many popups, slow load times, poor mobile experience\u2026 every friction point is costing you conversions.\n\n\ud83d\udc49 A clean, fast, mobile-fir",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#UXDesign",
-        "#EcommerceTips",
-        "#ConversionRate",
-        "#DigitalMarketing",
-        "#UserExperience",
-        "#GrowthTips",
-        "#OnlineBusiness"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzaUNGCRzP/"
-    },
-    {
-      "author": "@tenx_socialmx",
-      "followers": 0,
-      "caption": "Vender en redes no es cuesti\u00f3n de suerte\u2026 es de hacerlo bien\u26a1\ufe0f\u26a1\ufe0f\n\nSi sientes que subes contenido pero no se convierte en ventas, probablemente te falta esto\u27a1\ufe0f\u27a1\ufe0f\n\nGuarda este post porque esto es lo que",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#MarketingDigital",
-        "#VentasEnRedes",
-        "#ContenidoQueVende",
-        "#SocialMediaTips",
-        "#EstrategiaDigital",
-        "#WhatsAppBusiness",
-        "#VentasOnline",
-        "#TipsDeMarketing"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzS_89CXdV/"
-    },
-    {
-      "author": "@review_boostpro",
-      "followers": 0,
-      "caption": "Most customers won\u2019t leave a Google review\u2026\neven if they love your service.\n\nNot because your business is bad.\nNot because they didn\u2019t like you.\n\nThey\u2019re just busy.\nThey forget.\nThey move on.\n\nMeanwhi",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#SmallBusiness",
-        "#GoogleReviews",
-        "#LocalBusiness",
-        "#MarketingStrategy",
-        "#CustomerExperience",
-        "#GrowthTips",
-        "#DigitalMarketing"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzTAQNkyZH/"
-    },
-    {
-      "author": "@review_boostpro",
-      "followers": 0,
-      "caption": "Most customers won\u2019t leave a Google review\u2026\neven if they love your service.\n\nNot because your business is bad.\nNot because they didn\u2019t like you.\n\nThey\u2019re just busy.\nThey forget.\nThey move on.\n\nMeanwhi",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#SmallBusiness",
-        "#GoogleReviews",
-        "#LocalBusiness",
-        "#MarketingStrategy",
-        "#CustomerExperience",
-        "#GrowthTips",
-        "#digitalmarketingexpert"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzMiuxE3Jc/"
-    },
-    {
-      "author": "@review_boostpro",
-      "followers": 0,
-      "caption": "Most customers won\u2019t leave a Google review\u2026\neven if they love your service.\n\nNot because your business is bad.\nNot because they didn\u2019t like you.\n\nThey\u2019re just busy.\nThey forget.\nThey move on.\n\nMeanwhi",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#SmallBusiness",
-        "#GoogleReviews",
-        "#LocalBusiness",
-        "#MarketingStrategy",
-        "#CustomerExperience",
-        "#GrowthTips",
-        "#DigitalMarketing"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWzJLywE-Xx/"
-    },
-    {
-      "author": "@agentsuccessvault",
-      "followers": 0,
-      "caption": "Your daily routine shapes your results. Prioritizing prospecting and relationship building can make a major difference in your long-term business growth. \ud83d\ude80\n\n#insuranceagents #insurancetips #insurance ",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#insuranceagents",
-        "#insurancetips",
-        "#insurance",
-        "#growthtips",
-        "#beststrategy",
-        "#GrowthStrategies"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWy68MeiZar/"
-    },
-    {
-      "author": "@fazulul",
-      "followers": 0,
-      "caption": "SEO isn\u2019t dying.\nIt\u2019s just moving faster than most people realise.\n\nThe real shift?\nIt\u2019s already happening, just not where everyone is looking.\n\nAnd the early ones are quietly taking advantage.\n\nIf yo",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#SEO",
-        "#AISEO",
-        "#MarketingStrategy",
-        "#GrowthTips",
-        "#DigitalMarketing",
-        "#ContentMarketing",
-        "#fazinsights"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWy0k6RjDFx/"
-    },
-    {
-      "author": "@maminurrahmanmithu",
-      "followers": 0,
-      "caption": "\u09a1\u09bf\u099c\u09bf\u099f\u09be\u09b2 \u09ae\u09be\u09b0\u09cd\u0995\u09c7\u099f\u09bf\u0982 \u09ac\u09a8\u09be\u09ae \u099f\u09cd\u09b0\u09cd\u09af\u09be\u09a1\u09bf\u09b6\u09a8\u09be\u09b2 \u09ae\u09be\u09b0\u09cd\u0995\u09c7\u099f\u09bf\u0982\n\u09a1\u09bf\u099c\u09bf\u099f\u09be\u09b2 \u09ae\u09be\u09b0\u09cd\u0995\u09c7\u099f\u09bf\u0982 \u09ac\u09a8\u09be\u09ae \u099f\u09cd\u09b0\u09cd\u09af\u09be\u09a1\u09bf\u09b6\u09a8\u09be\u09b2 \u09ae\u09be\u09b0\u09cd\u0995\u09c7\u099f\u09bf\u0982 (\u09aa\u09df\u09c7\u09a8\u09cd\u099f \u0986\u0995\u09be\u09b0\u09c7)\u2014\n\n\u09ae\u09be\u09a7\u09cd\u09af\u09ae:\n\n\u09a1\u09bf\u099c\u09bf\u099f\u09be\u09b2: \u09ab\u09c7\u09b8\u09ac\u09c1\u0995, \u0987\u0989\u099f\u09bf\u0989\u09ac, \u0997\u09c1\u0997\u09b2, \u0993\u09df\u09c7\u09ac\u09b8\u09be\u0987\u099f, \u0987\u09ae\u09c7\u0987\u09b2\n\n\u099f\u09cd\u09b0\u09cd\u09af\u09be\u09a1\u09bf\u09b6\u09a8\u09be\u09b2: \u099f\u09bf\u09ad\u09bf, \u09b0\u09c7\u09a1\u09bf\u0993, \u09aa\u09a4\u09cd\u09b0\u09bf\u0995\u09be",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#DigitalVsTraditional",
-        "#MarketingComparison",
-        "#DigitalMarketing",
-        "#OnlineBusiness",
-        "#MarketingTips",
-        "#BusinessGrowth",
-        "#OnlineGrowth",
-        "#BrandStrategy"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWyvbkXElx1/"
-    },
-    {
-      "author": "@themarketingmag",
-      "followers": 0,
-      "caption": "Stop guessing. Start noticing.\nWhat worked before is literally showing you what to do next.\nCheck your Insights. Your audience already told you what they want. \ud83d\udca1\n.\n.\n.\n#instagram #hacks #growthtips #m",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#instagram",
-        "#hacks",
-        "#growthtips",
-        "#marketingtips",
-        "#follow4follow"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWygaDlGNL5/"
-    },
-    {
-      "author": "@elevatedaily360",
-      "followers": 0,
-      "caption": "7 things to stop doing this month:\n\nWhich one are you working on? Comment the number \ud83d\udc47\n\n#selfimprovement #growthtips #mindsetshift #betteryou #successhabits #dailygrowth #viralcontent",
-      "views": 0,
-      "likes": 0,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#selfimprovement",
-        "#growthtips",
-        "#mindsetshift",
-        "#betteryou",
-        "#successhabits",
-        "#dailygrowth",
-        "#viralcontent"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWyhvLUjZJ5/"
-    },
-    {
-      "author": "@page_pro_bygrace",
-      "followers": 0,
-      "caption": "Your content needs direction \ud83d\udc4c\n\nPosting without a clear structure is why your audience scrolls past instead of stopping.\n\nThis right here is your reset blueprint:\n\u2022 Choose content pillars that keep yo",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#page_pro_bygrace",
-        "#strategicgrowth",
-        "#brandgrowth",
-        "#growthtips",
-        "#newmonthnewstrategy"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWyblwRCSw7/"
-    },
-    {
-      "author": "@facelessinfluencemom",
-      "followers": 0,
-      "caption": "You learn faster by doing, not waiting.\n\n#starttoday #learnbydoing #onlinelearning #digitaljourney #contentcreatorlife #skilldevelopment #growthtips",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#starttoday",
-        "#learnbydoing",
-        "#onlinelearning",
-        "#digitaljourney",
-        "#contentcreatorlife",
-        "#skilldevelopment",
-        "#growthtips"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWxtT7vjVW8/"
-    },
-    {
-      "author": "@masturasdream",
-      "followers": 0,
-      "caption": "\u201cSmall efforts every day = Big digital growth over time. \u23f3 #DigitalMarketing #GrowthTips #OnlineSuccess\u201d",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#DigitalMarketing",
-        "#GrowthTips",
-        "#OnlineSuccess\u201d"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWxaMUGElyg/"
-    },
-    {
-      "author": "@therevenuekings",
-      "followers": 0,
-      "caption": "Running ads without a system is like pouring water into a leaking bucket.\n\nBefore you spend a dollar, you need:\n1\ufe0f\u20e3 Instant responses\n2\ufe0f\u20e3 Lead capture\n3\ufe0f\u20e3 Follow-up automation\n\nOtherwise\u2026 you\u2019re just ",
-      "views": 0,
-      "likes": 0,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#paidads",
-        "#marketingstrategy",
-        "#leadgeneration",
-        "#smallbusinesscanada",
-        "#growthtips",
-        "#automationtools"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWxR__umEiY/"
-    },
-    {
-      "author": "@captivatingcontent_",
-      "followers": 0,
-      "caption": "\ud835\udc0f\ud835\udc28\ud835\udc2c\ud835\udc2d \ud835\udc1c\ud835\udc28\ud835\udc27\ud835\udc2c\ud835\udc22\ud835\udc2c\ud835\udc2d\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc25\ud835\udc32 \ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc27 \ud835\udc22\ud835\udc1f \ud835\udc1e\ud835\udc27\ud835\udc20\ud835\udc1a\ud835\udc20\ud835\udc1e\ud835\udc26\ud835\udc1e\ud835\udc27\ud835\udc2d \ud835\udc1f\ud835\udc1e\ud835\udc1e\ud835\udc25\ud835\udc2c \ud835\udc25\ud835\udc28\ud835\udc30.\n\nQuiet seasons are where trust is built.\n\nKeep going \ud83d\udca1\n\n#socialmediatips #contentstrategy #growthtips #smallbusinesshelp #marketing",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#socialmediatips",
-        "#contentstrategy",
-        "#growthtips",
-        "#smallbusinesshelp",
-        "#marketing"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwzn5OklUY/"
-    },
-    {
-      "author": "@dorinhirvi",
-      "followers": 0,
-      "caption": "Getting to 400,000 wasn\u2019t easy for me- mostly because I wasted my time in the beginning trying to figure out how to make it right.\n\nI hated the burn out cycle, I always tell you about it because it\u2019s ",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#contentmarketingstrategy",
-        "#contentcreatortips",
-        "#contentmonetization",
-        "#growthtips",
-        "#creatorsofinstagram"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwpjsnk0QC/"
-    },
-    {
-      "author": "@maisonmireille20",
-      "followers": 0,
-      "caption": "Things killing your Instagram growth \ud83d\udc47 \n\n\u274c Inconsistent posting \n\u274c Poor visuals \n\u274c No clear niche \n\u274c Ignoring trends \n\nFix these and watch your page improve \ud83d\udcc8\u2728 \n#socialmediatips #contentstrategy\n#smal",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#socialmediatips",
-        "#contentstrategy",
-        "#smallbusinesstips",
-        "#instagramgrowth",
-        "#growthtips"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWy4fJpjNr7/"
-    },
-    {
-      "author": "@kajolrahman44",
-      "followers": 0,
-      "caption": "Your Cold Emails Are Going to SPAM \u2014 Here's Why.\n\nI sent 1,000+ cold emails.\nGot only 3 replies.\n\nThe problem wasn't copy.\nIt wasn't subject line either.\n\nIt was DELIVERABILITY.\n\nFix these 5 things an",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#EmailDeliverability",
-        "#ColdEmail",
-        "#EmailMarketing",
-        "#LeadGeneration",
-        "#B2BMarketing",
-        "#InboxPlacement",
-        "#ColdOutreach",
-        "#DigitalMarketing"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwg3rREhtx/"
-    },
-    {
-      "author": "@fastpageapp",
-      "followers": 0,
-      "caption": "Use insights to guide your strategy \ud83d\udcca\n\nCheck reach, saves, and shares to see what works. Double down on what performs.\n\n#InstagramAnalytics #GrowthTips",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#InstagramAnalytics",
-        "#GrowthTips"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwfLNDmPoq/"
-    },
-    {
-      "author": "@stephs.bookshelf09",
-      "followers": 0,
-      "caption": "\ud835\uddea\ud835\uddf2\ud835\uddf9\ud835\uddf0\ud835\uddfc\ud835\uddfa\ud835\uddf2 \ud835\uddea\ud835\uddf2\ud835\uddf2\ud835\uddf8\ud835\uddf9\ud835\ude06 \ud835\udde6\ud835\uddf5\ud835\uddf2\ud835\uddf9\ud835\uddf3 \ud835\uddd6\ud835\uddee\ud835\uddff\ud835\uddf2 \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 \ud835\udde6\ud835\ude01\ud835\uddf2\ud835\uddfd\ud835\uddf5 \ud83d\udc9b\n\n- - - - - \nThis week\u2019s Shelf Care \ud83d\udc9b\ud83d\udcda \n\nCelebration- It\u2019s Easter Sunday \ud83d\udc23 but everyone celebrates a little differently and that\u2019s okay! Holidays are supposed to ",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#weeklyshelfcare",
-        "#bookstagram",
-        "#growthtips",
-        "#togetherwegrow"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwO_M1gmqS/"
-    },
-    {
-      "author": "@dailygrowthlab_official",
-      "followers": 0,
-      "caption": "Most people fail on Instagram because of these simple mistakes \ud83d\ude2c\n\nIf you avoid them, your growth will be much faster \ud83d\udcc8\n\nStart today \u2014 stay consistent \ud83d\udcaf\n\n\ud83d\udc49 Save this post \ud83d\udccc\n\ud83d\udc49 Follow @dailygrowthlab_off",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#instagramgrowth",
-        "#socialmediatips",
-        "#digitalmarketing",
-        "#contentcreator",
-        "#growthtips"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwOgEDjZ89/"
-    },
-    {
-      "author": "@business_elevatus",
-      "followers": 0,
-      "caption": "Starting affiliate marketing? Don\u2019t chase big payouts\u2014chase smart strategy. \ud83d\ude80\nSimple offers, the right audience, and proven paths win every time.\n\nSave this before choosing your next offer \ud83d\udc47\n\n#Affilia",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#AffiliateMarketing",
-        "#BeginnerTips",
-        "#MakeMoneyOnline",
-        "#DigitalMarketing",
-        "#OnlineBusiness",
-        "#AffiliateTips",
-        "#PassiveIncome",
-        "#MarketingStrategy"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwKtWTGLIr/"
-    },
-    {
-      "author": "@maminurrahmanmithu",
-      "followers": 0,
-      "caption": "\u09b0\u09bf\u09b2\u09b8 \u0995\u09c7\u09a8 \u098f\u09a4 \u0997\u09c1\u09b0\u09c1\u09a4\u09cd\u09ac\u09aa\u09c2\u09b0\u09cd\u09a3?\n\u09b0\u09bf\u09b2\u09b8 \u098f\u0996\u09a8 \u09b8\u09ac\u099a\u09c7\u09df\u09c7 \u09a6\u09cd\u09b0\u09c1\u09a4 \u0997\u09cd\u09b0\u09cb\u09a5 \u0986\u09a8\u09be\u09b0 \u09ae\u09be\u09a7\u09cd\u09af\u09ae\u0964\n\u09a6\u09cd\u09b0\u09c1\u09a4 \u09ac\u09c7\u09b6\u09bf \u09ae\u09be\u09a8\u09c1\u09b7\u09c7\u09b0 \u0995\u09be\u099b\u09c7 \u09aa\u09cc\u0981\u099b\u09be\u09df\n\n\u09ad\u09be\u0987\u09b0\u09be\u09b2 \u09b9\u0993\u09df\u09be\u09b0 \u09b8\u09ae\u09cd\u09ad\u09be\u09ac\u09a8\u09be \u09ac\u09c7\u09b6\u09bf\n\n\u098f\u09a8\u0997\u09c7\u099c\u09ae\u09c7\u09a8\u09cd\u099f \u09ac\u09c7\u09b6\u09bf \u0986\u09b8\u09c7\n\n\u09a8\u09a4\u09c1\u09a8 \u09ab\u09b2\u09cb\u09df\u09be\u09b0 \u09ac\u09be\u09dc\u09be\u09df\n\n\u09ac\u09cd\u09b0\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09aa\u09b0\u09bf\u099a\u09bf\u09a4\u09bf \u09ac\u09c3\u09a6\u09cd\u09a7\u09bf \u0995\u09b0\u09c7\n\n\u0995\u09ae ",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#Reels",
-        "#ShortVideo",
-        "#VideoMarketing",
-        "#ContentCreation",
-        "#DigitalMarketing",
-        "#SocialMediaTips",
-        "#EngagementBoost",
-        "#OnlineGrowth"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwKg2ZliDn/"
-    },
-    {
-      "author": "@iam_anikit",
-      "followers": 0,
-      "caption": "Read caption.. \n\nAI Video Se Paise Kaise Kamaye: Full Roadmap \ud83d\ude80\n\u200bDosto, agar aap bhi AI ka use karke mahine ke acche paise kamana chahte hain, toh ye 5 steps follow karo:\n\n\u200bStep 1: Content Topic Socho",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#Ai",
-        "#OnlineEarning",
-        "#AITools",
-        "#PassiveIncome",
-        "#GrowthTips"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWwEqZYjVdO/"
-    },
-    {
-      "author": "@autorev.io",
-      "followers": 0,
-      "caption": "Simple.\n\nSlow reply = lost money.\n\nFast reply = more sales.\n\nThat\u2019s it.\n\nNo hacks.\nNo tricks.\nNo complicated funnels.\n\nJust speed.\n\nSave this.\n\nThen fix it.\n\n#businesstips #salesprocess #automationtoo",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#businesstips",
-        "#salesprocess",
-        "#automationtools",
-        "#growthtips",
-        "#smallbusiness",
-        "#conversion"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWvcXKDjIbk/"
-    },
-    {
-      "author": "@synapse_profitai",
-      "followers": 0,
-      "caption": "A lot of businesses are losing customers before they ever even get the chance to talk to them.\n\nNot because they don\u2019t care.\nNot because they aren\u2019t good.\nBecause the lead came in\u2026 and nobody responde",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#smallbusiness",
-        "#leadgeneration",
-        "#automation",
-        "#businesstips",
-        "#aiautomation",
-        "#marketingtips",
-        "#growthtips",
-        "#customerexperience"
-      ],
-      "posted_date": "2026-04-05",
-      "url": "https://www.instagram.com/p/DWvBfD-FgxH/"
-    },
-    {
-      "author": "@lisahoogendoorn",
-      "followers": 0,
-      "caption": "It can actually be easier than you think! Just tweak your reels a bit, otherwise they might flag it for being too similar. \ud83e\uddda\ud83c\udffb\ud83d\udc97\n\n#trialreels #trialreelsstrategy #iggrowth #growthtips #carousels",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 0.0,
-      "hashtags": [
-        "#trialreels",
-        "#trialreelsstrategy",
-        "#iggrowth",
-        "#growthtips",
-        "#carousels"
-      ],
-      "posted_date": "2026-04-04",
-      "url": "https://www.instagram.com/p/DWuGSSIiueB/"
-    },
-    {
-      "author": "@chandan_______babu______79",
-      "followers": 0,
-      "caption": "Love you my Jaana.....#growthtips#viraltips #motivatinaldaily #contentcreator#support",
-      "views": 0,
-      "likes": -1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": -100.0,
-      "hashtags": [
-        "#growthtips",
-        "#viraltips",
-        "#motivatinaldaily",
-        "#contentcreator",
-        "#support"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1xnRJEq44/"
-    },
-    {
-      "author": "@smmarketerritu",
-      "followers": 0,
-      "caption": "Create content that converts \ud83d\udd25\n#ContentStrategy #DigitalMarketing #BusinessOnline #SocialMediaManager #GrowthTips",
-      "views": 0,
-      "likes": -1,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 100.0,
-      "hashtags": [
-        "#ContentStrategy",
-        "#DigitalMarketing",
-        "#BusinessOnline",
-        "#SocialMediaManager",
-        "#GrowthTips"
-      ],
-      "posted_date": "2026-04-07",
-      "url": "https://www.instagram.com/p/DW1UB36Eo5x/"
-    },
-    {
-      "author": "@ayye__vishal",
-      "followers": 0,
-      "caption": "bus tu Hi to Mera Hai \ud83e\udef6\ud83c\udffb\ud83d\udc40\n#contentcreator #support #viraltips #growthtips #ayyevishal32",
-      "views": 0,
-      "likes": -1,
-      "comments": 38,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": 3700.0,
-      "hashtags": [
-        "#contentcreator",
-        "#support",
-        "#viraltips",
-        "#growthtips",
-        "#ayyevishal32"
-      ],
-      "posted_date": "2026-04-06",
-      "url": "https://www.instagram.com/p/DWyJvpWD96W/"
-    },
-    {
-      "author": "@hayy__naresh",
-      "followers": 0,
-      "caption": "\u201cAaj bhi kuch alag hua \ud83d\ude33\ud83d\udd25\u201d#dailyvlog #trendingreels #viralreels #explorepage \n#reelsindia #ytshorts #shortsviral #vloglife \n#dailyvlogger #indianvlogger #lifestylevlog \n#reelitfeelit #exploremore #vir",
-      "views": 0,
-      "likes": -1,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "engagement_rate": -100.0,
-      "hashtags": [
-        "#dailyvlog",
-        "#trendingreels",
-        "#viralreels",
-        "#explorepage",
-        "#reelsindia",
-        "#ytshorts",
-        "#shortsviral",
-        "#vloglife"
-      ],
-      "posted_date": "2026-04-04",
-      "url": "https://www.instagram.com/p/DWukv86kn-I/"
     },
     {
       "author": "@chandan_______babu______79",

@@ -4,7 +4,7 @@
   "month": "April",
   "year": 2026,
   "niche": "health",
-  "generated_at": "2026-04-09T01:56:28.407143",
+  "generated_at": "2026-04-09T02:11:12.851028",
   "data_points_analyzed": 100,
   "viral_posts_found": 97,
   "hooks": [
@@ -162,7 +162,7 @@
   ],
   "formats": [],
   "trending_sounds": [],
-  "insights": "97 posts analyzed. Avg 1,098,938 views.",
+  "insights": "97 posts. Avg 1,098,938 views.",
   "top_posts": [
     {
       "author": "@roxlmd",

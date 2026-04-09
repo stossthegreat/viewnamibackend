@@ -4,19 +4,19 @@
   "month": "April",
   "year": 2026,
   "niche": "fitness",
-  "generated_at": "2026-04-09T01:56:28.407143",
-  "data_points_analyzed": 120,
-  "viral_posts_found": 120,
+  "generated_at": "2026-04-09T02:11:12.851028",
+  "data_points_analyzed": 150,
+  "viral_posts_found": 150,
   "hooks": [
+    {
+      "pattern": "How to",
+      "example_count": 4,
+      "example": "How to IMPRESS A GUY in the gym #shorts #viral #comedy #gymhumor  #funny #strong #lift #backfire"
+    },
     {
       "pattern": "If you",
       "example_count": 4,
       "example": "If you only have half an hour available everyday and you want a good and effective workout to help you lose weight at ho"
-    },
-    {
-      "pattern": "How to",
-      "example_count": 3,
-      "example": "Bipasha Basu is known to be the epitome of fitness and hardcore regime in Bollywood. In this video she tells us of how t"
     },
     {
       "pattern": "You need to",
@@ -33,7 +33,7 @@
   "hashtags": [
     {
       "tag": "#fitness",
-      "usage_count": 14
+      "usage_count": 15
     },
     {
       "tag": "#workouts",
@@ -44,11 +44,15 @@
       "usage_count": 12
     },
     {
+      "tag": "#workout",
+      "usage_count": 5
+    },
+    {
       "tag": "#bebettereveryday",
       "usage_count": 4
     },
     {
-      "tag": "#workout",
+      "tag": "#yoga",
       "usage_count": 4
     },
     {
@@ -114,14 +118,50 @@
     {
       "tag": "#cultfit",
       "usage_count": 2
+    },
+    {
+      "tag": "#flexibility",
+      "usage_count": 2
+    },
+    {
+      "tag": "#stretching",
+      "usage_count": 2
     }
   ],
   "formats": [],
   "trending_sounds": [],
-  "insights": "120 posts analyzed. Avg 16,163,415 views.",
+  "insights": "150 posts. Avg 18,415,044 views.",
   "top_posts": [
     {
-      "author": "@Walk at Home",
+      "author": "Austin and TT",
+      "followers": 0,
+      "caption": "I embarrassed him again\u2026\ud83d\ude33 #gymgirl #girlswholift #viral #funny #gym #fitness #gymlife #gymlover",
+      "views": 266487042,
+      "likes": 5500000,
+      "comments": 25829,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.07,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/dKhRCBpdU8w"
+    },
+    {
+      "author": "Kayla Nella",
+      "followers": 0,
+      "caption": "How to IMPRESS A GUY in the gym #shorts #viral #comedy #gymhumor  #funny #strong #lift #backfire",
+      "views": 192484800,
+      "likes": 2400000,
+      "comments": 979,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.25,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/EtGugw_MrOs"
+    },
+    {
+      "author": "Walk at Home",
       "followers": 0,
       "caption": "30 minutes of fast walking MOST days of the week is super HEALTHY! \n\nA very special EDIT from the hit series Miracle Miles! \n\nGet the Walk at Home App so you can walk the full series, 1 Mile, 2 Mile, ",
       "views": 172789895,
@@ -139,7 +179,7 @@
       "url": "https://www.youtube.com/watch?v=enYITYwvPAQ"
     },
     {
-      "author": "@Walk at Home",
+      "author": "Walk at Home",
       "followers": 0,
       "caption": "30 minutes of fast walking MOST days of the week is super HEALTHY! \n\nA very special EDIT from the hit series Miracle Miles! \n\nGet the Walk at Home App so you can walk the full series, 1 Mile, 2 Mile, ",
       "views": 172789660,
@@ -157,7 +197,21 @@
       "url": "https://www.youtube.com/watch?v=enYITYwvPAQ"
     },
     {
-      "author": "@wearecult",
+      "author": "leopold franke",
+      "followers": 0,
+      "caption": "Just walking\ud83d\ude02\ud83d\udd25\ud83d\ude31 #reel #viral #calisthenics #gym #sports #training #trend  #video",
+      "views": 120999570,
+      "likes": 2700000,
+      "comments": 13781,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.24,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/5AW-lgNweWQ"
+    },
+    {
+      "author": "wearecult",
       "followers": 0,
       "caption": "Download the Cultfit app to access more such content - https://bit.ly/30pXU5L\n\nThis LOSE BELLY FAT IN 7 DAYS Challenge from CureFit is the perfect workout for you to burn those unwanted belly fat in j",
       "views": 104935123,
@@ -175,7 +229,7 @@
       "url": "https://www.youtube.com/watch?v=digpucxFbMo"
     },
     {
-      "author": "@Walk at Home",
+      "author": "Walk at Home",
       "followers": 0,
       "caption": "WALK yourself HEALTHY! WALK yourself STRONG! WALK yourself HAPPY! WALK yourself SMART! \n\nWith this 30 minute Boosted Fitness Walk you will feel more focused and have more energy! \n\nEverything gets hea",
       "views": 102545228,
@@ -193,7 +247,7 @@
       "url": "https://www.youtube.com/watch?v=cvEJ5WFk2KE"
     },
     {
-      "author": "@Walk at Home",
+      "author": "Walk at Home",
       "followers": 0,
       "caption": "WALK yourself HEALTHY! WALK yourself STRONG! WALK yourself HAPPY! WALK yourself SMART! \n\nWith this 30 minute Boosted Fitness Walk you will feel more focused and have more energy! \n\nEverything gets hea",
       "views": 102545061,
@@ -211,7 +265,7 @@
       "url": "https://www.youtube.com/watch?v=cvEJ5WFk2KE"
     },
     {
-      "author": "@FitnessBlender",
+      "author": "FitnessBlender",
       "followers": 0,
       "caption": "NEW: Exclusive workout videos + 5, 10 & 30 Day Workout Challenges here on YouTube - Click \u201cJoin\u201d @\u00a0https://gofb.info/FB_Exclusive\nHow often to do this routine & more @ https://gofb.info/sSbAl1\n\nAt-hom",
       "views": 82658227,
@@ -225,7 +279,7 @@
       "url": "https://www.youtube.com/watch?v=afghBre8NlI"
     },
     {
-      "author": "@FitnessBlender",
+      "author": "FitnessBlender",
       "followers": 0,
       "caption": "NEW: Exclusive workout videos + 5, 10 & 30 Day Workout Challenges here on YouTube - Click \u201cJoin\u201d @\u00a0https://gofb.info/FB_Exclusive\nFind out how many calories this 10 Minute Abs Workout burns @ https://",
       "views": 79640218,
@@ -239,7 +293,7 @@
       "url": "https://www.youtube.com/watch?v=1919eTCoESo"
     },
     {
-      "author": "@Shemaroo Lifestyle",
+      "author": "Shemaroo Lifestyle",
       "followers": 0,
       "caption": "Bipasha Basu herself performs a 30 mins hardcore dance aerobic workout and shows us her cool moves and a graceful way to lose weight. This 30-minute dance workout improves stamina, endurance and stren",
       "views": 76700813,
@@ -253,7 +307,7 @@
       "url": "https://www.youtube.com/watch?v=tj9d6aBOzDo&t=1447s"
     },
     {
-      "author": "@Shemaroo Lifestyle",
+      "author": "Shemaroo Lifestyle",
       "followers": 0,
       "caption": "Bipasha Basu is known to be the epitome of fitness and hardcore regime in Bollywood. In this video she tells us of how to do a rigorous 30 mins workout and burn the fat outta u. Unleash can help impro",
       "views": 69153712,
@@ -267,7 +321,7 @@
       "url": "https://www.youtube.com/watch?v=LUrrN6cEBRQ"
     },
     {
-      "author": "@Body Project",
+      "author": "Body Project",
       "followers": 0,
       "caption": "https://teambodyproject.com \n\nCreate a free account today. \n\nThis workout is part of Real Start and Real Start Plus - a workout plan made for real people with real people. \n\nAll workouts in this plan ",
       "views": 58343118,
@@ -281,7 +335,7 @@
       "url": "https://www.youtube.com/watch?v=gC_L9qAHVJ8"
     },
     {
-      "author": "@SELF",
+      "author": "SELF",
       "followers": 0,
       "caption": "In this high intensity cardio bodyweight workout from trainer Lita Lewis, you\u2019ll spike your heart rate with high-knees, fast feet, and star jumps; plus work your core and lower body with jumping lunge",
       "views": 57050871,
@@ -295,7 +349,7 @@
       "url": "https://www.youtube.com/watch?v=ml6cT4AZdqI"
     },
     {
-      "author": "@Roberta's Gym",
+      "author": "Roberta's Gym",
       "followers": 0,
       "caption": "0Are you ready to start losing weight at home in just 14 days? If so then this workout routine will help you achieve this goal.\n\nThis is a pretty intensive exercise program that you can do at home bec",
       "views": 51164644,
@@ -309,7 +363,21 @@
       "url": "https://www.youtube.com/watch?v=LhL5SNZfnQs"
     },
     {
-      "author": "@Roberta's Gym",
+      "author": "Manjeetworkout",
+      "followers": 0,
+      "caption": "challenge accepted \ud83d\udcaa\u2764\ufe0f #viralvideo #shorts #fitness #workout #explore #youtubeshorts",
+      "views": 47110372,
+      "likes": 487000,
+      "comments": 981,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.04,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/HLVPYdOTLFk"
+    },
+    {
+      "author": "Roberta's Gym",
       "followers": 0,
       "caption": "This short and easy workout is suitable for kids who need to exercise  at home or in the gym.\n\nThis workout improves their flexibility, improves their muscle strength, helps burn any unnecessary body ",
       "views": 35997245,
@@ -323,7 +391,7 @@
       "url": "https://www.youtube.com/watch?v=8uUawnM-FD8"
     },
     {
-      "author": "@Roberta's Gym",
+      "author": "Roberta's Gym",
       "followers": 0,
       "caption": "This short and easy workout is suitable for kids who need to exercise  at home or in the gym.\n\nThis workout improves their flexibility, improves their muscle strength, helps burn any unnecessary body ",
       "views": 35997181,
@@ -337,7 +405,7 @@
       "url": "https://www.youtube.com/watch?v=8uUawnM-FD8"
     },
     {
-      "author": "@MadFit",
+      "author": "MadFit",
       "followers": 0,
       "caption": "a 20 min fat burning, full body workout you can do at home without any equipment! A workout designed for TOTAL BEGINNERS! Wether you are just getting into fitness, or are getting back in the fitness g",
       "views": 35254103,
@@ -351,7 +419,7 @@
       "url": "https://www.youtube.com/watch?v=IT94xC35u6k"
     },
     {
-      "author": "@Roberta's Gym",
+      "author": "Roberta's Gym",
       "followers": 0,
       "caption": "If you only have half an hour available everyday and you want a good and effective workout to help you lose weight at home - then this routine is for you!\n\nThis workout contains simple bodyweight exer",
       "views": 33781566,
@@ -365,7 +433,35 @@
       "url": "https://www.youtube.com/watch?v=CIxNJbit9BA"
     },
     {
-      "author": "@growingannanas",
+      "author": "Dividendenpumper",
+      "followers": 0,
+      "caption": "Are you also investing in your body & your future? \ud83d\udcaa\ud83d\udcb0   \n\n\ud83d\udd34 I\u2019m using YouTube Shorts as my (almost) daily diary - tracking my physique & finance.  While reading this, you\u2019re helping me earn a few cent",
+      "views": 30041664,
+      "likes": 357000,
+      "comments": 2855,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.2,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/ouKGDXF108U"
+    },
+    {
+      "author": "LilBigNanc",
+      "followers": 0,
+      "caption": "the contrast \ud83e\udd27  #gym #trending #fit #fitness #workout #training   #gymrat #calisthenics",
+      "views": 28452250,
+      "likes": 969000,
+      "comments": 1262,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.41,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/h3lTfxszM30"
+    },
+    {
+      "author": "growingannanas",
       "followers": 0,
       "caption": "\ud83d\udc96 Find the right workout plan for you in my fitness app \u2013 let's grow together! https://quiz.growwithanna.com/\nTeam, get ready for 25 minutes of full body HIIT! You can expect no repeat cardio & streng",
       "views": 28301833,
@@ -383,7 +479,7 @@
       "url": "https://www.youtube.com/watch?v=cbKkB3POqaY"
     },
     {
-      "author": "@Roberta's Gym",
+      "author": "Roberta's Gym",
       "followers": 0,
       "caption": "Don\u2019t let mornings put you in a bad mood! Make your day so much better by launching yourself off your bed and getting in to a full-on workout mode.\n\nPerform this early morning workout challenge and im",
       "views": 27323517,
@@ -397,7 +493,7 @@
       "url": "https://www.youtube.com/watch?v=PG2f3GF5RlI"
     },
     {
-      "author": "@Walk at Home",
+      "author": "Walk at Home",
       "followers": 0,
       "caption": "This is a FULL BODY 2 Mile Walking Workout! It's a fast and sweaty 30 minute BURST of cardio!\n\nWith this workout:\nBURN more calories\nBOOST energy\nFEEL better\n\nThe Steps to Miles\u00ae system is a registere",
       "views": 26779004,
@@ -415,7 +511,21 @@
       "url": "https://www.youtube.com/watch?v=UNA_1DXsLmg"
     },
     {
-      "author": "@Bodybuilding.com",
+      "author": "Valeriia Litvinova, MS, RDN",
+      "followers": 0,
+      "caption": "How did we do on this transition? \ud83e\udd29 #gymmotivation #gymtips #workoutroutine #fitness #downsyndrome",
+      "views": 25182763,
+      "likes": 349000,
+      "comments": 1445,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.39,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/09wcXpjYlmQ"
+    },
+    {
+      "author": "Bodybuilding.com",
       "followers": 0,
       "caption": "Build your six-pack with this core workout from Ashley Conrad's Clutch Life Trainer.\n\u25ba BodyFit Training Programs: https://bbcom.me/2CS7qms\n\u25ba Shop Bodybuilding Signature Supplements: https://bbcom.me/3",
       "views": 24779958,
@@ -429,7 +539,7 @@
       "url": "https://www.youtube.com/watch?v=dJlFmxiL11s"
     },
     {
-      "author": "@growwithjo",
+      "author": "growwithjo",
       "followers": 0,
       "caption": "Start your day with a smile on your face and by putting your health first! This will set the tone for your day and you will get your workout done first thing!\n\nWhen I asked my community on Instagram (",
       "views": 22898867,
@@ -443,7 +553,7 @@
       "url": "https://www.youtube.com/watch?v=m1DBJhxKmiU"
     },
     {
-      "author": "@FitnessBlender",
+      "author": "FitnessBlender",
       "followers": 0,
       "caption": "NEW: Exclusive workout videos + 5, 10 & 30 Day Workout Challenges here on YouTube - Click \u201cJoin\u201d @\u00a0https://gofb.info/FB_Exclusive\nLight Cardio Warm Up Workout; calorie burn info & printable routine @ ",
       "views": 22681201,
@@ -457,7 +567,7 @@
       "url": "https://www.youtube.com/watch?v=R0mMyV5OtcM"
     },
     {
-      "author": "@Walk at Home",
+      "author": "Walk at Home",
       "followers": 0,
       "caption": "Join the Walk at Home family and two of the \"scholars\" in Health & Fitness for some healthy walking exercise! \n\nDr Ian Smith and Joey Thurman visited our Walk Productions Studio in Pittsburgh PA just ",
       "views": 22490641,
@@ -475,7 +585,7 @@
       "url": "https://www.youtube.com/watch?v=AdqrTg_hpEQ"
     },
     {
-      "author": "@FitnessBlender",
+      "author": "FitnessBlender",
       "followers": 0,
       "caption": "NEW: Exclusive workout videos + 5, 10 & 30 Day Workout Challenges here on YouTube - Click \u201cJoin\u201d @\u00a0https://gofb.info/FB_Exclusive\nCalorie burn & more for this Fitness Blender 10 Minute Abs and Oblique",
       "views": 21994133,
@@ -489,7 +599,7 @@
       "url": "https://www.youtube.com/watch?v=MrV4vCotio0"
     },
     {
-      "author": "@SUPER HEALTHY FIT",
+      "author": "SUPER HEALTHY FIT",
       "followers": 0,
       "caption": "8 Best Standing Exercises Belly Fat Workout To Lose Weight Fast At Home! ADVANCED: DO 3-4 Sets, BEGINNERS DO 1-3 Sets! SUBSCRIBE https://bit.ly/SuperHealthyFitSUBSCRIBE\n\nWho doesn't love switching up ",
       "views": 20147247,
@@ -503,7 +613,35 @@
       "url": "https://www.youtube.com/watch?v=NhMs4nuu6Rc"
     },
     {
-      "author": "@Shilpa Shetty Kundra",
+      "author": "Shared by Monica",
+      "followers": 0,
+      "caption": "via beautyqueen:@famnkreyol_    on tiktok",
+      "views": 19494669,
+      "likes": 298000,
+      "comments": 2816,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.54,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/lK0Ut50Kw6s"
+    },
+    {
+      "author": "Brodie Falgoust",
+      "followers": 0,
+      "caption": "Priorities #viral #fitness #youtubeviral #gym #shorts",
+      "views": 19297093,
+      "likes": 905000,
+      "comments": 2160,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 4.7,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/gHVADGVyTLA"
+    },
+    {
+      "author": "Shilpa Shetty Kundra",
       "followers": 0,
       "caption": "These 5 Best Ab Exercises cover all the abdominal muscles head which will help you strengthen the core and help you achieve lean muscular Abs. Abdominal muscles play a very important role in improving",
       "views": 18712281,
@@ -521,7 +659,7 @@
       "url": "https://www.youtube.com/watch?v=hUHQdQfjlSo"
     },
     {
-      "author": "@Caroline Girvan",
+      "author": "Caroline Girvan",
       "followers": 0,
       "caption": "This is a follow along 30 minute full body dumbbell workout that will target every muscle group with compound movement to help you become stronger, build lean muscle, burn energy for hours after compl",
       "views": 16809689,
@@ -535,7 +673,35 @@
       "url": "https://www.youtube.com/watch?v=GViX8riaHX4"
     },
     {
-      "author": "@Tabata Songs",
+      "author": "Kams0",
+      "followers": 0,
+      "caption": "First time at a gym\ud83c\udfcb\ufe0f\u200d\u2642\ufe0f\ud83e\udd26\u2026 #shorts #gym #workout #react #relatable #funny #gymworkout",
+      "views": 15988409,
+      "likes": 221000,
+      "comments": 1043,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.39,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/JnbVVR_oITI"
+    },
+    {
+      "author": "Brodie Falgoust",
+      "followers": 0,
+      "caption": "19 to 24 Natural Transformation #gym #viral #youtubeshorts #fitness #youtubeviral #shortsviral",
+      "views": 15627494,
+      "likes": 754000,
+      "comments": 6584,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 4.87,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/y2PhXysg2do"
+    },
+    {
+      "author": "Tabata Songs",
       "followers": 0,
       "caption": "12-Minute Full Body Tabata HIIT Workout with Anna & Tabata Songs!\nTABATA PLAYLIST: http://bit.ly/TabataPlaylist\n\nThis workout requires NO EQUIPMENT and does not repeat any exercises. Give this one a t",
       "views": 14582149,
@@ -553,7 +719,7 @@
       "url": "https://www.youtube.com/watch?v=ttkq49P_7ds"
     },
     {
-      "author": "@Roberta's Gym",
+      "author": "Roberta's Gym",
       "followers": 0,
       "caption": "I\u2019m challenging you to do this 30-min fat burn workout to achieve your weight loss dreams! This workout consists of the best and most effective routines that help burn overall body fat and give you fu",
       "views": 14487202,
@@ -567,7 +733,7 @@
       "url": "https://www.youtube.com/watch?v=dzsTgmGxlO8"
     },
     {
-      "author": "@Roberta's Gym",
+      "author": "Roberta's Gym",
       "followers": 0,
       "caption": "During this pandemic, we are all susceptible to weight gain. Since we can't go for a run or to the gym and we're stuck at home, it's easy to get sucked in to a cycle of eating, watching, sleeping. If ",
       "views": 14335510,
@@ -581,7 +747,7 @@
       "url": "https://www.youtube.com/watch?v=Y08OkdVO4Co"
     },
     {
-      "author": "@Body Project",
+      "author": "Body Project",
       "followers": 0,
       "caption": "http://teambodyproject.com \n\nIf you'd like to take part in more workouts just like this with Daniel and the team, come and join the Team Body Project site, where we have over 400 workouts and multiple",
       "views": 14022172,
@@ -595,7 +761,7 @@
       "url": "https://www.youtube.com/watch?v=PvEnWsPrL4w"
     },
     {
-      "author": "@MadFit",
+      "author": "MadFit",
       "followers": 0,
       "caption": "Try this 15 min dumbbell upper body circuit at home! Tone, sculpt, and build the arms, chest, back, and shoulders!\n\ud83d\udc49\ud83c\udffcSHOP MY COOKBOOKS!: https://goo.gl/XHwUJg \n\n\u2b50\ufe0fDO THIS WARM UP FIRST: http://bit.ly/",
       "views": 12776867,
@@ -609,7 +775,7 @@
       "url": "https://www.youtube.com/watch?v=0zhvUV1bAVQ"
     },
     {
-      "author": "@MrandMrsMuscle",
+      "author": "MrandMrsMuscle",
       "followers": 0,
       "caption": "This 15 minute Standing Abs workout is a no jumping, standing-only core routine designed to strengthen your abs and train your entire core \u2014 with no equipment needed.\n\nPerfect for home workouts, apart",
       "views": 12739224,
@@ -627,7 +793,7 @@
       "url": "https://www.youtube.com/watch?v=qfWx1EPdhwE"
     },
     {
-      "author": "@Tone and Tighten",
+      "author": "Tone and Tighten",
       "followers": 0,
       "caption": "Follow-along total-body stretching routine to decrease tightness and improve flexibility! Dr Jared Beckstrand leads you through 8 minutes of stretching exercises that are perfect for beginners, after ",
       "views": 12671175,
@@ -641,7 +807,7 @@
       "url": "https://www.youtube.com/watch?v=FI51zRzgIe4"
     },
     {
-      "author": "@FITNESS CIRCLE",
+      "author": "FITNESS CIRCLE",
       "followers": 0,
       "caption": "Exercise To LOSE 2 INCHES OFF WAIST in 1 Week | Do This STANDING 30-Min and Say Goodbye to Belly Fat \u279cSIDE FAT  Do This Everyday For 7 Days & Say Goodbye To Belly Fat\nDo This STANDING 30-Min to Lose T",
       "views": 12391599,
@@ -655,7 +821,7 @@
       "url": "https://www.youtube.com/watch?v=rHhB-KsFMVw"
     },
     {
-      "author": "@Walk at Home",
+      "author": "Walk at Home",
       "followers": 0,
       "caption": "This is Leslie\u2019s Walk Concert from Walk 15!\n\nMOVE to the MUSIC! Music is the one of the top motivators for exercise and this mile has some of your favorite songs!\n\nThe Steps to Miles\u00ae system is a regi",
       "views": 12016837,
@@ -673,7 +839,7 @@
       "url": "https://www.youtube.com/watch?v=C_rKOIJTB6A"
     },
     {
-      "author": "@Roberta's Gym",
+      "author": "Roberta's Gym",
       "followers": 0,
       "caption": "If you only have time to work out in the evening but you want to lose weight and burn fat, no need to worry--this workout is perfect for you!\n\nThis is a 10-minute quick and easy fat-loss workout routi",
       "views": 11459331,
@@ -687,7 +853,7 @@
       "url": "https://www.youtube.com/watch?v=agvdkRc_img"
     },
     {
-      "author": "@Walk at Home",
+      "author": "Walk at Home",
       "followers": 0,
       "caption": "12 minutes goes so FAST! In no time you will be Walking at a fat burning pace to BURN calories and BOOST your metabolism to keep burning even AFTER you are done Walking! It's the speed you need to get",
       "views": 11420537,
@@ -705,7 +871,7 @@
       "url": "https://www.youtube.com/watch?v=TJLKgWsS7vw"
     },
     {
-      "author": "@MadFit",
+      "author": "MadFit",
       "followers": 0,
       "caption": "This is a quick, full body stretch you can add into your daily routine! This 12 min stretch focuses on stretching tight muscles, and working on flexibility & mobility. Perfect to do first thing in the",
       "views": 11075095,
@@ -723,7 +889,7 @@
       "url": "https://www.youtube.com/watch?v=itJE4neqDJw"
     },
     {
-      "author": "@blogilates",
+      "author": "blogilates",
       "followers": 0,
       "caption": "You guys have been asking for this for a while, so today I put together some of my favorite arm exercises you can do at home!! Best part? No equipment is needed, and it STILL works!!! Ready to begin y",
       "views": 9944892,
@@ -737,7 +903,7 @@
       "url": "https://www.youtube.com/watch?v=Y346900i9qE"
     },
     {
-      "author": "@Roberta's Gym",
+      "author": "Roberta's Gym",
       "followers": 0,
       "caption": "Do you want to lose belly fat by doing cardio routines? Then this video is perfect for you!\n\nBurn belly fat by doing exercises that raise your heart level for a longer period of time. That will most l",
       "views": 8830642,
@@ -751,7 +917,7 @@
       "url": "https://www.youtube.com/watch?v=6coSK5__cTE"
     },
     {
-      "author": "@HASfit",
+      "author": "HASfit",
       "followers": 0,
       "caption": "Download the FREE HASfit app: \nAndroid http://bit.ly/HASfitAndroid -- iPhone http://bit.ly/HASfitiOS\n\nEveryone has to start somewhere and this 15 minute beginner weight training routine is perfect if ",
       "views": 8712920,
@@ -765,7 +931,7 @@
       "url": "https://www.youtube.com/watch?v=U0bhE67HuDY"
     },
     {
-      "author": "@Get Fit Fast",
+      "author": "Get Fit Fast",
       "followers": 0,
       "caption": "Struggling with extra weight can be more than just a challenge for your confidence\u2014it can also take a toll on your health. Being overweight is linked to a higher risk of heart disease, diabetes, joint",
       "views": 8430975,
@@ -779,7 +945,7 @@
       "url": "https://www.youtube.com/watch?v=uOW5VsQCfPI"
     },
     {
-      "author": "@Midas Movement",
+      "author": "Midas Movement",
       "followers": 0,
       "caption": "Grab some Dumbbells between 5-30lbs and try this 10 Minute Lightweight Dumbbell Bicep & Forearm Workout. Complete two or three times every week. This is Bicep workout you can do anywhere as long as yo",
       "views": 8393491,
@@ -793,7 +959,7 @@
       "url": "https://www.youtube.com/watch?v=JyV7mUFSpXs"
     },
     {
-      "author": "@Roberta's Gym",
+      "author": "Roberta's Gym",
       "followers": 0,
       "caption": "You can indeed burn belly fat in just a few days just by exercising on a daily basis. This workout is the perfect exercise to kick-start your fitness journey so doing this for the next 4 days will sur",
       "views": 7802112,
@@ -807,7 +973,7 @@
       "url": "https://www.youtube.com/watch?v=whdhAWClo28"
     },
     {
-      "author": "@yes2next",
+      "author": "yes2next",
       "followers": 0,
       "caption": "This 10-minute indoor walking workout will help improve your cardiovascular health by getting your heart rate up and increasing strength with exercises that work your legs, glutes, core and upper body",
       "views": 7307158,
@@ -825,7 +991,7 @@
       "url": "https://www.youtube.com/watch?v=bO6NNfX_1ns"
     },
     {
-      "author": "@Caroline Girvan",
+      "author": "Caroline Girvan",
       "followers": 0,
       "caption": "Full Body Kettlebell Workout - 15 Minutes to work your entire body with 1 kettlebell! \n\nWe will perform each of the following kettlebell exercises for 30 seconds, followed immediately by 30 seconds ke",
       "views": 7246957,
@@ -839,7 +1005,7 @@
       "url": "https://www.youtube.com/watch?v=VCcar3MA07w"
     },
     {
-      "author": "@growwithjo",
+      "author": "growwithjo",
       "followers": 0,
       "caption": "Its time to get our sweat on, but with a STRENGTH workout this time! \nThis full body dumbbell workout at home is perfect to build lean muscle and see amazing changes in your physique.\n\nThis dumbbell w",
       "views": 7159635,
@@ -853,7 +1019,7 @@
       "url": "https://www.youtube.com/watch?v=0yYiErHenzs"
     },
     {
-      "author": "@MIZI",
+      "author": "MIZI",
       "followers": 0,
       "caption": "Visit my website \u2728MIZI WELLNESS\u2728\nhttps://miziwellness.com/ \n\nFOLLOW ME\ud83d\udc95\nInstagram:  \u00a0\u00a0/\u00a0_______mizi\u00a0\u00a0\nTiktiok: \u00a0\u00a0/\u00a0_______mizi\u00a0\u00a0\nFacebook: \u00a0\u00a0/\u00a0miziworkout\u00a0\u00a0",
       "views": 6824623,
@@ -867,7 +1033,7 @@
       "url": "https://www.youtube.com/watch?v=Ao1tzPTm-40"
     },
     {
-      "author": "@Milestone Strength",
+      "author": "Milestone Strength",
       "followers": 0,
       "caption": "At home workouts are an absolute lifesaver in these times. Whether you do not have a gym membership or you simply cannot make it to the gym, this bodyweight only full body workout will help you hit yo",
       "views": 6531162,
@@ -881,7 +1047,7 @@
       "url": "https://www.youtube.com/watch?v=wIynl3at0Rs"
     },
     {
-      "author": "@wearecult",
+      "author": "wearecult",
       "followers": 0,
       "caption": "Download the Cultfit app to access more such content - https://bit.ly/30pXU5L\n\nThis 15 minute fat burning workout by Cult Fit includes powerful exercises that can be done at home. We have brought to y",
       "views": 6497176,
@@ -899,7 +1065,7 @@
       "url": "https://www.youtube.com/watch?v=8MAtXXXUvqo"
     },
     {
-      "author": "@Caroline Girvan",
+      "author": "Caroline Girvan",
       "followers": 0,
       "caption": "10 minute ab workout to follow along! \nAbs in ten minutes? 6 minute abs workout to get abs in 14 days? You can\u2019t put a time scale on results. We are all different. And such minimal time period isn\u2019t r",
       "views": 6479827,
@@ -913,7 +1079,21 @@
       "url": "https://www.youtube.com/watch?v=Z_dgrjRlD_4"
     },
     {
-      "author": "@fabulous50s",
+      "author": "The Fitness Marshall",
+      "followers": 0,
+      "caption": "there was no (k)need for this",
+      "views": 6434172,
+      "likes": 378000,
+      "comments": 814,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 5.89,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/BOXaDPBdrHo"
+    },
+    {
+      "author": "fabulous50s",
       "followers": 0,
       "caption": "Burn Belly fat in a chair workout -15 minute low impact seated ab workout for women over 50 for weight loss, to reduce belly fat Fast and create a flat stomach...Suitable for beginners and seniors: Me",
       "views": 6431324,
@@ -931,7 +1111,7 @@
       "url": "https://www.youtube.com/watch?v=tS01JLqO2B8"
     },
     {
-      "author": "@Jeff Nippard",
+      "author": "Jeff Nippard",
       "followers": 0,
       "caption": "In this video, I\u2019m ranking 19 fitness topics as either overrated or underrated. The topics are split up into three categories: training, nutrition, and hot fitness topics. This time, I\u2019ve brought in D",
       "views": 5831268,
@@ -945,7 +1125,7 @@
       "url": "https://www.youtube.com/watch?v=EEOjsbQ5wYE"
     },
     {
-      "author": "@Roberta's Gym",
+      "author": "Roberta's Gym",
       "followers": 0,
       "caption": "Who says you can't do exercises when you're having knee problems, or lower body issues? \n\nToday's workout is here to show how you can still lose weight at home even if you have physical conditions tha",
       "views": 5756690,
@@ -959,7 +1139,7 @@
       "url": "https://www.youtube.com/watch?v=NPpIQ55Sn_w"
     },
     {
-      "author": "@Roberta's Gym",
+      "author": "Roberta's Gym",
       "followers": 0,
       "caption": "Exercise anywhere, anytime everyday with this 30-min weight loss workout!\n\nBurn as much fat as you can and see quicker results as you exercise your entire body and all your major muscles with today's ",
       "views": 5562940,
@@ -973,7 +1153,7 @@
       "url": "https://www.youtube.com/watch?v=Iy-Y08egecU"
     },
     {
-      "author": "@Fitbit",
+      "author": "Fitbit",
       "followers": 0,
       "caption": "A quick, fun workout your whole family can do together. Workout for kids and parents!",
       "views": 5450393,
@@ -987,7 +1167,7 @@
       "url": "https://www.youtube.com/watch?v=t7nrOBBfcYI"
     },
     {
-      "author": "@Roberta's Gym",
+      "author": "Roberta's Gym",
       "followers": 0,
       "caption": "Do you want to burn fat and lose weight in just 30 minutes per day?\nWith today's video workout I have created an effective fat loss workout routine for you to do at home.\n\nCardio exercises are combine",
       "views": 5353709,
@@ -1001,7 +1181,21 @@
       "url": "https://www.youtube.com/watch?v=TtnpyBcxHSQ"
     },
     {
-      "author": "@Caroline Girvan",
+      "author": "Gymtopflix",
+      "followers": 0,
+      "caption": "Full body workout at home #shorts #viral #ytshots\n\n\nGymtopflix \nFull body workout at home \nhome workout\nfull body workout at home\nhome workout full body\nworkout at home\nbody exercise\nfull body workout",
+      "views": 5283370,
+      "likes": 35000,
+      "comments": 52,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.66,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/W56Ve6s06hQ"
+    },
+    {
+      "author": "Caroline Girvan",
       "followers": 0,
       "caption": "A perfect 30 minute full body no repeat, low impact steady state cardio workout at home (LISS) that requires a continuous, maintainable level of effort! \n\nCardio workouts and HIIT workouts are very di",
       "views": 5160116,
@@ -1015,7 +1209,7 @@
       "url": "https://www.youtube.com/watch?v=ImI63BUUPwU"
     },
     {
-      "author": "@MadFit",
+      "author": "MadFit",
       "followers": 0,
       "caption": "If you live in an apartment or feel limited working out at home, this workout is for you! This 30 min full body workout can be done in a small space, with NO EQUIPMENT, and there is no jumping/no nois",
       "views": 4968079,
@@ -1033,7 +1227,7 @@
       "url": "https://www.youtube.com/watch?v=jKTxe236-4U"
     },
     {
-      "author": "@Juice & Toya",
+      "author": "Juice & Toya",
       "followers": 0,
       "caption": "Tap in with us for a 30 minute full body dumbbell  workout if you're looking build strength/muscle, endurance, and burn a lot of calories!  All you need is a soft surface and a moderate to heavy pair ",
       "views": 4832807,
@@ -1050,7 +1244,21 @@
       "url": "https://www.youtube.com/watch?v=XxuRSjER3Qk"
     },
     {
-      "author": "@Little Sports",
+      "author": "Aerobic Fitness South Africa",
+      "followers": 0,
+      "caption": "Be INSPIRED | Cardio \u2764\ufe0f KICKBOXING workout routine by @stevenbaloyi3082",
+      "views": 4779450,
+      "likes": 83000,
+      "comments": 1299,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.76,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/C2dpA1O8dxA"
+    },
+    {
+      "author": "Little Sports",
       "followers": 0,
       "caption": "Today's video workout brings a set of fat-burning exercises for kids. These are easy to do at home because they require no special equipment.\n\nTry to do as much of the workout as possible, preferably ",
       "views": 4711162,
@@ -1064,7 +1272,7 @@
       "url": "https://www.youtube.com/watch?v=dQ_PK7Z-vv4"
     },
     {
-      "author": "@Mind Pump TV",
+      "author": "Mind Pump TV",
       "followers": 0,
       "caption": "The ONLY Dumbbell Workout That You Need! Minimal Equipment Needed for Maximum Gains!\nSubscribe to Mind Pump TV: \u00a0\u00a0\u00a0/\u00a0mindpumptv\u00a0\u00a0\nINSTAGRAM: \u00a0\u00a0/\u00a0mindpumpmedia\u00a0\u00a0\n\nFollow this Dumbbell Workout for Optim",
       "views": 4615818,
@@ -1078,7 +1286,7 @@
       "url": "https://www.youtube.com/watch?v=0A3EgOztptQ"
     },
     {
-      "author": "@wearecult",
+      "author": "wearecult",
       "followers": 0,
       "caption": "Download the Cultfit app to access more such content - https://bit.ly/30pXU5L\n\nBelly Fat Workout For Men from CureFit is the perfect workout for you to burn your stubborn belly fat at home. Say yes to",
       "views": 4476480,
@@ -1096,7 +1304,21 @@
       "url": "https://www.youtube.com/watch?v=Iga0h0p6DcI"
     },
     {
-      "author": "@Juice & Toya",
+      "author": "slicey",
+      "followers": 0,
+      "caption": "#gymmotivation #workout #fitness #athlete #bodybuilding #powerlifting #gymlife #gymgirl #gym",
+      "views": 4464091,
+      "likes": 89000,
+      "comments": 1039,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.02,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/oJ70ZNOlLJg"
+    },
+    {
+      "author": "Juice & Toya",
       "followers": 0,
       "caption": "Tap in with us for a 30 minute FULL BODY dumbbell workout that will challenge your overall strength and conditioning! Enjoy this NO REPEAT format that will target every muscle group in your body. Depe",
       "views": 4435027,
@@ -1112,7 +1334,7 @@
       "url": "https://www.youtube.com/watch?v=4sUGg9mcMGU"
     },
     {
-      "author": "@Juice & Toya",
+      "author": "Juice & Toya",
       "followers": 0,
       "caption": "Tap in with us for a 30 minute FULL BODY dumbbell workout that will challenge your overall strength and conditioning! Enjoy this NO REPEAT format that will target every muscle group in your body. Depe",
       "views": 4435020,
@@ -1128,7 +1350,21 @@
       "url": "https://www.youtube.com/watch?v=4sUGg9mcMGU"
     },
     {
-      "author": "@MadFit",
+      "author": "GymNought Fitness",
+      "followers": 0,
+      "caption": "5 Best Exercises to Gain Weight Quickly #gymnoughtfitness #gainweight #weightgain #shorts #youtubeshorts #exercise #fitness @gymnoughtfitness \n\nI know you\u2019re wondering why some of the exercises that a",
+      "views": 4331821,
+      "likes": 87000,
+      "comments": 308,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.02,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/cjVgE-afPlc"
+    },
+    {
+      "author": "MadFit",
       "followers": 0,
       "caption": "DOWNLOAD YOUR FREE TRIAL HERE :  https://madfit.app.link/e/store\n\n\nDo this 30 minute FULL BODY WORKOUT  from INSIDE THE MADFIT APP! This is an exclusive workout from the 12 week Full Body program!\n#Ma",
       "views": 4285695,
@@ -1146,7 +1382,7 @@
       "url": "https://www.youtube.com/watch?v=4iy4yEKa7W8"
     },
     {
-      "author": "@Roberta's Gym",
+      "author": "Roberta's Gym",
       "followers": 0,
       "caption": "By popular demand, here is the 1000 Calorie workout! Intensive burn, suitable to be performed at home with just the weight of your body.\n\nThe workout activates all the major muscles areas in your body",
       "views": 4197017,
@@ -1160,7 +1396,7 @@
       "url": "https://www.youtube.com/watch?v=DqAsrY3dalw"
     },
     {
-      "author": "@Roberta's Gym",
+      "author": "Roberta's Gym",
       "followers": 0,
       "caption": "Here's an amazing belly fat loss workout that will give you the most amazing results in 2 weeks!\n\nThis is a high-intensity workout that will burn the fat in your stomach using all the muscles connecte",
       "views": 4175550,
@@ -1174,7 +1410,7 @@
       "url": "https://www.youtube.com/watch?v=J08DFlThdUk"
     },
     {
-      "author": "@Roberta's Gym",
+      "author": "Roberta's Gym",
       "followers": 0,
       "caption": "I get asked all the time how to lose weight in certain body areas. And while there are workouts that involve those certain muscles, the weight loss rule of thumb is this:\n\nIf you reduce your body fat ",
       "views": 4066177,
@@ -1188,7 +1424,7 @@
       "url": "https://www.youtube.com/watch?v=pqvP7AqzmiE"
     },
     {
-      "author": "@Workout Guru",
+      "author": "Workout Guru",
       "followers": 0,
       "caption": "Do This Chair Workout For 14 Days To Lose Belly Fat (TOP 10 EXERCISES): Lose belly fat with this top 10 chair workout routine in just 14 days. These easy-to-follow exercises can be done right from you",
       "views": 3852365,
@@ -1202,7 +1438,21 @@
       "url": "https://www.youtube.com/watch?v=XJJwaK-9nLs"
     },
     {
-      "author": "@MrandMrsMuscle",
+      "author": "Briel Adams-Wheatley",
+      "followers": 0,
+      "caption": "That hurted\u2026 #fitness #workout #fyp #funny #viralvideo #shorts",
+      "views": 3800201,
+      "likes": 35000,
+      "comments": 379,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.93,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/yIUUSPjkY8I"
+    },
+    {
+      "author": "MrandMrsMuscle",
       "followers": 0,
       "caption": "This 20 minute Full Body Fat Burning workout with dumbbells is a fiery, sweat-filled session designed to help you burn calories, tone your full body, and build strength \u2014 while staying knee friendly.\n",
       "views": 3684627,
@@ -1220,7 +1470,7 @@
       "url": "https://www.youtube.com/watch?v=jjUyJufUKL8"
     },
     {
-      "author": "@Walk at Home",
+      "author": "Walk at Home",
       "followers": 0,
       "caption": "Hello Wonderful Walkers!\nIt's me ... Leslie!\nWe hope you'll enjoy this NEW Fitness Show exclusively for You Tube! \nI am in the Producers Group for this show and just THRILLED to keep spreading the GOO",
       "views": 3578503,
@@ -1238,7 +1488,21 @@
       "url": "https://www.youtube.com/watch?v=bSnNQaAr5l8"
     },
     {
-      "author": "@Captain Workout",
+      "author": "LilBigNanc",
+      "followers": 0,
+      "caption": "I love my wrists \ud83e\udee8  #gym #trending #fit #fitness #workout #training   #gymrat #calisthenics",
+      "views": 3475771,
+      "likes": 242000,
+      "comments": 448,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 6.98,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/TLiwNDfgmAM"
+    },
+    {
+      "author": "Captain Workout",
       "followers": 0,
       "caption": "\ud83d\udcaa Build Your Superhero Physique Without Sacrificing Your Lifestyle \u25ba https://captainworkout.com/products/h...\n\nCalisthenics vs Gym Workouts: Which One Really Works Best?\n\nThinking about starting your ",
       "views": 3216068,
@@ -1256,7 +1520,7 @@
       "url": "https://www.youtube.com/watch?v=QU8mTR5iPLM"
     },
     {
-      "author": "@Roberta's Gym",
+      "author": "Roberta's Gym",
       "followers": 0,
       "caption": "For a good weight loss workout that doesn\u2019t require you to jump or run and that is gentle on your knees and legs, today\u2019s your day \ud83d\ude00\n\nThis 30-minute home workout will help you lose fat and burn calori",
       "views": 3208703,
@@ -1270,7 +1534,7 @@
       "url": "https://www.youtube.com/watch?v=jDj0h5JfEiE"
     },
     {
-      "author": "@Caroline Jordan",
+      "author": "Caroline Jordan",
       "followers": 0,
       "caption": "10 Best Diabetes Exercises to Lower Blood Sugar Exercise - Diabetes Workout\n\nDiabetes workout: 10 exercises to Lower Blood Sugar fitness routine // Caroline Jordan // Diabetes exercises are an importa",
       "views": 3180984,
@@ -1284,7 +1548,21 @@
       "url": "https://www.youtube.com/watch?v=-uK8a80vyeI"
     },
     {
-      "author": "@Kaleigh Cohen Strength",
+      "author": "Liv",
+      "followers": 0,
+      "caption": "#viral #fitness #fitnessmotivation #fitnessjourney #gym #gymgirl #gymmotivation #fyp",
+      "views": 3126319,
+      "likes": 78000,
+      "comments": 798,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.52,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/-Lwy8VCznBQ"
+    },
+    {
+      "author": "Kaleigh Cohen Strength",
       "followers": 0,
       "caption": "\u2b50\ufe0f Find tips, recipes, and more here! \ud83d\udc49  https://www.kaleighcohen.com \n\n\u2b50\ufe0f Find all of the equipment used for these workouts here! \ud83d\udc49 https://www.amazon.com/shop/kaleighco...\n\n\u2b50\ufe0fWant more workouts to h",
       "views": 3009502,
@@ -1298,7 +1576,7 @@
       "url": "https://www.youtube.com/watch?v=IjH_8pdybfs"
     },
     {
-      "author": "@Walk at Home",
+      "author": "Walk at Home",
       "followers": 0,
       "caption": "Walk 1 Mile with Nick! We are at home with Nick! This is a brand new mile with Nick will give you a great walking workout in just 15 minutes. Happy Walking!\n\n#fitness #exercise #workouts\n\nDownload, st",
       "views": 2712523,
@@ -1316,7 +1594,7 @@
       "url": "https://www.youtube.com/watch?v=qsCxdsrV5Fc"
     },
     {
-      "author": "@Workout Guru",
+      "author": "Workout Guru",
       "followers": 0,
       "caption": "10 MIN Standing Abs Workout For Men (Lose Belly Fat And Get 6 Pack At Home): Achieve a six-pack and lose belly fat with this 10-minute standing abs workout designed for men. These effective exercises ",
       "views": 2681353,
@@ -1330,7 +1608,7 @@
       "url": "https://www.youtube.com/watch?v=9oMZp0IUbpo"
     },
     {
-      "author": "@Midas Movement",
+      "author": "Midas Movement",
       "followers": 0,
       "caption": "Grab some Dumbbells between 5-30lbs and try this 10 Minute Lightweight Dumbbell Shoulder Workout. Complete two or three times every week. This is a Shoulder workout you can do anywhere as long as you ",
       "views": 2680976,
@@ -1344,7 +1622,7 @@
       "url": "https://www.youtube.com/watch?v=QVaijMZ2mp8"
     },
     {
-      "author": "@MIZI",
+      "author": "MIZI",
       "followers": 0,
       "caption": "Hi guys!\nThis is easy seated abs workout for all level.\nFollow this exercise at your home, office or school. You can get more energy and burn some calories on your spare time!\nI hope you enjoy it !! T",
       "views": 2586043,
@@ -1362,7 +1640,7 @@
       "url": "https://www.youtube.com/watch?v=YFl-z6TvNNc"
     },
     {
-      "author": "@Roberta's Gym",
+      "author": "Roberta's Gym",
       "followers": 0,
       "caption": "Here's another no repeat full body workout for you to do at home! \n\nThis is a fun, intensive workout that you can easily do at home to burn fat and lose weight!! You can easily do this workout everyda",
       "views": 2506940,
@@ -1376,7 +1654,7 @@
       "url": "https://www.youtube.com/watch?v=FSVAKyfNSLo"
     },
     {
-      "author": "@Walk at Home",
+      "author": "Walk at Home",
       "followers": 0,
       "caption": "Happy National Walking Day Everybody!\nEstablished by the American Heart Association, celebrated the first Wednesday in April, is to encourage people to move more! \n\nLet's all go MOVE more with our lat",
       "views": 2163407,
@@ -1394,7 +1672,7 @@
       "url": "https://www.youtube.com/watch?v=AEREJOT_Mpc"
     },
     {
-      "author": "@Hailey C.",
+      "author": "Hailey C.",
       "followers": 0,
       "caption": "#absworkout #bellyfatloss #homeworkout \n\nThere were a few technical issues in the previous video, and since I'm a bit of a tech nerd, I'm re-posting it again. I love working out with you guys! Hope yo",
       "views": 1971764,
@@ -1412,7 +1690,7 @@
       "url": "https://www.youtube.com/watch?v=BnBmvoOg_pw"
     },
     {
-      "author": "@wearecult",
+      "author": "wearecult",
       "followers": 0,
       "caption": "This Full Body Workout Without Equipment video from Cult Fit is the perfect workout for you to burn your excess fat. Try this full-body workout without any equipment at home and get the body of your d",
       "views": 1662325,
@@ -1430,7 +1708,7 @@
       "url": "https://www.youtube.com/watch?v=t9F9gZg42NM"
     },
     {
-      "author": "@Caroline Girvan",
+      "author": "Caroline Girvan",
       "followers": 0,
       "caption": "Full body workout targeting the major muscle groups using compound lifts and sets of 4 throughout! Back, shoulders, chest and lower body using dumbbells and bodyweight for a demanding strength trainin",
       "views": 1621243,
@@ -1444,7 +1722,25 @@
       "url": "https://www.youtube.com/watch?v=588-C4bEL28"
     },
     {
-      "author": "@Pregnancy and Postpartum TV",
+      "author": "Fitness and Fitness",
+      "followers": 0,
+      "caption": "Want a slimmer waist and toned thighs without hours at the gym?\nJapan\u2019s viral Up & Down method uses just 2 simple moves to tighten your core, reduce belly fat, and sculpt your waistline \u2014 all in just ",
+      "views": 1601094,
+      "likes": 57000,
+      "comments": 225,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 3.57,
+      "hashtags": [
+        "#JapaneseWorkout",
+        "#WaistSlimming",
+        "#BellyFatBurn"
+      ],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/3YzyMC0KLNA"
+    },
+    {
+      "author": "Pregnancy and Postpartum TV",
       "followers": 0,
       "caption": "These are the birth ball exercises I did daily during third trimester to prepare for an easy delivery and positive birth! You can start these pregnancy exercises at any time, (it's never too early for",
       "views": 1570755,
@@ -1458,7 +1754,7 @@
       "url": "https://www.youtube.com/watch?v=pxACsE_bH-Y"
     },
     {
-      "author": "@wearecult",
+      "author": "wearecult",
       "followers": 0,
       "caption": "This Cardio Workout At Home from Cult Fit is the perfect workout for you to burn your excess fat. Try this routine and burn those unwanted calories! Say yes to healthy living with Cult Fit!\n\n\n0:00 Int",
       "views": 1557405,
@@ -1476,7 +1772,7 @@
       "url": "https://www.youtube.com/watch?v=OWGXhg50EHI"
     },
     {
-      "author": "@Pregnancy and Postpartum TV",
+      "author": "Pregnancy and Postpartum TV",
       "followers": 0,
       "caption": "I get asked all the time for a the best exercise for pregnant women.  \"You have so many videos...Is there just one that I can do daily?\" Today's video is a routine with a little of everything to keep ",
       "views": 1545729,
@@ -1490,7 +1786,7 @@
       "url": "https://www.youtube.com/watch?v=lKx0sOz31C4"
     },
     {
-      "author": "@Jessica Valant",
+      "author": "Jessica Valant",
       "followers": 0,
       "caption": "\u2b50\ufe0f Physical Therapist and Pilates teacher Jessica Valant takes you through this scoliosis workout that will stretch and strengthen your back and hip muscles. You can do this scoliosis workout at home ",
       "views": 1510414,
@@ -1504,7 +1800,7 @@
       "url": "https://www.youtube.com/watch?v=Xc1TuZ_14lQ"
     },
     {
-      "author": "@HealthifyMe",
+      "author": "HealthifyMe",
       "followers": 0,
       "caption": "This FULL BODY WORKOUT AT HOME from HealthifyMe is going to be the perfect workout for you in 10 minutes to workout from the comfort of your home. Below are the 8 exercises:\n0:00 Introduction\n0:24 1) ",
       "views": 1477173,
@@ -1518,7 +1814,7 @@
       "url": "https://www.youtube.com/watch?v=5ARgeR1rMTo"
     },
     {
-      "author": "@Bob & Brad",
+      "author": "Bob & Brad",
       "followers": 0,
       "caption": "15 Minute Beginner Exercise Ball Workout- Workout with Jordan\n\nJordan walks us through this at-home exercise routine using an exercise ball to work various muscles. This easy-to-follow routine is desi",
       "views": 1468840,
@@ -1532,7 +1828,7 @@
       "url": "https://www.youtube.com/watch?v=EzxYTsfuB6c"
     },
     {
-      "author": "@Anna McNulty",
+      "author": "Anna McNulty",
       "followers": 0,
       "caption": "Your new 2022 workout challenge! This 15 minute full body & abs workout is great for improving your overall fitness with no equipment and no jumping at home! Thumbs up for more workouts \u2661\n\nDo this war",
       "views": 1457473,
@@ -1550,7 +1846,7 @@
       "url": "https://www.youtube.com/watch?v=rDxPfQEKBHw"
     },
     {
-      "author": "@Roberta's Gym",
+      "author": "Roberta's Gym",
       "followers": 0,
       "caption": "Welcome to another belly fat workout challenge!\n\nToday we are challenging you to 8 minutes of workout everyday to lose those belly fat in just 7 days! So for a few minutes everyday for the next week, ",
       "views": 1422773,
@@ -1564,7 +1860,7 @@
       "url": "https://www.youtube.com/watch?v=uNgT2sN0gbk"
     },
     {
-      "author": "@Little Sports",
+      "author": "Little Sports",
       "followers": 0,
       "caption": "When kids stay at home they need to get active. They need to exercise and burn calories, to perform physical activities - in order for their body to get stronger but also to keep them in a natural sta",
       "views": 1379289,
@@ -1578,7 +1874,7 @@
       "url": "https://www.youtube.com/watch?v=7W2N-Xcw17U"
     },
     {
-      "author": "@Walk at Home",
+      "author": "Walk at Home",
       "followers": 0,
       "caption": "Just in time for HEART Month! \nLet's get the Heart Pumping People! Brisk Walking keeps the Heart STRONG! \n\nTanner leads on this 2 Mile - 30 Minute - Heart Healthy Walk at Home\u00ae \nand for even more heal",
       "views": 1374901,
@@ -1596,7 +1892,7 @@
       "url": "https://www.youtube.com/watch?v=m3v3PN5bvZo"
     },
     {
-      "author": "@Walk at Home",
+      "author": "Walk at Home",
       "followers": 0,
       "caption": "Just in time for HEART Month! \nLet's get the Heart Pumping People! Brisk Walking keeps the Heart STRONG! \n\nTanner leads on this 2 Mile - 30 Minute - Heart Healthy Walk at Home\u00ae \nand for even more heal",
       "views": 1374901,
@@ -1614,7 +1910,7 @@
       "url": "https://www.youtube.com/watch?v=m3v3PN5bvZo"
     },
     {
-      "author": "@Shirlyn Kim",
+      "author": "Shirlyn Kim",
       "followers": 0,
       "caption": "\u25b7 FREE My Diet Meal Plan: https://bit.ly/ShirlynKim\n\u25b6FREE 7 Day Workout Plan \u00a0\u00a0\u00a0/\u00a0shirlynkim\u00a0\u00a0\n\u25b7WEEKLY WORKOUT PLAYLIST ( ON MY MAIN PAGE) \u00a0\u00a0\u00a0/\u00a0shirlynkim\u00a0\u00a0\n\nHow to get better results?\nComplete this e",
       "views": 1211278,
@@ -1628,7 +1924,7 @@
       "url": "https://www.youtube.com/watch?v=Y_rwY8LCFMc"
     },
     {
-      "author": "@Roberta's Gym",
+      "author": "Roberta's Gym",
       "followers": 0,
       "caption": "This is how you lose weight fast at home: you workout EVERYDAY with intensive body-weight exercises that \"force\" your body to burn calories and melt fat to provide energy for your muscles.\n\nWhen the a",
       "views": 1198550,
@@ -1646,7 +1942,7 @@
       "url": "https://www.youtube.com/watch?v=ygUO8eMuGnk"
     },
     {
-      "author": "@GunjanShouts",
+      "author": "GunjanShouts",
       "followers": 0,
       "caption": "Burn 375 calories in just 30 minutes by doing this - No equipment Home Workout.\n\nHere is full body home workout video for beginners and intermediate.\nIts a no equipment workout and can be easily done ",
       "views": 1184696,
@@ -1660,7 +1956,7 @@
       "url": "https://www.youtube.com/watch?v=Qymarl8FyEk"
     },
     {
-      "author": "@Roberta's Gym",
+      "author": "Roberta's Gym",
       "followers": 0,
       "caption": "Here's an easy video workout you can quickly do at home everyday, in just 11 minutes! This home routine will help you burn calories, lose weight, tone your full body and look amazing!\n\nThe exercise du",
       "views": 1107681,
@@ -1674,7 +1970,7 @@
       "url": "https://www.youtube.com/watch?v=Ki605EYP7_Q"
     },
     {
-      "author": "@Improved Health",
+      "author": "Improved Health",
       "followers": 0,
       "caption": "A beginner 30 minute chair exercise class designed for seniors or beginners wanting the option of chair exercises.  Suitable for anyone looking to get back into fitness.  Ideal for seniors, older adul",
       "views": 939891,
@@ -1692,7 +1988,7 @@
       "url": "https://www.youtube.com/watch?v=slBsNXH4GW8&t=842s"
     },
     {
-      "author": "@Tone and Tighten",
+      "author": "Tone and Tighten",
       "followers": 0,
       "caption": "Complete core workout presented by Dr Jared Beckstrand! The perfect home workout to train your abs, obliques, lower back, and hips. Only 10 minutes, no equipment required, and can help to increase cor",
       "views": 930161,
@@ -1706,7 +2002,7 @@
       "url": "https://www.youtube.com/watch?v=b_TTLmmQmXU"
     },
     {
-      "author": "@Roberta's Gym",
+      "author": "Roberta's Gym",
       "followers": 0,
       "caption": "If you're a senior then you need to start exercising at home to help maintain in good shape and in good health.\n\nThese are simple, body-weight exercises you can do at home that are easy on your joints",
       "views": 838784,
@@ -1720,7 +2016,7 @@
       "url": "https://www.youtube.com/watch?v=hoi1KGEXeY4"
     },
     {
-      "author": "@BullyJuice",
+      "author": "BullyJuice",
       "followers": 0,
       "caption": "Hey there! Are you short on time but still want to get in a great workout? Then join me for this 10-minute full body workout with dumbbells!\n\nIn this video, I'll guide you through a series of exercise",
       "views": 832791,
@@ -1734,7 +2030,21 @@
       "url": "https://www.youtube.com/watch?v=u1My2n961KM"
     },
     {
-      "author": "@The Body Coach TV by Joe Wicks",
+      "author": "HomeOffBaddies",
+      "followers": 0,
+      "caption": "Work days #viral #workout #dance #fyp #shorts #planche #sports",
+      "views": 822142,
+      "likes": 3900,
+      "comments": 47,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.48,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/mmAuqG1g2dg"
+    },
+    {
+      "author": "The Body Coach TV by Joe Wicks",
       "followers": 0,
       "caption": "Joe Wicks, Duggee, and the squirrels teach kids how to exercise and keep fit! In this episode, they\u2019re trying to win a Super Squat Badge - where it\u2019s all about the squats! Pretend you\u2019re sitting down ",
       "views": 818683,
@@ -1748,7 +2058,7 @@
       "url": "https://www.youtube.com/watch?v=21vRyAvVI3c"
     },
     {
-      "author": "@MIZI",
+      "author": "MIZI",
       "followers": 0,
       "caption": "Visit my website \u2728MIZI WELLNESS\u2728\nhttps://miziwellness.com/ \n\nJoin my youtube membership and show your supports! \n\u00a0\u00a0\u00a0/\u00a0@mizilee\u00a0\u00a0\n\nFOLLOW ME\ud83d\udc95\nInstagram:  \u00a0\u00a0/\u00a0_______mizi\u00a0\u00a0\nTiktiok: \u00a0\u00a0/\u00a0_______mizi\u00a0\u00a0\nFa",
       "views": 740805,
@@ -1762,7 +2072,21 @@
       "url": "https://www.youtube.com/watch?v=BegW_l4IJFQ"
     },
     {
-      "author": "@Kaleigh Cohen Strength",
+      "author": "thesimp5onsisters",
+      "followers": 0,
+      "caption": "have you tried this fitness challenge? - this is probably one of the hardest challenges I have ever tried and I know it doesn't seem difficult but until you actually try it you won't realise how diffi",
+      "views": 725041,
+      "likes": 8400,
+      "comments": 54,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.17,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/TuF4BlaUI8U"
+    },
+    {
+      "author": "Kaleigh Cohen Strength",
       "followers": 0,
       "caption": "FUN, FEISTY, and ONLY 10 MINUTES!? YES PLEASE! This is a short, intense, and effective full body workout when you want to work it all!\n\nI know with school starting back up, exercise time in the mornin",
       "views": 705948,
@@ -1776,7 +2100,53 @@
       "url": "https://www.youtube.com/watch?v=Xw5b9prgVkU"
     },
     {
-      "author": "@Roberta's Gym",
+      "author": "coach kenny24",
+      "followers": 0,
+      "caption": "Quick  beginner Standing ABS workout No Equipment #viral #reels #viralvideos",
+      "views": 697643,
+      "likes": 10000,
+      "comments": 43,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.44,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/hax_NaKD_N0"
+    },
+    {
+      "author": "[P]rehab",
+      "followers": 0,
+      "caption": "Craig, Adelle, Arash & Mike take on another mobility challenge. Now it\u2019s your turn \ud83d\udcaa\n\nNot sure what your body actually needs? This 2-minute quiz matches you to a personalized program built by Doctors ",
+      "views": 592424,
+      "likes": 6400,
+      "comments": 69,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.09,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/ttTX-LXTLHw"
+    },
+    {
+      "author": "Anna Fitness69",
+      "followers": 0,
+      "caption": "Anna Fitness | Online Fitness | Anna.fitness69 | Online.fitness69 #yoga  #workout  #fitness  #stretching  #flexibility #viral #youtubeshorts #shorts",
+      "views": 576908,
+      "likes": 4000,
+      "comments": 117,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.71,
+      "hashtags": [
+        "#yoga",
+        "#workout",
+        "#fitness"
+      ],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/iyJoRdt8bZU"
+    },
+    {
+      "author": "Roberta's Gym",
       "followers": 0,
       "caption": "If you want to have a healthy body and maintain a good shape then you need to exercise regularly everyday with full body workouts.\n\nToday's video workout comes to help - it's a 15-minute full body wor",
       "views": 554512,
@@ -1790,7 +2160,43 @@
       "url": "https://www.youtube.com/watch?v=3g4zO58B9Jw"
     },
     {
-      "author": "@Zumba Class",
+      "author": "Anna Fitness69",
+      "followers": 0,
+      "caption": "Anna Fitness | Online Fitness | Anna.fitness69 | Online.fitness69 #yoga  #workout  #fitness  #stretching  #flexibility #viral #youtubeshorts #shorts",
+      "views": 342450,
+      "likes": 2100,
+      "comments": 72,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.63,
+      "hashtags": [
+        "#flexibility",
+        "#yoga",
+        "#stretching"
+      ],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/v8khahej7e4"
+    },
+    {
+      "author": "Anna Fitness69",
+      "followers": 0,
+      "caption": "Anna Fitness | Online Fitness | Anna.fitness69 | Online.fitness69 #yoga  #workout  #fitness  #stretching  #flexibility #viral #youtubeshorts #shorts",
+      "views": 284735,
+      "likes": 2700,
+      "comments": 41,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 0.96,
+      "hashtags": [
+        "#flexibility",
+        "#yoga",
+        "#stretching"
+      ],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/CfruWPfV46c"
+    },
+    {
+      "author": "Zumba Class",
       "followers": 0,
       "caption": "\u25ba 28 Minute Dance Workout At Home | Exercise To Lose Weight FAST | Zumba Class\n#MiraPham #AerobicWorkout #ZumbaClass \n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u10e6 \ud835\udc0b\ud835\udc08\ud835\udc0a\ud835\udc04 & \ud835\udc12\ud835\udc14\ud835\udc01\ud835\udc12\ud835\udc02\ud835\udc11\ud835\udc08\ud835\udc01\ud835\udc04:\n         \ud83d\udc95 Youtube: https://www.youtube.com/@zumbac",
       "views": 242854,
@@ -1808,7 +2214,7 @@
       "url": "https://www.youtube.com/watch?v=N6A2QyiR5oE"
     },
     {
-      "author": "@Zumba Class",
+      "author": "Zumba Class",
       "followers": 0,
       "caption": "\u25ba 24 Minute Dance Workout At Home | Exercise To Lose Weight FAST | Zumba Class\n#MiraPham #AerobicWorkout #ZumbaClass \n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u10e6 \ud835\udc0b\ud835\udc08\ud835\udc0a\ud835\udc04 & \ud835\udc12\ud835\udc14\ud835\udc01\ud835\udc12\ud835\udc02\ud835\udc11\ud835\udc08\ud835\udc01\ud835\udc04:\n         \ud83d\udc95 Youtube: https://www.youtube.com/@zumbac",
       "views": 242428,
@@ -1826,7 +2232,7 @@
       "url": "https://www.youtube.com/watch?v=bWuIP0-GBms"
     },
     {
-      "author": "@Zumba Class",
+      "author": "Zumba Class",
       "followers": 0,
       "caption": "\u25ba 28 Minute Dance Workout At Home | Exercise To Lose Weight FAST | Zumba Class\n#MiraPham #AerobicWorkout #ZumbaClass \n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u10e6 \ud835\udc0b\ud835\udc08\ud835\udc0a\ud835\udc04 & \ud835\udc12\ud835\udc14\ud835\udc01\ud835\udc12\ud835\udc02\ud835\udc11\ud835\udc08\ud835\udc01\ud835\udc04:\n         \ud83d\udc95 Youtube: https://www.youtube.com/@zumbac",
       "views": 174110,
@@ -1844,7 +2250,7 @@
       "url": "https://www.youtube.com/watch?v=dlGYIlXUR7Q"
     },
     {
-      "author": "@MIZI",
+      "author": "MIZI",
       "followers": 0,
       "caption": "Visit my website \u2728MIZI WELLNESS\u2728\nhttps://miziwellness.com/ \n\nJoin my youtube membership and show your supports! \n\u00a0\u00a0\u00a0/\u00a0@mizilee\u00a0\u00a0\n\nFOLLOW ME\ud83d\udc95\nInstagram:  \u00a0\u00a0/\u00a0_______mizi\u00a0\u00a0\nTiktiok: \u00a0\u00a0/\u00a0_______mizi\u00a0\u00a0\nFa",
       "views": 156055,
@@ -1858,7 +2264,21 @@
       "url": "https://www.youtube.com/watch?v=5dd9TeGA43A"
     },
     {
-      "author": "@MrandMrsMuscle",
+      "author": "Jess Teruel Show",
+      "followers": 0,
+      "caption": "Trying the viral bungee workout!!",
+      "views": 141280,
+      "likes": 2000,
+      "comments": 46,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.45,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/lYbR4D8wiG0"
+    },
+    {
+      "author": "MrandMrsMuscle",
       "followers": 0,
       "caption": "This is 20 minute lower body no equipment workout to train, strengthen, shape and tone your legs (adductors, abductors, quadriceps, hamstrings, calves) and glutes. \n\nThis leg day workout is mid intens",
       "views": 39717,
@@ -1872,7 +2292,7 @@
       "url": "https://www.youtube.com/watch?v=zDvAZHO4svI"
     },
     {
-      "author": "@nourishmovelove",
+      "author": "nourishmovelove",
       "followers": 0,
       "caption": "If you want to lift, jump, and laugh without leaks, this 10-minute core and pelvic floor routine is for you. 9 deep core exercises that support abdominal separation and build the strength you need for",
       "views": 28114,
@@ -1890,7 +2310,7 @@
       "url": "https://www.youtube.com/watch?v=i9cy2fSlKKU"
     },
     {
-      "author": "@Sydney Cummings Houdyshell",
+      "author": "Sydney Cummings Houdyshell",
       "followers": 0,
       "caption": "Grab the MOTION Program HERE! https://shop.royalchange.fit/collecti...\n\nIt's a bodyweight core and cardio workout day and all you need is some space on your mat to move your body and a riser if you ha",
       "views": 16420,
@@ -1904,7 +2324,7 @@
       "url": "https://www.youtube.com/watch?v=nYRFqNT3Sf8"
     },
     {
-      "author": "@SeniorShape Fitness",
+      "author": "SeniorShape Fitness",
       "followers": 0,
       "caption": "Thanks for joining me for this fun walking cardio workout! Get your steps in, and work in some strength too. After a quick warm up we have 20 low impact cardio exercises that are done to the beat of t",
       "views": 14295,
@@ -1918,7 +2338,7 @@
       "url": "https://www.youtube.com/watch?v=BEiL30K74s0"
     },
     {
-      "author": "@growingannanas",
+      "author": "growingannanas",
       "followers": 0,
       "caption": "\ud83d\udc96 Find the right workout plan for you in my fitness app \u2013 let's grow together! https://quiz.growwithanna.com/\n\nTeam, here's another Full Body STRENGTH workout with Dumbbells! You can build strength an",
       "views": 13218,
@@ -1936,7 +2356,7 @@
       "url": "https://www.youtube.com/watch?v=gIgQ3mjND90"
     },
     {
-      "author": "@HASfit",
+      "author": "HASfit",
       "followers": 0,
       "caption": "Download the FREE HASfit app: \nAndroid http://bit.ly/HASfitAndroid -- iPhone http://bit.ly/HASfitiOS\nInstructions for 30 Min Dumbbell Full Body Workout at Home Strength Training - No Repeat with Weigh",
       "views": 8663,
@@ -1950,7 +2370,7 @@
       "url": "https://www.youtube.com/watch?v=JofVPb0wtv8"
     },
     {
-      "author": "@MonikaFit",
+      "author": "MonikaFit",
       "followers": 0,
       "caption": "Join me for a full body strength workout using dumbbells, this one includes a short warm up, 5 different exercises for 3 rounds and finishes with a cool down. Grab your dumbbells and meet me on the ma",
       "views": 3624,
@@ -1966,6 +2386,34 @@
       ],
       "posted_date": null,
       "url": "https://www.youtube.com/watch?v=aWjwcf8H6-E"
+    },
+    {
+      "author": "c to c",
+      "followers": 0,
+      "caption": "#funny #fyp #bodybuilding #trending #viral #gymrat #fitness #workout",
+      "views": 1229,
+      "likes": 32,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 2.6,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/y-evgjtg6Qg"
+    },
+    {
+      "author": "Let It Boom",
+      "followers": 0,
+      "caption": "This dad just wanted his daughter to film his workout, but she ended up taking over as his personal coach instead.\n\n----------\n\nCredit :: (@englishwrites) via IG\n\n----------\n\n#shorts #shortsvideo #gym",
+      "views": 530,
+      "likes": 5,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "engagement_rate": 1.13,
+      "hashtags": [],
+      "posted_date": null,
+      "url": "https://www.youtube.com/shorts/PiidAjJ7g0w"
     }
   ]
 }
