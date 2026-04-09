@@ -17,7 +17,7 @@ import { searchRelevantPosts, detectNiche, getBestTiming, getTopHashtags, getPos
  */
 export async function buildRAGContext(userText, platform) {
   const niche = detectNiche(userText);
-  const posts = await searchRelevantPosts(userText, platform, niche, 5);
+  const posts = await searchRelevantPosts(userText, platform, niche, 8);
   const timing = getBestTiming(platform, niche);
   const hashtags = getTopHashtags(platform, niche);
   const totalPosts = getPostCount();
@@ -46,6 +46,8 @@ Intelligence from ${totalPosts.toLocaleString()} scraped posts. ${niche ? `Filte
     parts.push(`CRITICAL INSTRUCTIONS:
 - Your output MUST use patterns from the posts above
 - You MUST reference at least 2 of these creators by name with their EXACT URLs as markdown links: [Watch @name's post](url)
+- NEVER repeat a creator you already mentioned earlier in this conversation — always pick DIFFERENT ones
+- Vary your recommendations every time — don't repeat the same advice or same posts
 - Explain WHY your output works based on what these posts did
 - Do NOT write generic content — everything must be inspired by the retrieved data`);
   }
